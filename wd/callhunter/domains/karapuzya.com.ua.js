@@ -13,7 +13,9 @@ var intepriceCRT = '10.12.2015';
 		s.id = 'supportScript';
 		s.charset = 'utf-8';
 		s.async = true;
-		s.src = '//online.inteprice.com/support/support.js?h=fae615d1424f3b3e3ae425f52c8adcc5';
+//		s.src = '//online.inteprice.com/support/support.js?h=fae615d1424f3b3e3ae425f52c8adcc5';
+	        s.src = '//me-talk.ru/support/support.js?h=fae615d1424f3b3e3ae425f52c8adcc5';
+
 		var sc = document.getElementsByTagName('script')[0];
 		
 		var callback = function(){
