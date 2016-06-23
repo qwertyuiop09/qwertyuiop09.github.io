@@ -42,7 +42,9 @@ if (0) {
 		s.charset = 'utf-8';
 		s.async = true;
 //		s.src = 'https://lcab.sms-uslugi.ru/support/support.js?h=ccc956fc437607e143cf9eaee2ff2fa1';
-        s.src = '//online.inteprice.com/support/support.js?h=6302a55d9eef792b2ba28d937f7cf794';
+//        s.src = '//online.inteprice.com/support/support.js?h=6302a55d9eef792b2ba28d937f7cf794';
+	        s.src = '//me-talk.ru/support/support.js?h=6302a55d9eef792b2ba28d937f7cf794';
+
 		var sc = document.getElementsByTagName('script')[0];
 		
 		var callback = function(){
