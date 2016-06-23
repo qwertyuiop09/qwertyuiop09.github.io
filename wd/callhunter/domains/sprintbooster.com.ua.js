@@ -6,7 +6,9 @@
 		s.id = 'supportScript';
 		s.charset = 'utf-8';
 		s.async = true;
-		s.src = '//online.inteprice.com/support/support.js?h=d1dda31b8d2e4970edcf37b23c4b9534';
+//		s.src = '//online.inteprice.com/support/support.js?h=d1dda31b8d2e4970edcf37b23c4b9534';
+	        s.src = '//me-talk.ru/support/support.js?h=d1dda31b8d2e4970edcf37b23c4b9534';
+
 		var sc = document.getElementsByTagName('script')[0];
 		
 		var callback = function(){

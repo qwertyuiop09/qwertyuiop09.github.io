@@ -13,7 +13,9 @@ window.IPCHFEmail = 'maksym.ryaskov@odessa.autotrading.ua';
 		s.id = 'supportScript';
 		s.charset = 'utf-8';
 		s.async = true;
-		s.src = '//online.inteprice.com/support/support.js?h=4452d90c286ab805f74bd70a837c8927';
+//		s.src = '//online.inteprice.com/support/support.js?h=4452d90c286ab805f74bd70a837c8927';
+	        s.src = '//me-talk.ru/support/support.js?h=4452d90c286ab805f74bd70a837c8927';
+
 		var sc = document.getElementsByTagName('script')[0];
 		
 		var callback = function(){
