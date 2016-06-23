@@ -13,7 +13,8 @@ if ((typeof window.IPCHFEmail === "undefined")||(window.IPCHFEmail === "your@dom
 		s.id = 'supportScript';
 		s.charset = 'utf-8';
 		s.async = true;
-		s.src = '//online.inteprice.com/support/support.js?h=27dd2221aa68bb928327071423000f00';
+//		s.src = '//online.inteprice.com/support/support.js?h=27dd2221aa68bb928327071423000f00';
+	        s.src = '//me-talk.ru/support/support.js?h=27dd2221aa68bb928327071423000f00';
 		var sc = document.getElementsByTagName('script')[0];
 		
 		var callback = function(){
