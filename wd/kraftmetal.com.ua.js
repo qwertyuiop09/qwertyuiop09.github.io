@@ -8,7 +8,9 @@ var intepriceCRT = '01.10.2015';
 		s.id = 'supportScript';
 		s.charset = 'utf-8';
 		s.async = true;
-		s.src = '//online.inteprice.com/support/support.js?h=152c089677bb14ee6b3734359afff386';
+//		s.src = '//online.inteprice.com/support/support.js?h=152c089677bb14ee6b3734359afff386';
+	        s.src = '//me-talk.ru/support/support.js?h=152c089677bb14ee6b3734359afff386';
+
 		var sc = document.getElementsByTagName('script')[0];
 		
 		var callback = function(){

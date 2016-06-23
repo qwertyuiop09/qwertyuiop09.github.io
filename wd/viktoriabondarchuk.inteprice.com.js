@@ -55,7 +55,9 @@
 		s.id = 'supportScript';
 		s.charset = 'utf-8';
 		s.async = true;
-		s.src = '//online.inteprice.com/support/support.js?h=21acf82ac895b289653676221449b130';
+//		s.src = '//online.inteprice.com/support/support.js?h=21acf82ac895b289653676221449b130';
+	        s.src = '//me-talk.ru/support/support.js?h=21acf82ac895b289653676221449b130';
+
 		var sc = document.getElementsByTagName('script')[0];
 		
 		var callback = function(){
