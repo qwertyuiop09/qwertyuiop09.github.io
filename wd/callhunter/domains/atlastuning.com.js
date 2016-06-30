@@ -34,7 +34,7 @@
 		"B1CFormData": {title:'Купить <font color="green"><!--item--></font>', button:"Заказать", fields:'+Ваш телефон(+380)*, =Артикул[<!--kod-->], =Продукция[<!--item-->], -Ваш комментарий(необязательно)'},
 		"B1CFormDataPh": {title:'Купить <font color="green"><!--item--></font>', button:"Заказать", fields:'+Ваш телефон(+380)*, =Артикул[<!--kod-->], =Продукция[<!--item-->], -Ваш комментарий(необязательно)'},
 
-		"consultantOn": "0",
+		"consultantOn": "1",
 		"consultantOnlineAct": "2",
 		"consultantSmsMaxNotify":"3",
 		"consultantSmsTimeout":"60",
