@@ -35,7 +35,7 @@
 		"B1CFormDataPh": {title:'Купить <font color="green"><!--item--></font>', button:"Заказать", fields:'+Ваш телефон(+380)*, =Артикул[<!--kod-->], =Продукция[<!--item-->], -Ваш комментарий(необязательно)'},
 
 //мешает кнопке вверх
-	"ButtonX":	"180",
+	"ButtonX":	"200",
 
 
 		"consultantOn": "1",
