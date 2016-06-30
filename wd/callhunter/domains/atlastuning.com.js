@@ -1,5 +1,5 @@
 
-/*
+
 	(function() {
 		var s = document.createElement('script');
 		s.type ='text/javascript';
@@ -24,7 +24,7 @@
 		else document.documentElement.firstChild.appendChild(s);
 	})();
 
-*/
+
 
 	var IPclhrDataUpdate = {
 		"MMFileType": "1",
