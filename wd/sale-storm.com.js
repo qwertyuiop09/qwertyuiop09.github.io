@@ -15,6 +15,8 @@
 		"ButtonSensitivity":	"0"
 
 		"ButtonX":	"240",
+		"ButtonYMobile":	"100",
+
 
 
 	}
