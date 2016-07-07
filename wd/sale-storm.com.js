@@ -1,4 +1,9 @@
 
+	if (typeof window.IPCHFEmail === "undefined") {
+		window.IPCHFEmail='info@sale-storm.com';
+	}
+
+
 	var intepriceIPL = 'sale-storm.inteprice.com';
 	var intepriceCRT = '07.07.2016';
 
