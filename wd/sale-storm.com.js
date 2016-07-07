@@ -11,11 +11,8 @@
 
 		"MMFileType": "3",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
-		"ButtonSensitivity":	"0",
-//		"ButtonX":	"240",
-		"ButtonYMobile":	"100"
-
+//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+		"ButtonSensitivity":	"0"
 
 
 	}
