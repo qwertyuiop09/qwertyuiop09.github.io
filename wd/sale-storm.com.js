@@ -14,5 +14,7 @@
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0"
 
+		"ButtonX":	"240",
+
 
 	}
