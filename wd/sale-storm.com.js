@@ -20,30 +20,16 @@
 
 
 
-//var formsCollection=document.forms;
+	var formsCollection=document.forms;
+	for(var r=0;r<formsCollection.length;r++) {
+//		if (formsCollection[r].action.indexOf('wpcf7') > -1) {
+			for (var i = 0; i < formsCollection[r].elements.length; i++) {
+				if (formsCollection[r].elements[i].getAttribute("aria-required")) {
+	 				formsCollection[r].elements[i].setAttribute("required", "true");
+				}
 
-//for(var r=0;r<formsCollection.length;r++)
-//{
-//    alert(formsCollection[r].action);
-//formsCollection[r].removeAttribute('novalidate')
-//}
-
-
-/*
-var formsCollection=document.forms;
-for(var r=0;r<formsCollection.length;r++)
-{
-	if (formsCollection[r].action.indexOf('wpcf7') > -1) {
-
-	
-		for (var i = 0; i < formsCollection[r].elements.length; i++) {
-			if (formsCollection[r].elements[i].getAttribute("aria-required")) {
-				formsCollection[r].elements[i].setAttribute("required", "true");
 			}
-
-		}	
-	
-		formsCollection[r].removeAttribute('novalidate')
+			if (formsCollection[r].getAttribute('novalidate'))
+				formsCollection[r].removeAttribute('novalidate');
+//		}
 	}
-}
-*/
