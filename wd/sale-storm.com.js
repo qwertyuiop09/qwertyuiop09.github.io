@@ -31,18 +31,19 @@
 
 /*
 var formsCollection=document.forms;
-
 for(var r=0;r<formsCollection.length;r++)
 {
-//    alert(formsCollection[r].action);
-	
-for (var i = 0; i < formsCollection[r].elements.length; i++) {
-		if (formsCollection[r].elements[i].getAttribute("aria-required")) {
-		formsCollection[r].elements[i].setAttribute("required", "true");
-	}
+	if (formsCollection[r].action.indexOf('wpcf7') > -1) {
 
-}	
 	
-formsCollection[r].removeAttribute('novalidate')
+		for (var i = 0; i < formsCollection[r].elements.length; i++) {
+			if (formsCollection[r].elements[i].getAttribute("aria-required")) {
+				formsCollection[r].elements[i].setAttribute("required", "true");
+			}
+
+		}	
+	
+		formsCollection[r].removeAttribute('novalidate')
+	}
 }
 */
