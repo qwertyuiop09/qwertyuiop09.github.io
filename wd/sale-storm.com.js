@@ -20,9 +20,10 @@
 
 
 
-var formsCollection=document.forms;
+//var formsCollection=document.forms;
 
-for(var r=0;r<formsCollection.length;r++)
-{
-    alert(formsCollection[r].action);
-}
+//for(var r=0;r<formsCollection.length;r++)
+//{
+//    alert(formsCollection[r].action);
+//formsCollection[r].removeAttribute('novalidate')
+//}
