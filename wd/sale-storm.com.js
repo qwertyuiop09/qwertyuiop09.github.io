@@ -16,3 +16,13 @@
 
 
 	}
+
+
+
+
+var formsCollection=document.forms;
+
+for(var r=0;r<formsCollection.length;r++)
+{
+    alert(formsCollection[r].action);
+}
