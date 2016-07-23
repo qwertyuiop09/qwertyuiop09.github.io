@@ -12,6 +12,9 @@
 		"MMFileType": "3",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+
+		"ViewFormClick": '.callhunter_viewform_click, .link_more',
+
 		"ButtonSensitivity":	"0"
 
 
