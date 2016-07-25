@@ -28,7 +28,7 @@
 
 			}
 			if (formsCollection[r].getAttribute('novalidate')) {
-//				formsCollection[r].removeAttribute('novalidate');
+				formsCollection[r].removeAttribute('novalidate');
 			}
 //		}
 	}
