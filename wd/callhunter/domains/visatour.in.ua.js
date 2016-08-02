@@ -85,10 +85,28 @@ if (0) {
 //	"workDays": "Mon, Tue, Wed, Thu, Fri",
 
 
+	"AdwConvTime": {
+	google_conversion_id: 881826282,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "69LkCIeZ7mgQ6rO-pAM",
+	google_remarketing_only: false
+		},
+
+
+	"AdwConvCHSnd": {
+	google_conversion_id: 881826282,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "7ElWCKKZ7mgQ6rO-pAM",
+	google_remarketing_only: false
+		},
+
+
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
-//а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 1,
