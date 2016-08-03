@@ -1,5 +1,5 @@
 
-	var SSCHunterCallback = function(type) { if (type == 200) console.log ( 'aktivnost exist' ); }
+var SSCHunterCallback = function(type) { if (type == 200) console.log ( 'ConvTime exist' ); if ((type >= 1)&&(type < 200)) console.log ( 'ConvCHSnd exist' ); }
 
 
 var intepriceIPL = 'visatour.inteprice.com';
