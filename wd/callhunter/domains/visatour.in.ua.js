@@ -1,5 +1,5 @@
 
-var SSCHunterCallback = function(type) { if (type == 200) console.log ( 'ConvTime exist' ); if ((type >= 1)&&(type < 200)) console.log ( 'ConvCHSnd exist' ); }
+var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,undefined,Conv_value) { if (type == 200) { console.log ( 'ConvTime exist' ) } else if ((type >= 1)&&(type < 200)) { console.log ( 'ConvCHSnd exist' ) } else if (type == 201) { console.log ( 'ConvРЎlick exist' ) } else if (type == 202) { console.log ( 'ConvSubmit exist' ) } else if (type == 203) { console.log ( 'ConvHit exist' ) } ; if (typeof Conv_value != 'undefined') { console.log ( 'ConvValue exist' ) }   }
 
 
 var intepriceIPL = 'visatour.inteprice.com';
