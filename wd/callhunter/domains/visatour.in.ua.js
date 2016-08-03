@@ -41,7 +41,7 @@ var IPchatConfig = {
 
 	var IPclhrDataUpdate = {
 
-	"TimeOnSite": "1",
+//	"TimeOnSite": "3",
 
 
 	"AdwConvTime": {
