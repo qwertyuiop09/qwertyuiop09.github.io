@@ -1,18 +1,15 @@
 
-//без предоплаты, логин менеджера
+	var SSCHunterCallback = function(type) { if (type == 200) console.log ( 'aktivnost exist' ); }
+
+
 var intepriceIPL = 'visatour.inteprice.com';
 var intepriceCRT = '01.08.2016';
 
 
 var IPchatConfig = {
-//    "widget_color": "#474747",
     "widget_color": "#427cd4",
-//    "widget_padding": "100",
-//    "widget_padding": "50",
     "widget_padding": "75",
-//    "widget_orientation": "right",
     "widget_orientation": "bottom",
-//    "font_type": "normal",
     "font_type": "bold",
     "offline_widget_label": "Отправьте нам сообщение",
     "offline_form_text": "Оставьте свое сообщение в этой форме, и мы получим его на e-mail и обязательно ответим!",
@@ -41,48 +38,9 @@ var IPchatConfig = {
 
 
 
-if (0) {
-
-	(function() {
-    	var s = document.createElement('script');
-		s.type ='text/javascript';
-		s.id = 'supportScript';
-		s.charset = 'utf-8';
-		s.async = true;
-		s.src = '//me-talk.ru/support/support.js?h=.......................................';
-		var sc = document.getElementsByTagName('script')[0];
-		
-		var callback = function(){
-
-			/*
-				Здесь вы можете вызывать API. Например, чтобы изменить отступ по высоте:
-				supportAPI.setSupportTop(200);
-			*/
-            
-            
-		};
-		
-		s.onreadystatechange = s.onload = function(){
-			var state = s.readyState;
-			if (!callback.done && (!state || /loaded|complete/.test(state))) {
-				callback.done = true;
-				callback();
-			}
-		};
-		
-		if (sc) sc.parentNode.insertBefore(s, sc);
-		else document.documentElement.firstChild.appendChild(s);
-	})();
-
-}
-
 
 	var IPclhrDataUpdate = {
 
-
-//	"workStart": "09",
-//	"workEnd": "18",
-//	"workDays": "Mon, Tue, Wed, Thu, Fri",
 
 
 	"AdwConvTime": {
