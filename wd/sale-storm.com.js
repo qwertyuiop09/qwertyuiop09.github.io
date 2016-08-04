@@ -10,7 +10,7 @@
 	var IPclhrDataUpdate = {
 		"MMFileType": "3",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
 		"showButton": 	"0",
@@ -31,12 +31,12 @@
 //		if (formsCollection[r].action.indexOf('wpcf7') > -1) {
 			for (var i = 0; i < formsCollection[r].elements.length; i++) {
 				if (formsCollection[r].elements[i].getAttribute("aria-required")) {
-//	 				formsCollection[r].elements[i].setAttribute("required", "true");
+	 				formsCollection[r].elements[i].setAttribute("required", "true");
 				}
 
 			}
 			if (formsCollection[r].getAttribute('novalidate')) {
-//				formsCollection[r].removeAttribute('novalidate');
+				formsCollection[r].removeAttribute('novalidate');
 			}
 //		}
 	}
