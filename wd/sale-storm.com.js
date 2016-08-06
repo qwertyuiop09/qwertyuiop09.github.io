@@ -13,7 +13,7 @@
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
-		"showButton": 	"0",
+		"showButton": 	"1",
 		"ButtonY":	"160",
 		"ButtonYMobile": 80,
 		"ButtonXMobile": 0,
