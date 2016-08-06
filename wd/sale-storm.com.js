@@ -4,7 +4,7 @@
 		s.id = 'supportScript';
 		s.charset = 'utf-8';
 		s.async = true;
-		s.src = '//me-talk.ru/support/support.js?h=.......................................';
+		s.src = '//me-talk.ru/support/support.js?h=ada5a9c9a2be1dd852f84c68ff6e6e00';
 		var sc = document.getElementsByTagName('script')[0];
 		
 		var callback = function(){
