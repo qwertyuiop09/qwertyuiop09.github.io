@@ -46,7 +46,7 @@
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
 		"showButton": 	"1",
-		"ButtonTransform": 1,
+		"ButtonTransform": 3,
 		"ButtonY":	"160",
 
 //		"ButtonYMobile": 80,
