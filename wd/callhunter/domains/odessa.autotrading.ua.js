@@ -44,7 +44,7 @@ window.IPCHFEmail = 'maksym.ryaskov@odessa.autotrading.ua';
 
 	var IPclhrDataUpdate = {
 
-	"ButtonTransform": 1,
+	"ButtonTransform": 3,
 
 	"workStart": "09",
 	"workEnd": "19",
