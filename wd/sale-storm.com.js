@@ -66,7 +66,7 @@
 
 		"consultantOn": "1",
 
-/*
+
 
 	"consultantSettings": {
 	        phone_field: 1,
@@ -105,10 +105,10 @@
 	        tpo: 0
 	 },
 
-*/
 
 
-//		"consultantOnlineAct": "3",
+
+		"consultantOnlineAct": "3",
 		"consultantSmsMaxNotify":"3",
 		"consultantSmsTimeout":"60",
 		"consultantTimeoutNoSnd":"0",
