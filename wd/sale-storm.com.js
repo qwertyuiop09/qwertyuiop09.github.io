@@ -107,7 +107,8 @@
 
 */
 
-		"consultantOnlineAct": "3",
+
+//		"consultantOnlineAct": "3",
 		"consultantSmsMaxNotify":"3",
 		"consultantSmsTimeout":"60",
 		"consultantTimeoutNoSnd":"0",
