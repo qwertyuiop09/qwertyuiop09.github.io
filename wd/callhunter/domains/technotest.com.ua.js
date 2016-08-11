@@ -1,40 +1,4 @@
 
-var IPchatConfig = {
-//    "widget_color": "#474747",
-//    "widget_color": "#3e8cd6",
-    "widget_color": "#427cd4",
-//    "widget_padding": "100",
-    "widget_padding": "75",
-    "widget_orientation": "bottom",
-//    "widget_padding": "50",
-//    "widget_orientation": "right",
-
-//    "font_type": "normal",
-    "font_type": "bold",
-
-    "offline_widget_label": "Отправьте нам сообщение",
-    "offline_form_text": "Оставьте свое сообщение в этой форме, и мы получим его на e-mail и обязательно ответим!",
-    "custom_langpack": {
-	"lblOfflineMessageSend": "Сообщение отправлено",
-        "lblMessageError": "К сожалению, сообщение не было отправлено по техническим причинам",
-        "lblLookingForFreeAgent": "Подключаемся...",
-        "lblIntroduceName": "Ваше имя",
-        "lblEvaluateCancel": "Отменить",
-        "lblSend": "Отправить",
-        "lblThankYouMessage": "Спасибо за ваше сообщение! Мы&nbsp;обязательно свяжемся с&nbsp;Вами в ближайшее время",
-        "lblYourEmail": "Ваш E-mail",
-        "lblYourMessage": "Ваше сообщение",
-        "lblYourPhone": "Ваш телефон",
-        "lnkCloseThisWindow": "Закрыть",
-        "ofl_enterMessage": "Пожалуйста, введите сообщение",
-        "ofl_enterName": "Пожалуйста, введите имя",
-        "ofl_enterValidEmail": "Указан неверный e-mail",
-        "ofl_enterValidPhone": "Указан неверный телефон"
-    }
-
-};
-
-
 var intepriceIPL = 'technotest.inteprice.com';
 var intepriceCRT = '25.08.2015';
 
