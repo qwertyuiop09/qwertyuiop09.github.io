@@ -88,7 +88,7 @@ if ((typeof window.IPCHFEmail === "undefined")||(window.IPCHFEmail === "your@dom
 	"PRIClass": '.priclhr-ring, .top-logo, .vs-footerbox .ty-float-left, .top-block-grid span span span strong, .ty-wysiwyg-content table span strong span',
 
 //	"PRIOneClick": 1,
-	"PRInightOn": 1,
+	"PRInightOn": 0,
 
 	"PRITelMask": "734 41 23, 734 41 24, 234 85 03, 0000-737, 0000-337",
 	"PRIRingID": "123",
