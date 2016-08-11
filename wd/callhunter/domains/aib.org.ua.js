@@ -224,7 +224,7 @@ var IPchatConfig = {
 	        title: 'Задать вопрос сейчас',
 	        title_off_forced: 1,
 	        title_on_forced: 1,
-//		answer: 'Спасибо!</br>Ваш запрос принят, но линия консультанта сейчас занята</br></br>Консультант обязательно свяжется с Вами, если Вы указали верный номер телефона или email<script type="text/javascript">var p = document.getElementById("offline-form-inner");if(p&&p.height){p.height="70%";}</script>',
+//		answer: 'Спасибо!</br>Ваш запрос принят, но линия консультанта сейчас занята</br></br>Консультант обязательно свяжется с Вами, если Вы указали верный номер телефона или email<script type="text/javascript">var p = document.getElementById("offline-form-inner");if(p&&p.style&&p.style.height){p.style.height="70%";}</script>',
 		answer: 'Спасибо!</br>Ваш запрос принят, но линия консультанта сейчас занята</br></br>Консультант обязательно свяжется с Вами, если Вы указали верный номер телефона или email<script type="text/javascript">var p = document.getElementById("offline-form-inner");alert(p.style.height)</script>',
 		timeout: 15,
 	        days: 15,
