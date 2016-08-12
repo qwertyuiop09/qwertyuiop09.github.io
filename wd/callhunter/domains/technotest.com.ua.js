@@ -45,6 +45,18 @@ if ((typeof window.IPCHFEmail === "undefined")||(window.IPCHFEmail === "your@dom
 
 
 
+	"AdwConvJivo": {
+	google_conversion_id: 1030171480,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "TABwCOmj9GgQ2Nac6wM",
+	google_remarketing_only: false
+		},
+
+
+
+
 
 	"AdwConvCHSnd": {
 	google_conversion_id: 1030171480,
