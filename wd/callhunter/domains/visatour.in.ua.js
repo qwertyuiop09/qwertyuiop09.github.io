@@ -44,6 +44,13 @@ var IPchatConfig = {
 	"TimeOnSite": "3",
 
 
+	"AdwConvRemark": {
+	google_conversion_id: 881826282,
+	google_custom_params: window.google_tag_params,
+	google_remarketing_only: true
+		},
+
+
 	"AdwConvTime": {
 	google_conversion_id: 881826282,
 	google_conversion_language: "en",
