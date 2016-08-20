@@ -79,7 +79,7 @@ if (0) {
 
 
 	"workStart": "09",
-	"workEnd": "20",
+	"workEnd": "18",
 	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat",
 
 
