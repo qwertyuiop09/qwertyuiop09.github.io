@@ -39,6 +39,8 @@ if ((typeof window.IPCHFEmail === "undefined")||(window.IPCHFEmail === "your@dom
 
 	var IPclhrDataUpdate = {
 
+	"TimeOnSite": "5",
+
 
 	"hunterOn": "0",
 	"showButton": 	"0",
