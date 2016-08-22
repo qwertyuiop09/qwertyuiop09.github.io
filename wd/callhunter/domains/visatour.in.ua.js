@@ -1,5 +1,5 @@
 
-var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,undefined,Conv_value) { if (type == 200) { console.log ( 'ConvTime exist' ) } else if ((type >= 1)&&(type < 200)) { console.log ( 'ConvCHSnd exist' ) } else if (type == 201) { console.log ( 'ConvРЎlick exist' ) } else if (type == 202) { console.log ( 'ConvSubmit exist' ) } else if (type == 203) { console.log ( 'ConvHit exist' ) } ; if (typeof Conv_value != 'undefined') { console.log ( 'ConvValue exist' ) }   }
+var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,undefined,Conv_value) { if (type == 200) { console.log ( 'ConvTime exist' ) } else if ((type >= 1)&&(type < 200)) { console.log ( 'ConvCHSnd exist' ) } else if (type == 201) { console.log ( 'ConvСlick exist' ) } else if (type == 202) { console.log ( 'ConvSubmit exist' ) } else if (type == 203) { console.log ( 'ConvHit exist' ) } else if (type == 204) { console.log ( 'ConvJivo exist' ) } else if (type == 205) { console.log ( 'CallWidget exist' ) } ; if (typeof Conv_value != 'undefined') { console.log ( 'ConvValue exist: ' + Conv_value ) }   }
 
 
 var intepriceIPL = 'visatour.inteprice.com';
