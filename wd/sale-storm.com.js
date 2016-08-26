@@ -44,7 +44,7 @@
 	var setIntervalCountry = setInterval(function() {
 		if (window.jQuery) {
 			clearInterval(setIntervalCountry);
-			window.checkCountry = 'UA';
+			window.checkCountry = 'RU';
 			window.jQuery.get("http://ipinfo.io", function(response) {
 				window.checkCountry = response.country;
 			}, "jsonp");
@@ -55,7 +55,9 @@
 
 
 
-//	"ButtonEvent":	"if (window.checkCountry == 'UA') {}",
+
+
+//	"ButtonEvent":	"if (window.checkCountry == 'UA') { IPclhrData.title="Получить консультацию";IPclhrData.titleworktime="Мы свяжемся через несколько минут";IPclhrData.titlenight="Мы свяжемся в рабочее время";IPclhrData.button="Жду звонка!";IPclhrData.callTime="0";IPclhrData.fields="+Введите ваш телефон*, Введите ваш Email*, -Тема звонка(Ваш вопрос)*"; }",
 //	"hunterEvent": "",
 
 
