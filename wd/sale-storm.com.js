@@ -52,7 +52,7 @@
 	}, 500);
 
 
-	function checkCountry() {
+	function chCountry() {
 		if (window.checkCountry == "UA") { 
 			IPclhrData.title="Получить консультацию";
 			IPclhrData.titleworktime="Мы свяжемся через несколько минут";
@@ -71,9 +71,9 @@
 
 	var IPclhrDataUpdate = {
 
-		"ButtonEvent": 'checkCountry();',
-		"hunterEvent": 'checkCountry();',
-		"ClickEvent": 'checkCountry();',
+		"ButtonEvent": 'chCountry();',
+		"hunterEvent": 'chCountry();',
+		"ClickEvent": 'chCountry();',
 
 		"MMFileType": "3",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
