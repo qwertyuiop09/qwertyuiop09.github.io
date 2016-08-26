@@ -36,6 +36,30 @@
 	}
 
 
+
+
+
+
+
+	var setIntervalCountry = setInterval(function() {
+		if (window.jqIPAcode) {
+			clearInterval(setIntervalCountry);
+			window.checkCountry = 'UA';
+			window.jqIPAcode.get("http://ipinfo.io", function(response) {
+				window.checkCountry = response.country;
+			}, "jsonp");
+		}
+	}, 500);
+
+
+
+
+
+//	"ButtonEvent":	"if (window.checkCountry == 'UA') {}",
+//	"hunterEvent": "",
+
+
+
 	var intepriceIPL = 'sale-storm.inteprice.com';
 	var intepriceCRT = '07.07.2016';
 
