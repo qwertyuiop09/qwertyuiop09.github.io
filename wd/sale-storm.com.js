@@ -59,7 +59,7 @@
 			IPclhrData.titlenight="Мы свяжемся в рабочее время";
 			IPclhrData.button="Жду ответ!";
 			IPclhrData.callTime="0";
-			IPclhrData.fields="+Введите ваш телефон*, Введите ваш Email*, -Тема (Ваш вопрос)*";
+			IPclhrData.fields="+Введите ваш телефон(Формат 38 067 1234567)*, Введите ваш Email*, -Тема (Ваш вопрос)*";
 		}	
 	}
 
