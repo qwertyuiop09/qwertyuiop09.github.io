@@ -66,18 +66,14 @@
 
 
 
-
-
-
-
 	var intepriceIPL = 'sale-storm.inteprice.com';
 	var intepriceCRT = '07.07.2016';
 
 	var IPclhrDataUpdate = {
 
-	"ButtonEvent": 'checkCountry();',
-	"hunterEvent": 'checkCountry();',
-	"ClickEvent": 'checkCountry();',
+		"ButtonEvent": 'checkCountry();',
+		"hunterEvent": 'checkCountry();',
+		"ClickEvent": 'checkCountry();',
 
 		"MMFileType": "3",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
