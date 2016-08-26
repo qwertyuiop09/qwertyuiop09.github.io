@@ -42,10 +42,10 @@
 
 
 	var setIntervalCountry = setInterval(function() {
-		if (window.jqIPAcode) {
+		if (window.jQuery) {
 			clearInterval(setIntervalCountry);
 			window.checkCountry = 'UA';
-			window.jqIPAcode.get("http://ipinfo.io", function(response) {
+			window.jQuery.get("http://ipinfo.io", function(response) {
 				window.checkCountry = response.country;
 			}, "jsonp");
 		}
