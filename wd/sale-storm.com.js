@@ -53,14 +53,21 @@
 
 
 	function chCountry() {
-		if (window.checkCountry != "UA") { 
+		if (window.checkCountry == "UA") { 
+			IPclhrData.title="Заказать бесплатный звонок";
+			IPclhrData.titleworktime="Мы перезвоним через 1 мин. 56 сек.";
+			IPclhrData.titlenight="Мы перезвоним в рабочее время";
+			IPclhrData.button="Жду звонка!";
+			IPclhrData.callTime="1";
+			IPclhrData.fields="+Введите ваш телефон(+380)*, -Ваш email или тема звонка(необязательно)";
+		} else {
 			IPclhrData.title="Получить консультацию";
-			IPclhrData.titleworktime="Мы свяжемся через несколько минут";
-			IPclhrData.titlenight="Мы свяжемся в рабочее время";
+			IPclhrData.titleworktime="Мы свяжемся с Вами через несколько минут";
+			IPclhrData.titlenight="Мы свяжемся с Вами в рабочее время";
 			IPclhrData.button="Жду ответ!";
 			IPclhrData.callTime="0";
 			IPclhrData.fields="+Введите ваш телефон(Формат 38 067 1234567)*, Введите ваш Email*, -Тема (Ваш вопрос)*";
-		}	
+		}
 	}
 
 
