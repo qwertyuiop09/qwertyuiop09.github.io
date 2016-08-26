@@ -71,9 +71,9 @@
 
 	var IPclhrDataUpdate = {
 
-		"ButtonEvent": 'chCountry();',
-		"hunterEvent": 'chCountry();',
-		"ClickEvent": 'chCountry();',
+		"ButtonEvent": 'if (typeof chCountry == "function") chCountry();',
+		"hunterEvent": 'if (typeof chCountry == "function") chCountry();',
+		"ClickEvent": 'if (typeof chCountry == "function") chCountry();',
 
 		"MMFileType": "3",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
