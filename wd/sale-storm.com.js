@@ -53,7 +53,7 @@
 
 
 	function chCountry() {
-		if (window.checkCountry == "UA") { 
+		if (window.checkCountry != "UA") { 
 			IPclhrData.title="Получить консультацию";
 			IPclhrData.titleworktime="Мы свяжемся через несколько минут";
 			IPclhrData.titlenight="Мы свяжемся в рабочее время";
