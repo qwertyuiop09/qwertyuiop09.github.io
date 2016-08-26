@@ -57,8 +57,6 @@
 
 
 
-//	"ButtonEvent":	"if (window.checkCountry == 'UA') { IPclhrData.title="Получить консультацию";IPclhrData.titleworktime="Мы свяжемся через несколько минут";IPclhrData.titlenight="Мы свяжемся в рабочее время";IPclhrData.button="Жду звонка!";IPclhrData.callTime="0";IPclhrData.fields="+Введите ваш телефон*, Введите ваш Email*, -Тема звонка(Ваш вопрос)*"; }",
-//	"hunterEvent": "",
 
 
 
@@ -66,6 +64,10 @@
 	var intepriceCRT = '07.07.2016';
 
 	var IPclhrDataUpdate = {
+
+	"ButtonEvent": "if (window.checkCountry == 'UA') { IPclhrData.title="Получить консультацию";IPclhrData.titleworktime="Мы свяжемся через несколько минут";IPclhrData.titlenight="Мы свяжемся в рабочее время";IPclhrData.button="Жду ответ!";IPclhrData.callTime="0";IPclhrData.fields="+Введите ваш телефон*, Введите ваш Email*, -Тема (Ваш вопрос)*"; }",
+	"hunterEvent": "if (window.checkCountry == 'UA') { IPclhrData.title="Получить консультацию";IPclhrData.titleworktime="Мы свяжемся через несколько минут";IPclhrData.titlenight="Мы свяжемся в рабочее время";IPclhrData.button="Жду ответ!";IPclhrData.callTime="0";IPclhrData.fields="+Введите ваш телефон*, Введите ваш Email*, -Тема (Ваш вопрос)*"; }",
+
 		"MMFileType": "3",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
