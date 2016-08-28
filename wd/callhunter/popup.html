@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Your Website</title>
+  <style type="text/css">
+    html, body {
+      width:100%;
+      height:100%;
+      margin:0;
+      padding:0;
+    }
+  </style>
+
+</head>
+
+<body>
+<h1>Содержимое popup</h1>
+
+<div>
+  <p>Полученное сообщение</p>
+  <div id="message"></div>
+</div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+<script>
+  $(function(){
+    $(window).on("message", function(e) {
+      var data = e.originalEvent.data;
+
+      if (data) {
+        var str = 'Пришли неверные данные';
+
+        if (data.title && data.value) {
+          str = 'Сообщение:' + data.title + '. Значение объекта:' + data.value;
+        }
+
+        $('#message').text(str);
+      }
+    });
+  });
+</script>
+</body>
+
+</html>
