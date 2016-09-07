@@ -34,6 +34,9 @@ var intepriceCRT = '04.06.2015';
 
 	var IPclhrDataUpdate = {
 		"MMFileType": "1",
+
+		"CSS": '.clhr-form .clhr-btn-place span a { font-size: 10px; }',
+
 		"ExtFormFCStop": {RegExp: '<[^>]+search', Flags: 'i'},
 		"ExtFormBtnFC": IPclhrData.ExtFormBtnFC + ', [type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
