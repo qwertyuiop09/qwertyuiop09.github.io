@@ -41,6 +41,10 @@ var IPchatConfig = {
 
 	var IPclhrDataUpdate = {
 
+	"showButton": 	"1",
+	"hunterOn": "1",
+
+
 	"TimeOnSite": "3",
 
 
