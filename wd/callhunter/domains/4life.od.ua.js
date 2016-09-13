@@ -1,5 +1,7 @@
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KNGB49');
+(function(d) { var s = d.createElement('script');
+s.type ='text/javascript'; s.charset = 'utf-8';	s.async = true;
+s.src = 'https://cdn.sale-storm.com/wd/invite/support.js?n=12';
+var sc = d.getElementsByTagName('script')[0];
+if (sc) sc.parentNode.insertBefore(s, sc);
+else d.documentElement.firstChild.appendChild(s);
+})(document);
