@@ -48,6 +48,24 @@ var IPchatConfig = {
 	"TimeOnSite": "3",
 
 
+
+
+
+	"SetCallWidget": {button: "#liracrm-callme-go", phoneField:'#liracrm-phone-number' },
+	"AdwConvCallWidget": {
+	google_conversion_id: 881826282,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "XnzsCLHAnGoQ6rO-pAM",
+	google_remarketing_only: false
+		},
+
+
+
+
+
+
 	"AdwConvRemark": {
 	google_conversion_id: 881826282,
 	google_custom_params: window.google_tag_params,
