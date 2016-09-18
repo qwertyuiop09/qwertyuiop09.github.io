@@ -1,6 +1,4 @@
 
-//alert(1111)
-
 //обязательная строка, без нее не будет работать конверсия
 	Ipadsmaincpa0916.IpCpA = Ipadsmaincpa0916.strip_www(location.hostname);
 
