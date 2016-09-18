@@ -3,6 +3,7 @@
 
 (function(window,document) {
 
+alert(1)
 
 //сопоставление директории на сервере и имени в windows
 	var CPA={dir:'main', name:'Ipadsmaincpa0916'};
