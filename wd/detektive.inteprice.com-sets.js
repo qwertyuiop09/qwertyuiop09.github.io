@@ -1,7 +1,4 @@
 
-var intepriceIPL = 'detektive.inteprice.com';
-var intepriceCRT = '03.07.2015';
-
 var intepriceApermissions = {
 	"ApprovedDomains":	['detektive.odessa.ua','detektive.inteprice.com'],
 	"GATargets":		false,
