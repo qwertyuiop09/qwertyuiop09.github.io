@@ -6,6 +6,7 @@ var intepriceCRT = '18.12.2015';
 
 window.IPCHFEmail = 'aleksey.shmalko@odessa.autotrading.ua';
 
+window.IPINdataexchangeReady = 1;
 
 	(function() {
     	var s = document.createElement('script');
