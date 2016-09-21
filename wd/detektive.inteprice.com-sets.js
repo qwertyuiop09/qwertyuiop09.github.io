@@ -17,12 +17,8 @@ if (typeof window.intepriceCallHunterIni === "undefined") {
 	window.intepriceCallHunterIni='config.js';
 }
 
-if (typeof window.intepriceCallHunterjQueryWait === "undefined") {
-//	window.intepriceCallHunterjQueryWait=5;
-}
-
-if (typeof window.intepriceCallHunterOnlyEnabledPages === "undefined") {
-//	window.intepriceCallHunterOnlyEnabledPages=true;
+if (typeof window.IPCHFEmail === "undefined") {
+	window.IPCHFEmail='detektive_26@mail.ru';
 }
 
 
