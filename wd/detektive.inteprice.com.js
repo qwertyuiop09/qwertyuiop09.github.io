@@ -101,15 +101,6 @@ if (0) {
 */
 
 
-	"AdwConvRemark": {
-	google_conversion_id: 872753839,
-	google_conversion_language: "en",
-	google_conversion_format: "3",
-	google_conversion_color: "ffffff",
-	google_conversion_label: "tzwfCM_1lmoQr9WUoAM",
-	google_remarketing_only: false
-		},
-
 
 
 
