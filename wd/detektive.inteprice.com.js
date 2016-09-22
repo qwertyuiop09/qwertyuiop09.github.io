@@ -123,7 +123,7 @@ if (0) {
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "xuXlCKm8q2oQr9WUoAM",
+	google_conversion_label: "jADmCO3inmoQr9WUoAM",
 	google_remarketing_only: false
 		},
 
