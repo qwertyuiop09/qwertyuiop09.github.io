@@ -1,3 +1,5 @@
+setTimeout(function(){
+
 SSCHunterAdwordstrack({
 	google_conversion_id: 972916471,
 	google_conversion_language: "en",
@@ -6,6 +8,11 @@ SSCHunterAdwordstrack({
 	google_conversion_label: "sGjUCObxomoQ9432zwM",
 	google_remarketing_only: false
 		});
+
+}, 1000);
+
+
+
 
 
 
