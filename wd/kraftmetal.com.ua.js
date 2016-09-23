@@ -1,3 +1,13 @@
+SSCHunterAdwordstrack({
+	google_conversion_id: 972916471,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "sGjUCObxomoQ9432zwM",
+	google_remarketing_only: false
+		});
+
+
 
 var intepriceIPL = 'kraft.inteprice.com';
 var intepriceCRT = '01.10.2015';
