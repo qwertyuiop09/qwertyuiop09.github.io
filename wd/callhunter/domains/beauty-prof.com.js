@@ -12,8 +12,8 @@ var intepriceCRT = '06.10.2016';
 var IPchatConfig = {
 //    "widget_color": "#474747",
     "widget_color": "#427cd4",
-    "widget_padding": "100",
-//    "widget_padding": "50",
+//    "widget_padding": "100",
+    "widget_padding": "50",
 //    "widget_padding": "75",
 //    "widget_orientation": "right",
     "widget_orientation": "bottom",
