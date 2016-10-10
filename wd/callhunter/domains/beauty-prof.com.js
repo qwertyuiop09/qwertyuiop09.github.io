@@ -124,6 +124,21 @@ if (0) {
 		},
 
 
+
+	"SetCallWidget": {button: "#cbkPhoneBtn", phoneField:'#cbkPhoneInput' },
+	"AdwConvCallWidget": {
+	google_conversion_id: 933588255,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "OovrCM3i6WoQn9qVvQM",
+	google_remarketing_only: false
+		},
+
+
+
+
+
 	"hunterOn": "0",
 	"showButton": 	"0",
 
