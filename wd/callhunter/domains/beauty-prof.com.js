@@ -12,9 +12,9 @@ var intepriceCRT = '06.10.2016';
 var IPchatConfig = {
 //    "widget_color": "#474747",
     "widget_color": "#427cd4",
-//    "widget_padding": "100",
+    "widget_padding": "100",
 //    "widget_padding": "50",
-    "widget_padding": "75",
+//    "widget_padding": "75",
 //    "widget_orientation": "right",
     "widget_orientation": "bottom",
 //    "font_type": "normal",
@@ -102,17 +102,23 @@ if (0) {
 
 
 
+
+
+*/
+
+
+
 	"AdwConvCHSnd": {
 	google_conversion_id: 933588255,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "7ElWCKKZ7mgQ6rO-pAM",
+	google_conversion_label: "p2pACM-I6moQn9qVvQM",
 	google_remarketing_only: false
 		},
 
 
-*/
+
 
 	"AdwConvTime": {
 	google_conversion_id: 933588255,
@@ -148,8 +154,6 @@ if (0) {
 /*
 
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
-//а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
@@ -159,9 +163,9 @@ if (0) {
 		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAACACAYAAAC1KBEFAAAEWUlEQVR4nO3ZX2hbVRwH8N+DgojgXkQQBR2CyGruOQ+CIKIP0vVBfBERFkGfCkqLbZrfASE6KQhjEhhM2IYgFDE+KD5simC7pLnn6GLIkDJSq6w0IsXVSlfHQsQ8/HzoTsm6JrlJc//k3POF72v5fbjn3nN6AlwJiksh7AEs1mIt1mIt1mINrsWaWos1tRZrai3W1FqsqbVYU2uxptZiTa3FmlqLNbUWa2ot1tRarKmNPDZZyVK92SAiourWGuVWFyhZOkncRfOwhY2faW/qzQZNlE8T6xEcaWymOncHtBU8upghLg3BVrdrbbFERPn1y+TkU8OP7fRUW3NMnfD8/kYWu/nvtifs+ZoiVpgZXmzu97wnKBFR7caf5CxMDyc2Wcl6huo4308NJ3Zy6Ux8sFwJurB+yTO03myQMz/EWK4EnVv91hO2vLFMzkVv209ksVztLGl9VGyX3NX54f4a7wV3ihH7rO5YaXYgS3gosJ323LO/nCe2mDYDO1aabfvO9vIVHgps+e+VgXyYIo/96Ncv20L7+fcusthOy7ffpxpJ7Fhplmo3r7WF9nLwjzx2v2uY1kz81Pt1jO/YZCVLmStzngcbK81S4VpnaK9bTSDY1r3Ry9VJt6Xr9e8Eis1U5/YdutOgmepc1/NvryclX7HJSrbr5djeJehl2RLtfJBGi+/1vM0MHOt14Fbw0R8+oFwt3/VpDhp6YGynE85BU95YplH3/YFBD4zttnT7zSA+RgPH9nJ94jX9no58x3Y6v/aazcZ1mih/3PeBwXcsV94vszsld3WejqrjA30/fcFOLp3peiDYL/Vmg/Lrl+nYpf5+fgwFy9XOFpSrebvFr26t0dmVnS3I7yfpC1Y3WclSrnaRqtfXbnuCB/0ROZLYqNdiTa3FmlqLNbUWa2ot1tRarKm1WFNrsabWYk2txZpaizW1FmtqIeHiK1yK5bAHCQQLAPBo4c17mEq/y6TYCnsg37E6iWL6Mabws7CHCgSrw1x8lit0wx4uEKyO46ZfZ1Kshj1kIFgAgMPz4/czhR8yiTfDHtZ37O77nBdPcIVfhT1wIFgdLtMvMoXlsAcPBKvDpBhnUvwRNiAQLAAAdycfYBJPcYX/hQ3xHbuLlimHKfFN2JhAsDqOxJe4xKWwUYFgAQCg8MJdjovTTIq/wsb5j72VRGHyYabwk7CBgWB12OLM01ziQtjQQLC7aImvMoUrscACADx0YfxeR2KGK7FtPFbnKTl9mEn8PBZYncQiPsckqlhgdZiaeYMpsRYLLAAAK0wd4jJ9gitRNx6rM1KcepJJ/DoWWB2niKNcikossDrcxbe4wvVYYAEARhbeeZC74jSXomk8VscppjiX+F0ssDqJoniZKbwSCywAAJwbv5spTHOJm+Zjb2WkmHqESfFpLLA6CZV6hinMxwKr4xTxNSbxt1hgAQCOFN6+j8n0ca7wH+OxOkcK049zKb6IBVaHu/g8V/jj/y/rYstz59Y5AAAAAElFTkSuQmCC) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
 
 
-		"consultantOn": "4",
-*/
 		"consultantOn": "0",
+*/
+		"consultantOn": "4",
 
 
 	"consultantSettings": {
