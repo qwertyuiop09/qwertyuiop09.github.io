@@ -132,7 +132,9 @@ if (0) {
 
 
 
-	"SetCallWidget": {button: "#cbkPhoneBtn", phoneField:'#cbkPhoneInput' },
+//	"SetCallWidget": {button: "#cbkPhoneBtn", phoneField:'#cbkPhoneInput' },
+//	"SetCallWidget": {button: "#cbkPhoneDeferredBtn", phoneField:'#cbkPhoneDeferredInput' },
+	"SetCallWidget": {button: "button.cbk-button", phoneField:'input.cbk-input' },
 	"AdwConvCallWidget": {
 	google_conversion_id: 933588255,
 	google_conversion_language: "en",
