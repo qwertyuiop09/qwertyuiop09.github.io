@@ -131,10 +131,13 @@ if (0) {
 		},
 
 
-/*
+
 //	"SetCallWidget": {button: "#cbkPhoneBtn", phoneField:'#cbkPhoneInput' },
 //	"SetCallWidget": {button: "#cbkPhoneDeferredBtn", phoneField:'#cbkPhoneDeferredInput' },
 //	"SetCallWidget": {button: "button.cbk-button", phoneField:'input.cbk-input' },
+
+
+	"SetCallWidget": {phoneField:'input.cbk-input' },
 	"AdwConvCallWidget": {
 	google_conversion_id: 933588255,
 	google_conversion_language: "en",
@@ -143,7 +146,7 @@ if (0) {
 	google_conversion_label: "OovrCM3i6WoQn9qVvQM",
 	google_remarketing_only: false
 		},
-*/
+
 
 
 
