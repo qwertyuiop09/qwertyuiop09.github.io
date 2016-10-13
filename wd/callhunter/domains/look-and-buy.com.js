@@ -125,6 +125,11 @@ if (0) {
 
 */
 
+
+		"CSS": 'form.cme, #cme-back, #callme { display: none; }',
+
+
+
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
