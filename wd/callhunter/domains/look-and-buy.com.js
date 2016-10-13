@@ -126,7 +126,7 @@ if (0) {
 */
 
 
-		"CSS": 'form.cme, #cme-back, #callme { display: none; }',
+		"CSS": 'form.cme, #cme-back, #callme { display: none!important; }',
 
 
 
