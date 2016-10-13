@@ -126,6 +126,9 @@ if (0) {
 */
 
 
+
+
+		"ViewFormClick": 'callme_viewform',
 		"CSS": 'form.cme, .cme-form, #cme-back, #callme { display: none!important; }',
 
 
