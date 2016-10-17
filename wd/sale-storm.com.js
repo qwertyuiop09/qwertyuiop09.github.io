@@ -60,7 +60,8 @@
 			IPclhrData.titlenight="Мы перезвоним в рабочее время";
 			IPclhrData.button="Жду звонка!";
 			IPclhrData.callTime="1";
-			IPclhrData.fields="+Введите ваш телефон(+380)*, -Ваш email или тема звонка(необязательно)";
+//			IPclhrData.fields="+Введите ваш телефон(+380)*, -Ваш email или тема звонка(необязательно)";
+			IPclhrData.fields="+Введите ваш телефон(+380)*, -Тема звонка(необязательно)";
 		} else {
 			IPclhrData.title="Получить консультацию";
 			IPclhrData.titleworktime="Мы свяжемся с Вами через несколько минут";
