@@ -40,7 +40,7 @@
 
 
 
-
+/*
 	var setIntervalCountry = setInterval(function() {
 		if (window.jQuery) {
 			clearInterval(setIntervalCountry);
@@ -50,6 +50,13 @@
 			}, "jsonp");
 		}
 	}, 10);
+*/
+
+	window.checkCountry = 'RU';
+	window.jQuery.get("http://ipinfo.io", function(response) {
+		window.checkCountry = response.country;
+	}, "jsonp");
+
 
 
 	function chCountry() {
