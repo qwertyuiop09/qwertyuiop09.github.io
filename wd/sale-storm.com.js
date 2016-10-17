@@ -55,6 +55,7 @@
 
 	function chCountry() {
 		if (window.checkCountry == "UA") { 
+
 			IPclhrData.title="Заказать бесплатный звонок";
 			IPclhrData.titleworktime="Мы перезвоним через 1 мин. 56 сек.";
 			IPclhrData.titlenight="Мы перезвоним в рабочее время";
@@ -102,6 +103,7 @@
 
 
 		} else {
+
 			IPclhrData.title="Получить консультацию";
 			IPclhrData.titleworktime="Мы свяжемся с Вами через несколько минут";
 			IPclhrData.titlenight="Мы свяжемся с Вами в рабочее время";
@@ -145,6 +147,7 @@
 		reviewsrem_forced: 1,
 	        tpo: 0
 			};
+
 		}
 	}
 
