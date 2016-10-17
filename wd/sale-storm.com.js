@@ -49,7 +49,7 @@
 				window.checkCountry = response.country;
 			}, "jsonp");
 		}
-	}, 500);
+	}, 10);
 
 
 	function chCountry() {
