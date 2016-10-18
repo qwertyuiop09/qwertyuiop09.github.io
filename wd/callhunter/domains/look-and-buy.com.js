@@ -111,6 +111,7 @@ if (0) {
 			IPclhrData.callTime="1";
 			IPclhrData.fields="+Введите ваш телефон(+380)*, !Тема звонка!!Узнать наличие!Сделать заказ!Другой вопрос*, -Ваш комментарий(необязательно)";
 
+/*
 			IPclhrData.consultantSettings={
 
 	        phone_field: 1,
@@ -152,6 +153,8 @@ if (0) {
 
 			};
 
+*/
+
 //console.log('set='+window.checkCountry)
 
 
@@ -165,6 +168,7 @@ if (0) {
 			IPclhrData.callTime="0";
 			IPclhrData.fields="+Введите ваш телефон(Формат 38 067 1234567)*, Введите ваш Email*, -Тема (Ваш вопрос)*";
 
+/*
 
 			IPclhrData.consultantSettings={
 
@@ -205,7 +209,7 @@ if (0) {
 
 			};
 
-
+*/
 
 //console.log('set='+window.checkCountry)
 
@@ -296,7 +300,7 @@ if (0) {
 	"consultantSettings": {
 	        phone_field: 1,
 	        phone_required: 1,
-	        email_field: 0,
+	        email_field: 1,
 	        email_required: 0,
 	        name_field: 1,
 	        name_required: 0,
