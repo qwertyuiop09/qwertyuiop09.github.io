@@ -242,36 +242,38 @@ if (0) {
 
 
 
-/*
-
 	"AdwConvRemark": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 871046933,
 	google_custom_params: window.google_tag_params,
 	google_remarketing_only: true
 		},
 
 
 	"AdwConvTime": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 871046933,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "69LkCIeZ7mgQ6rO-pAM",
+	google_conversion_label: "a3UMCIr7gGsQlb6snwM",
+	google_conversion_value: 1.00,
+	google_conversion_currency: "UAH",
 	google_remarketing_only: false
 		},
 
 
 	"AdwConvCHSnd": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 871046933,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "7ElWCKKZ7mgQ6rO-pAM",
+	google_conversion_label: "hb1cCI257WoQlb6snwM",
+	google_conversion_value: 100.00,
+	google_conversion_currency: "UAH",
 	google_remarketing_only: false
 		},
 
 
-*/
+
 
 
 
