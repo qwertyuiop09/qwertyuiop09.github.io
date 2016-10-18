@@ -91,8 +91,10 @@ if (0) {
 		if (window.jQuery) {
 			clearInterval(setIntervalCountry);
 			window.checkCountry = 'RU';
+console.log(window.checkCountry)
 			window.jQuery.get("http://ipinfo.io", function(response) {
 				window.checkCountry = response.country;
+console.log(window.checkCountry)
 			}, "jsonp");
 		}
 	}, 10);
@@ -110,7 +112,6 @@ if (0) {
 			IPclhrData.fields="+Введите ваш телефон(+380)*, !Тема звонка!!Узнать наличие!Сделать заказ!Другой вопрос*, -Ваш комментарий(необязательно)";
 
 			IPclhrData.consultantSettings={
-
 
 	        phone_field: 1,
 	        phone_required: 1,
@@ -150,6 +151,9 @@ if (0) {
 
 
 			};
+
+console.log('set='+window.checkCountry)
+
 
 
 		} else {
@@ -203,6 +207,7 @@ if (0) {
 
 
 
+console.log('set='+window.checkCountry)
 
 
 
