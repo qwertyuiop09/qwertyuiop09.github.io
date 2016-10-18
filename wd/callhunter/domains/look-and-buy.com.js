@@ -98,7 +98,7 @@ if (0) {
 			IPclhrData.fields="+Введите ваш телефон(+380)*, !Тема звонка!!Узнать наличие!Сделать заказ!Другой вопрос*, -Ваш комментарий(необязательно)";
 
 
-			IPclhrData.consultantSettings={
+			IPclhrData.consultantSettings=IPclhrDataUpdate.consultantSettings={
 
 	        phone_field: 1,
 	        phone_required: 1,
@@ -156,7 +156,7 @@ if (0) {
 
 
 
-			IPclhrData.consultantSettings={
+			IPclhrData.consultantSettings=IPclhrDataUpdate.consultantSettings={
 
 	        phone_field: 1,
 	        phone_required: 1,
