@@ -91,10 +91,10 @@ if (0) {
 		if (window.jQuery) {
 			clearInterval(setIntervalCountry);
 			window.checkCountry = 'RU';
-console.log(window.checkCountry)
+//console.log(window.checkCountry)
 			window.jQuery.get("http://ipinfo.io", function(response) {
 				window.checkCountry = response.country;
-console.log(window.checkCountry)
+//console.log(window.checkCountry)
 			}, "jsonp");
 		}
 	}, 10);
@@ -152,7 +152,7 @@ console.log(window.checkCountry)
 
 			};
 
-console.log('set='+window.checkCountry)
+//console.log('set='+window.checkCountry)
 
 
 
@@ -207,7 +207,7 @@ console.log('set='+window.checkCountry)
 
 
 
-console.log('set='+window.checkCountry)
+//console.log('set='+window.checkCountry)
 
 
 
