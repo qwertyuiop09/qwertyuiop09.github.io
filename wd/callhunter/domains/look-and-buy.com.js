@@ -274,6 +274,18 @@ if (0) {
 
 
 
+	"ClickElement": "input#button-cart",
+	"AdwConvСlick": {
+	google_conversion_id: 871046933,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "hb1cCI257WoQlb6snwM",
+	google_conversion_value: 100.00,
+	google_conversion_currency: "UAH",
+	google_remarketing_only: false
+		},
+
 
 
 
