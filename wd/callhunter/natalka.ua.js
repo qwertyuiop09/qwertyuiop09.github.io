@@ -3,7 +3,6 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 
 
 
-
 //без предоплаты, логин менеджера
 var intepriceIPL = 'natalka.inteprice.com';
 var intepriceCRT = '15.10.2016';
