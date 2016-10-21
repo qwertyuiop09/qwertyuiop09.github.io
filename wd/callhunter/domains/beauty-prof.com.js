@@ -109,6 +109,18 @@ if (0) {
 
 
 
+	"AdwConvTime": {
+	google_conversion_id: 933588255,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "xExhCOTE4WoQn9qVvQM",
+	google_remarketing_only: false
+		},
+
+
+/*
+
 	"AdwConvCHSnd": {
 	google_conversion_id: 933588255,
 	google_conversion_language: "en",
@@ -118,17 +130,6 @@ if (0) {
 	google_remarketing_only: false
 		},
 
-
-
-
-	"AdwConvTime": {
-	google_conversion_id: 933588255,
-	google_conversion_language: "en",
-	google_conversion_format: "3",
-	google_conversion_color: "ffffff",
-	google_conversion_label: "xExhCOTE4WoQn9qVvQM",
-	google_remarketing_only: false
-		},
 
 
 
@@ -143,6 +144,48 @@ if (0) {
 	google_conversion_label: "OovrCM3i6WoQn9qVvQM",
 	google_remarketing_only: false
 		},
+
+*/
+
+
+
+	"AdwConvCHSnd": {
+	google_conversion_id: 933588255,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "2w1ACJ_slWsQn9qVvQM",
+	google_remarketing_only: false
+		},
+
+
+
+
+	"SetCallWidget": {button: "button.cbk-button", phoneField:'input.cbk-input' },
+	"AdwConvCallWidget": {
+	google_conversion_id: 933588255,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "2w1ACJ_slWsQn9qVvQM",
+	google_remarketing_only: false
+		},
+
+
+
+
+
+	"ClickElement": 'button[name="actionADD2BASKET"]',
+	"AdwConvСlick": {
+	google_conversion_id: 933588255,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "2w1ACJ_slWsQn9qVvQM",
+	google_remarketing_only: false
+		},
+
+
 
 
 
