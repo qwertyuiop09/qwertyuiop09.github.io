@@ -155,9 +155,8 @@ if (0) {
 		},
 
 
-/*
 
-	"ClickElement": "",
+	"ClickElement": "img.buy",
 	"AdwConvСlick": {
 	google_conversion_id: 956491559,
 	google_conversion_language: "en",
@@ -166,8 +165,10 @@ if (0) {
 	google_conversion_label: "-2maCPiDgmsQp86LyAM",
 	google_remarketing_only: false
 		},
-*/
 
+/*
+
+не работает
 
 	"SubmitElement": 'form[action="/cart/buy"]',
 	"AdwConvSubmit": {
@@ -179,6 +180,7 @@ if (0) {
 	google_remarketing_only: false
 		},
 
+*/
 
 
 
