@@ -104,6 +104,7 @@ if (0) {
 
 
 
+/*
 
 	"HitElement": ".trvalclhr-conv",
 	"AdwConvHit": {
@@ -127,6 +128,8 @@ if (0) {
 	google_remarketing_only: false
 		},
 
+*/
+
 
 
 	"AdwConvTime": {
@@ -149,6 +152,32 @@ if (0) {
 	google_conversion_label: "-2maCPiDgmsQp86LyAM",
 	google_remarketing_only: false
 		},
+
+
+/*
+
+	"ClickElement": "",
+	"AdwConvСlick": {
+	google_conversion_id: 956491559,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "-2maCPiDgmsQp86LyAM",
+	google_remarketing_only: false
+		},
+*/
+
+
+	"SubmitElement": 'form[action="/cart/buy"]',
+	"AdwConvSubmit": {
+	google_conversion_id: 956491559,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "-2maCPiDgmsQp86LyAM",
+	google_remarketing_only: false
+		},
+
 
 
 
