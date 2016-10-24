@@ -39,15 +39,18 @@
 
 
 
-
-
 	var setIntervalCountry = setInterval(function() {
 		if (window.jQuery) {
 			clearInterval(setIntervalCountry);
 			window.checkCountry = 'RU';
-			window.jQuery.get("http://ipinfo.io", function(response) {
-				window.checkCountry = response.country;
-			}, "jsonp");
+			window.jQuery.getJSON("http://api.wipmania.com/jsonp?callback=?",
+				function(data) {
+					window.checkCountry = data.address.country_code;
+					chCountry();
+				});
+
+
+
 		}
 	}, 10);
 
@@ -64,7 +67,7 @@
 //			IPclhrData.fields="+Введите ваш телефон(+380)*, -Ваш email или тема звонка(необязательно)";
 			IPclhrData.fields="+Введите ваш телефон(+380)*, -Тема звонка(необязательно)";
 
-			IPclhrData.consultantSettings={
+			IPclhrData.consultantSettings=IPclhrDataUpdate.consultantSettings={
 	        phone_field: 1,
 	        phone_required: 1,
 	        email_field: 0,
@@ -111,7 +114,7 @@
 			IPclhrData.callTime="0";
 			IPclhrData.fields="+Введите ваш телефон(Формат 38 067 1234567)*, Введите ваш Email*, -Тема (Ваш вопрос)*";
 
-			IPclhrData.consultantSettings={
+			IPclhrData.consultantSettings=IPclhrDataUpdate.consultantSettings={
 	        phone_field: 1,
 	        phone_required: 1,
 	        email_field: 1,
