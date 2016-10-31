@@ -150,7 +150,7 @@ if (0) {
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset], [id^=\'button-upload\'])',
+		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset], [id^=\'button-upload\'])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
