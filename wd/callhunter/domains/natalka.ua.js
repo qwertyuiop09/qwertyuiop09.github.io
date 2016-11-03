@@ -87,6 +87,11 @@ if (0) {
 	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat",
 
 
+	"fields": "+Введите ваш телефон(+380)*, Email(введите Ваш Email)*, -Тема звонка(необязательно)",
+
+
+
+
 /*
 
 	"AdwConvRemark": {
@@ -199,8 +204,8 @@ if (0) {
 	"consultantSettings": {
 	        phone_field: 1,
 	        phone_required: 1,
-	        email_field: 0,
-	        email_required: 0,
+	        email_field: 1,
+	        email_required: 1,
 	        name_field: 1,
 	        name_required: 0,
 	        fields_forced: 1,
