@@ -123,7 +123,7 @@ if (0) {
 
 	"sendOkMessage": "Thank you, your message was sent", // ответ на успешную отправку "Спасибо, сообщение отправлено"
 	"sendResendError": "The message already was sent", // ответ на повторную отправку "Сообщение уже было отправлено"
-	"sendError": "Error" // ответ при ошибке "Ошибка"
+	"sendError": "Error", // ответ при ошибке "Ошибка"
 
 
 
