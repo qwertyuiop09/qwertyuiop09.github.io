@@ -106,7 +106,7 @@ if (0) {
 
 	"alertFillRequired": "Fill required into", // Заполните обязательные поля (Сообщение ошибки, если не заполнены обязательные поля формы)
 
-	"mailReferrer": "Traffic sources", // откуда пришел посетитель
+	"mailReferrer": "Traffic source", // откуда пришел посетитель
 	"mailUrl": "Inquiry page", // страница, откуда отправлен запрос
 	"mailAttribute": "Button attribute", // если у кнопки есть атрибут data-clhr, будет передано его значение
 
