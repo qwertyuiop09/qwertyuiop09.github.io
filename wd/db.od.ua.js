@@ -196,8 +196,7 @@ IPchlrFunc.AddGoogleFont(WebFontConfig1);
 
 
 
-/*
-action off
+/* action off
         
 "CSS": '\
 .intepriceForm1.clhr-form{\
