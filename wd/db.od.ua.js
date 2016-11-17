@@ -192,10 +192,12 @@ IPchlrFunc.AddGoogleFont(WebFontConfig1);
 
 //		"ViewFormClick": '.callhunter_viewform_click, a[href="index.php/category/akcii"], a[href="http://db.od.ua/calc"]',
 		"ViewFormClick": '.zamerschik span',
-		"HunteronMouseover": '.callhunter_hunteron_mouseover, a[href="index.php/category/akcii"]',
+		"HunteronMouseover": '.callhunter_hunteron_mouseover, a[href="index.php/category/akcii"]'
 
 
 
+/*
+action off
         
 "CSS": '\
 .intepriceForm1.clhr-form{\
@@ -394,7 +396,7 @@ background:#fa201f url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAAAqCA
 //"hunterFormData": {TmpForm: intepriceForm1, fields: "(Ваше имя)*,+(Tелефон +380)*", button: "Заказать подарок", callTime: 0}
 "hunterFormData": {TmpForm: intepriceForm1, fields: "+(Tелефон +380)*", button: "Жду звонка!"}
     
-        
+*/        
         
 	}
     
