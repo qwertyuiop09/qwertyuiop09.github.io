@@ -124,7 +124,7 @@ if (0) {
 
 	"ClickElement": 'button[type=button][title="Add to Cart"], input[type="submit"][value="Send Email"], input[type="submit"][value="Submit"]',
 	"AdwConvСlick": {
-	google_conversion_id: 1068414302,
+	google_conversion_id: 867978827,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
