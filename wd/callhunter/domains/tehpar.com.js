@@ -122,7 +122,7 @@ if (0) {
 
 
 
-	"ClickElement": 'a[title="Добавить в корзину"]',
+	"ClickElement": 'input[name="order_name"]',
 	"AdwConvСlick": {
 	google_conversion_id: 867978827,
 	google_conversion_language: "en",
