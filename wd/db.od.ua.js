@@ -32,6 +32,8 @@
 */
 
 
+/* action off
+
 //var IPActionEnd=IPchlrFunc.Date(0);
 var IPActionEnd=IPchlrFunc.Date(3);
 
@@ -122,7 +124,7 @@ WebFontConfig1 = {
 };
 IPchlrFunc.AddGoogleFont(WebFontConfig1);
 
-
+*/
 
 	var IPclhrDataUpdate = {
 
