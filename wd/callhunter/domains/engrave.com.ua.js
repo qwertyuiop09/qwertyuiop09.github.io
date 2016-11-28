@@ -122,7 +122,6 @@ if (0) {
 		},
 
 
-/*
 
 
 	"ClickElement": '[type=submit], input[type=image], input[type=button], button:not([type=reset], [id^=\'button-upload\'])',
@@ -136,6 +135,8 @@ if (0) {
 		},
 
 
+
+/*
 
 
 	"AdwConvCHSnd": {
