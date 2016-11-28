@@ -122,6 +122,20 @@ if (0) {
 		},
 
 
+/*
+
+
+	"ClickElement": '[type=submit], input[type=image], input[type=button], button:not([type=reset], [id^=\'button-upload\'])',
+	"AdwConvСlick": {
+	google_conversion_id: 923873915,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "nN7aCITLt2sQ--TEuAM",
+	google_remarketing_only: false
+		},
+
+
 
 
 	"AdwConvCHSnd": {
@@ -133,6 +147,7 @@ if (0) {
 	google_remarketing_only: false
 		},
 
+*/
 
 
 
@@ -151,7 +166,7 @@ if (0) {
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset], [id^=\'button-upload\'])',
+//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset], [id^=\'button-upload\'])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
