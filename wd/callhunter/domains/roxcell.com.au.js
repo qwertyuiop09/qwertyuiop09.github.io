@@ -82,6 +82,10 @@ if (0) {
 
 	var IPclhrDataUpdate = {
 
+	"hunterOn": "0",
+	"showButton": 	"0",
+
+
 
 	"timeZone": "+11",
 	"Daylight": "1",
