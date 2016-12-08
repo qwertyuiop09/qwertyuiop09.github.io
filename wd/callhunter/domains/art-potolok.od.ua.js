@@ -93,36 +93,49 @@ if (0) {
 	"showButton": 	"0",
 
 
-/*
+
+
 
 	"AdwConvRemark": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 873478862,
 	google_custom_params: window.google_tag_params,
 	google_remarketing_only: true
 		},
 
 
 	"AdwConvTime": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 873478862,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "69LkCIeZ7mgQ6rO-pAM",
+	google_conversion_label: "eiDDCMbxy2wQzvXAoAM",
 	google_remarketing_only: false
 		},
 
 
 	"AdwConvCHSnd": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 873478862,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "7ElWCKKZ7mgQ6rO-pAM",
+	google_conversion_label: "YWaxCMHxt2wQzvXAoAM",
 	google_remarketing_only: false
 		},
 
 
-*/
+
+	"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, bingc-active-get-phone-form-input' },
+	"AdwConvCallWidget": {
+	google_conversion_id: 873478862,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "YWaxCMHxt2wQzvXAoAM",
+	google_remarketing_only: false
+		},
+
+
+
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password|mc4wp-form-1)', Flags: 'i'},
