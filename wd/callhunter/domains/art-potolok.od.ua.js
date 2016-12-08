@@ -124,6 +124,11 @@ if (0) {
 
 
 
+//для тестов восст кнопку
+//document.oncontextmenu = function () {
+//   return true;
+//};
+
 //binotel
 	"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, bingc-active-get-phone-form-input' },
 	"AdwConvCallWidget": {
