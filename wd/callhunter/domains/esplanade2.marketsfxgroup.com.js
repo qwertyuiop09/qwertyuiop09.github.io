@@ -90,6 +90,7 @@ if (0) {
 	"workDays": "Mon, Tue, Wed, Thu, Fri",
 
 
+	"fields": "+Введите ваш телефон(+7)*, -Тема звонка(необязательно)",
 	"emptyPhone": "+7",
 
 
