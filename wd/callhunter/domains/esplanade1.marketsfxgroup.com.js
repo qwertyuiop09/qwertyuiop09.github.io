@@ -96,17 +96,18 @@ if (0) {
 	"ButtonPlace":	"RightTop",
 
 
+
 /*
 
 	"AdwConvRemark": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 872943230,
 	google_custom_params: window.google_tag_params,
 	google_remarketing_only: true
 		},
 
 
 	"AdwConvTime": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 872943230,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
@@ -115,17 +116,18 @@ if (0) {
 		},
 
 
+*/
+
 	"AdwConvCHSnd": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 872943230,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "7ElWCKKZ7mgQ6rO-pAM",
+	google_conversion_label: "-a-iCNy44WwQ_pygoAM",
 	google_remarketing_only: false
 		},
 
 
-*/
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
