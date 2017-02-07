@@ -6,7 +6,7 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 
 //без предоплаты, логин менеджера
 var intepriceIPL = 'stonesukr.inteprice.com';
-var intepriceCRT = '07.02.2016';
+var intepriceCRT = '07.02.2017';
 
 
 var IPchatConfig = {
