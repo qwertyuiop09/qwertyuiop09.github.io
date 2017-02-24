@@ -127,7 +127,7 @@ if (0) {
 
 
 
-	"title": "Schedule back",
+	"title": "Call back",
 
 	"titleworktime": "We'll call you during 5 min. 56 sec.",
 //	"titleworktime": "We will call you back in a few minutes",
