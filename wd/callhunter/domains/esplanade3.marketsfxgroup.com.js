@@ -85,6 +85,10 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
+		"CSS": '.clhr-form .clhr-btn-place span a {  font-size: 10px; }',
+
+
+
 	"workStart": "09",
 	"workEnd": "20",
 	"workDays": "Mon, Tue, Wed, Thu, Fri",
