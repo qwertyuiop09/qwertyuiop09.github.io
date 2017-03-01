@@ -88,6 +88,14 @@ if (0) {
 
 
 	function chCountry() {
+
+		if (typeof window.IPclhrData == 'undefined') {
+			setTimeout(function() {
+				chCountry();
+			}, 200);
+			return;
+		}
+
 		if (window.checkCountry == "UA") { 
 
 			IPclhrData.title="Заказать бесплатный звонок";
