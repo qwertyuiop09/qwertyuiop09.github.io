@@ -57,6 +57,15 @@
 
 
 	function chCountry() {
+
+		if(!IPclhrData) {
+			setTimeout(function() {
+				chCountry();
+			}, 200);
+			return;
+		}
+
+
 		if (window.checkCountry == "UA") { 
 
 			IPclhrData.title="Заказать бесплатный звонок";
