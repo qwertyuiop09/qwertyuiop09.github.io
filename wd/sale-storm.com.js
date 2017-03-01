@@ -58,7 +58,7 @@
 
 	function chCountry() {
 
-		if(!IPclhrData) {
+		if (typeof window.IPclhrData == 'undefined')
 			setTimeout(function() {
 				chCountry();
 			}, 200);
