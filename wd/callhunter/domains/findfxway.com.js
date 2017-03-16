@@ -85,6 +85,9 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
+		"CSS": 'div.clhr-fields { line-height: 0px; }',
+
+
 		"title": "Получить консультацию",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
