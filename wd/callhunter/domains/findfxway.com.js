@@ -85,7 +85,7 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
-//мобильная версия кнопки мешает пришлось все убирать (убоал через CSS - display: none;)
+//мобильная версия кнопки мешает пришлось все убирать - убрал через CSS - #clhtr_mob_banner-startphone { display: none; }
 //		"showButton": 	"0",
 
 
