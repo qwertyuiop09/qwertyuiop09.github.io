@@ -85,13 +85,12 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
-//мобильная версия кнопки мешает пришлось все убирать
+//мобильная версия кнопки мешает пришлось все убирать (убоал через CSS - display: none;)
 //		"showButton": 	"0",
-		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
 
 
 
-		"CSS": 'div.clhr-fields { line-height: 0px; }',
+		"CSS": 'div.clhr-fields { line-height: 0px; }, #clhtr_mob_banner-startphone { display: none; }',
 
 
 		"title": "Получить консультацию",
