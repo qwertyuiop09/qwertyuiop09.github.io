@@ -87,10 +87,10 @@ if (0) {
 
 //мобильная версия кнопки мешает пришлось все убирать - убрал через CSS - #clhtr_mob_banner-startphone { display: none; }
 //		"showButton": 	"0",
+		"ButtonMobileCSS": "display: none",
 
 
-
-		"CSS": 'div.clhr-fields { line-height: 0px; }, .clhtr_mob_banner-startphone { display: none; }',
+		"CSS": 'div.clhr-fields { line-height: 0px; }',
 
 
 		"title": "Получить консультацию",
