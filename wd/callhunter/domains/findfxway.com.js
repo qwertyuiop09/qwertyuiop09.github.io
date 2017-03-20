@@ -85,7 +85,9 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
-		"ButtonXMobile": -2000,
+//мобильная версия кнопки мешает пришлось все убирать
+//		"showButton": 	"0",
+		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVQYV2NgYAAAAAMAAWgmWQ0AAAAASUVORK5CYII=) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
 
 
 
