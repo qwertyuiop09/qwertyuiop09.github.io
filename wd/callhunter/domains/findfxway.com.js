@@ -90,7 +90,7 @@ if (0) {
 
 
 
-		"CSS": 'div.clhr-fields { line-height: 0px; }, #clhtr_mob_div { display: none; }',
+		"CSS": 'div.clhr-fields { line-height: 0px; }, .clhtr_mob_banner-wrapper { display: none; }',
 
 
 		"title": "Получить консультацию",
