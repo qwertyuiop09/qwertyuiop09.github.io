@@ -1,3 +1,40 @@
+
+
+var IPchatConfig = {
+//    "widget_color": "#474747",
+    "widget_color": "#427cd4",
+//    "widget_padding": "100",
+//    "widget_padding": "50",
+//    "widget_padding": "0",
+    "widget_padding": "75",
+//    "widget_orientation": "right",
+    "widget_orientation": "bottom",
+//    "font_type": "normal",
+    "font_type": "bold",
+    "offline_widget_label": "Отправьте нам сообщение",
+    "offline_form_text": "Оставьте свое сообщение в этой форме, и мы получим его на e-mail и обязательно ответим!",
+    "custom_langpack": {
+	"lblOfflineMessageSend": "Сообщение отправлено",
+        "lblMessageError": "К сожалению, сообщение не было отправлено по техническим причинам",
+        "lblLookingForFreeAgent": "Подключаемся...",
+        "lblIntroduceName": "Ваше имя",
+        "lblEvaluateCancel": "Отменить",
+        "lblSend": "Отправить",
+        "lblThankYouMessage": "Спасибо за ваше сообщение! Мы&nbsp;обязательно свяжемся с&nbsp;Вами в ближайшее время",
+        "lblYourEmail": "Ваш E-mail",
+        "lblYourMessage": "Ваше сообщение",
+        "lblYourPhone": "Ваш телефон",
+        "lnkCloseThisWindow": "Закрыть",
+        "ofl_enterMessage": "Пожалуйста, введите сообщение",
+        "ofl_enterName": "Пожалуйста, введите имя",
+        "ofl_enterValidEmail": "Указан неверный e-mail",
+        "ofl_enterValidPhone": "Указан неверный телефон"
+    }
+
+};
+
+
+
 (function(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.charset="UTF-8"; s.async = true; var a;a="http";a+="\x73\x3a\x2f\x2f";a+="cdn.";a+="sale";a+="-storm";a+=".com";a+="/wd";a+="/";a+="\x63\x61\x6C\x6C\x68\x75\x6E\x74\x65\x72\x2F\x63\x68\x61\x74\x2F\x6A\x73\x2F\x77\x69\x64\x67\x65\x74\x5F\x65\x6E\x5F\x55\x53\x2E\x6A\x73\x3F\x72\x61\x6E\x64\x3D\x31\x34\x34\x35\x32\x36\x37\x39\x39\x37"; s.src = a; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
 
 
