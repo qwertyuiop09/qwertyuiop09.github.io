@@ -109,7 +109,7 @@ var IPchatConfig = {
 	        title_off_forced: 1,
 	        title_on_forced: 1,
 		answer: 'Спасибо!</br>Ваш запрос принят, но линия консультанта сейчас занята.</br></br>Консультант обязательно свяжется с Вами чуть позже.',
-		timeout: 15,
+		timeout: 120,
 	        days: 14,
 	        mobile: 0,
 	        worktime: 0,
