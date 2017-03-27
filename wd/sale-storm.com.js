@@ -7,7 +7,7 @@ var IPchatConfig = {
 //    "widget_padding": "50",
 //    "widget_padding": "0",
 //    "widget_padding": "75",
-    "widget_padding": "60",
+    "widget_padding": "70",
 //    "widget_orientation": "right",
     "widget_orientation": "bottom",
 //    "font_type": "normal",
