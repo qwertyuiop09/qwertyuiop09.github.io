@@ -50,7 +50,7 @@ var IPchatConfig = {
 	var setIntervalCountry = setInterval(function() {
 		if (window.jQuery) {
 			clearInterval(setIntervalCountry);
-			window.checkCountry = 'RU';
+			window.checkCountry = 'US';
 			window.jQuery.getJSON("http://api.wipmania.com/jsonp?callback=?",
 				function(data) {
 					window.checkCountry = data.address.country_code;
