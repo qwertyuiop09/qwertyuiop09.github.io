@@ -150,7 +150,7 @@ var IPchatConfig = {
 //		"PRIOneClick": 1,
 		"PRInightOn": 1,
 //		"PRITelMask": "789-48-82, 361-14-80, 946-08-82",
-		"PRIRingID": "123",
+		"PRIRingID": "123, 196, 965",
 
 
 //		"PRIFormData": {title:'Уточните у менеджера необходимые данные', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "Имя, Ваш Email, +Ваш телефон, Адрес сайта, -Комментарий, <Одноразовый ID(узнайте у менеджера)*", button: "Отправить", callTime: 1},
