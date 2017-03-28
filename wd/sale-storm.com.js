@@ -74,14 +74,14 @@ var IPchatConfig = {
 		}
 
 
-		if (window.checkCountry == "RU") { 
+		if (window.checkCountry == "RU") {
 
 			IPclhrData.fields="+Введите ваш телефон(+7)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 			IPclhrData.emptyPhone="+7";
 
 
 
-		} else if (window.checkCountry == "KZ") { 
+		} else if (window.checkCountry == "KZ") {
 
 			IPclhrData.fields="+Введите ваш телефон(+7)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 			IPclhrData.emptyPhone="+7";
