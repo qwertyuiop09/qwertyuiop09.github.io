@@ -121,11 +121,11 @@ if ((typeof window.IPCHFEmail === "undefined")||(window.IPCHFEmail === "your@dom
 
 	"PRITelMask": "734 41 23, 734 41 24, 234 85 03, 0000-737, 0000-337",
 	"PRIRingID": "123",
-//	"PRIFormData": {title:'Введите ID прямого звонка', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(уточните ID у менеджера)*", button: "Отправить", callTime: 1},
-//	"PRIFormDataPh": {title:'Введите ID прямого звонка', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(уточните ID у менеджера)*", button: "Отправить", callTime: 1},
+//	"PRIFormData": {title:'Введите ID прямого звонка', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(уточните ID у менеджера)*", button: "Отправить", callTime: 0},
+//	"PRIFormDataPh": {title:'Введите ID прямого звонка', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(уточните ID у менеджера)*", button: "Отправить", callTime: 0},
 
-	"PRIFormData": {title:'Акция для ПРЯМЫХ звонков с сайта', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(уточните ID у менеджера)*, +ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции)", button: "Отправить", callTime: 1},
-	"PRIFormDataPh": {title:'Акция для ПРЯМЫХ звонков с сайта', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(уточните ID у менеджера)*, +ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции)", button: "Отправить", callTime: 1},
+	"PRIFormData": {title:'Акция для ПРЯМЫХ звонков с сайта', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(уточните ID у менеджера)*, +ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции)", button: "Отправить", callTime: 0},
+	"PRIFormDataPh": {title:'Акция для ПРЯМЫХ звонков с сайта', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(уточните ID у менеджера)*, +ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции)", button: "Отправить", callTime: 0},
 
 
 
