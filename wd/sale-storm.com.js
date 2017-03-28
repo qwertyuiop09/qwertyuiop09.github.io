@@ -145,6 +145,21 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
+		"PRIClass": '.priclhr-ring',
+
+//		"PRIOneClick": 1,
+		"PRInightOn": 1,
+		"PRITelMask": "789-48-82, 361-14-60, 946-08-82",
+		"PRIRingID": "123",
+
+
+		"PRIFormData": {title:'Уточните у менеджера необходимые данные', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "Имя, Ваш Email, +Ваш телефон, Адрес сайта, -Комментарий, <Одноразовый ID(узнайте у менеджера)*", button: "Отправить", callTime: 1},
+		"PRIFormDataPh": {title:'Уточните у менеджера необходимые данные', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "Имя, Ваш Email, +Ваш телефон, Адрес сайта, -Комментарий, <Одноразовый ID(узнайте у менеджера)*", button: "Отправить", callTime: 1},
+
+
+
+
+
 		"title": "Получить консультацию",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
