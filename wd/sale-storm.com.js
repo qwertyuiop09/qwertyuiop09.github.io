@@ -80,6 +80,13 @@ var IPchatConfig = {
 			IPclhrData.emptyPhone="+7";
 
 
+
+		} else if (window.checkCountry == "KZ") { 
+
+			IPclhrData.fields="+Введите ваш телефон(+7)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+7";
+
+
 		} else {
 
 			IPclhrData.fields="+Введите ваш телефон(+380)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
