@@ -86,6 +86,28 @@ var IPchatConfig = {
 			IPclhrData.fields="+Введите ваш телефон(+7)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 			IPclhrData.emptyPhone="+7";
 
+		} else if (window.checkCountry == "BY") {
+
+			IPclhrData.fields="+Введите ваш телефон(+375)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+375";
+
+		} else if (window.checkCountry == "IL") {
+
+			IPclhrData.fields="+Введите ваш телефон(+972)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+972";
+
+		} else if (window.checkCountry == "US") {
+
+			IPclhrData.fields="+Введите ваш телефон(+1)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+1";
+
+
+		} else if (window.checkCountry == "CA") {
+
+			IPclhrData.fields="+Введите ваш телефон(+1)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+1";
+
+
 
 		} else {
 
