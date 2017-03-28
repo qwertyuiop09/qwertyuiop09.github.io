@@ -124,7 +124,6 @@ var IPchatConfig = {
 			IPclhrData.fields="+Введите ваш телефон(+371)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 			IPclhrData.emptyPhone="+371";
 
-
 		} else {
 
 			IPclhrData.fields="+Введите ваш телефон(+380)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
