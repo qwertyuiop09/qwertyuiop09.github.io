@@ -149,7 +149,7 @@ var IPchatConfig = {
 
 		"PRIOneClick": 1,
 		"PRInightOn": 1,
-		"PRITelMask": "789-48-82, 361-14-60, 946-08-82",
+//		"PRITelMask": "789-48-82, 361-14-80, 946-08-82",
 		"PRIRingID": "123",
 
 
