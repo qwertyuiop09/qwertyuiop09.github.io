@@ -108,6 +108,22 @@ var IPchatConfig = {
 			IPclhrData.emptyPhone="+1";
 
 
+		} else if (window.checkCountry == "EE") {
+
+			IPclhrData.fields="+Введите ваш телефон(+372)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+372";
+
+		} else if (window.checkCountry == "LT") {
+
+			IPclhrData.fields="+Введите ваш телефон(+370)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+370";
+
+
+		} else if (window.checkCountry == "LV") {
+
+			IPclhrData.fields="+Введите ваш телефон(+371)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+371";
+
 
 		} else {
 
