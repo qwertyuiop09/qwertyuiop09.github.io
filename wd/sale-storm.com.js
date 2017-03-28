@@ -47,6 +47,50 @@ var IPchatConfig = {
 
 
 
+	var setIntervalCountry = setInterval(function() {
+		if (window.jQuery) {
+			clearInterval(setIntervalCountry);
+			window.checkCountry = 'UA';
+			window.jQuery.getJSON("http://api.wipmania.com/jsonp?callback=?",
+				function(data) {
+					window.checkCountry = data.address.country_code;
+					chCountry();
+				});
+
+
+
+		}
+	}, 10);
+
+
+
+	function chCountry() {
+
+		if (typeof window.IPclhrData == 'undefined') {
+			setTimeout(function() {
+				chCountry();
+			}, 200);
+			return;
+		}
+
+
+		if (window.checkCountry == "RU") { 
+
+			IPclhrData.fields="+Введите ваш телефон(+7)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+7";
+
+
+		} else {
+
+			IPclhrData.fields="+Введите ваш телефон(+380)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+380";
+
+		}
+	}
+
+
+
+
 	var intepriceIPL = 'sale-storm.inteprice.com';
 	var intepriceCRT = '07.07.2016';
 
