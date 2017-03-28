@@ -155,8 +155,8 @@ var IPchatConfig = {
 
 //		"PRIFormData": {title:'Уточните у менеджера необходимые данные', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "Имя, Ваш Email, +Ваш телефон, Адрес сайта, -Комментарий, <Одноразовый ID(узнайте у менеджера)*", button: "Отправить", callTime: 1},
 //		"PRIFormDataPh": {title:'Уточните у менеджера необходимые данные', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "Имя, Ваш Email, +Ваш телефон, Адрес сайта, -Комментарий, <Одноразовый ID(узнайте у менеджера)*", button: "Отправить", callTime: 1},
-		"PRIFormData": {title:'Уточните у менеджера необходимые данные', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон, -Комментарий, <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 1},
-		"PRIFormDataPh": {title:'Уточните у менеджера необходимые данные', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон, -Комментарий, <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 1},
+		"PRIFormData": {title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон, -Комментарий, <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 1},
+		"PRIFormDataPh": {title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон, -Комментарий, <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 1},
 
 
 
