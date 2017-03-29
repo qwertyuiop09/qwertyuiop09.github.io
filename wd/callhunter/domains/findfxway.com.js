@@ -130,22 +130,17 @@ if (0) {
 
 
 
-/*
-
-
-
 	"AdwConvTime": {
 	google_conversion_id: 963484425,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "69LkCIeZ7mgQ6rO-pAM",
+	google_conversion_label: "EFWNCIvR3G8Qiba2ywM",
 	google_remarketing_only: false
 		},
 
 
 
-*/
 
 		"MMFileType": "2",
 //		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
