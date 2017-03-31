@@ -188,6 +188,8 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
+	"TimeOnSite": "5",
+
 
 	"AdwConvRemark": {
 	google_conversion_id: 856773215,
