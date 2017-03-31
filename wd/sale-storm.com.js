@@ -188,6 +188,37 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
+
+	"AdwConvRemark": {
+	google_conversion_id: 856773215,
+	google_custom_params: window.google_tag_params,
+	google_remarketing_only: true
+		},
+
+
+
+	"AdwConvTime": {
+	google_conversion_id: 856773215,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "cmBhCK-l7G8Q36TFmAM",
+	google_remarketing_only: false
+		},
+
+
+	"AdwConvCHSnd": {
+	google_conversion_id: 856773215,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "ie3sCO-j7G8Q36TFmAM",
+	google_remarketing_only: false
+		},
+
+
+
+
 		"PRIClass": '.priclhr-ring',
 
 //		"PRIOneClick": 1,
