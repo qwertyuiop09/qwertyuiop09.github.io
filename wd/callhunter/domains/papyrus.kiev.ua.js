@@ -84,6 +84,9 @@ if (0) {
 
 	var IPclhrDataUpdate = {
 
+
+	"fields": "+Введите ваш телефон(+380), -Тема звонка(необязательно)",
+
 	// оформление кнопки (green или gray)
 	"ButtonColor":	"gray",
 
