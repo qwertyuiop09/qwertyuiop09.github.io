@@ -89,8 +89,8 @@ if (0) {
 	"showButton": 	"0",
 
 
-//	"workStart": "09",
-//	"workEnd": "18",
+	"workStart": "08",
+	"workEnd": "18",
 //	"workDays": "Mon, Tue, Wed, Thu, Fri",
 
 
