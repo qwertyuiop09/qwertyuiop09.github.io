@@ -1,4 +1,8 @@
 
+var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,undefined,Conv_value) { if (type == 200) { console.log ( 'ConvTime exist' ); if ((typeof window.yaCounter38359345 == 'object')&&(typeof window.yaCounter38359345.reachGoal == 'function')) { window.yaCounter38359345.reachGoal('HOT_ACTIVITY'); } } else if ((type >= 1)&&(type < 200)) { console.log ( 'ConvCHSnd exist' ); if ((typeof window.yaCounter38359345 == 'object')&&(typeof window.yaCounter38359345.reachGoal == 'function')) { window.yaCounter38359345.reachGoal('CALLHUNTER'); } } else if (type == 201) { console.log ( 'ConvСlick exist' ) } else if (type == 202) { console.log ( 'ConvSubmit exist' ) } else if (type == 203) { console.log ( 'ConvHit exist' ) } else if (type == 204) { console.log ( 'ConvJivo exist' ) } else if (type == 205) { console.log ( 'CallWidget exist' ) } ; if (typeof Conv_value != 'undefined') { console.log ( 'ConvValue exist: ' + Conv_value ) }   }
+
+
+
 
 if (0) {
 
