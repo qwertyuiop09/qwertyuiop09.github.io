@@ -2,12 +2,11 @@
 var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,undefined,Conv_value) { if (type == 200) { console.log ( 'ConvTime exist' ) } else if ((type >= 1)&&(type < 200)) { console.log ( 'ConvCHSnd exist' ) } else if (type == 201) { console.log ( 'ConvСlick exist' ) } else if (type == 202) { console.log ( 'ConvSubmit exist' ) } else if (type == 203) { console.log ( 'ConvHit exist' ) } else if (type == 204) { console.log ( 'ConvJivo exist' ) } else if (type == 205) { console.log ( 'CallWidget exist' ) } ; if (typeof Conv_value != 'undefined') { console.log ( 'ConvValue exist: ' + Conv_value ) }   }
 
 
-window.IPCHFEmail = 'tsrdkd@gmail.com';
 
 
 //без предоплаты, логин менеджера
-var intepriceIPL = 'skladteh.inteprice.com';
-var intepriceCRT = '11.04.2017';
+var intepriceIPL = 'azuri.inteprice.com';
+var intepriceCRT = '21.04.2017';
 
 
 var IPchatConfig = {
@@ -85,49 +84,58 @@ if (0) {
 
 	var IPclhrDataUpdate = {
 
-//	"hunterOn": "0",
-//	"showButton": 	"0",
 
-
-	"workStart": "08",
-	"workEnd": "18",
+//	"workStart": "09",
+//	"workEnd": "18",
 //	"workDays": "Mon, Tue, Wed, Thu, Fri",
 
 
-/*
+		"title": "Получить консультацию",
+		"titleworktime": "Мы свяжемся с Вами через несколько минут",
+		"titlenight": "Мы свяжемся с Вами в рабочее время",
+		"button": "Жду ответ!",
+		"callTime": "0",
+		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
+		"emptyPhone": "+380",
+
+
+
 
 	"AdwConvRemark": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 872869343,
 	google_custom_params: window.google_tag_params,
 	google_remarketing_only: true
 		},
 
 
+
+
 	"AdwConvTime": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 872869343,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "69LkCIeZ7mgQ6rO-pAM",
+	google_conversion_label: "VOTOCMrvzHAQ39uboAM",
 	google_remarketing_only: false
 		},
 
 
 	"AdwConvCHSnd": {
-	google_conversion_id: 881826282,
+	google_conversion_id: 872869343,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "7ElWCKKZ7mgQ6rO-pAM",
+	google_conversion_label: "bUlyCIXF03AQ39uboAM",
 	google_remarketing_only: false
 		},
 
 
-*/
+
 
 		"MMFileType": "2",
-		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+//		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
+//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+		"ExtFormBtnFC": '#submit-btn',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
@@ -142,8 +150,8 @@ if (0) {
 	"consultantSettings": {
 	        phone_field: 1,
 	        phone_required: 1,
-	        email_field: 0,
-	        email_required: 0,
+	        email_field: 1,
+	        email_required: 1,
 	        name_field: 1,
 	        name_required: 0,
 	        fields_forced: 1,
