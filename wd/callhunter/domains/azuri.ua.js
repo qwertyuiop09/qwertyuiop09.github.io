@@ -84,6 +84,8 @@ if (0) {
 
 	var IPclhrDataUpdate = {
 
+		"TimeOnSite": "5",
+
 
 //	"workStart": "09",
 //	"workEnd": "18",
