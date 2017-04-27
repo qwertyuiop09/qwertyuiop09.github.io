@@ -233,15 +233,16 @@ var IPchatConfig = {
 	}
 
 
+	var pagecurIpfLg=0;
+
 	var pagecurIp=window.location.href.toString().split(window.location.host)[1];
 	pagecurIp = pagecurIp.replace( /^\//, '' ); 
 	pagecurIp = pagecurIp.replace( /(.*?)[\?].*$/, '$1' );
 	pagecurIp = pagecurIp.replace( /\/$/, '' ); 
 
-	var pagecurIpfLg=0;
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")) {
-		IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-		IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+		IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), ФИО(Ваше имя), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+		IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), ФИО(Ваше имя), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 		pagecurIpfLg=1;
 	}
 
