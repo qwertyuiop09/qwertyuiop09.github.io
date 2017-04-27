@@ -86,6 +86,150 @@ var IPchatConfig = {
 
 
 
+	var setIntervalCountry = setInterval(function() {
+		if (window.jQuery) {
+			clearInterval(setIntervalCountry);
+			window.checkCountry = 'US';
+			window.jQuery.getJSON("http://api.wipmania.com/jsonp?callback=?",
+				function(data) {
+					window.checkCountry = data.address.country_code;
+					chCountry();
+				});
+
+
+
+		}
+	}, 10);
+
+
+
+	function chCountry() {
+
+		if (typeof window.IPclhrData == 'undefined') {
+			setTimeout(function() {
+				chCountry();
+			}, 200);
+			return;
+		}
+
+
+		if (window.checkCountry == "RU") {
+
+			IPclhrData.fields="+Введите ваш телефон(+7)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+7";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+7), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+7), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+		} else if (window.checkCountry == "KZ") {
+
+			IPclhrData.fields="+Введите ваш телефон(+7)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+7";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+7), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+7), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+
+		} else if (window.checkCountry == "BY") {
+
+			IPclhrData.fields="+Введите ваш телефон(+375)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+375";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+375), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+375), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+		} else if (window.checkCountry == "IL") {
+
+			IPclhrData.fields="+Введите ваш телефон(+972)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+972";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+972), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+972), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+		} else if (window.checkCountry == "US") {
+
+			IPclhrData.fields="+Введите ваш телефон(+1)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+1";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+1), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+1), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+
+		} else if (window.checkCountry == "CA") {
+
+			IPclhrData.fields="+Введите ваш телефон(+1)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+1";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+1), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+1), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+
+		} else if (window.checkCountry == "EE") {
+
+			IPclhrData.fields="+Введите ваш телефон(+372)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+372";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+372), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+372), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+		} else if (window.checkCountry == "LT") {
+
+			IPclhrData.fields="+Введите ваш телефон(+370)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+370";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+370), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+370), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+		} else if (window.checkCountry == "LV") {
+
+			IPclhrData.fields="+Введите ваш телефон(+371)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+371";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+371), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+371), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+		} else if (window.checkCountry == "DE") {
+
+			IPclhrData.fields="+Введите ваш телефон(+49)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+49";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+49), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+49), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+		} else if (window.checkCountry == "UA") {
+
+			IPclhrData.fields="+Введите ваш телефон(+380)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+380";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+		} else {
+
+			IPclhrData.fields="+Введите ваш телефон(+380)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+			IPclhrData.emptyPhone="+380";
+
+			IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
+
+		}
+	}
+
+
+
+
 	var intepriceIPL = 'sale-storm.inteprice.com';
 	var intepriceCRT = '07.07.2016';
 
@@ -233,85 +377,21 @@ var IPchatConfig = {
 	}
 
 
-	var pagecurIp=window.location.href.toString().split(window.location.host)[1];
-	pagecurIp = pagecurIp.replace( /^\//, '' ); 
-	pagecurIp = pagecurIp.replace( /(.*?)[\?].*$/, '$1' );
-	pagecurIp = pagecurIp.replace( /\/$/, '' ); 
-
-	var pagecurIpfLg=0;
-	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")) {
-		IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-		IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-		pagecurIpfLg=1;
-	}
 
 
-	var setIntervalCountry = setInterval(function() {
-		if (window.jQuery) {
-			clearInterval(setIntervalCountry);
-			window.checkCountry = 'US';
-			window.jQuery.getJSON("http://api.wipmania.com/jsonp?callback=?",
-				function(data) {
-					window.checkCountry = data.address.country_code;
-					chCountry();
-				});
+var pagecur=window.location.href.toString().split(window.location.host)[1];
+pagecur = pagecur.replace( /^\//, '' ); 
+pagecur = pagecur.replace( /(.*?)[\?].*$/, '$1' );
+pagecur = pagecur.replace( /\/$/, '' ); 
+
+if ((pagecur=="oxotnik-za-klientami/")||(pagecur=="oxotnik-za-klientami")) {
+	IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+	IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+}
 
 
 
-		}
-	}, 10);
 
-
-
-	function chCountry() {
-
-		var emptyPhone = "+380";
-
-		if (window.checkCountry == "RU") {
-			emptyPhone = "+7";
-		} else if (window.checkCountry == "KZ") {
-			emptyPhone = "+7";
-		} else if (window.checkCountry == "BY") {
-			emptyPhone = "+375";
-		} else if (window.checkCountry == "IL") {
-			emptyPhone = "+972";
-		} else if (window.checkCountry == "US") {
-			emptyPhone = "+1";
-		} else if (window.checkCountry == "CA") {
-			emptyPhone = "+1";
-		} else if (window.checkCountry == "EE") {
-			emptyPhone = "+372";
-		} else if (window.checkCountry == "LT") {
-			emptyPhone = "+370";
-		} else if (window.checkCountry == "LV") {
-			emptyPhone = "+371";
-		} else if (window.checkCountry == "DE") {
-			emptyPhone = "+49";
-		} else if (window.checkCountry == "UA") {
-			emptyPhone = "+380";
-		}
-
-		if (typeof window.IPclhrData == 'undefined') {
-			IPclhrDataUpdate.fields="+Введите ваш телефон(" + emptyPhone + ")*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
-			IPclhrDataUpdate.emptyPhone=emptyPhone;
-
-			if (!window.pagecurIpfLg) {
-				IPclhrDataUpdate.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-				IPclhrDataUpdate.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-			}
-		} else {
-			IPclhrData.fields="+Введите ваш телефон(" + emptyPhone + ")*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
-			IPclhrData.emptyPhone=emptyPhone;
-
-			if (!window.pagecurIpfLg) {
-				IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-				IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-			}
-		}
-
-
-
-	}
 
 
 
