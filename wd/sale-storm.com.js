@@ -385,8 +385,8 @@ pagecur = pagecur.replace( /(.*?)[\?].*$/, '$1' );
 pagecur = pagecur.replace( /\/$/, '' ); 
 
 if ((pagecur=="oxotnik-za-klientami/")||(pagecur=="oxotnik-za-klientami")) {
-	IPclhrDataUpdate.PRIFormData={title:'Акция для ПРЯМЫХ звонков с сайта', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(узнайте ID у менеджера)*, +ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции)", button: "Отправить", callTime: 0};
-	IPclhrDataUpdate.PRIFormDataPh={title:'Акция для ПРЯМЫХ звонков с сайта', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "<Одноразовый ID(узнайте ID у менеджера)*, +ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции)", button: "Отправить", callTime: 0};
+	IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+	IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 }
 
 
