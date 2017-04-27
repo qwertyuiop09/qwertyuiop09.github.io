@@ -243,8 +243,8 @@ var IPchatConfig = {
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")) {
 //		IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), ФИО(Ваше имя), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 //		IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), ФИО(Ваше имя), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-		IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас', titlenight:'Спасибо, подарок уже ждет Вас', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ!(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-		IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас', titlenight:'Спасибо, подарок уже ждет Вас', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ!(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+		IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас!', titlenight:'Спасибо, подарок уже ждет Вас!', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+		IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас!', titlenight:'Спасибо, подарок уже ждет Вас!', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 		pagecurIpfLg=1;
 	}
 
