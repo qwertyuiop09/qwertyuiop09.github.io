@@ -250,7 +250,14 @@ var IPchatConfig = {
 		window.jqIPAcode(document).mouseup(function(event) {
 //			IPclhrDataUpdate.PRIEventFoundAction=window.jqIPAcode(event.target).closest(".priclhr-ring-footer").length;
 			IPclhrDataUpdate.PRIEventFoundAction=window.jqIPAcode(event.target).is('.priclhr-ring-footer a');
+
+if (IPclhrDataUpdate.PRIEventFoundAction) {
+alert('found');
+}
+
+
 		});     
+
 
 /*
 		document.onmouseup = function(event) {
