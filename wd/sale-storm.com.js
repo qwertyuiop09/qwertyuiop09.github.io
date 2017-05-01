@@ -240,8 +240,6 @@ var IPchatConfig = {
 	IPclhrDataUpdate.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend
 
 
-	var pagecurIpfLg=0;
-
 	var pagecurIp=window.location.href.toString().split(window.location.host)[1];
 	pagecurIp = pagecurIp.replace( /^\//, '' ); 
 	pagecurIp = pagecurIp.replace( /(.*?)[\?].*$/, '$1' );
@@ -249,7 +247,6 @@ var IPchatConfig = {
 
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
 //		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(window.jqIPAcode(this).closest('.priclhr-ring-footer').length)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
-		pagecurIpfLg=1;
 	}
 
 
