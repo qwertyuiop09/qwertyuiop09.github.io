@@ -247,36 +247,21 @@ var IPchatConfig = {
 
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
 
-
 		window.jqIPAcode(document).mouseup(function(event) {
-//			IPclhrDataUpdate.PRIEventFoundEl=window.jqIPAcode(window.jqIPAcode(event.target).closest(".priclhr-ring-footer")).length
-			IPclhrDataUpdate.PRIEventFoundEl=window.jqIPAcode(event.target).is('.priclhr-ring-footer a');
+//			IPclhrDataUpdate.PRIEventFoundAction=window.jqIPAcode(event.target).closest(".priclhr-ring-footer").length;
+			IPclhrDataUpdate.PRIEventFoundAction=window.jqIPAcode(event.target).is('.priclhr-ring-footer a');
 		});     
 
-
-//		window.jqIPAcode(document).mousedown(function() {
-//			IPclhrDataUpdate.PRIEventClElement=window.jqIPAcode(this)[0];
-//		});
-
-//	    jQuery(document).bind('mousedown',disableMiddleMouseButtonScrolling);
-
 /*
-		document.onclick = function(event) {
+		document.onmouseup = function(event) {
 			event = event || window.event;
-			IPclhrDataUpdate.PRIEventClElement=event.target||event.srcElement; 
-//			t=event.target||event.srcElement; 
-//			alert(t.tagName);
-		}
-		document.ondblclick = function(event) {
-			event = event || window.event;
-			IPclhrDataUpdate.PRIEventClElement=event.target||event.srcElement; 
-//			t=event.target||event.srcElement; 
-//			alert(t.tagName);
+//			IPclhrDataUpdate.PRIEventFoundAction=event.target||event.srcElement; 
+			t=event.target||event.srcElement; 
+			alert(t.tagName);
 		}
 */
 
-//		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(IPclhrDataUpdate.PRIEventClElement)&&(window.jqIPAcode(IPclhrDataUpdate.PRIEventClElement).closest(".priclhr-ring-footer").length)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
-		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(IPclhrDataUpdate.PRIEventFoundEl)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
+		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(IPclhrDataUpdate.PRIEventFoundAction)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
 	}
 
 
