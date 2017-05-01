@@ -314,7 +314,7 @@ var IPchatConfig = {
 		}
 
 
-alert(window.checkCountry)
+//alert(window.checkCountry)
 
 
 		IPclhrDataUpdate.fields="+Введите ваш телефон(" + emptyPhone + ")*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
