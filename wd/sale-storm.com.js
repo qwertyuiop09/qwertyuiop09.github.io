@@ -246,7 +246,12 @@ var IPchatConfig = {
 	pagecurIp = pagecurIp.replace( /\/$/, '' ); 
 
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
-		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(window.jqIPAcode(this).closest(".priclhr-ring-footer").length)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
+		document.body.onclick = function(event) {
+			IPclhrDataUpdate.PRIEventElement=event.target||event.srcElement; 
+//			t=event.target||event.srcElement; 
+//			alert(t.tagName);
+		}
+		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(IPclhrDataUpdate.PRIEventElement)&&(window.jqIPAcode(IPclhrDataUpdate.PRIEventElement).closest(".priclhr-ring-footer").length)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
 	}
 
 
