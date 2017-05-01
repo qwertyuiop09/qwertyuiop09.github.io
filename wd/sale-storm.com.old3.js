@@ -133,8 +133,11 @@ var IPchatConfig = {
 		"PRIRingID": "123, 196, 965",
 
 
-//		"PRIFormData": {title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
-//		"PRIFormDataPh": {title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
+//		"PRIFormData": {title:'Уточните у менеджера необходимые данные', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "Имя, Ваш Email, +Ваш телефон, Адрес сайта, -Комментарий, <Одноразовый ID(узнайте у менеджера)*", button: "Отправить", callTime: 0},
+//		"PRIFormDataPh": {title:'Уточните у менеджера необходимые данные', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам в рабочее время,<br>узнайте подробности', titlenightsize: "12px", fields: "Имя, Ваш Email, +Ваш телефон, Адрес сайта, -Комментарий, <Одноразовый ID(узнайте у менеджера)*", button: "Отправить", callTime: 0},
+		"PRIFormData": {title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
+		"PRIFormDataPh": {title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
+
 
 
 
@@ -144,7 +147,7 @@ var IPchatConfig = {
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
 		"button": "Жду ответ!",
 		"callTime": "0",
-//		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*",
+		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*",
 		"emptyPhone": "+380",
 
 
@@ -230,16 +233,6 @@ var IPchatConfig = {
 	}
 
 
-//значения по умолчанию
-	IPclhrDataUpdate.fields="+Введите ваш телефон(+380)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
-	IPclhrDataUpdate.PRIFormDataSend={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-	IPclhrDataUpdate.PRIFormDataAction={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас!', titlenight:'Спасибо, подарок уже ждет Вас!', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-
-
-	IPclhrDataUpdate.PRIFormData=IPclhrDataUpdate.PRIFormDataSend;
-	IPclhrDataUpdate.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend
-
-
 	var pagecurIpfLg=0;
 
 	var pagecurIp=window.location.href.toString().split(window.location.host)[1];
@@ -247,8 +240,11 @@ var IPchatConfig = {
 	pagecurIp = pagecurIp.replace( /(.*?)[\?].*$/, '$1' );
 	pagecurIp = pagecurIp.replace( /\/$/, '' ); 
 
-	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
-		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(window.jqIPAcode(this).closest('.priclhr-ring-footer').length)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
+	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")) {
+//		IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), ФИО(Ваше имя), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+//		IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Позвоните нам, узнайте подробности', titlenight:'Позвоните нам, узнайте подробности', titlenightsize: "12px", fields: "+ХОЧУ СПЕЦАКЦИЮ!(Ваш телефон для участия в акции), ФИО(Ваше имя), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+		IPclhrDataUpdate.PRIFormData={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас!', titlenight:'Спасибо, подарок уже ждет Вас!', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+		IPclhrDataUpdate.PRIFormDataPh={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас!', titlenight:'Спасибо, подарок уже ждет Вас!', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 		pagecurIpfLg=1;
 	}
 
@@ -298,23 +294,22 @@ var IPchatConfig = {
 			emptyPhone = "+380";
 		}
 
-
-		IPclhrDataUpdate.fields="+Введите ваш телефон(" + emptyPhone + ")*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
-//IPclhrDataUpdate.PRIFormDataSend используется также в PRIEvent, который здесь не меняем
-		IPclhrDataUpdate.PRIFormDataSend={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-
 		if (typeof window.IPclhrData == 'undefined') {
-//			IPclhrDataUpdate.fields=IPclhrDataUpdate.fields;
+			IPclhrDataUpdate.fields="+Введите ваш телефон(" + emptyPhone + ")*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 			IPclhrDataUpdate.emptyPhone=emptyPhone;
 
-			IPclhrDataUpdate.PRIFormData=IPclhrDataUpdate.PRIFormDataSend;
-			IPclhrDataUpdate.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend;
+			if (!window.pagecurIpfLg) {
+				IPclhrDataUpdate.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+				IPclhrDataUpdate.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			}
 		} else {
-			IPclhrData.fields=IPclhrDataUpdate.fields;
+			IPclhrData.fields="+Введите ваш телефон(" + emptyPhone + ")*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 			IPclhrData.emptyPhone=emptyPhone;
 
-			IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend;
-			IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend;
+			if (!window.pagecurIpfLg) {
+				IPclhrData.PRIFormData={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+				IPclhrData.PRIFormDataPh={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+			}
 		}
 
 
