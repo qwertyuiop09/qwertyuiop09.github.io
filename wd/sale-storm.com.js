@@ -314,6 +314,9 @@ var IPchatConfig = {
 		}
 
 
+alert(window.checkCountry)
+
+
 		IPclhrDataUpdate.fields="+Введите ваш телефон(" + emptyPhone + ")*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 //IPclhrDataUpdate.PRIFormDataSend используется также в PRIEvent, который здесь не меняем
 		IPclhrDataUpdate.PRIFormDataSend={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
