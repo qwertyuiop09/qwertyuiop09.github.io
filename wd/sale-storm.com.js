@@ -247,6 +247,7 @@ var IPchatConfig = {
 
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
 		document.body.onclick = function(event) {
+			event = event || window.event;
 			IPclhrDataUpdate.PRIEventElement=event.target||event.srcElement; 
 //			t=event.target||event.srcElement; 
 //			alert(t.tagName);
