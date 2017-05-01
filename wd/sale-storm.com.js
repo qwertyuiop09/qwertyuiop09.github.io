@@ -313,8 +313,6 @@ var IPchatConfig = {
 		}
 
 
-//alert(window.checkCountry)
-
 
 		IPclhrDataUpdate.fields="+Введите ваш телефон(" + emptyPhone + ")*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 //IPclhrDataUpdate.PRIFormDataSend используется также в PRIEvent, который здесь не меняем
