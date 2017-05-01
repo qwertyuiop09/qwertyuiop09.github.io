@@ -247,11 +247,11 @@ var IPchatConfig = {
 
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
 
-		window.jqIPAcode(document).mousedown(function(event) {
-			event = event || window.event;
-			IPclhrDataUpdate.PRIEventClElement=event.target||event.srcElement; 
+		window.jqIPAcode(document).mousedown(function() {
+			IPclhrDataUpdate.PRIEventClElement=this;
 		});
 
+//	    jQuery(document).bind('mousedown',disableMiddleMouseButtonScrolling);
 
 /*
 		document.onclick = function(event) {
