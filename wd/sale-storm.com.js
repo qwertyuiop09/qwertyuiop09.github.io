@@ -248,7 +248,6 @@ var IPchatConfig = {
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
 
 		jQuery(document).mouseup(function(event) {
-//			IPclhrDataUpdate.PRIEventFoundAction=jQuery(event.target).closest(".priclhr-ring-footer").length;
 //			IPclhrDataUpdate.PRIEventFoundAction=jQuery(event.target).is('.priclhr-ring-footer a');
 			IPclhrDataUpdate.PRIEventFoundAction=jQuery(event.target).closest(".priclhr-ring-footer a").length;
 
