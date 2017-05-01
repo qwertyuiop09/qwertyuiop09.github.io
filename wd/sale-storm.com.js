@@ -260,7 +260,7 @@ var IPchatConfig = {
 //			alert(t.tagName);
 		}
 
-//		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(IPclhrDataUpdate.PRIEventClElement)&&(window.jqIPAcode(IPclhrDataUpdate.PRIEventClElement).closest(".priclhr-ring-footer").length)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
+		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(IPclhrDataUpdate.PRIEventClElement)&&(window.jqIPAcode(IPclhrDataUpdate.PRIEventClElement).closest(".priclhr-ring-footer").length)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
 	}
 
 
