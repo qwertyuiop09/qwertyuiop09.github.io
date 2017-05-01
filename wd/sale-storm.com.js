@@ -247,6 +247,15 @@ var IPchatConfig = {
 
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
 
+
+/*
+		window.jqIPAcode(document).mouseup(function(event) {
+			IPclhrDataUpdate.PRIEventClElement=window.jqIPAcode(event.target).closest(".priclhr-ring-footer");
+
+		});     
+
+*/
+
 //		window.jqIPAcode(document).mousedown(function() {
 //			IPclhrDataUpdate.PRIEventClElement=window.jqIPAcode(this)[0];
 //		});
