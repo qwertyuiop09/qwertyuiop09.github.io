@@ -247,6 +247,12 @@ var IPchatConfig = {
 
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
 
+		window.jqIPAcode(document).mousedown(function(event) {
+			event = event || window.event;
+			IPclhrDataUpdate.PRIEventClElement=event.target||event.srcElement; 
+		});
+
+
 /*
 		document.onclick = function(event) {
 			event = event || window.event;
@@ -254,13 +260,13 @@ var IPchatConfig = {
 //			t=event.target||event.srcElement; 
 //			alert(t.tagName);
 		}
-*/
 		document.ondblclick = function(event) {
 			event = event || window.event;
 			IPclhrDataUpdate.PRIEventClElement=event.target||event.srcElement; 
 //			t=event.target||event.srcElement; 
 //			alert(t.tagName);
 		}
+*/
 
 		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(IPclhrDataUpdate.PRIEventClElement)&&(window.jqIPAcode(IPclhrDataUpdate.PRIEventClElement).closest(".priclhr-ring-footer").length)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
 	}
