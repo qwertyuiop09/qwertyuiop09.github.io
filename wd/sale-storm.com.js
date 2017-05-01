@@ -125,7 +125,7 @@ var IPchatConfig = {
 
 
 
-		"PRIClass": '.priclhr-ring a',
+		"PRIClass": '.priclhr-ring a, .priclhr-ring-footer a',
 
 //		"PRIOneClick": 1,
 		"PRInightOn": 1,
