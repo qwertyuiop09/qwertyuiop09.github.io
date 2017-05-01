@@ -158,6 +158,12 @@ var IPchatConfig = {
 		"ButtonTransform": 3,
 		"ButtonY":	"160",
 
+// размещение кнопки (справа внизу RightBottom, справа вверху RightTop, слева внизу LeftBottom, слева вверху LeftTop)
+//		"ButtonPlace":	"RightBottom",
+		"ButtonPlace":	"RightTop",
+
+
+
 //		"ButtonYMobile": 80,
 //		"ButtonXMobile": 0,
 //		"ButtonMobilePlace": 'RightTop',
