@@ -247,14 +247,9 @@ var IPchatConfig = {
 
 	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
 
-		window.jqIPAcode(document).mouseup(function(event) {
-//			IPclhrDataUpdate.PRIEventFoundAction=window.jqIPAcode(event.target).closest(".priclhr-ring-footer").length;
-			IPclhrDataUpdate.PRIEventFoundAction=window.jqIPAcode(event.target).is('.priclhr-ring-footer a');
-
-if (IPclhrDataUpdate.PRIEventFoundAction) {
-alert('found');
-}
-
+		jQuery(document).mouseup(function(event) {
+//			IPclhrDataUpdate.PRIEventFoundAction=jQuery(event.target).closest(".priclhr-ring-footer").length;
+			IPclhrDataUpdate.PRIEventFoundAction=jQuery(event.target).is('.priclhr-ring-footer a');
 
 		});     
 
@@ -268,7 +263,7 @@ alert('found');
 		}
 */
 
-		IPclhrDataUpdate.PRIEvent='if ((window.jqIPAcode)&&(IPclhrDataUpdate.PRIEventFoundAction)) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
+		IPclhrDataUpdate.PRIEvent='if (IPclhrDataUpdate.PRIEventFoundAction) { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataAction; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataAction; } else { IPclhrData.PRIFormData=IPclhrDataUpdate.PRIFormDataSend; IPclhrData.PRIFormDataPh=IPclhrDataUpdate.PRIFormDataSend; }';
 	}
 
 
