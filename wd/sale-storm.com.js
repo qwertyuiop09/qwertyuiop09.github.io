@@ -251,7 +251,7 @@ var IPchatConfig = {
 	pagecurIp = pagecurIp.replace( /(.*?)[\?].*$/, '$1' );
 	pagecurIp = pagecurIp.replace( /\/$/, '' ); 
 
-	if ((pagecurIp=="oxotnik-za-klientami/")||(pagecurIp=="oxotnik-za-klientami")||(pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
+	if ((pagecurIp=="nashi-ofisy")||(pagecurIp=="nashi-ofisy/")) {
 
 		if (window.jQuery) {
 			window.jQuery(document).mouseup(function(event) {
