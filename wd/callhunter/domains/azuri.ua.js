@@ -139,6 +139,10 @@ if (0) {
 //		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 //		"ExtFormBtnFC": '#submit-btn',
+
+		"HitElement": ".sub-title",
+		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
+
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
