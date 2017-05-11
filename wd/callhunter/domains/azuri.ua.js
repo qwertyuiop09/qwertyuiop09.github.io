@@ -135,7 +135,7 @@ if (0) {
 
 
 		"MMFileType": "2",
-//низзя вообще подключаться к их форме магазина (глючить страница "спасибо за покупку" - просто вылазит ошибка)
+//низзя вообще подключаться к их форме магазина (глючит страница "спасибо за покупку" - просто вылазит ошибка без перехода на эту страницу)
 //		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 //		"ExtFormBtnFC": '#submit-btn',
