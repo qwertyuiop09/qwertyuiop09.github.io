@@ -132,6 +132,8 @@ var IPchatConfig = {
 //		"PRITelMask": "789-48-82, 361-14-80, 946-08-82",
 		"PRIRingID": "123, 196, 965",
 
+		"IDSonline": 'ids',
+
 
 //		"PRIFormData": {title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
 //		"PRIFormDataPh": {title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
