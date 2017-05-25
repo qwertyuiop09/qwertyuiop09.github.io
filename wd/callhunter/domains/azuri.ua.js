@@ -132,6 +132,7 @@ if (0) {
 		},
 
 
+//25.05 вставлена цель
 	"AdwConvHit": {
 	google_conversion_id: 872869343,
 	google_conversion_language: "en",
