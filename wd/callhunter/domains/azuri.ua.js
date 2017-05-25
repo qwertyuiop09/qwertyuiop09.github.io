@@ -132,6 +132,14 @@ if (0) {
 		},
 
 
+	"AdwConvHit": {
+	google_conversion_id: 872869343,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "bUlyCIXF03AQ39uboAM",
+	google_remarketing_only: false
+		},
 
 
 		"MMFileType": "2",
