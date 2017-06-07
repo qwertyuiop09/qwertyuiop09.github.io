@@ -281,8 +281,8 @@ var IPchatConfig = {
 		if (window.jQuery) {
 			clearInterval(setIntervalCountry);
 			window.checkCountry = 'US';
-//			window.jQuery.getJSON("http://api.wipmania.com/jsonp?callback=?",
-			window.jQuery.getJSON("http://inteprice.com/01wipman/jsonp?callback=?",
+			window.jQuery.getJSON("http://api.wipmania.com/jsonp?callback=?",
+//			window.jQuery.getJSON("http://inteprice.com/01wipman/jsonp?callback=?",
 				function(data) {
 					window.checkCountry = data.address.country_code;
 					chCountry();
