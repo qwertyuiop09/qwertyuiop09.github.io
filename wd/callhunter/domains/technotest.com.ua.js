@@ -114,7 +114,8 @@ if ((typeof window.IPCHFEmail === "undefined")||(window.IPCHFEmail === "your@dom
 //	"PRIClass": '.priclhr-ring, .top-logo, .vs-footerbox .ty-float-left, .top-block-grid span span span strong, .ty-wysiwyg-content table p span strong span span span, .ty-wysiwyg-content table p span span strong span, .ty-wysiwyg-content table p span strong span span strong span strong span, .ty-wysiwyg-content table p span strong span span, .ty-wysiwyg-content table span span strong span',
 //	"PRIClass": '.priclhr-ring, .top-logo, .vs-footerbox .ty-float-left, .top-block-grid span span span strong, .ty-wysiwyg-content table p span strong span span, .ty-wysiwyg-content table span span strong span',
 
-	"PRIClass": '.priclhr-ring, .top-logo, .vs-footerbox .ty-float-left, .top-block-grid span span span strong, .ty-wysiwyg-content table span strong span',
+//закомментировано, так как top-logo есть в логотипе и проблема возникает при клике
+//	"PRIClass": '.priclhr-ring, .top-logo, .vs-footerbox .ty-float-left, .top-block-grid span span span strong, .ty-wysiwyg-content table span strong span',
 
 //	"PRIOneClick": 1,
 	"PRInightOn": 0,
