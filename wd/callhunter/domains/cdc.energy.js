@@ -99,7 +99,7 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
-		"PRIClass": 'a.phone-nav, a.foot-but',
+		"PRIClass": 'a.phone-nav, a.foot-but .fa-phone',
 //		"PRIOneClick": 1,
 		"PRInightOn": 1,
 //		"PRITelMask": "789-48-82, 361-14-80, 946-08-82",
