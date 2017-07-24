@@ -95,7 +95,18 @@ if (0) {
 }
 
 
+
 	var IPclhrDataUpdate = {
+
+
+		"PRIClass": 'a.phone-nav, a.foot-but',
+//		"PRIOneClick": 1,
+		"PRInightOn": 1,
+//		"PRITelMask": "789-48-82, 361-14-80, 946-08-82",
+		"PRIRingID": "145, 127, 196, 183",
+		"PRIFormData": {title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+//		"PRIFormData": {title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас!', titlenight:'Спасибо, подарок уже ждет Вас!', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+
 
 
 //	"workStart": "09",
