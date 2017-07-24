@@ -9,7 +9,7 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 	pagecur = pagecur.replace( /(.*?)[\?].*$/, '$1' );
 	pagecur = pagecur.replace( /\/$/, '' ); 
 
-	if ((pagecur=="")||(pagecur.indexOf('ru/') == 0)||(pagecur.indexOf('uk/') == 0)) {
+	if ((pagecur=="")||(pagecur.indexOf('ru') == 0)||(pagecur.indexOf('uk') == 0)) {
 		existhunter = 1;
 	}
 
