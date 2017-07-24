@@ -228,3 +228,7 @@ if (!existhunter) {
 	IPclhrDataUpdate.hunterOn="0";
 	IPclhrDataUpdate.showButton="0";
 }
+
+
+	IPclhrDataUpdate.freefull=1;
+
