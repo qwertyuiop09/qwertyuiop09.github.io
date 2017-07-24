@@ -12,11 +12,12 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 	if ((pagecur=="")||(pagecur.indexOf('ru') == 0)||(pagecur.indexOf('uk') == 0)) {
 		existhunter = 1;
 	}
+	existhunter = 1;
 
 
 
 //без предоплаты, логин менеджера
-var intepriceIPL = 'cdcenergy.inteprice.com';
+var intepriceIPL = 'sale-storm.inteprice.com';
 var intepriceCRT = '24.07.2017';
 
 
