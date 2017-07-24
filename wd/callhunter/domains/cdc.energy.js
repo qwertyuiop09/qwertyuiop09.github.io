@@ -2,6 +2,17 @@
 var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,undefined,Conv_value) { if (type == 200) { console.log ( 'ConvTime exist' ) } else if ((type >= 1)&&(type < 200)) { console.log ( 'ConvCHSnd exist' ) } else if (type == 201) { console.log ( 'ConvСlick exist' ) } else if (type == 202) { console.log ( 'ConvSubmit exist' ) } else if (type == 203) { console.log ( 'ConvHit exist' ) } else if (type == 204) { console.log ( 'ConvJivo exist' ) } else if (type == 205) { console.log ( 'CallWidget exist' ) } ; if (typeof Conv_value != 'undefined') { console.log ( 'ConvValue exist: ' + Conv_value ) }   }
 
 
+	var existhunter = 0;
+
+	var pagecur=window.location.href.toString().split(window.location.host)[1];
+	pagecur = pagecur.replace( /^\//, '' ); 
+	pagecur = pagecur.replace( /(.*?)[\?].*$/, '$1' );
+	pagecur = pagecur.replace( /\/$/, '' ); 
+
+	if ((pagecur=="")||(pagecur.indexOf('ru/') == 0)||(pagecur.indexOf('uk/') == 0)) {
+		existhunter = 1;
+	}
+
 
 
 //без предоплаты, логин менеджера
@@ -43,7 +54,9 @@ var IPchatConfig = {
 };
 
 
-(function(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.charset="UTF-8"; s.async = true; var a;a="http";a+="\x73\x3a\x2f\x2f";a+="cdn.";a+="sale";a+="-storm";a+=".com";a+="/wd";a+="/";a+="\x63\x61\x6C\x6C\x68\x75\x6E\x74\x65\x72\x2F\x63\x68\x61\x74\x2F\x6A\x73\x2F\x77\x69\x64\x67\x65\x74\x5F\x65\x6E\x5F\x55\x53\x2E\x6A\x73\x3F\x72\x61\x6E\x64\x3D\x31\x34\x34\x35\x32\x36\x37\x39\x39\x37"; s.src = a; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+if (existhunter) {
+	(function(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.charset="UTF-8"; s.async = true; var a;a="http";a+="\x73\x3a\x2f\x2f";a+="cdn.";a+="sale";a+="-storm";a+=".com";a+="/wd";a+="/";a+="\x63\x61\x6C\x6C\x68\x75\x6E\x74\x65\x72\x2F\x63\x68\x61\x74\x2F\x6A\x73\x2F\x77\x69\x64\x67\x65\x74\x5F\x65\x6E\x5F\x55\x53\x2E\x6A\x73\x3F\x72\x61\x6E\x64\x3D\x31\x34\x34\x35\x32\x36\x37\x39\x39\x37"; s.src = a; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+}
 
 
 if (0) {
@@ -197,3 +210,10 @@ if (0) {
 		"consultantAlwaysShowSupport":"1",
 		"consultantMMFolder":""
 	}
+
+
+
+if (!existhunter) {
+	IPclhrDataUpdate.hunterOn="0";
+	IPclhrDataUpdate.showButton="0";
+}
