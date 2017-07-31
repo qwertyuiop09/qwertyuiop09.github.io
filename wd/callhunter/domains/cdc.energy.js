@@ -233,5 +233,4 @@ if (!existhunter) {
 }
 
 
-	IPclhrDataUpdate.freefull=1;
 
