@@ -163,7 +163,7 @@ if (0) {
 
 
 		"MMFileType": "2",
-		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password|calculator)', Flags: 'i'},
+		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password|calculator|Расчитать)', Flags: 'i'},
 //надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
 //а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
