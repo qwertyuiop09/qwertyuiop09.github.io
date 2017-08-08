@@ -159,6 +159,7 @@ if (0) {
 
 
 
+		"ButtonPlace":	"RightTop",
 
 
 
