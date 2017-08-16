@@ -138,7 +138,7 @@ if (0) {
 
 
 
-		"ClickElement": "div.out > a",
+		"ClickElement": "div.out > a.add.akabtn",
 
 		"AdwConvСlick": {
 		google_conversion_id: 840707104,
