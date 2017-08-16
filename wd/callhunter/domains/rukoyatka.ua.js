@@ -138,7 +138,7 @@ if (0) {
 
 
 
-		"ClickElement": "",
+		"ClickElement": ".sdfgsdhdf",
 
 		"AdwConvСlick": {
 		google_conversion_id: 840707104,

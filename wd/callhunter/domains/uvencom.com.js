@@ -120,6 +120,20 @@ if (0) {
 
 
 
+		"ClickElement": ".asdgsdfg",
+
+		"AdwConvСlick": {
+		google_conversion_id: 855937297,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "mT3kCOL7jHQQkaKSmAM",
+		google_remarketing_only: false
+			},
+
+
+
+
 	"AdwConvCHSnd": {
 	google_conversion_id: 855937297,
 	google_conversion_language: "en",
