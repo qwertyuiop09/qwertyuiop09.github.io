@@ -120,7 +120,7 @@ if (0) {
 
 
 
-		"ClickElement": ".asdgsdfg",
+		"ClickElement": ".addToCart",
 
 		"AdwConvСlick": {
 		google_conversion_id: 855937297,
