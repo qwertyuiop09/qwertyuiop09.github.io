@@ -145,8 +145,8 @@ if (0) {
 
 
 
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
+		"HitElement": ".text-success",
+		"HitElementHtml": {RegExp: ' принята!', Flags: 'i'},
 
 
 		"AdwConvHit": {
