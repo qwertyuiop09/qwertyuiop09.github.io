@@ -138,8 +138,8 @@ if (0) {
 
 
 
-		"HitElement": ".text-success",
-		"HitElementHtml": {RegExp: ' принята!', Flags: 'i'},
+		"HitElement": "h2",
+		"HitElementHtml": {RegExp: 'История заказов', Flags: 'i'},
 
 
 		"AdwConvHit": {
