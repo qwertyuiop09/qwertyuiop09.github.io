@@ -103,7 +103,7 @@ if (0) {
 
 
 
-/*
+
 
 	"AdwConvRemark": {
 	google_conversion_id: 956491559,
@@ -112,37 +112,6 @@ if (0) {
 		},
 
 
-
-*/
-
-
-
-/*
-
-	"HitElement": ".trvalclhr-conv",
-	"AdwConvHit": {
-	google_conversion_id: 956491559,
-	google_conversion_value: 0,
-	google_conversion_language: "en",
-	google_conversion_format: "3",
-	google_conversion_color: "ffffff",
-	google_conversion_label: "I0m9CJCj6WoQp86LyAM",
-	google_remarketing_only: false
-		},
-	"TRVClass": '.trvalclhr-conv',
-	"TRVClassValue": ".trvalclhr-val", 
-//	"TRVFunValue": function(producttype,value,currency) { return value}, 
-	"AdwConvHitValue": {
-	google_conversion_id: 956491559,
-	google_conversion_language: "en",
-	google_conversion_format: "3",
-	google_conversion_color: "ffffff",
-	google_conversion_label: "arrBCJyj6WoQp86LyAM",
-	google_remarketing_only: false
-		},
-
-
-*/
 
 
 
@@ -163,37 +132,25 @@ if (0) {
 	google_conversion_language: "en",
 	google_conversion_format: "3",
 	google_conversion_color: "ffffff",
-	google_conversion_label: "-2maCPiDgmsQp86LyAM",
+	google_conversion_label: "m9AoCN2MiXQQp86LyAM",
 	google_remarketing_only: false
 		},
 
 
 
-	"ClickElement": "img.buy",
-	"AdwConvСlick": {
-	google_conversion_id: 956491559,
-	google_conversion_language: "en",
-	google_conversion_format: "3",
-	google_conversion_color: "ffffff",
-	google_conversion_label: "-2maCPiDgmsQp86LyAM",
-	google_remarketing_only: false
-		},
+		"HitElement": ".text-success",
+		"HitElementHtml": {RegExp: ' принята!', Flags: 'i'},
 
-/*
 
-не работает
+		"AdwConvHit": {
+		google_conversion_id: 956491559,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "DkFXCIeNiXQQp86LyAM",
+		google_remarketing_only: false
+			},
 
-	"SubmitElement": 'form[action="/cart/buy"]',
-	"AdwConvSubmit": {
-	google_conversion_id: 956491559,
-	google_conversion_language: "en",
-	google_conversion_format: "3",
-	google_conversion_color: "ffffff",
-	google_conversion_label: "-2maCPiDgmsQp86LyAM",
-	google_remarketing_only: false
-		},
-
-*/
 
 
 
