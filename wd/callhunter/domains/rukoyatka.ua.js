@@ -123,9 +123,8 @@ if (0) {
 
 
 
-
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
+		"HitElement": "div.thanks > h1 > span",
+		"HitElementHtml": {RegExp: 'Спасибо за заказ!', Flags: 'i'},
 
 
 		"AdwConvHit": {
