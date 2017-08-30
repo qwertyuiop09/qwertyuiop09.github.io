@@ -6,8 +6,7 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 
 //без предоплаты, логин менеджера
 var intepriceIPL = 'rukoyatka.inteprice.com';
-//var intepriceCRT = '11.08.2017';
-var intepriceCRT = '22.08.2017';
+var intepriceCRT = '11.08.2017';
 
 
 var IPchatConfig = {
