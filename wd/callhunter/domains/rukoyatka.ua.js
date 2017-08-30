@@ -168,10 +168,8 @@ if (0) {
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
-//а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
 //		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
-		"ExtFormBtnFC": 'html body div#lay_footer_wrap div#lay_content div.lay_site div.contentbody.paddbox div.eshop div.send form div.next div.wrap_submit input.btn.submit, html body div#colorbox.feedback div#cboxWrapper div div#cboxContent div#cboxLoadedContent div#lay_feedback.feedback div.form form#form_feedback.form_send div.a_center input.btn.submit',
+//		"ExtFormBtnFC": 'html body div#lay_footer_wrap div#lay_content div.lay_site div.contentbody.paddbox div.eshop div.send form div.next div.wrap_submit input.btn.submit, html body div#colorbox.feedback div#cboxWrapper div div#cboxContent div#cboxLoadedContent div#lay_feedback.feedback div.form form#form_feedback.form_send div.a_center input.btn.submit',
 
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
