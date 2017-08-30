@@ -136,6 +136,8 @@ if (0) {
 			},
 
 
+/*
+не работает, закомментировано
 
 		"ClickElement": "div.out > a.add.akabtn",
 
@@ -148,7 +150,7 @@ if (0) {
 		google_remarketing_only: false
 			},
 
-
+*/
 
 
 
