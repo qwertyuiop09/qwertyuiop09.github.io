@@ -19,7 +19,7 @@ alert(jQuery.fn.jquery);
 
 */
 
-/*
+
 
 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -35,7 +35,7 @@ alert(jQuery.fn.jquery);
   ga('send', 'pageview');
 
 
-*/
+
 
 /*
 
