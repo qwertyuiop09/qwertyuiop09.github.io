@@ -282,7 +282,7 @@ var IPchatConfig = {
 			clearInterval(setIntervalCountry);
 			window.checkCountry = 'US';
 			window.jQuery.getJSON("http://api.wipmania.com/jsonp?callback=?",
-//выдает ip сервера, а не пользователя
+//выдает ip сервера, а не пользователя, закомментировано и удален прокси на сервере
 //			window.jQuery.getJSON("http://inteprice.com/01wipman/jsonp?callback=?",
 				function(data) {
 					window.checkCountry = data.address.country_code;
