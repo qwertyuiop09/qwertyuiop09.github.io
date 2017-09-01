@@ -39,7 +39,7 @@ alert(jQuery.fn.jquery);
 */
 
 
-/*
+
 
 
 //-- Google Analytics counter --
@@ -58,7 +58,7 @@ alert(jQuery.fn.jquery);
 
 
 //-- add --
-//var ga = ga_IpA;
+var ga = ga_IpA;
   window.GAtrackingId;
   window.GAclientId;
   window.GAuserId;
@@ -75,43 +75,7 @@ alert(jQuery.fn.jquery);
 //-- /Google Analytics counter --
 
 
-*/
 
-
-
-//-- Google Analytics counter --
-
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-
-  ga('create', 'UA-50940775-1', { 'cookieDomain': 'auto', 'siteSpeedSampleRate': 50, 'name': 'CallHunterTracker11' });
-
-  ga('CallHunterTracker11.require', 'linkid', 'linkid.js');
-  ga('CallHunterTracker11.require', 'displayfeatures');
-  ga('CallHunterTracker11.send', 'pageview');
-
-
-//-- add --
-//var ga = ga_IpA;
-  window.GAtrackingId;
-  window.GAclientId;
-  window.GAuserId;
-  window.GAlibloaded=0;
-/*
-  ga_IpA(function(tracker) {
-    window.GAlibloaded=1;
-	window.GAtrackingId = tracker.get('trackingId');
-	window.GAclientId = tracker.get('clientId');
-	window.GAuserId = tracker.get('userId');
-	if (typeof window.trackRingHitIA == 'function') { window.trackRingHitIA(); }
-  });
-*/
-//-- /add --
-
-//-- /Google Analytics counter --
 
 
 
