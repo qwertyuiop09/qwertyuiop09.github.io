@@ -87,11 +87,11 @@ alert(jQuery.fn.jquery);
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga_IpA');
 
 
-  ga_IpA('create', 'UA-50940775-1', { 'cookieDomain': 'auto', 'siteSpeedSampleRate': 50 });
+  ga_IpA('create', 'UA-50940775-1', { 'cookieDomain': 'auto', 'siteSpeedSampleRate': 50, 'name': 'CallHunterTracker11' });
 
-  ga_IpA('require', 'linkid', 'linkid.js');
-  ga_IpA('require', 'displayfeatures');
-  ga_IpA('send', 'pageview');
+  ga_IpA('CallHunterTracker11.require', 'linkid', 'linkid.js');
+  ga_IpA('CallHunterTracker11.require', 'displayfeatures');
+  ga_IpA('CallHunterTracker11.send', 'pageview');
 
 
 //-- add --
@@ -100,6 +100,7 @@ alert(jQuery.fn.jquery);
   window.GAclientId;
   window.GAuserId;
   window.GAlibloaded=0;
+/*
   ga_IpA(function(tracker) {
     window.GAlibloaded=1;
 	window.GAtrackingId = tracker.get('trackingId');
@@ -107,6 +108,7 @@ alert(jQuery.fn.jquery);
 	window.GAuserId = tracker.get('userId');
 	if (typeof window.trackRingHitIA == 'function') { window.trackRingHitIA(); }
   });
+*/
 //-- /add --
 
 //-- /Google Analytics counter --
