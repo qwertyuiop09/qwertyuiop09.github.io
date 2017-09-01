@@ -47,29 +47,30 @@ alert(jQuery.fn.jquery);
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga_IpA');
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
 
-  ga_IpA('create', 'UA-50940775-1', { 'cookieDomain': 'auto', 'siteSpeedSampleRate': 50 });
+  ga('create', 'UA-50940775-1', { 'cookieDomain': 'auto', 'siteSpeedSampleRate': 50 });
 
-  ga_IpA('require', 'linkid', 'linkid.js');
-  ga_IpA('require', 'displayfeatures');
-  ga_IpA('send', 'pageview');
+  ga('require', 'linkid', 'linkid.js');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
 
 
 //-- add --
-var ga = ga_IpA;
   window.GAtrackingId;
   window.GAclientId;
   window.GAuserId;
   window.GAlibloaded=0;
-  ga_IpA(function(tracker) {
+  ga(function(tracker) {
     window.GAlibloaded=1;
 	window.GAtrackingId = tracker.get('trackingId');
 	window.GAclientId = tracker.get('clientId');
 	window.GAuserId = tracker.get('userId');
 	if (typeof window.trackRingHitIA == 'function') { window.trackRingHitIA(); }
   });
+var ga_IpA = ga;
+
 //-- /add --
 
 //-- /Google Analytics counter --
