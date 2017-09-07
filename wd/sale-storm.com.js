@@ -242,7 +242,7 @@ var IPchatConfig = {
 	IPclhrDataUpdate.fields="+Введите ваш телефон(+380)*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 	IPclhrDataUpdate.PRIFormDataSend={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 //	IPclhrDataUpdate.PRIFormDataAction={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас!', titlenight:'Спасибо, подарок уже ждет Вас!', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
-	IPclhrDataUpdate.PRIFormDataAction={title:'Акция для входящих звонков', titleworktime:'Подробности Вам расскажет менеджер', titlenight:'Подробности Вам расскажет менеджер', titlenightsize: "12px", fields: "Ваша фамилия и телефон(Заполните и получите подарок или скидку!), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+	IPclhrDataUpdate.PRIFormDataAction={title:'Акция для входящих звонков', titleworktime:'Подробности Вам расскажет менеджер', titlenight:'Подробности Вам расскажет менеджер', titlenightsize: "12px", fields: "Ваша фамилия и телефон(Заполните и получите скидку или подарок!), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 
 
 	IPclhrDataUpdate.PRIFormData=IPclhrDataUpdate.PRIFormDataSend;
