@@ -166,6 +166,7 @@ if (0) {
 		"emptyPhone": "+380",
 
 
+		"ButtonPlace":	"RightTop",
 
 
 
