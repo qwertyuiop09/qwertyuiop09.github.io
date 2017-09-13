@@ -22,7 +22,8 @@ var IPchatConfig = {
     "widget_padding": "75",
 
 //    "widget_orientation": "right",
-    "widget_orientation": "bottom",
+//    "widget_orientation": "bottom",
+    "widget_orientation": "left",
 
 //    "font_type": "normal",
     "font_type": "bold",
@@ -166,7 +167,7 @@ if (0) {
 		"emptyPhone": "+380",
 
 
-//		"ButtonPlace":	"RightTop",
+		"ButtonPlace":	"LeftBottom",
 
 
 
