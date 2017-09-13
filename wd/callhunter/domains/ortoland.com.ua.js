@@ -91,8 +91,9 @@ if (0) {
 
 	var IPclhrDataUpdate = {
 
-/*
 
+
+//не работает из-за ошибки какой-то процедуры в js сайта (все клики идут с ошибками)
 //		"PRIClass": 'span.phone, span',
 		"PRIClass": '.phone > i[itemprop="telephone"], span',
 //		"PRIOneClick": 1,
@@ -101,7 +102,7 @@ if (0) {
 		"PRIRingID": "111",
 		"PRIFormData": {title:'Акция для входящих звонков', titleworktime:'Подробности Вам расскажет менеджер', titlenight:'Подробности Вам расскажет менеджер', titlenightsize: "12px", fields: "Ваша фамилия и телефон(Заполните и получите скидку или подарок!), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
 		"PRIFormDataPh": {title:'Акция для входящих звонков', titleworktime:'Подробности Вам расскажет менеджер', titlenight:'Подробности Вам расскажет менеджер', titlenightsize: "12px", fields: "Ваша фамилия и телефон(Заполните и получите скидку или подарок!), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
-*/
+
 
 
 //	"workStart": "09",
