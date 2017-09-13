@@ -247,6 +247,7 @@ if (0) {
 	}
 
 
+/*
 	if (window.intepriceCRT) {
 		var match = window.intepriceCRT.match(/^(\d\d?)[\.\/](\d\d?)[\.\/](\d\d\d\d)$/m);
 		if (match) {
@@ -259,4 +260,4 @@ if (0) {
 			}
 		}
 	}
-
+*/
