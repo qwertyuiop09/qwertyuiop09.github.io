@@ -92,7 +92,6 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
-//		"PRIClass": 'span.phone, span',
 		"PRIClass": '.phone > i[itemprop="telephone"], #feedback > ul > li > p > span, #feedback > ul > li > span, #feedback > p > span > span, #feedback > h2 > span > span',
 //		"PRIOneClick": 1,
 		"PRInightOn": 1,
