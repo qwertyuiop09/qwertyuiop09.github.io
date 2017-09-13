@@ -247,12 +247,9 @@ if (0) {
 	}
 
 
-//	IPclhrDataUpdate.freefull=1;
-
-/*
 
 //для настроенных бесплатных, которые оплачены
-//	try {
+	try {
 		if (window.intepriceCRT) {
 			var match = window.intepriceCRT.match(/^(\d\d?)[\.\/](\d\d?)[\.\/](\d\d\d\d)$/m);
 			if (match) {
@@ -265,6 +262,5 @@ if (0) {
 				}
 			}
 		}
-//	} catch (e) { }
+	} catch (e) { }
 
-*/
