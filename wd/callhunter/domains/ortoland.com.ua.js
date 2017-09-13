@@ -92,8 +92,6 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
-
-//не работает из-за ошибки какой-то процедуры в js сайта (все клики идут с ошибками)
 //		"PRIClass": 'span.phone, span',
 		"PRIClass": '.phone > i[itemprop="telephone"], span',
 //		"PRIOneClick": 1,
@@ -247,3 +245,11 @@ if (0) {
 		"consultantAlwaysShowSupport":"1",
 		"consultantMMFolder":""
 	}
+
+
+
+	try {
+		if (window.intepriceCRTdays < 15) {
+			IPclhrDataUpdate.freefull=1;
+		}
+	} catch (e) { }
