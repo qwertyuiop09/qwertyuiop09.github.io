@@ -169,6 +169,8 @@ if (0) {
 
 //		"ButtonPlace":	"LeftBottom",
 
+		// оформление кнопки (green или gray)
+		"ButtonColor":	"gray",
 
 
 
