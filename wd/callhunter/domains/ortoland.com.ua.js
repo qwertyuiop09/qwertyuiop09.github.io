@@ -247,9 +247,11 @@ if (0) {
 	}
 
 
+	setTimeout(function(){
+		try {
+			if (window.intepriceCRTdays < 30) {
+				IPclhrDataUpdate.freefull=1;
+			}
+		} catch (e) { }
+	}, 100);
 
-	try {
-		if (window.intepriceCRTdays < 30) {
-			IPclhrDataUpdate.freefull=1;
-		}
-	} catch (e) { }
