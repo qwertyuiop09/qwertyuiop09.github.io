@@ -247,11 +247,16 @@ if (0) {
 	}
 
 
-	setTimeout(function(){
-		try {
-			if (window.intepriceCRTdays < 30) {
+	if (window.intepriceCRT) {
+		var match = window.intepriceCRT.match(/^(\d\d?)[\.\/](\d\d?)[\.\/](\d\d\d\d)$/m);
+		if (match) {
+			var dateCRT = match[2] + '/' + match[1] + '/' + match[3];
+			var gmt = new Date(dateCRT);
+			gmt.setTime(gmt.getTime() + (gmt.getTimezoneOffset()*60*1000) + Number(window.IPcallhunterDiff));
+			var currd = new Date();
+			if ((currd.getTime() - gmt.getTime())/(24*60*60*1000) < 30) {
 				IPclhrDataUpdate.freefull=1;
 			}
-		} catch (e) { }
-	}, 100);
+		}
+	}
 
