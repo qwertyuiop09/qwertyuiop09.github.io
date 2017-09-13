@@ -92,10 +92,11 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
-		"PRIClass": 'span.phone, span',
+//		"PRIClass": 'span.phone, span',
+		"PRIClass": 'span.phone',
 //		"PRIOneClick": 1,
 		"PRInightOn": 1,
-		"PRITelMask": "067 613-26-06, 050 906-78-88, 0619 49–47–56, 067 442–47–93, 067 591-04-24, 067 613–26–06",
+//		"PRITelMask": "067 613-26-06, 050 906-78-88, 0619 49–47–56, 067 442–47–93, 067 591-04-24, 067 613–26–06",
 		"PRIRingID": "111",
 		"PRIFormData": {title:'Акция для входящих звонков', titleworktime:'Подробности Вам расскажет менеджер', titlenight:'Подробности Вам расскажет менеджер', titlenightsize: "12px", fields: "Ваша фамилия и телефон(Заполните и получите скидку или подарок!), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
 		"PRIFormDataPh": {title:'Акция для входящих звонков', titleworktime:'Подробности Вам расскажет менеджер', titlenight:'Подробности Вам расскажет менеджер', titlenightsize: "12px", fields: "Ваша фамилия и телефон(Заполните и получите скидку или подарок!), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0},
