@@ -17,12 +17,13 @@ var IPchatConfig = {
 
 //    "widget_padding": "100",
 //    "widget_padding": "50",
+//    "widget_padding": "0",
 
-    "widget_padding": "0",
-//    "widget_padding": "75",
+    "widget_padding": "75",
 
-//    "widget_orientation": "right",
-    "widget_orientation": "bottom",
+    "widget_orientation": "right",
+//    "widget_orientation": "bottom",
+
 //    "font_type": "normal",
     "font_type": "bold",
     "offline_widget_label": "Отправьте нам сообщение",
