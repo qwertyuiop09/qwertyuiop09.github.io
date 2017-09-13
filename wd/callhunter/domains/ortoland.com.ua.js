@@ -93,7 +93,7 @@ if (0) {
 
 
 //		"PRIClass": 'span.phone, span',
-		"PRIClass": '.phone > i[itemprop="telephone"], span',
+		"PRIClass": '.phone > i[itemprop="telephone"], #feedback > ul > li > p > span, #feedback > ul > li > span, #feedback > p > span > span, #feedback > h2 > span > span',
 //		"PRIOneClick": 1,
 		"PRInightOn": 1,
 		"PRITelMask": "067 613-26-06, 050 906-78-88, 0619 49–47–56, 067 442–47–93, 067 591-04-24, 067 613–26–06",
