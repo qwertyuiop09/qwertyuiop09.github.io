@@ -11,7 +11,10 @@ var intepriceCRT = '13.09.2017';
 
 var IPchatConfig = {
 //    "widget_color": "#474747",
-    "widget_color": "#427cd4",
+
+//    "widget_color": "#427cd4",
+    "widget_color": "#be0d19",
+
 //    "widget_padding": "100",
 //    "widget_padding": "50",
 //    "widget_padding": "0",
