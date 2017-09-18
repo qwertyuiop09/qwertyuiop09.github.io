@@ -8,7 +8,7 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 	pagecur = pagecur.replace( /^\//, '' ); 
 	pagecur = pagecur.replace( /^(.*?)\/.*$/, '$1' ); 
 
-	if (pagecur.indexOf('user') == 0) {
+	if ((pagecur.indexOf('user') == 0)||(pagecur.indexOf('product') == 0)) {
 		notexisthunter = 1;
 	}
 
