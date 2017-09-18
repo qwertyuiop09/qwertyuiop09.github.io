@@ -102,7 +102,7 @@ if (0) {
 	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat",
 
 
-/*
+
 
 		"AdwConvRemark": {
 		google_conversion_id: 982175123,
@@ -144,7 +144,7 @@ if (0) {
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "Z3VqCOSbz3EQ39uboAM",
+		google_conversion_label: "e9d2CKn4oXUQk5ur1AM",
 		google_remarketing_only: false
 			},
 
@@ -152,7 +152,7 @@ if (0) {
 
 
 
-*/
+
 
 
 		"title": "Получить консультацию",
