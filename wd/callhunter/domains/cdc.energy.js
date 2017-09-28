@@ -1,5 +1,5 @@
 
-var SSCHunterGa=function(b,c){try{window[window.GoogleAnalyticsObject](function(){window[window.GoogleAnalyticsObject].getAll().forEach(function(a){a.send("event",b,c)})})}catch(a){}};
+var SSCHunterGa=function(b,c){try{var a=window[window.GoogleAnalyticsObject];a(function(){a.getAll().forEach(function(a){a.send("event",b,c)})})}catch(d){}};
 var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,undefined,Conv_value) { if (type == 200) { console.log ( 'ConvTime exist' ); SSCHunterGa('Hot Activity', 'ss_hot_activity'); } else if ((type >= 1)&&(type < 200)) { console.log ( 'ConvCHSnd exist' ); SSCHunterGa('Client Hunter', 'ss_send_message'); } else if (type == 201) { console.log ( 'ConvСlick exist' ) } else if (type == 202) { console.log ( 'ConvSubmit exist' ) } else if (type == 203) { console.log ( 'ConvHit exist' ); SSCHunterGa('View Page', 'ss_page_hit'); } else if (type == 204) { console.log ( 'ConvJivo exist' ) } else if (type == 205) { console.log ( 'CallWidget exist' ) } ; if (typeof Conv_value != 'undefined') { console.log ( 'ConvValue exist: ' + Conv_value ) }   }
 
 
