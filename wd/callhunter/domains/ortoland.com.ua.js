@@ -167,6 +167,9 @@ if (0) {
 		"emptyPhone": "+380",
 
 
+		"ButtonPlace":	"RightTop",
+
+
 //		"ButtonPlace":	"LeftBottom",
 
 		// оформление кнопки (green или gray)
