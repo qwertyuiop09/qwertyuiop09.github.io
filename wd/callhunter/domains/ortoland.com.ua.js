@@ -169,7 +169,7 @@ if (0) {
 
 
 //		"ButtonY":	"140",
-		"ButtonY":	"300",
+		"ButtonY":	"350",
 
 //		"ButtonPlace":	"RightTop",
 
