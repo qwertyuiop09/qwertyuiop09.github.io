@@ -117,6 +117,7 @@ if (0) {
 
 
 		"HitElement": "#line_top > h2",
+//Ваш заказ №195 принят
 		"HitElementHtml": {RegExp: 'принят', Flags: 'i'},
 
 		"AdwConvHit": {
