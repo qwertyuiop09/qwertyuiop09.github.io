@@ -107,65 +107,55 @@ if (0) {
 //	"workDays": "Mon, Tue, Wed, Thu, Fri",
 
 
-/*
 
 		"AdwConvRemark": {
-		google_conversion_id: 881826282,
+		google_conversion_id: 969121061,
 		google_custom_params: window.google_tag_params,
 		google_remarketing_only: true
 			},
 
 
-		"AdwConvTime": {
-		google_conversion_id: 881826282,
+/*
+		"HitElement": ".sub-title",
+		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
+*/
+		"AdwConvHit": {
+		google_conversion_id: 969121061,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "69LkCIeZ7mgQ6rO-pAM",
+		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
+//for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
 		google_remarketing_only: false
 			},
+
+
+
+
+
+
+		"AdwConvTime": {
+		google_conversion_id: 969121061,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_remarketing_only: false
+			},
+
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 881826282,
+		google_conversion_id: 969121061,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "7ElWCKKZ7mgQ6rO-pAM",
+		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
 		google_remarketing_only: false
 			},
 
 
 
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-
-
-		"AdwConvHit": {
-		google_conversion_id: 881826282,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "Z3VqCOSbz3EQ39uboAM",
-		google_remarketing_only: false
-			},
-
-
-
-		"ClickElement": "",
-
-		"AdwConvСlick": {
-		google_conversion_id: 881826282,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "5siwCN3f4GMQn_ngvAM",
-		google_remarketing_only: false
-			},
-
-
-
-*/
 
 
 		"title": "Получить консультацию",
