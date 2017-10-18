@@ -168,7 +168,10 @@ if (0) {
 		"emptyPhone": "+380",
 
 
-		"ButtonPlace":	"RightTop",
+//		"ButtonY":	"140",
+		"ButtonY":	"200",
+
+//		"ButtonPlace":	"RightTop",
 
 
 //		"ButtonPlace":	"LeftBottom",
