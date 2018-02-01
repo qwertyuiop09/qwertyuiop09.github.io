@@ -159,7 +159,7 @@ if (0) {
 
 
 		"MMFileType": "2",
-		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password|Войти|Зарегистрироваться|price_min|price_max|Оформить заказ)', Flags: 'i'},
+		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password|Войти|Зарегистрироваться|price_min|price_max|Оформить заказ|Подобрать)', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
