@@ -100,6 +100,20 @@ if (0) {
 			},
 
 
+
+
+
+		"AdwConvJivo": {
+		google_conversion_id: 969121061,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
+		google_remarketing_only: false
+			},
+
+
+
 /*
 		"HitElement": ".sub-title",
 		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
