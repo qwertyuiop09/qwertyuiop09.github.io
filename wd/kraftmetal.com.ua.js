@@ -19,6 +19,10 @@ SSCHunterAdwordstrack({
 var intepriceIPL = 'kraft.inteprice.com';
 var intepriceCRT = '01.10.2015';
 
+
+if (0) {
+
+
 (function() {
     	var s = document.createElement('script');
 		s.type ='text/javascript';
@@ -51,6 +55,8 @@ var intepriceCRT = '01.10.2015';
 		else document.documentElement.firstChild.appendChild(s);
 	})();
 
+
+}
 
 
 	var IPclhrDataUpdate = {
