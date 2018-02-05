@@ -20,7 +20,7 @@ var intepriceIPL = 'kraft.inteprice.com';
 var intepriceCRT = '01.10.2015';
 
 
-if (0) {
+//if (0) {
 
 
 (function() {
@@ -56,7 +56,7 @@ if (0) {
 	})();
 
 
-}
+//}
 
 
 	var IPclhrDataUpdate = {
