@@ -61,7 +61,8 @@ if (0) {
 		"ButtonSensitivity":	"0",
 
 
-		"consultantOn": "1",
+//		"consultantOn": "1",
+		"consultantOn": "4",
 
 
 	"consultantSettings": {
