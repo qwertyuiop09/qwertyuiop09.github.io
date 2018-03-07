@@ -188,7 +188,7 @@ if (0) {
 
 
 		"MMFileType": "2",
-		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
+		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password|Рассчитать)', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
