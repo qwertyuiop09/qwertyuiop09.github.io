@@ -7,6 +7,8 @@ var intepriceCRT = '03.12.2015';
 window.IPCHFEmail = 'maksym.ryaskov@odessa.autotrading.ua';
 
 
+if (0) {
+
 	(function() {
     	var s = document.createElement('script');
 		s.type ='text/javascript';
@@ -40,7 +42,7 @@ window.IPCHFEmail = 'maksym.ryaskov@odessa.autotrading.ua';
 		else document.documentElement.firstChild.appendChild(s);
 	})();
 
-
+}
 
 	var IPclhrDataUpdate = {
 

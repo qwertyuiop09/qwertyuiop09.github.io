@@ -8,6 +8,8 @@ window.IPCHFEmail = 'aleksey.shmalko@odessa.autotrading.ua';
 
 window.IPINoneGo = 1;
 
+if (0) {
+
 	(function() {
     	var s = document.createElement('script');
 		s.type ='text/javascript';
@@ -41,6 +43,7 @@ window.IPINoneGo = 1;
 		else document.documentElement.firstChild.appendChild(s);
 	})();
 
+}
 
 
 	var IPclhrDataUpdate = {
@@ -64,7 +67,8 @@ window.IPINoneGo = 1;
 		"ButtonSensitivity":	"0",
 
 
-		"consultantOn": "1",
+//		"consultantOn": "1",
+		"consultantOn": "4",
 
 
 	"consultantSettings": {

@@ -6,6 +6,7 @@ var intepriceCRT = '03.12.2015';
 
 window.IPCHFEmail = 'maksym.ryaskov@odessa.autotrading.ua';
 
+if (0) {
 
 	(function() {
     	var s = document.createElement('script');
@@ -19,10 +20,6 @@ window.IPCHFEmail = 'maksym.ryaskov@odessa.autotrading.ua';
 		
 		var callback = function(){
 
-			/*
-				Здесь вы можете вызывать API. Например, чтобы изменить отступ по высоте:
-				supportAPI.setSupportTop(200);
-			*/
             
             
 		};
@@ -39,6 +36,7 @@ window.IPCHFEmail = 'maksym.ryaskov@odessa.autotrading.ua';
 		else document.documentElement.firstChild.appendChild(s);
 	})();
 
+}
 
 
 	var IPclhrDataUpdate = {
@@ -57,7 +55,8 @@ window.IPCHFEmail = 'maksym.ryaskov@odessa.autotrading.ua';
 		"ButtonSensitivity":	"0",
 
 
-		"consultantOn": "1",
+//		"consultantOn": "1",
+		"consultantOn": "4",
 
 
 	"consultantSettings": {
