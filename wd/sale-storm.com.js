@@ -238,9 +238,9 @@ var IPchatConfig = {
 	}
 
 
-//значения по умолчанию 
-	IPclhrDataUpdate.fields="+Введите ваш телефон(+380)*, !Поддержка интернет-звонков!!Viber!WhatsApp!Нет*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
-	IPclhrDataUpdate.PRIFormDataSend={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), !Поддержка интернет-звонков!!Viber!WhatsApp!Нет*, -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+//значения по умолчанию
+	IPclhrDataUpdate.fields="+Введите ваш телефон(+380)*, !Ваш телефон поддерживает интернет-звонки!!Viber!WhatsApp!Нет*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+	IPclhrDataUpdate.PRIFormDataSend={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), !Ваш телефон поддерживает интернет-звонки!!Viber!WhatsApp!Нет*, -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 //	IPclhrDataUpdate.PRIFormDataAction={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас!', titlenight:'Спасибо, подарок уже ждет Вас!', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 	IPclhrDataUpdate.PRIFormDataAction={title:'Акция для входящих звонков', titleworktime:'Подробности Вам расскажет менеджер', titlenight:'Подробности Вам расскажет менеджер', titlenightsize: "12px", fields: "Ваша фамилия и телефон(Заполните и получите скидку или подарок!), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 
@@ -327,9 +327,9 @@ var IPchatConfig = {
 
 
 
-		IPclhrDataUpdate.fields="+Введите ваш телефон(" + emptyPhone + ")*, !Поддержка интернет-звонков!!Viber!WhatsApp!Нет*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
+		IPclhrDataUpdate.fields="+Введите ваш телефон(" + emptyPhone + ")*, !Ваш телефон поддерживает интернет-звонки!!Viber!WhatsApp!Нет*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 //IPclhrDataUpdate.PRIFormDataSend используется также в PRIEvent, который здесь не меняем
-		IPclhrDataUpdate.PRIFormDataSend={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), !Поддержка интернет-звонков!!Viber!WhatsApp!Нет*, -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
+		IPclhrDataUpdate.PRIFormDataSend={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(" + emptyPhone + "), !Ваш телефон поддерживает интернет-звонки!!Viber!WhatsApp!Нет*, -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 
 		if (typeof window.IPclhrData == 'undefined') {
 //			IPclhrDataUpdate.fields=IPclhrDataUpdate.fields;
