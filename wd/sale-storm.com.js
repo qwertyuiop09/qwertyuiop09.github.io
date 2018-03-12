@@ -238,7 +238,7 @@ var IPchatConfig = {
 	}
 
 
-//значения по умолчанию
+//значения по умолчанию 
 	IPclhrDataUpdate.fields="+Введите ваш телефон(+380)*, !Поддержка интернет-звонков!!Viber!WhatsApp!Нет*, Введите ваш Email*, Адрес вашего сайта*, -Тема (Ваш вопрос)*";
 	IPclhrDataUpdate.PRIFormDataSend={title:'Заполните форму', titleworktime:'Спасибо, мы скоро ответим!', titlenight:'Спасибо, мы скоро ответим!', titlenightsize: "12px", fields: "Ваше Имя и Email(укажите Email)*, +Ваш телефон(+380), !Поддержка интернет-звонков!!Viber!WhatsApp!Нет*, -Комментарий(необязательно), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
 //	IPclhrDataUpdate.PRIFormDataAction={title:'Акция для входящих звонков', titleworktime:'Спасибо, подарок уже ждет Вас!', titlenight:'Спасибо, подарок уже ждет Вас!', titlenightsize: "12px", fields: "ХОЧУ СПЕЦАКЦИЮ(Ваше имя и телефон для участия в акции), <Одноразовый ID(узнайте ID у менеджера)*", button: "Отправить", callTime: 0};
