@@ -94,6 +94,8 @@ if (0) {
 
 /*
 
+уже стоит на сайте, не надо
+
 		"AdwConvRemark": {
 		google_conversion_id: 820670727,
 		google_custom_params: window.google_tag_params,
@@ -102,23 +104,8 @@ if (0) {
 
 */
 
+
 /*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
-		"AdwConvHit": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
-//for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
-		google_remarketing_only: false
-			},
-
-
-
-
 
 
 		"AdwConvTime": {
@@ -140,6 +127,35 @@ if (0) {
 		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
 		google_remarketing_only: false
 			},
+
+
+*/
+
+
+
+
+
+		"AdwConvTime": {
+		google_conversion_id: 820670727,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "P7PGCKW99n4Qh-KphwM",
+		google_remarketing_only: false
+			},
+
+
+
+		"AdwConvCHSnd": {
+		google_conversion_id: 820670727,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "pF9gCMbG9n4Qh-KphwM",
+		google_remarketing_only: false
+			},
+
+
 
 
 
