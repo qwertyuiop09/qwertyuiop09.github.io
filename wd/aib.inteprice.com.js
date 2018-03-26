@@ -101,7 +101,7 @@ var ga_IpA = ga;
         f = function () { n.parentNode.insertBefore(s, n); };
     s.type = "text/javascript";
     s.async = true;
-    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js";
 
 
 //-- add --
