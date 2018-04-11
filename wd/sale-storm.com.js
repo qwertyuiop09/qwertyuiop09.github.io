@@ -92,7 +92,7 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
-	"TimeOnSite": "5",
+//	"TimeOnSite": "5",
 
 
 	"AdwConvRemark": {
