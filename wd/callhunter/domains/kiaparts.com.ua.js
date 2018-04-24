@@ -175,6 +175,7 @@ if (0) {
 
 
 		"ButtonPlace":	"RightTop",
+		"ButtonY":	"180",
 
 
 
