@@ -111,7 +111,7 @@ var IPchatConfig = {
 			},
 
 
-		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, bingc-active-get-phone-form-input', phoneRegExp:10 },
+		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10 },
 
 
 		"AdwConvCallWidget": {

@@ -131,7 +131,7 @@ if (0) {
 //};
 
 //binotel
-	"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, bingc-active-get-phone-form-input' },
+	"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input' },
 	"AdwConvCallWidget": {
 	google_conversion_id: 873478862,
 	google_conversion_language: "en",
