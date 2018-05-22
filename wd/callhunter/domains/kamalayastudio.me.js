@@ -45,6 +45,7 @@ var IPchatConfig = {
 };
 
 
+(function(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.charset="UTF-8"; s.async = true; var a;a="http";a+="\x73\x3a\x2f\x2f";a+="cdn.";a+="sale";a+="-storm";a+=".com";a+="/wd";a+="/";a+="\x63\x61\x6C\x6C\x68\x75\x6E\x74\x65\x72\x2F\x63\x68\x61\x74\x2F\x6A\x73\x2F\x77\x69\x64\x67\x65\x74\x5F\x65\x6E\x5F\x55\x53\x2E\x6A\x73\x3F\x72\x61\x6E\x64\x3D\x31\x34\x34\x35\x32\x36\x37\x39\x39\x37"; s.src = a; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
 
 
 	var IPclhrDataUpdate = {
@@ -161,9 +162,6 @@ var IPchatConfig = {
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
-//также была проблема с азури - если подключаться к их форме магазина, то глючит страница "спасибо за покупку" - просто вылазит ошибка без перехода на эту страницу
-//а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
@@ -236,7 +234,7 @@ var IPchatConfig = {
 		IPclhrDataUpdate.consultantOn="1";
 
 
-(function(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.charset="UTF-8"; s.async = true; var a;a="http";a+="\x73\x3a\x2f\x2f";a+="cdn.";a+="sale";a+="-storm";a+=".com";a+="/wd";a+="/";a+="\x63\x61\x6C\x6C\x68\x75\x6E\x74\x65\x72\x2F\x63\x68\x61\x74\x2F\x6A\x73\x2F\x77\x69\x64\x67\x65\x74\x5F\x65\x6E\x5F\x55\x53\x2E\x6A\x73\x3F\x72\x61\x6E\x64\x3D\x31\x34\x34\x35\x32\x36\x37\x39\x39\x37"; s.src = a; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
+//(function(){ var s = document.createElement('script'); s.type = 'text/javascript'; s.charset="UTF-8"; s.async = true; var a;a="http";a+="\x73\x3a\x2f\x2f";a+="cdn.";a+="sale";a+="-storm";a+=".com";a+="/wd";a+="/";a+="\x63\x61\x6C\x6C\x68\x75\x6E\x74\x65\x72\x2F\x63\x68\x61\x74\x2F\x6A\x73\x2F\x77\x69\x64\x67\x65\x74\x5F\x65\x6E\x5F\x55\x53\x2E\x6A\x73\x3F\x72\x61\x6E\x64\x3D\x31\x34\x34\x35\x32\x36\x37\x39\x39\x37"; s.src = a; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();
 
 
 	}
