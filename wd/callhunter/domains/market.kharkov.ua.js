@@ -52,7 +52,7 @@ var IPchatConfig = {
 if (window.jQuery) {
 	window.CHitem = window.jQuery('div.product-info div.col-sm-6 h1')[0].innerHTML; 
 	window.CHprice = window.jQuery('div.product-info div.col-sm-6.product-right div.price span.price-new')[0].innerHTML; 
-	window.CHprice = window.CHprice.replace(/^\s+/,'');
+	window.CHprice = window.CHprice.replace(/^\s*(.*?)\s*$/,'$1');
 	window.jQuery('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].onclick = function(){return false};
 } else {
 	window.CHitem = window.location.href.toString(); 
