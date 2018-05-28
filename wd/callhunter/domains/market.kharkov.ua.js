@@ -160,6 +160,7 @@ function checkloadIPactive123(w) {
 		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[' + window.CHitem + '], Количество(укажите количество)*, +Ваш телефон(+380)*, -Комментарий(необязательно)'},
 
 //alert(window.jqIPAcode('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].onclick)
+//alert(window.CHitem)
 //alert(window.jqIPAcode('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].innerHTML)
 
 		"title": "Получить консультацию",
