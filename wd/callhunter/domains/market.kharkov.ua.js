@@ -140,7 +140,7 @@ var IPchatConfig = {
 
 		"B1Class": "div.product-info", 
 		"B1Cbtnclass": "div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)",
-		"B1CEvent":	"window.CHitem = window.jQuery("div.product-info div.col-sm-6 h1")[0].innerHTML; window.jqIPAcode('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].onclick = function(){return false};",
+		"B1CEvent":	"window.CHitem = window.jQuery('div.product-info div.col-sm-6 h1')[0].innerHTML; window.jqIPAcode('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].onclick = function(){return false};",
 		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[' + window.CHitem + '], Количество(укажите количество)*, +Ваш телефон(+380)*, -Комментарий(необязательно)'},
 		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[' + window.CHitem + '], Количество(укажите количество)*, +Ваш телефон(+380)*, -Комментарий(необязательно)'},
 
