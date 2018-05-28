@@ -145,26 +145,21 @@ if (window.jQuery) {
 */
 
 
-//		"B1Cbtnclass": "div.product-info div.col-sm-6.product-right div.cart a.button",
-//		"B1CEvent":	"var get_popup_purchase = function(){}; window.CHitem = IPchrSChr(window.jqIPAcode('div.product-info div.col-sm-6 h1')[0].innerHTML);",
-//		"B1CEvent":	"window.CHitem = window.jQuery("div.product-info div.col-sm-6 h1")[0].innerHTML;",
-//		"B1CEvent":	"window.CHitem = " + "'" + IPchrSChr(window.jQuery('div.product-info div.col-sm-6 h1')[0].innerHTML) + "'" + "; window.jQuery('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].onclick = function(){return false};",
 
 		"B1Class": "div.product-info", 
 		"B1Cbtnclass": "div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)",
-		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[' + window.CHitem + '], Количество(укажите количество)*, +Ваш телефон(+380)*, -Комментарий(необязательно)'},
-		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[' + window.CHitem + '], Количество(укажите количество)*, +Ваш телефон(+380)*, -Комментарий(необязательно)'},
+		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[' + window.CHitem + '], Количество(укажите количество)*, +Ваш телефон(+380)*, Ваш Email(необязательно), -Комментарий(необязательно)'},
+		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[' + window.CHitem + '], Количество(укажите количество)*, +Ваш телефон(+380)*, Ваш Email(необязательно), -Комментарий(необязательно)'},
 
-//alert(window.jqIPAcode('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].onclick)
-//alert(window.CHitem)
-//alert(window.jqIPAcode('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].innerHTML)
+
+
 
 		"title": "Получить консультацию",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
 		"button": "Жду ответ!",
 		"callTime": "0",
-		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
+		"fields": "+Введите ваш телефон(+380)*, Ваш Email(необязательно), -Тема (Ваш вопрос)*",
 		"emptyPhone": "+380",
 
 
