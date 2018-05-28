@@ -60,7 +60,8 @@ if (window.jQuery) {
 
 	window.CHprice = window.jQuery('div.product-info div.col-sm-6.product-right div.price span.price-new')[0];
 	if (window.CHprice) {
-		window.CHprice = IPchrSChr(window.CHitem.innerHTML.replace(/^\s*(.*?)\s*$/,'$1')); 
+//убираем стартовые пробелы в цене
+		window.CHprice = IPchrSChr(window.CHprice.innerHTML.replace(/^\s*(.*?)\s*$/,'$1')); 
 	} else {
 		window.CHprice = 0; 
 	}
