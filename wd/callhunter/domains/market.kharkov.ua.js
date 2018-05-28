@@ -134,7 +134,10 @@ var IPchatConfig = {
 */
 
 
+//alert(IPchrSChr(jQuery("div.product-info div.col-sm-6 h1").clone().wrap('<p>').parent().html()))
 
+
+		"B1CEvent":	"window.CHitem = IPchrSChr(jQuery("div.product-info div.col-sm-6 h1").clone().wrap('<p>').parent().html());",
 		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[<!--item-->], Количество(укажите количество)*, +Ваш телефон(+380)*, -Комментарий(необязательно)'},
 		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[<!--item-->], Количество(укажите количество)*, +Ваш телефон(+380)*, -Комментарий(необязательно)'},
 
