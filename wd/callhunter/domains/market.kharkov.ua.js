@@ -57,7 +57,7 @@ function checkloadIPactive123(w) {
 		setTimeout(function() { checkloadIPactive123(w); }, 2000);
 	}
 }
-setTimeout(function() { checkloadIPactive123(window); }, 700);
+//setTimeout(function() { checkloadIPactive123(window); }, 700);
 
 
 
