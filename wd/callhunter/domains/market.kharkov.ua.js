@@ -50,10 +50,31 @@ var IPchatConfig = {
 
 
 if (window.jQuery) {
-	window.CHitem = IPchrSChr(window.jQuery('div.product-info div.col-sm-6 h1')[0].innerHTML); 
-	window.CHprice = window.jQuery('div.product-info div.col-sm-6.product-right div.price span.price-new')[0].innerHTML;
-	window.CHprice = IPchrSChr(window.CHprice.replace(/^\s*(.*?)\s*$/,'$1'));
-	window.jQuery('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].onclick = function(){return false};
+
+	window.CHitem = window.jQuery('div.product-info div.col-sm-6 h1')[0];
+	if (window.CHitem) {
+		window.CHitem = IPchrSChr(window.CHitem.innerHTML); 
+	} else {
+		window.CHitem = window.location.href.toString(); 
+	}
+
+	window.CHprice = window.jQuery('div.product-info div.col-sm-6.product-right div.price span.price-new')[0];
+	if (window.CHprice) {
+		window.CHprice = IPchrSChr(window.CHitem.innerHTML.replace(/^\s*(.*?)\s*$/,'$1')); 
+	} else {
+		window.CHprice = 0; 
+	}
+
+	var tonclk = window.jQuery('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0];
+	if (tonclk) {
+		tonclk.onclick = function(){return false};
+	}
+
+
+//	window.CHitem = IPchrSChr(window.jQuery('div.product-info div.col-sm-6 h1')[0].innerHTML); 
+//	window.CHprice = window.jQuery('div.product-info div.col-sm-6.product-right div.price span.price-new')[0].innerHTML;
+//	window.CHprice = IPchrSChr(window.CHprice.replace(/^\s*(.*?)\s*$/,'$1'));
+//	window.jQuery('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].onclick = function(){return false};
 } else {
 	window.CHitem = window.location.href.toString(); 
 	window.CHprice = 0; 
