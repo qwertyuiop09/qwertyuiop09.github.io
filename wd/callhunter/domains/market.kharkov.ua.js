@@ -65,11 +65,10 @@ var IPchatConfig = {
 */
 
 
+//<h2><i class="fa fa-check-square"></i>Ваш заказ сформирован!</h2>
+		"HitElement": "h2",
+		"HitElementHtml": {RegExp: 'Ваш заказ сформирован!', Flags: 'i'},
 
-/*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
 		"AdwConvHit": {
 		google_conversion_id: 969121061,
 		google_conversion_language: "en",
