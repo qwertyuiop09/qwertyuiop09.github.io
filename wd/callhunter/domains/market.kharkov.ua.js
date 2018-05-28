@@ -148,8 +148,8 @@ if (window.jQuery) {
 
 		"B1Class": "div.product-info", 
 		"B1Cbtnclass": "div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)",
-		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[' + window.CHitem + '], Количество(укажите количество)*, +Ваш телефон(+380)*, Ваш Email(необязательно), -Комментарий(необязательно)'},
-		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'Товар[' + window.CHitem + '], Количество(укажите количество)*, +Ваш телефон(+380)*, Ваш Email(необязательно), -Комментарий(необязательно)'},
+		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Товар[' + window.CHitem + '], -Комментарий(необязательно)'},
+		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Товар[' + window.CHitem + '], -Комментарий(необязательно)'},
 
 
 
