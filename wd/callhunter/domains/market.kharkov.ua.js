@@ -92,13 +92,12 @@ if (window.jQuery) {
 
 
 
-/*
 		"AdwConvRemark": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 843980275,
 		google_custom_params: window.google_tag_params,
 		google_remarketing_only: true
 			},
-*/
+
 
 
 //<h2><i class="fa fa-check-square"></i>Ваш заказ сформирован!</h2>
