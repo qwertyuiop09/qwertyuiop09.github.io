@@ -8,7 +8,8 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 
 //без предоплаты, логин менеджера
 var intepriceIPL = 'gerchikco.inteprice.com';
-var intepriceCRT = '13.06.2018';
+//var intepriceCRT = '13.06.2018';
+var intepriceCRT = '29.06.2018';
 
 
 var IPchatConfig = {
