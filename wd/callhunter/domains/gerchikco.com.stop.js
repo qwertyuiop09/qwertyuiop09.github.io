@@ -245,6 +245,7 @@ var IPchatConfig = {
 				var currd = new Date();
 				if ((currd.getTime() - gmt.getTime())/(24*60*60*1000) < 30) {
 					IPclhrDataUpdate.freefull=1;
+					window.intepriceCRT = ('0' + currd.getDate()).slice(-2) + '.' + ('0' + (currd.getMonth() + 1)).slice(-2)  + '.' + currd.getFullYear();
 				}
 			}
 		}
