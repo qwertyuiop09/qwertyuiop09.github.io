@@ -103,7 +103,7 @@ var IPchatConfig = {
 
 
 
-
+/*
 
 		"AdwConvCHSnd": {
 		google_conversion_id: 934673980,
@@ -114,7 +114,7 @@ var IPchatConfig = {
 		google_remarketing_only: false
 			},
 
-
+*/
 
 
 /*
@@ -165,7 +165,7 @@ var IPchatConfig = {
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 		"ExtFormFCOnly": {RegExp: '((<[^>]+)|(>[ ]*))(("?[ ]*ПРИНЯТЬ УЧАСТИЕ[ ]*"?)|("?[ ]*Зарегистрироваться[ ]*"?)|(\'?[ ]*Зарегистрироваться[ ]*\'?)|("?[ ]*Открыть[ ]+демо-счет[ ]*"?)|(\'?[ ]*Открыть[ ]+демо-счет[ ]*\'?))', Flags: 'i'},
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
