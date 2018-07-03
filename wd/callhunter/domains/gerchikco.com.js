@@ -103,19 +103,17 @@ var IPchatConfig = {
 			},
 
 
-/*
+
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 934673980,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
+		google_conversion_label: "kWwPCKXUh4UBELz8170D",
 		google_remarketing_only: false
 			},
 
-
-*/
 
 
 /*
