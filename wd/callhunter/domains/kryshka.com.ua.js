@@ -51,6 +51,9 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
+		"testting": "1",
+
+
 		"workStart": "09",
 		"workEnd": "18",
 		"workDays": "Mon, Tue, Wed, Thu, Fri, Sat:09:16, Sun:09:16",
