@@ -1,6 +1,6 @@
 
 var intepriceApermissions = {
-	"ApprovedDomains":	['detektive.odessa.ua','detektive.inteprice.com'],
+	"ApprovedDomains":	['private-detective.od.ua','detektive.odessa.ua','detektive.inteprice.com'],
 	"GATargets":		false,
 	"YMTargets":		false,
 	"RingTarget":		false,
