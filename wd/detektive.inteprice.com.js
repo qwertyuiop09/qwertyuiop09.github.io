@@ -84,8 +84,8 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
-	"workStart": "08",
-	"workEnd": "21",
+	"workStart": "07",
+	"workEnd": "22",
 	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
 
 
