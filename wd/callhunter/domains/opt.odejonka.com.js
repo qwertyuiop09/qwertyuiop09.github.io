@@ -160,9 +160,9 @@ var IPchatConfig = {
 
 
 		"MMFileType": "2",
-		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Подтвердить[ ]+заказ[ ]*"|\'[ ]*Подтвердить[ ]+заказ[ ]*\'|"[ \s\S]*отправить[ \s\S]*"|\'[ \s\S]*отправить[ \s\S]*\')', Flags: 'i'},
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+//		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
+//		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Подтвердить[ ]+заказ[ ]*"|\'[ ]*Подтвердить[ ]+заказ[ ]*\'|"[ \s\S]*отправить[ \s\S]*"|\'[ \s\S]*отправить[ \s\S]*\')', Flags: 'i'},
+//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
