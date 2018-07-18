@@ -66,22 +66,19 @@ var IPchatConfig = {
 
 
 
-/*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
+
+		"HitElement": "p",
+		"HitElementHtml": {RegExp: 'Спасибо. Ваш заказ был принят.', Flags: 'i'},
 
 		"AdwConvHit": {
 		google_conversion_id: 845757220,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
+		google_conversion_label: "7yWKCLqc-IUBEKT2pJMD",
 //for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
 		google_remarketing_only: false
 			},
-
-
-*/
 
 
 
