@@ -60,6 +60,17 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
+
+
+
+		"ViewFormClick": '.card',
+
+
+
+
+
+
+
 //	"workStart": "09",
 //	"workEnd": "18",
 //	"workDays": "Mon, Tue, Wed, Thu, Fri",
