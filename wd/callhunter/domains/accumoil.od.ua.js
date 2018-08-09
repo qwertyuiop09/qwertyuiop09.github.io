@@ -49,6 +49,9 @@ var IPchatConfig = {
 
 if (window.jQuery) {
 
+	//блокируем сумму в корзине
+	window.jQuery("<style>").prop("type", "text/css").html(".article > div:nth-child(1) > div:nth-child(5) > div:nth-child(1) { display: none!important; visibility: hidden!important; }").appendTo("head");
+
 	//ваш заказ
 	var YourOrder = window.jQuery('.card')[0];
 	if (YourOrder) {
