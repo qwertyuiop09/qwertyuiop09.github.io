@@ -48,6 +48,13 @@ var IPchatConfig = {
 
 
 if (window.jQuery) {
+
+	//ваш заказ
+	var YourOrder = window.jQuery('.card')[0];
+	if (YourOrder) {
+		YourOrder.innerHTML='<h5>Заказать звонок</h5>'
+	}
+
 	window.CHitem = window.jQuery('ul.ul_prise li h3 a')[0];
 	if (window.CHitem) {
 		window.CHitem = IPchrSChr(window.CHitem.innerHTML); 
