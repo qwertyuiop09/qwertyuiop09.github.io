@@ -53,7 +53,9 @@ if (window.jQuery) {
 вынесено в основной код в редактируемую зону
 
 	//блокируем сумму в корзине
-	window.jQuery("<style>").prop("type", "text/css").html(".article > div:nth-child(1) > div:nth-child(5) > div:nth-child(1) { display: none!important; visibility: hidden!important; }").appendTo("head");
+//	window.jQuery("<style>").prop("type", "text/css").html(".article > div:nth-child(1) > div:nth-child(5) > div:nth-child(1) { display: none!important; visibility: hidden!important; }").appendTo("head");
+	window.jQuery("<style>").prop("type", "text/css").html(".article div div div { display: none!important; visibility: hidden!important; }").appendTo("head");
+
 
 	//ваш заказ заменяем на Заказать звонок
 	var YourOrder = window.jQuery('.card')[0];
