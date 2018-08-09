@@ -46,6 +46,26 @@ var IPchatConfig = {
 
 
 
+
+if (window.jQuery) {
+	window.CHitem = window.jQuery('ul.ul_prise li h3 a')[0];
+	if (window.CHitem) {
+		window.CHitem = IPchrSChr(window.CHitem.innerHTML); 
+	} else {
+		window.CHitem = window.location.href.toString(); 
+	}
+
+	window.CHprice = window.jQuery('ul.ul_prise:nth-child(6) > li:nth-child(1) > p:nth-child(4) > b:nth-child(1)')[0];
+	if (!window.CHprice) {
+		window.CHprice = 0;
+	}
+} else {
+	window.CHitem = window.location.href.toString(); 
+	window.CHprice = 0; 
+}
+
+
+
 /*
 	if(typeof google_tag_params == 'undefined') {
 		var google_tag_params = {
@@ -66,6 +86,10 @@ var IPchatConfig = {
 		"ViewFormClick": '.card',
 
 
+		"B1Class": "ul.ul_prise li", 
+		"B1Cbtnclass": "input[name=cart_add]",
+		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[' + window.CHprice + '], Товар[' + window.CHitem + '], -Комментарий(необязательно)'},
+		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[' + window.CHprice + '], Товар[' + window.CHitem + '], -Комментарий(необязательно)'},
 
 
 
