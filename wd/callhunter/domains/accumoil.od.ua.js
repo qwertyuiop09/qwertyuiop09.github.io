@@ -48,9 +48,6 @@ var IPchatConfig = {
 
 /*
 	if(typeof google_tag_params == 'undefined') {
-//		https://support.google.com/google-ads/answer/6335506?hl=ru
-//		https://developers.google.com/adwords-remarketing-tag/parameters?hl=ru
-//		https://www.ru.advertisercommunity.com/t5/Prodvinutye-funktsii-Google-Ads/Nastroyka-dinamicheskogo-remarketinga-AdWords-cherez-TagManager/td-p/143077#
 		var google_tag_params = {
 			ecomm_prodid: 'REPLACE_WITH_VALUE',
 			ecomm_pagetype: 'REPLACE_WITH_VALUE',
@@ -190,8 +187,8 @@ var IPchatConfig = {
 	"consultantSettings": {
 	        phone_field: 1,
 	        phone_required: 1,
-	        email_field: 1,
-	        email_required: 1,
+	        email_field: 0,
+	        email_required: 0,
 	        name_field: 1,
 	        name_required: 0,
 	        fields_forced: 1,
