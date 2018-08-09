@@ -50,7 +50,7 @@ var IPchatConfig = {
 if (window.jQuery) {
 
 /*
-вынесено в основной код
+вынесено в основной код в редактируемую зону
 
 	//блокируем сумму в корзине
 	window.jQuery("<style>").prop("type", "text/css").html(".article > div:nth-child(1) > div:nth-child(5) > div:nth-child(1) { display: none!important; visibility: hidden!important; }").appendTo("head");
