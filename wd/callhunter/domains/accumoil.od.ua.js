@@ -57,7 +57,7 @@ if (window.jQuery) {
 
 */
 
-	window.CHitem = window.jQuery('ul.ul_prise li h3 a, .article > div:nth-child(1) > h1:nth-child(2)')[0];
+	window.CHitem = window.jQuery('.ul_prise > li:nth-child(1) > h3:nth-child(2) > a:nth-child(1), .article > div:nth-child(1) > h1:nth-child(2)')[0];
 	if (window.CHitem) {
 		window.CHitem = IPchrSChr(window.CHitem.innerHTML); 
 	} else {
