@@ -81,7 +81,7 @@ var IPchatConfig = {
 		"ViewFormClick": '.card',
 
 
-		"B1Class": "ul.ul_prise li", 
+		"B1Class": "ul.ul_prise li, .article", 
 		"B1Cbtnclass": "input[name=cart_add]",
 		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--chprice-->], Товар[<!--chitem-->], -Комментарий(необязательно)'},
 		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--chprice-->], Товар[<!--chitem-->], -Комментарий(необязательно)'},
