@@ -63,7 +63,7 @@ if (window.jQuery) {
 	} else {
 		window.CHitem = window.location.href.toString(); 
 	}
-	window.CHprice = window.jQuery('ul.ul_prise:nth-child(6) > li:nth-child(1) > p:nth-child(4) > b:nth-child(1)')[0];
+	window.CHprice = window.jQuery('ul.ul_prise:nth-child(6) > li:nth-child(1) > p:nth-child(4) > b:nth-child(1), .article > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > p:nth-child(1) > b:nth-child(1)')[0];
 	if (window.CHprice) {
 		window.CHprice = IPchrSChr(window.CHprice.innerHTML); 
 	} else {
