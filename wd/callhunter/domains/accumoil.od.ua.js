@@ -47,32 +47,17 @@ var IPchatConfig = {
 
 
 
-if (window.jQuery) {
 
 /*
-	вынесено в основной код в редактируемую зону
 
 	//блокируем сумму в корзине
 	//ваш заказ заменяем на Заказать звонок
 
+	//вынесено в основной код в редактируемую зону
+
+
 */
 
-	window.CHitem = window.jQuery('.chitem')[0];
-	if (window.CHitem) {
-		window.CHitem = IPchrSChr(window.CHitem.innerHTML); 
-	} else {
-		window.CHitem = window.location.href.toString(); 
-	}
-	window.CHprice = window.jQuery('ul.ul_prise:nth-child(6) > li:nth-child(1) > p:nth-child(4) > b:nth-child(1), .article > div:nth-child(1) > div:nth-child(3) > div:nth-child(2) > p:nth-child(1) > b:nth-child(1)')[0];
-	if (window.CHprice) {
-		window.CHprice = IPchrSChr(window.CHprice.innerHTML); 
-	} else {
-		window.CHprice = 0; 
-	}
-} else {
-	window.CHitem = window.location.href.toString(); 
-	window.CHprice = 0; 
-}
 
 
 
@@ -98,8 +83,8 @@ if (window.jQuery) {
 
 		"B1Class": "ul.ul_prise li", 
 		"B1Cbtnclass": "input[name=cart_add]",
-		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[' + window.CHprice + '], Товар[' + window.CHitem + '], -Комментарий(необязательно)'},
-		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[' + window.CHprice + '], Товар[' + window.CHitem + '], -Комментарий(необязательно)'},
+		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--chprice-->], Товар[<!--chitem-->], -Комментарий(необязательно)'},
+		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--chprice-->], Товар[<!--chitem-->], -Комментарий(необязательно)'},
 
 
 
