@@ -49,10 +49,10 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
-	"hunterOn": "0",
-	"showButton": 	"0",
-	"consultantOn": "0",
-//	"consultantOn": "4",
+//	"hunterOn": "0",
+//	"showButton": 	"0",
+//	"consultantOn": "0",
+	"consultantOn": "4",
 
 
 
