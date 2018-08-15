@@ -78,7 +78,7 @@ var IPchatConfig = {
 
 
 
-		"ViewFormClick": '.card, tel',
+		"ViewFormClick": '.card, a[href^="tel:"]',
 
 
 		"B1Class": "ul.ul_prise li, div.article", 
