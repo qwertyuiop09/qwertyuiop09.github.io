@@ -178,7 +178,7 @@ var IPchatConfig = {
 	"consultantSettings": {
 	        phone_field: 1,
 	        phone_required: 1,
-	        email_field: 1,
+	        email_field: 0,
 	        email_required: 0,
 	        name_field: 1,
 	        name_required: 0,
