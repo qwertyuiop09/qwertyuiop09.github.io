@@ -3,7 +3,7 @@ var IpAid='market.kharkov.ua';
 
 
 var intepriceApermissions = {
-	"ApprovedDomains":	['market.kharkov.ua'],
+	"ApprovedDomains":	['market.kharkov.ua','accumoil.od.ua'],
 	"CallHunter":		true
 };
 

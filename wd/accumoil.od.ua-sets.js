@@ -3,7 +3,7 @@ var IpAid='accumoil.od.ua';
 
 
 var intepriceApermissions = {
-	"ApprovedDomains":	['accumoil.od.ua','accumoil.inteprice.com'],
+	"ApprovedDomains":	['accumoil.od.ua','accumoil.inteprice.com','market.kharkov.ua'],
 	"CallHunter":		true
 };
 
