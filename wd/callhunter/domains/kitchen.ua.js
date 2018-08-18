@@ -242,7 +242,7 @@ var IPchatConfig = {
 	pagecurIp = pagecurIp.replace( /\/$/, '' ); 
 
 
-	if (window.IPclhrDataUpdate&&(pagecurIp.indexOf('store/')==0)) {
+	if (window.IPclhrDataUpdate&&(pagecurIp.indexOf('store/')===0)) {
 
 		IPclhrDataUpdate.hunterPages = 0;
 		IPclhrDataUpdate.hunterSesTime = 0;
