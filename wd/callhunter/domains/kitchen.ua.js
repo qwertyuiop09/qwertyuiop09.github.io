@@ -231,6 +231,34 @@ var IPchatConfig = {
 
 
 
+
+
+
+//убираем активность на страницах заказа
+
+	var pagecurIp=window.location.href.toString().split(window.location.host)[1];
+	pagecurIp = pagecurIp.replace( /^\//, '' ); 
+	pagecurIp = pagecurIp.replace( /(.*?)[\?].*$/, '$1' );
+	pagecurIp = pagecurIp.replace( /\/$/, '' ); 
+
+
+	if (window.IPclhrDataUpdate&&(pagecurIp.indexOf('store')==0)) {
+
+		IPclhrDataUpdate.hunterPages = 0;
+		IPclhrDataUpdate.hunterSesTime = 0;
+
+//		IPclhrDataUpdate.hunterOn="0";
+//		IPclhrDataUpdate.showButton="0";
+//		IPclhrDataUpdate.consultantOn="0";
+
+	}
+
+
+
+
+
+
+
 //для настроенных бесплатных, которые оплачены
 	try {
 		if (window.intepriceCRT) {
