@@ -82,7 +82,7 @@ var IPchatConfig = {
 
 
 		"B1Class": "ul.ul_prise li, div.article", 
-		"B1Cbtnclass": "input[name=cart_add],p.posbg",
+		"B1Cbtnclass": "input[name=cart_add], p.posbg",
 //		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--chprice-->], Товар[<!--chitem-->], -Комментарий(необязательно)'},
 //		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--chprice-->], Товар[<!--chitem-->], -Комментарий(необязательно)'},
 		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--[name=\'chprice\']-->], Товар[<!--[name=\'chitem\']-->], -Комментарий(необязательно)'},
