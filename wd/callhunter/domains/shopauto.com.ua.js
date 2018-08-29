@@ -146,10 +146,10 @@ var IPchatConfig = {
 
 
 
-//покупка в 1 клик, не работает
-	"SubmitElement": "#jv_quickorder",
+//покупка в 1 клик
+	"ClickElement": "div#myModal.bt_modal div.bt_modal-footer button.btn.btn-large.btn-primary",
 
-	"AdwConvSubmit": {
+	"AdwConvСlick": {
 	google_conversion_id: 855896744,
 	google_conversion_language: "en",
 	google_conversion_format: "3",
@@ -157,7 +157,6 @@ var IPchatConfig = {
 	google_conversion_label: "XlsBCKmCm4gBEKjlj5gD",
 	google_remarketing_only: false
 		},
-
 
 
 
