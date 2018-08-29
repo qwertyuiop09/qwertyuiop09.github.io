@@ -171,7 +171,7 @@ var IPchatConfig = {
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
-		"ButtonYMobile": 100,
+		"ButtonYMobile": 120,
 //		"ButtonYMobile": 80,
 		"ButtonXMobile": 0,
 		"ButtonMobilePlace": 'RightTop',
