@@ -60,6 +60,7 @@ var IPchatConfig = {
 		"workEnd": "19",
 		"workDays": "Mon, Tue, Wed, Thu, Fri, Sat:10:18, Sun:10:17",
 
+		"titleworktime": "Мы перезвоним через несколько минут",
 
 
 
