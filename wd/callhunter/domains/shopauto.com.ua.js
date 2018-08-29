@@ -163,7 +163,8 @@ var IPchatConfig = {
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //покупка в 1 клик
-		"ExtFormFCOnly": {RegExp: '>[ ]*Сделать[ ]+заказ[ ]*<', Flags: 'i'},
+//		"ExtFormFCOnly": {RegExp: '>[ ]*Сделать[ ]+заказ[ ]*<', Flags: 'i'},
+		"ExtFormFCOnly": {RegExp: 'Сделать заказ', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
