@@ -146,6 +146,22 @@ var IPchatConfig = {
 
 
 
+//покупка в 1 клик
+	"SubmitElement": "#jv_quickorder",
+
+	"AdwConvSubmit": {
+	google_conversion_id: 855896744,
+	google_conversion_language: "en",
+	google_conversion_format: "3",
+	google_conversion_color: "ffffff",
+	google_conversion_label: "XlsBCKmCm4gBEKjlj5gD",
+	google_remarketing_only: false
+		},
+
+
+
+
+
 /*
 		"title": "Получить консультацию",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
@@ -162,10 +178,10 @@ var IPchatConfig = {
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//покупка в 1 клик
+//покупка в 1 клик, не работает
 //		"ExtFormFCOnly": {RegExp: '>[ ]*Сделать[ ]+заказ[ ]*<', Flags: 'i'},
-		"ExtFormFCOnly": {RegExp: 'Сделать заказ', Flags: 'i'},
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+//		"ExtFormFCOnly": {RegExp: 'Сделать заказ', Flags: 'i'},
+//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
