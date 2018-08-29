@@ -147,7 +147,7 @@ var IPchatConfig = {
 */
 
 
-		"titleworktime": "Мы свяжемся с Вами через несколько минут",
+		"titleworktime": "Мы перезвоним через несколько минут",
 		"emptyPhone": "+380",
 
 /*
