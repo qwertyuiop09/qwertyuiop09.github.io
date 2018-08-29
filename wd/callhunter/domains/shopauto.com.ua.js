@@ -146,7 +146,7 @@ var IPchatConfig = {
 
 
 
-//покупка в 1 клик
+//покупка в 1 клик, не работает
 	"SubmitElement": "#jv_quickorder",
 
 	"AdwConvSubmit": {
