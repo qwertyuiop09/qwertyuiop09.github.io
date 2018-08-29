@@ -56,6 +56,7 @@ var IPchatConfig = {
 //	"workDays": "Mon, Tue, Wed, Thu, Fri",
 
 	"ButtonY":	"180",
+	"ButtonMobilePlace": "LeftBottom",
 
 
 
