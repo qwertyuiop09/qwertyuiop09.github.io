@@ -261,6 +261,7 @@ var IPchatConfig = {
 
 
 
+//на мобилках разрешаем кликнуть по tel:
 	if ("ontouchstart" in window || navigator.msMaxTouchPoints)  {
 		IPclhrDataUpdate.ViewFormClick='.card';
 	} else {
