@@ -77,10 +77,6 @@ var IPchatConfig = {
 
 
 
-
-		"ViewFormClick": '.card, a[href^="tel:"]',
-
-
 		"B1Class": "ul.ul_prise li, div.article", 
 		"B1Cbtnclass": "input[name=cart_add], p.posbg",
 //		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--chprice-->], Товар[<!--chitem-->], -Комментарий(необязательно)'},
@@ -261,6 +257,14 @@ var IPchatConfig = {
 		"consultantSendContacts": 'Ваши контакты для обратной связи',
 		"consultantAlwaysShowSupport":"1",
 		"consultantMMFolder":""
+	}
+
+
+
+	if ("ontouchstart" in window || navigator.msMaxTouchPoints)  {
+		IPclhrDataUpdate.ViewFormClick='.card';
+	} else {
+		IPclhrDataUpdate.ViewFormClick='.card, a[href^="tel:"]';
 	}
 
 
