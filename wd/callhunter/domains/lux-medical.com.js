@@ -258,12 +258,14 @@ var IPchatConfig = {
 				}
 
 			}
+/*
 			if (formsCollection[r].getAttribute('novalidate')) {
 				formsCollection[r].removeAttribute('novalidate');
 			} else {
 				formsCollection[r].setAttribute('novalidate','novalidate')
 				formsCollection[r].removeAttribute('novalidate');
 			}
+*/
 //		}
 	}
 
