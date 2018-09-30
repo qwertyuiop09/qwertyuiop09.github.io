@@ -248,6 +248,7 @@ var IPchatConfig = {
 
 
 
+/*
 
 	var formsCollection=document.forms;
 	for(var r=0;r<formsCollection.length;r++) {
@@ -258,14 +259,13 @@ var IPchatConfig = {
 				}
 
 			}
-/*
 			if (formsCollection[r].getAttribute('novalidate')) {
 				formsCollection[r].removeAttribute('novalidate');
 			} else {
 				formsCollection[r].setAttribute('novalidate','novalidate')
 				formsCollection[r].removeAttribute('novalidate');
 			}
-*/
 //		}
 	}
 
+*/
