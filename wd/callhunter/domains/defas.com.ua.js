@@ -182,7 +182,7 @@ var IPchatConfig = {
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset]), div.form_submit_text',
-		"ExtFormBtnFCForm": "form",
+//		"ExtFormBtnFCForm": "form",
 
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
