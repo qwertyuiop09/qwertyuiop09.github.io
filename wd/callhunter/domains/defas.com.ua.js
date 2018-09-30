@@ -117,6 +117,22 @@ var IPchatConfig = {
 
 
 
+
+
+	"SubmitElement": "form",
+	"AdwConvSubmit": {
+		google_conversion_id: 836067726,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "mLm6CLLOq4oBEI7D1Y4D",
+		google_remarketing_only: false
+		},
+
+
+
+
+
 /*
 
 		"AdwConvJivo": {
@@ -165,7 +181,7 @@ var IPchatConfig = {
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
