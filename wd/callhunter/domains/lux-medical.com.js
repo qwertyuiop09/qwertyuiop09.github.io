@@ -162,6 +162,10 @@ var IPchatConfig = {
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+
+		"ExtFormBtnFCvalidAttr": "aria-required",
+		//ExtFormBtnFCvalidVal: true, //закомментирован
+
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
@@ -248,24 +252,3 @@ var IPchatConfig = {
 
 
 
-/*
-
-	var formsCollection=document.forms;
-	for(var r=0;r<formsCollection.length;r++) {
-//		if (formsCollection[r].action.indexOf('wpcf7') > -1) {
-			for (var i = 0; i < formsCollection[r].elements.length; i++) {
-				if (formsCollection[r].elements[i].getAttribute("aria-required")) {
-	 				formsCollection[r].elements[i].setAttribute("required", "true");
-				}
-
-			}
-			if (formsCollection[r].getAttribute('novalidate')) {
-				formsCollection[r].removeAttribute('novalidate');
-			} else {
-				formsCollection[r].setAttribute('novalidate','novalidate')
-				formsCollection[r].removeAttribute('novalidate');
-			}
-//		}
-	}
-
-*/
