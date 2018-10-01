@@ -164,13 +164,13 @@ var IPchatConfig = {
 var formnovalidate=undefined;
 if (button_selector.attr('formnovalidate') != undefined) {
 	console.log(field_selector.attr('name')+' novalidate button') 
-	formnovalidate=button_selector[0].attr('formnovalidate');
+	formnovalidate=button_selector.attr('formnovalidate');
 	button_selector.attr('formnovalidate',undefined);
 }
 var novalidate=undefined;
 if (form_selector.attr('novalidate') != undefined) {
 	console.log(field_selector.attr('name')+' novalidate form') 
-	novalidate=form_selector[0].attr('novalidate');
+	novalidate=form_selector.attr('novalidate');
 	form_selector.attr('novalidate',undefined);
 }
 
