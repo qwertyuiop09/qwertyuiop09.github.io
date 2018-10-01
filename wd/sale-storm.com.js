@@ -161,11 +161,33 @@ var IPchatConfig = {
 		"ExtFormBtnFCvalidAttr": "aria-required",
 		"ExtFormBtnFCvalidVal": function(attr_name,attr_value,field_value,field_num,field_selector,button_selector,form_selector){
 
+var formnovalidate=undefined;
+if (button_selector.attr('formnovalidate') != undefined) {
+	formnovalidate=button_selector.attr('formnovalidate');
+	button_selector.attr('formnovalidate',undefined);
+}
+var novalidate=undefined;
+if (form_selector.attr('novalidate') != undefined) {
+	novalidate=form_selector.attr('novalidate');
+	form_selector.attr('novalidate',undefined);
+}
+
+
 if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.valid) {
 	console.log(field_selector.attr('name')+'='+field_selector[0].validity.valid) 
 } else {
 	console.log(field_selector.attr('name')) 
 }
+
+if (novalidate != undefined) {
+	form_selector.attr('novalidate',novalidate);
+}
+
+if (formnovalidate != undefined) {
+	button_selector.attr('formnovalidate',formnovalidate);
+}
+
+
 
 if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
  if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
