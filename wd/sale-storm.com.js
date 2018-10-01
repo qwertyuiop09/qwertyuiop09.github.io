@@ -162,17 +162,17 @@ var IPchatConfig = {
 		"ExtFormBtnFCvalidVal": function(attr_name,attr_value,field_value,field_num,field_selector,button_selector,form_selector){
 
 var formnovalidate=0;
-if (button_selector[0].getAttribute('formnovalidate')) {
-	console.log(field_selector.attr('name')+' novalidate button') 
-	formnovalidate=1;
-	button_selector[0].removeAttribute('formnovalidate')
-}
+//if (button_selector[0].getAttribute('formnovalidate')) {
+//	console.log(field_selector.attr('name')+' novalidate button') 
+//	formnovalidate=1;
+//	button_selector[0].removeAttribute('formnovalidate')
+//}
 var novalidate=0;
-if (form_selector[0].getAttribute('novalidate')) {
-	console.log(field_selector.attr('name')+' novalidate form') 
-	novalidate=1;
-	form_selector[0].removeAttribute('novalidate');
-}
+//if (form_selector[0].getAttribute('novalidate')) {
+//	console.log(field_selector.attr('name')+' novalidate form') 
+//	novalidate=1;
+//	form_selector[0].removeAttribute('novalidate');
+//}
 
 
 if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.valid) {
