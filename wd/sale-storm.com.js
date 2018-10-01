@@ -350,7 +350,7 @@ var IPchatConfig = {
 	}
 
 
-
+/*
 	var formsCollection=document.forms;
 	for(var r=0;r<formsCollection.length;r++) {
 //		if (formsCollection[r].action.indexOf('wpcf7') > -1) {
@@ -368,3 +368,4 @@ var IPchatConfig = {
 			}
 //		}
 	}
+*/
