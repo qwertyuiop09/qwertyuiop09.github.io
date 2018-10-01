@@ -157,7 +157,7 @@ var IPchatConfig = {
 
 		"ExtFormBtnFCvalidAttr": "aria-required",
 		//ExtFormBtnFCvalidVal: true, //закомментирован
-		ExtFormBtnFCvalidVal: function(attr_name,attr_value,field_value,field_selector){ console.log(attr_name+'=='+attr_value+'=='+field_value); if (attr_value&&(!/^\s*$/.test(field_value))) {console.log('return 1')} else {console.log('return 0')}; if (attr_value&&(!/^\s*$/.test(field_value))) return 1; },
+		ExtFormBtnFCvalidVal: function(attr_name,attr_value,field_value,field_selector){ console.log(attr_name+'=='+attr_value+'=='+field_value); console.log('start fun'); try { if (attr_value&&(!/^\s*$/.test(field_value))) {console.log('return 1')} else {console.log('return 0')}; } catch (e) { console.log(e.message) } ; console.log('end fun'); if (attr_value&&(!/^\s*$/.test(field_value))) return 1; },
 
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
