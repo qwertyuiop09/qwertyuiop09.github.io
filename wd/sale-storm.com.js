@@ -155,6 +155,7 @@ var IPchatConfig = {
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 
+/*
 		//"ExtFormBtnFCvalidAttr": "aria-required",
 		//"ExtFormBtnFCvalidVal": true, //закомментирован
 		"ExtFormBtnFCvalidAttr": "aria-required",
@@ -169,6 +170,8 @@ if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.va
 if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
  if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
 },
+
+*/
 
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
@@ -366,7 +369,7 @@ if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
 	}
 
 
-/*
+
 	var formsCollection=document.forms;
 	for(var r=0;r<formsCollection.length;r++) {
 //		if (formsCollection[r].action.indexOf('wpcf7') > -1) {
@@ -384,4 +387,3 @@ if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
 			}
 //		}
 	}
-*/
