@@ -157,6 +157,18 @@ var IPchatConfig = {
 
 		//"ExtFormBtnFCvalidAttr": "aria-required",
 		//"ExtFormBtnFCvalidVal": true, //закомментирован
+		"ExtFormBtnFCvalidAttr": "aria-required",
+		"ExtFormBtnFCvalidVal": function(attr_name,attr_value,field_value,field_num,field_selector,button_selector,form_selector){
+
+if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.valid) {
+	console.log(field_selector.attr('name')+'='+field_selector[0].validity.valid) 
+} else {
+	console.log(field_selector.attr('name')) 
+}
+
+if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
+ if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
+},
 
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
@@ -354,7 +366,7 @@ var IPchatConfig = {
 	}
 
 
-
+/*
 	var formsCollection=document.forms;
 	for(var r=0;r<formsCollection.length;r++) {
 //		if (formsCollection[r].action.indexOf('wpcf7') > -1) {
@@ -372,3 +384,4 @@ var IPchatConfig = {
 			}
 //		}
 	}
+*/
