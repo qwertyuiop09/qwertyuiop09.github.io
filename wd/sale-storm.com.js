@@ -161,14 +161,6 @@ var IPchatConfig = {
 		"ExtFormBtnFCvalidAttr": "aria-required",
 		"ExtFormBtnFCvalidVal": function(attr_name,attr_value,field_value,field_num,field_selector,button_selector,form_selector){
 
-
-			if (formsCollection[r].getAttribute('novalidate')) {
-				formsCollection[r].removeAttribute('novalidate');
-			} else {
-				formsCollection[r].setAttribute('novalidate','novalidate')
-				formsCollection[r].removeAttribute('novalidate');
-			}
-
 var formnovalidate=0;
 if (button_selector[0].getAttribute('formnovalidate')) {
 	console.log(field_selector.attr('name')+' novalidate button') 
