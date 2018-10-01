@@ -154,6 +154,10 @@ var IPchatConfig = {
 		"MMFileType": "3",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+
+		"ExtFormBtnFCvalidAttr": "aria-required",
+		//ExtFormBtnFCvalidVal: true, //закомментирован
+
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
 		"showButton": 	"1",
