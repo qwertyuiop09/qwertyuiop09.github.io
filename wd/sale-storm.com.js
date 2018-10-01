@@ -408,7 +408,7 @@ if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
 	}
 
 
-/*
+
 	var formsCollection=document.forms;
 	for(var r=0;r<formsCollection.length;r++) {
 //		if (formsCollection[r].action.indexOf('wpcf7') > -1) {
@@ -418,12 +418,11 @@ if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
 				}
 
 			}
-			if (formsCollection[r].getAttribute('novalidate')) {
-				formsCollection[r].removeAttribute('novalidate');
-			} else {
-				formsCollection[r].setAttribute('novalidate','novalidate')
-				formsCollection[r].removeAttribute('novalidate');
-			}
+//			if (formsCollection[r].getAttribute('novalidate')) {
+//				formsCollection[r].removeAttribute('novalidate');
+//			} else {
+//				formsCollection[r].setAttribute('novalidate','novalidate')
+//				formsCollection[r].removeAttribute('novalidate');
+//			}
 //		}
 	}
-*/
