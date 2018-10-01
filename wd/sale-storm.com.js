@@ -162,14 +162,14 @@ var IPchatConfig = {
 		"ExtFormBtnFCvalidVal": function(attr_name,attr_value,field_value,field_num,field_selector,button_selector,form_selector){
 
 var formnovalidate=undefined;
-if (button_selector.attr('formnovalidate') != undefined) {
-	formnovalidate=button_selector.attr('formnovalidate');
-	button_selector.attr('formnovalidate',undefined);
+if (button_selector[0].attr('formnovalidate') != undefined) {
+	formnovalidate=button_selector[0].attr('formnovalidate');
+	button_selector[0].attr('formnovalidate',undefined);
 }
 var novalidate=undefined;
-if (form_selector.attr('novalidate') != undefined) {
-	novalidate=form_selector.attr('novalidate');
-	form_selector.attr('novalidate',undefined);
+if (form_selector[0].attr('novalidate') != undefined) {
+	novalidate=form_selector[0].attr('novalidate');
+	form_selector[0].attr('novalidate',undefined);
 }
 
 
@@ -180,11 +180,11 @@ if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.va
 }
 
 if (novalidate != undefined) {
-	form_selector.attr('novalidate',novalidate);
+	form_selector[0].attr('novalidate',novalidate);
 }
 
 if (formnovalidate != undefined) {
-	button_selector.attr('formnovalidate',formnovalidate);
+	button_selector[0].attr('formnovalidate',formnovalidate);
 }
 
 
