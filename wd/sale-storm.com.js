@@ -171,7 +171,7 @@ var novalidate=0;
 if (form_selector[0].getAttribute('novalidate')) {
 	console.log(field_selector.attr('name')+' novalidate form') 
 	novalidate=1;
-	form_selector[0].removeAttribute('novalidate');
+//	form_selector[0].removeAttribute('novalidate');
 }
 
 if (form_selector[0].getAttribute('novalidate')) {
