@@ -161,6 +161,46 @@ var IPchatConfig = {
 		"ExtFormBtnFCvalidAttr": "aria-required",
 		"ExtFormBtnFCvalidVal": function(attr_name,attr_value,field_value,field_num,field_selector,button_selector,form_selector){
 
+
+			if (formsCollection[r].getAttribute('novalidate')) {
+				formsCollection[r].removeAttribute('novalidate');
+			} else {
+				formsCollection[r].setAttribute('novalidate','novalidate')
+				formsCollection[r].removeAttribute('novalidate');
+			}
+
+var formnovalidate=0;
+if (button_selector[0].getAttribute('formnovalidate')) {
+	console.log(field_selector.attr('name')+' novalidate button') 
+	formnovalidate=1;
+	button_selector[0].removeAttribute('formnovalidate')
+}
+var novalidate=0;
+if (form_selector[0].getAttribute('novalidate')) {
+	console.log(field_selector.attr('name')+' novalidate form') 
+	novalidate=1;
+	form_selector[0].removeAttribute('novalidate');
+}
+
+
+if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.valid) {
+	console.log(field_selector.attr('name')+'='+field_selector[0].validity.valid) 
+} else {
+	console.log(field_selector.attr('name')) 
+}
+
+if (novalidate) {
+	form_selector[0].setAttribute('novalidate');
+}
+
+if (formnovalidate) {
+	button_selector[0].setAttribute('formnovalidate')
+}
+
+
+
+
+/*
 var formnovalidate=undefined;
 if (button_selector.attr('formnovalidate') != undefined) {
 	console.log(field_selector.attr('name')+' novalidate button') 
@@ -189,7 +229,7 @@ if (formnovalidate != undefined) {
 	button_selector.attr('formnovalidate',formnovalidate);
 }
 
-
+*/
 
 if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
 
