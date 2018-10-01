@@ -183,6 +183,10 @@ if (form_selector[0].getAttribute('novalidate')) {
 
 */
 
+if (form_selector[0].getAttribute('novalidate')) {
+	console.log(field_selector[0].getAttribute('name') + ' novalidate form');
+}
+
 form_selector[0].removeAttribute('novalidate');
 
 
