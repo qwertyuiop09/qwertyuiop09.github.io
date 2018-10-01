@@ -192,7 +192,7 @@ if (formnovalidate != undefined) {
 
 
 if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
- if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
+
 },
 
 
