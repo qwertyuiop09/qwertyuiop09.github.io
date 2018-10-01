@@ -155,13 +155,8 @@ var IPchatConfig = {
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 
-		"ExtFormBtnFCvalidAttr": "aria-required",
-		//ExtFormBtnFCvalidVal: true, //закомментирован
-		ExtFormBtnFCvalidVal: function(attr_name,attr_value,field_value,field_num,field_selector,button_selector,form_selector){ 
-
-console.log(attr_name+'=='+attr_value+'=='+field_num+'=='+field_value+'=='+field_selector.attr('name')); 
-
-console.log('start fun'); try { if (attr_value&&(!/^\s*$/.test(field_value))) {console.log('return 1')} else {console.log('return 0')}; } catch (e) { console.log(e.message) } ; console.log('end fun'); if (attr_value&&(!/^\s*$/.test(field_value))) return 1; },
+		//"ExtFormBtnFCvalidAttr": "aria-required",
+		//"ExtFormBtnFCvalidVal": true, //закомментирован
 
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
