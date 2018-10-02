@@ -156,8 +156,10 @@ var IPchatConfig = {
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 
 
-		//"ExtFormBtnFCvalidAttr": "aria-required",
+		"ExtFormBtnFCvalidAttr": "aria-required",
 		//"ExtFormBtnFCvalidVal": true, //закомментирован
+
+/*
 		"ExtFormBtnFCvalidAttr": "aria-required",
 		"ExtFormBtnFCvalidVal": function(attr_name,attr_value,field_value,field_num,field_selector,button_selector,form_selector){
 
@@ -186,7 +188,7 @@ if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
 
 },
 
-
+*/
 
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
@@ -395,13 +397,13 @@ if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
 				}
 
 			}
-//			if (formsCollection[r].getAttribute('novalidate')) {
-//				formsCollection[r].removeAttribute('novalidate');
-//			} else {
-//				formsCollection[r].setAttribute('novalidate','novalidate')
-//				formsCollection[r].removeAttribute('novalidate');
-//			}
-//		}
+			if (formsCollection[r].getAttribute('novalidate')) {
+				formsCollection[r].removeAttribute('novalidate');
+			} else {
+				formsCollection[r].setAttribute('novalidate','novalidate')
+				formsCollection[r].removeAttribute('novalidate');
+			}
+		}
 	}
 
 */
