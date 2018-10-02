@@ -159,36 +159,6 @@ var IPchatConfig = {
 		"ExtFormBtnFCvalidAttr": "aria-required",
 		//"ExtFormBtnFCvalidVal": true, //закомментирован
 
-/*
-		"ExtFormBtnFCvalidAttr": "aria-required",
-		"ExtFormBtnFCvalidVal": function(attr_name,attr_value,field_value,field_num,field_selector,button_selector,form_selector){
-
-
-var required = 0;
-if (!field_selector[0].getAttribute('required')) {
-	required = 1;
-	field_selector[0].setAttribute("required", "true");
-//	console.log(field_selector[0].getAttribute('name') + ' novalidate form');
-}
-
-//form_selector[0].removeAttribute('required');
-
-
-if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.valid) {
-	console.log(field_selector.attr('name')+'='+field_selector[0].validity.valid) 
-} else {
-	console.log(field_selector.attr('name')) 
-}
-
-if (required) {
-	field_selector[0].removeAttribute('required');
-}
-
-if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
-
-},
-
-*/
 
 		"ViewFormClick": '.callhunter_viewform_click, .link_more',
 
