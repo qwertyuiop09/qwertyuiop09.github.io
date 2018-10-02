@@ -243,14 +243,14 @@ var IPchatConfig = {
 	}
 
 
-/*
+
 	if (!window.IPclhrDataUpdate) {
 		window.IPclhrDataUpdate={}
 	}
 	IPclhrDataUpdate.consultantOn=0
 	IPclhrDataUpdate.hunterOn=0
 	IPclhrDataUpdate.showButton=0
-*/
+
 
 
 	if (window.IPclhrDataUpdate && (Number(IPclhrDataUpdate.consultantOn) == 4)) {
