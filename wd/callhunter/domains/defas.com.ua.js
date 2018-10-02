@@ -243,30 +243,27 @@ var IPchatConfig = {
 	}
 
 
-/*
+
 
 	try {
 		//дата и месяц наоборот!
-		var endtime = '10/08/2016;
+		var endtime = '10/08/2016';
 		endtime = new Date(endtime);
-		//в формуле не учитывается переход на летнее время (возможная неточность 1 час)
-//		endtime.setTime(endtime.getTime() + (endtime.getTimezoneOffset()*60*1000) + (IPclhrData["timeZone"]*60*60*1000) + Number(window.IPcallhunterDiff));
+		//не учитывается переход на летнее время (возможная неточность 1 час)
 		var currtime = new Date();
-//		currtime.setTime(currtime.getTime() + (currtime.getTimezoneOffset()*60*1000) + (IPclhrData["timeZone"]*60*60*1000) + Number(window.IPcallhunterDiff));
-
-		if ((currd.getTime() - endtime.getTime())/(24*60*60*1000) < 30) {
+		if (currtime < endtime) {
+			if (!window.IPclhrDataUpdate) {
+				window.IPclhrDataUpdate={}
+			}
+			IPclhrDataUpdate.consultantOn=0;
+			IPclhrDataUpdate.hunterOn=0;
+			IPclhrDataUpdate.showButton=0;
 		}
 	} catch (e) { }
 
 
-*/
 
-	if (!window.IPclhrDataUpdate) {
-		window.IPclhrDataUpdate={}
-	}
-	IPclhrDataUpdate.consultantOn=0
-	IPclhrDataUpdate.hunterOn=0
-	IPclhrDataUpdate.showButton=0
+
 
 
 
