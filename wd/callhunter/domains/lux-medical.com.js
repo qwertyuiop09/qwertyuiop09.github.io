@@ -239,16 +239,14 @@ var IPchatConfig = {
 			var match = window.intepriceCRT.match(/^(\d\d?)[\.\/](\d\d?)[\.\/](\d\d\d\d)$/m);
 			if (match) {
 				var dateCRT = match[2] + '/' + match[1] + '/' + match[3];
-				var gmt = new Date(dateCRT);
-				gmt.setTime(gmt.getTime() + (gmt.getTimezoneOffset()*60*1000));
+				var sttime = new Date(dateCRT);
 				var currd = new Date();
-				if ((currd.getTime() - gmt.getTime())/(24*60*60*1000) < 30) {
+				if ((currd.getTime() - sttime.getTime())/(24*60*60*1000) < 30) {
 					IPclhrDataUpdate.freefull=1;
+					currd.setTime(currd.getTime() + (currd.getTimezoneOffset()*60*1000) + (((IPclhrDataUpdate&&IPclhrDataUpdate.hasOwnProperty('timeZone')) ? IPclhrDataUpdate["timeZone"] : IPclhrData["timeZone"])*60*60*1000) + Number(window.IPcallhunterDiff));
 					window.intepriceCRT = ('0' + currd.getDate()).slice(-2) + '.' + ('0' + (currd.getMonth() + 1)).slice(-2)  + '.' + currd.getFullYear();
 				}
 			}
 		}
 	} catch (e) { }
-
-
 
