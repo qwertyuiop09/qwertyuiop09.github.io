@@ -171,7 +171,7 @@ if (!field_selector[0].getAttribute('required')) {
 //	console.log(field_selector[0].getAttribute('name') + ' novalidate form');
 }
 
-//form_selector[0].removeAttribute('novalidate');
+//form_selector[0].removeAttribute('required');
 
 
 if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.valid) {
@@ -181,7 +181,7 @@ if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.va
 }
 
 if (required) {
-	field_selector[0].removeAttribute('novalidate');
+	field_selector[0].removeAttribute('required');
 }
 
 if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
