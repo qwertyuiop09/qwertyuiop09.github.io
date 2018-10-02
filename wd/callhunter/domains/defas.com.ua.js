@@ -247,7 +247,7 @@ var IPchatConfig = {
 
 	try {
 		//дата и месяц наоборот!
-		var endtime = '10/09/2018';
+		var endtime = '10/08/2018';
 		endtime = new Date(endtime);
 		//не учитывается переход на летнее время (возможная неточность 1 час)
 		var currtime = new Date();
@@ -258,7 +258,6 @@ var IPchatConfig = {
 			IPclhrDataUpdate.consultantOn=0;
 			IPclhrDataUpdate.hunterOn=0;
 			IPclhrDataUpdate.showButton=0;
-			console.log(9)
 		}
 	} catch (e) { }
 
