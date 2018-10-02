@@ -384,6 +384,7 @@ if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
 	}
 
 
+/*
 
 	var formsCollection=document.forms;
 	for(var r=0;r<formsCollection.length;r++) {
@@ -402,3 +403,5 @@ if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
 //			}
 //		}
 	}
+
+*/
