@@ -243,6 +243,22 @@ var IPchatConfig = {
 	}
 
 
+/*
+
+	try {
+
+		var endtime = '10/08/2016;
+		endtime = new Date(endtime);
+//		endtime.setTime(endtime.getTime() + (endtime.getTimezoneOffset()*60*1000) + (IPclhrData["timeZone"]*60*60*1000) + Number(window.IPcallhunterDiff));
+		var currtime = new Date();
+//		currtime.setTime(currtime.getTime() + (currtime.getTimezoneOffset()*60*1000) + (IPclhrData["timeZone"]*60*60*1000) + Number(window.IPcallhunterDiff));
+
+		if ((currd.getTime() - endtime.getTime())/(24*60*60*1000) < 30) {
+		}
+	} catch (e) { }
+
+
+*/
 
 	if (!window.IPclhrDataUpdate) {
 		window.IPclhrDataUpdate={}
