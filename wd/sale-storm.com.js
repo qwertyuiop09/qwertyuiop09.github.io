@@ -187,7 +187,7 @@ if (form_selector[0].getAttribute('novalidate')) {
 	console.log(field_selector[0].getAttribute('name') + ' novalidate form');
 }
 
-form_selector[0].removeAttribute('novalidate');
+//form_selector[0].removeAttribute('novalidate');
 
 
 if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.valid) {
@@ -196,17 +196,7 @@ if (field_selector[0]&&field_selector[0].validity&&field_selector[0].validity.va
 	console.log(field_selector.attr('name')) 
 }
 
-/*
-if (novalidate) {
-	form_selector[0].setAttribute('novalidate');
-}
-
-if (formnovalidate) {
-	button_selector[0].setAttribute('formnovalidate')
-}
-
-*/
-if (attr_value&&(!/^\s*$/.test(field_value))) return 1; 
+if (attr_value&&(!/^\s*$/.test(field_value))) return 1;
 
 },
 
