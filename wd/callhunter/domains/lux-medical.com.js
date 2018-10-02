@@ -240,7 +240,7 @@ var IPchatConfig = {
 			if (match) {
 				var dateCRT = match[2] + '/' + match[1] + '/' + match[3];
 				var gmt = new Date(dateCRT);
-				gmt.setTime(gmt.getTime() + (gmt.getTimezoneOffset()*60*1000) + Number(window.IPcallhunterDiff));
+				gmt.setTime(gmt.getTime() + (gmt.getTimezoneOffset()*60*1000));
 				var currd = new Date();
 				if ((currd.getTime() - gmt.getTime())/(24*60*60*1000) < 30) {
 					IPclhrDataUpdate.freefull=1;
