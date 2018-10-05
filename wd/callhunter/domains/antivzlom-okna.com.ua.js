@@ -8,7 +8,7 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 
 //без предоплаты, логин менеджера
 var intepriceIPL = 'defas.inteprice.com';
-var intepriceCRT = '29.09.2018';
+var intepriceCRT = '05.10.2018';
 
 
 var IPchatConfig = {
