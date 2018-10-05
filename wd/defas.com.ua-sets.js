@@ -3,7 +3,7 @@ var IpAid='defas.com.ua';
 
 
 var intepriceApermissions = {
-	"ApprovedDomains":	['defas.com.ua','antivzlom-okna.com.ua'],
+	"ApprovedDomains":	['defas.com.ua'],
 	"CallHunter":		true
 };
 
