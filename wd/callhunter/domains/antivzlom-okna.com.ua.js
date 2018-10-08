@@ -8,7 +8,7 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 
 //без предоплаты, логин менеджера
 var intepriceIPL = 'defas.inteprice.com';
-var intepriceCRT = '05.10.2018';
+var intepriceCRT = '29.09.2018';
 
 
 var IPchatConfig = {
@@ -181,7 +181,7 @@ var IPchatConfig = {
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset]), div.form_submit_text',
+		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset]), div.form_submit_text, a.component-button.quiz-submit.filled.rounded > div.btn-content',
 //		"ExtFormBtnFCForm": "form",
 
 		"ButtonSensitivity":	"0",
