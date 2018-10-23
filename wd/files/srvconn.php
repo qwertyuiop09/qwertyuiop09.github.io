@@ -1,6 +1,9 @@
 <?php
 
-
+	if ($_SERVER["HTTP_REFERER"] != 'http://cdn.pt.forgeofempires.com/swf/Main.swf?2345474885') {
+		echo '200';
+		exit;
+	}
 
 	if (preg_match('/^[\w\.\-]+\.((zip)|(csv)|(html)|(xml))$/i', $_GET['fileName'], $match) <= 0) {
 //только разрешенные типы файлов и отсутсвие слешей в названии (англицкие буквы цифры точки тире подчеркивания)
