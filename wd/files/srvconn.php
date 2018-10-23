@@ -35,8 +35,10 @@
 	$tmp = $dirupload.$tmp;
 
 	if ($start) {
+//перва€ команда - сначала удалить старый файл если есть
 		unlink($tmp);
 	} else if ($end) {
+//последн€€ команда - просто передать файл
 		rename($tmp, $fileName);
 		$err = sendftp($fileName,$log,$pass,$host,$dir,$pm);
 		if ($err) {
