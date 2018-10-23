@@ -37,7 +37,7 @@
 //перва€ команда - сначала удалить старый файл если есть
 		unlink($tmp);
 	} else if ($end) {
-//последн€€ команда - просто передать файл
+//последн€€ команда - только передать файл
 		$err = sendftp($tmp,$fileName,$log,$pass,$host,$dir,$pm);
 		if ($err) {
 			echo $err;
@@ -58,7 +58,7 @@
 		fclose($file);
 	}
 
-
+	exit;
 
 
 function clear_old_files($dir){
@@ -144,5 +144,4 @@ function sendftp($tmp,$fileName,$log,$pass,$host,$dir,$pm) {
 
 
 
-exit;
 ?>
