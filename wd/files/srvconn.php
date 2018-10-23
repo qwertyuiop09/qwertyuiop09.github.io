@@ -44,9 +44,8 @@ error_reporting( E_ERROR );
 	} else if ($end) {
 //последн€€ команда - только передать файл
 		$err = sendftp($tmp,$fileName,$log,$pass,$host,$dir,$pm,$ssl);
-		if ($err) {
+		if ($err&&($err != true))
 			echo $err;
-		}
 		if (file_exists($tmp))
 			unlink($tmp);
 		exit;
