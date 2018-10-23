@@ -2,6 +2,9 @@
 
 
 
+	if ($_GET['fileName']) {
+		exit;
+	}
 
 
 
