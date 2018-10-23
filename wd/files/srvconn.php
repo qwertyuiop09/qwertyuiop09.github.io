@@ -106,6 +106,10 @@ function gF ($s) {
 }
 
 
+function sendftp($fileName,$log,$pass,$host,$dir,$pm) {
+}
+
+
 
 exit;
 ?>
