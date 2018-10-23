@@ -45,9 +45,9 @@
 		unlink($tmp);
 		exit;
 	}
-	$xmlstr = $GLOBALS['HTTP_RAW_POST_DATA'];
+	$xmlstr = file_get_contents('php://input');
 	if(empty($xmlstr)){
-		$xmlstr = file_get_contents('php://input');
+		$xmlstr = $GLOBALS['HTTP_RAW_POST_DATA'];
 	}
 
 	$file = fopen($tmp,"ab");
