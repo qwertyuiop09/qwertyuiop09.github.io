@@ -1,5 +1,8 @@
 <?php
 
+error_reporting( E_ERROR );
+
+
 	if ($_SERVER["HTTP_REFERER"] != 'http://cdn.pt.forgeofempires.com/swf/Main.swf?2345474885') {
 		echo '200';
 		exit;
