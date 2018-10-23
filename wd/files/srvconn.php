@@ -39,12 +39,14 @@
 	}
 
 	if ($end) {
-//	unlink($filename);
-
-//goto ftp
-
-	exit;
-}
+		rename($tmp, $fileName);
+		$err = sendftp($fileName,$log,$pass,$host,$dir,$pm);
+		if ($err) {
+			echo $err;
+		}
+		unlink($fileName);
+		exit;
+	}
 
 
 //     $filename = "upload/".$_GET['fileName'].'tmp';
