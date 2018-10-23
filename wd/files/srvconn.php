@@ -17,6 +17,14 @@
 		exit;
 	}
 
+	$fileName=gF("fileName");
+	$tmp=gF("tmp");
+	$log=gF("log");
+	$pass=gF("pass");
+	$host=gF("host");
+	$dir=gF("dir");
+
+
 
 
 	$dirupload = "upload/";
@@ -96,6 +104,10 @@ function clear_old_files($dir){
 
 }
 
+function gF ($s) { 
+	$s = substr( ($_GET[$s]), 0, 500);
+	return $s;
+}
 
 
 
