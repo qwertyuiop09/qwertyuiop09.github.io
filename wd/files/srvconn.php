@@ -24,6 +24,8 @@
 	$host=gF("host");
 	$dir=gF("dir");
 	$pm=gF("pm");
+	$start=gF("start");
+	$end=gF("end");
 
 
 	$dirupload = "upload/";
