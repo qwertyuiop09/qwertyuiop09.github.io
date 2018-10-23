@@ -31,7 +31,6 @@
 	$dirupload = "upload/";
 	clear_old_files($dirupload);
 
-	$fileName = $dirupload.$fileName;
 	$tmp = $dirupload.$tmp;
 
 	if ($start) {
@@ -39,12 +38,11 @@
 		unlink($tmp);
 	} else if ($end) {
 //последн€€ команда - просто передать файл
-		rename($tmp, $fileName);
-		$err = sendftp($fileName,$log,$pass,$host,$dir,$pm);
+		$err = sendftp($tmp,$fileName,$log,$pass,$host,$dir,$pm);
 		if ($err) {
 			echo $err;
 		}
-		unlink($fileName);
+		unlink($tmp);
 		exit;
 	}
 	$xmlstr = $GLOBALS['HTTP_RAW_POST_DATA'];
@@ -106,16 +104,9 @@ function gF ($s) {
 }
 
 
-function sendftp($fileName,$log,$pass,$host,$dir,$pm) {
+function sendftp($tmp,$fileName,$log,$pass,$host,$dir,$pm) {
 
 	$err = '';
-
-	$fp = fopen($fileName, 'r');
-
-	if (!$fp) {
-		$err = 'Error read '.$fileName.' fot send';
-		return $err;
-	}
 
 	$conn_id = ftp_connect($host); 
 
@@ -142,7 +133,7 @@ function sendftp($fileName,$log,$pass,$host,$dir,$pm) {
 
 
 // загрузка файла
-	if (!(ftp_put($conn_id, $remote_file, $file, FTP_BINARY))) {
+	if (!(ftp_put($conn_id, $fileName, $tmp, FTP_BINARY))) {
 		$err = 'Error: can not load file '. $fileName .' to server '.$host;
 	}
 
