@@ -23,14 +23,13 @@
 	$pass=gF("pass");
 	$host=gF("host");
 	$dir=gF("dir");
-
-
+	$pm=gF("pm");
 
 
 	$dirupload = "upload/";
 //	clear_old_files($dirupload);
 
-	$filename = "upload/".$_GET['tmp'];
+	$filename = $dirupload.$fileName;
 	$filename = "upload/".$_GET['fileName'];
 
 	if ($_GET['fileName'] && $_GET['start']) {
