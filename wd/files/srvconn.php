@@ -35,14 +35,16 @@
 
 	if ($start) {
 //перва€ команда - сначала удалить старый файл если есть
-		unlink($tmp);
+		if (file_exists($tmp))
+			unlink($tmp);
 	} else if ($end) {
 //последн€€ команда - только передать файл
 		$err = sendftp($tmp,$fileName,$log,$pass,$host,$dir,$pm);
 		if ($err) {
 			echo $err;
 		}
-		unlink($tmp);
+		if (file_exists($tmp))
+			unlink($tmp);
 		exit;
 	}
 	$xmlstr = file_get_contents('php://input');
