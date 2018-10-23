@@ -108,30 +108,35 @@ function gF ($s) {
 
 function sendftp($fileName,$log,$pass,$host,$dir,$pm) {
 
+	$err = '';
+
 	$fp = fopen($fileName, 'r');
 
 	if (!$fp) {
-		return 'Error read '.$fileName.' fot send';
+		$err = 'Error read '.$fileName.' fot send';
+		return $err;
 	}
 
 	$conn_id = ftp_connect($host); 
 
 	if (!$conn_id) {
-		return 'Error: can not connect to server '.$host;
+		$err = 'Error: can not connect to server '.$host;
+		return $err;
 	}
 
 	$login_result = ftp_login($conn_id, $log, $pass); 
 	if (!$login_result) {
-		return 'Error: can not login to server '.$host;
+		$err = 'Error: can not login to server '.$host;
+		return $err;
 	}
 
 	if ($dir) {
 		if (!(ftp_chdir($conn_id, $dir))) {
-			return 'Error: can not change dir '. $dir .' on server '.$host;
+			$err = 'Error: can not change dir '. $dir .' on server '.$host;
 		}
 	}
 
-
+	ftp_close($conn_id);
 
 
 }
