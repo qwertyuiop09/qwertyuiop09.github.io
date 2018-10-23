@@ -27,7 +27,7 @@
 
 
 	$dirupload = "upload/";
-//	clear_old_files($dirupload);
+	clear_old_files($dirupload);
 
 	$filename = $dirupload.$fileName;
 	$filename = "upload/".$_GET['fileName'];
@@ -91,7 +91,8 @@ function clear_old_files($dir){
 
 				if (is_file($unlink)){
 					if ($time>$expire_time){
-						unlink($unlink);
+//						unlink($unlink);
+echo $unlink;
 					}
 
 				}
