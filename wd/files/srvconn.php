@@ -50,6 +50,11 @@
 		$xmlstr = $GLOBALS['HTTP_RAW_POST_DATA'];
 	}
 
+	if(empty($xmlstr)){
+		echo 'Error: not post data';
+		exit;
+	}
+
 	$file = fopen($tmp,"ab");
 
 	if(flock($file,LOCK_EX)){
