@@ -150,6 +150,8 @@ function sendftp($tmp,$fileName,$log,$pass,$host,$dir,$pm) {
 	if ($dir) {
 		if (!(ftp_chdir($conn_id, $dir))) {
 			$err = 'Error: can not change dir '. $dir .' on server '.$host;
+			ftp_close($conn_id);
+			return $err;
 		}
 	}
 
