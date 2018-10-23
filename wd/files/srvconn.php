@@ -2,10 +2,8 @@
 
 
 
-	if (preg_match('/\.((zip)|(csv)|(html)|())$/i', $_GET['fileName'], $match) > 0) {
-		$charset = $match[1];
-	}
-	if ($_GET['fileName']) {
+	if (preg_match('/\.((zip)|(csv)|(html)|(xml))$/i', $_GET['fileName'], $match) <= 0) {
+//только разоешенные типы файлов
 		exit;
 	}
 
