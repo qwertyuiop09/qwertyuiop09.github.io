@@ -36,9 +36,7 @@
 
 	if ($start) {
 		unlink($tmp);
-	}
-
-	if ($end) {
+	} else if ($end) {
 		rename($tmp, $fileName);
 		$err = sendftp($fileName,$log,$pass,$host,$dir,$pm);
 		if ($err) {
@@ -47,25 +45,17 @@
 		unlink($fileName);
 		exit;
 	}
+	$xmlstr = $GLOBALS['HTTP_RAW_POST_DATA'];
+	if(empty($xmlstr)){
+		$xmlstr = file_get_contents('php://input');
+	}
 
+	$file = fopen($tmp,"ab");
 
-//     $filename = "upload/".$_GET['fileName'].'tmp';
-     $filename = "upload/".$_GET['fileName'];
-//	unlink($filename);
-     //$filename = "upload/".$_GET['fileName']."_".$_GET['nocache'];
-     $xmlstr = $GLOBALS['HTTP_RAW_POST_DATA'];
-     if(empty($xmlstr)){
-             $xmlstr = file_get_contents('php://input');
-     }
-     $is_ok = false;
-
-            $file = fopen($filename,"ab");
-
-            if(flock($file,LOCK_EX)){
-                    fwrite($file,$xmlstr);
-//echo $xmlstr;
-                    flock($file,LOCK_UN);
-                    fclose($file);
+	if(flock($file,LOCK_EX)){
+		fwrite($file,$xmlstr);
+		flock($file,LOCK_UN);
+		fclose($file);
 	}
 
 
