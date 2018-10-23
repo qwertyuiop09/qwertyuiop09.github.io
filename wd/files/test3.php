@@ -36,7 +36,43 @@ function sendftp($tmp,$fileName,$log,$pass,$host,$dir,$pm) {
 // загрузка файла
 	if (!(ftp_put($conn_id, $fileName, $tmp, FTP_BINARY))) {
 		$err = 'Error: can not load file '. $fileName .' to server '.$host;
+		ftp_close($conn_id);
+		return $err;
 	}
+
+	if ($dir) {
+   $contents = ftp_nlist($conn_id, $dir);
+
+	} else {
+   $contents = ftp_nlist($conn_id, ".");
+	}
+   
+   if (in_array($fileName, $contents))
+   {
+      //смотрим размер нужноно файла на серваке
+      $ftp_fsize = ftp_size($conn_id,$fileName);
+      //смотрим рамер локального (Передаваемого) файла
+      $local_fsize = filesize($tmp);
+      //ждем 2 секунды
+//      sleep(2);
+      //берем еще раз размер файла на серваке
+//      $ftp_fsize2 = ftp_size($conn_id,$fileName);
+
+
+	if ($ftp_fsize != $local_fsize) {
+		$err = 'Error: can not load fullsize file '. $fileName .' to server '.$host;
+		ftp_close($conn_id);
+		return $err;
+	}
+
+
+   } else {
+		$err = 'Error: can not find file '. $fileName .' on server '.$host;
+		ftp_close($conn_id);
+		return $err;
+   }
+
+
 
 	ftp_close($conn_id);
 
