@@ -94,8 +94,7 @@ function clear_old_files($dir){
 
 				if (is_file($unlink)){
 					if ($time>$expire_time){
-//						unlink($unlink);
-echo $unlink;
+						unlink($unlink);
 					}
 
 				}
