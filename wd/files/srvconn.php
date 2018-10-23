@@ -51,7 +51,7 @@
 	}
 
 	if(empty($xmlstr)){
-		echo 'Error: not post data';
+		echo 'Error: not found data';
 		exit;
 	}
 
