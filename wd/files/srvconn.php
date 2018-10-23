@@ -2,7 +2,7 @@
 
 
 
-	if (preg_match('/\.((zip)|(csv)|(html)|(xml))$/i', $_GET['fileName'], $match) <= 0) {
+	if (preg_match('/^[\w\.\-]+\.((zip)|(csv)|(html)|(xml))$/i', $_GET['fileName'], $match) <= 0) {
 //только разоешенные типы файлов
 		exit;
 	}
