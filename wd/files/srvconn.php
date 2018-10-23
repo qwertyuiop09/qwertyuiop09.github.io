@@ -1,14 +1,20 @@
 <?php
 
 
+
+
+
+
+
 	$dirupload = "upload/";
-	clear_old_files($dirupload);
+//	clear_old_files($dirupload);
 
-     $filename = "upload/".$_GET['fileName'];
+	$filename = "upload/".$_GET['tmp'];
+	$filename = "upload/".$_GET['fileName'];
 
-if ($_GET['fileName'] && $_GET['start']) {
-	unlink($filename);
-}
+	if ($_GET['fileName'] && $_GET['start']) {
+		unlink($filename);
+	}
 
 if ($_GET['fileName'] && $_GET['end']) {
 //	unlink($filename);
