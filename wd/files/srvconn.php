@@ -130,6 +130,10 @@ function sendftp($fileName,$log,$pass,$host,$dir,$pm) {
 		return $err;
 	}
 
+	if ($pm) {
+		ftp_pasv($conn_id, true);
+	}
+
 	if ($dir) {
 		if (!(ftp_chdir($conn_id, $dir))) {
 			$err = 'Error: can not change dir '. $dir .' on server '.$host;
