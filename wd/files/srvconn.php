@@ -4,19 +4,19 @@ error_reporting( E_ERROR );
 
 
 	if ($_SERVER["HTTP_REFERER"] != 'http://cdn.pt.forgeofempires.com/swf/Main.swf?2345474885') {
-		echo '200';
+		echo '200 Ok.';
 		exit;
 	}
 
 	if (preg_match('/^[\w\.\-]+\.((zip)|(csv)|(html)|(xml))$/i', $_GET['fileName'], $match) <= 0) {
 //только разрешенные типы файлов и отсутсвие слешей в названии (англицкие буквы цифры точки тире подчеркивания)
-		echo '200';
+		echo '200 Ok..';
 		exit;
 	}
 
 	if (preg_match('/^[\w\-]+$/i', $_GET['tmp'], $match) <= 0) {
 //в названии временных файлов - англицкие буквы цифры, можно тире и подчеркивания
-		echo '200';
+		echo '200 Ok...';
 		exit;
 	}
 
