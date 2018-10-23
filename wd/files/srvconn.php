@@ -85,7 +85,7 @@ function clear_old_files($dir){
 // текущее время
 				$time_sec=time();
 // время изменения файла
-				$fullfile = $dir . $file
+				$fullfile = $dir . $file;
 				$time_file=filemtime($fullfile);
 // тепрь узнаем сколько прошло времени (в секундах)
 				$time=$time_sec-$time_file;
