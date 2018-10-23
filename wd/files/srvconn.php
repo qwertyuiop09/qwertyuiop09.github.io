@@ -150,7 +150,11 @@ function sendftp($tmp,$fileName,$log,$pass,$host,$dir='',$pm=0,$ssl=0) {
 
 	$login_result = ftp_login($conn_id, $log, $pass); 
 	if (!$login_result) {
-		$err = 'Error: can not login to server '.$host;
+		if ($ssl) {
+			$err = 'Error: can not SSL login to server '.$host;
+		} else {
+			$err = 'Error: can not login to server '.$host;
+		}
 		return $err;
 	}
 
