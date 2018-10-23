@@ -65,16 +65,7 @@ function clear_old_files($dir){
 
 				if (is_file($unlink)){
 					if ($time>$expire_time){
-
-						if (unlink($unlink)){
-
-							echo 'Файл удален';
-
-						}else {
-
-							echo 'Ошибка при удалении файла';
-
-						}
+						unlink($unlink);
 					}
 
 				}
