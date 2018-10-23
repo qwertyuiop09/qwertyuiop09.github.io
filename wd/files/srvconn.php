@@ -31,14 +31,14 @@
 	$dirupload = "upload/";
 	clear_old_files($dirupload);
 
-	$filename = $dirupload.$fileName;
-	$filename = "upload/".$_GET['fileName'];
+	$fileName = $dirupload.$fileName;
+	$tmp = $dirupload.$tmp;
 
-	if ($_GET['fileName'] && $_GET['start']) {
-		unlink($filename);
+	if ($start) {
+		unlink($tmp);
 	}
 
-if ($_GET['fileName'] && $_GET['end']) {
+	if ($end) {
 //	unlink($filename);
 
 //goto ftp
