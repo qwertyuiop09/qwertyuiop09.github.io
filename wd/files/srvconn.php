@@ -143,7 +143,7 @@ function sendftp($fileName,$log,$pass,$host,$dir,$pm) {
 
 // загрузка файла
 	if (!(ftp_put($conn_id, $remote_file, $file, FTP_BINARY))) {
-		$err = 'Error: can not load file '. $fileName .' on server '.$host;
+		$err = 'Error: can not load file '. $fileName .' to server '.$host;
 	}
 
 	ftp_close($conn_id);
