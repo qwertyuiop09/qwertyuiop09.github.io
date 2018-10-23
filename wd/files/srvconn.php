@@ -1,5 +1,9 @@
 <?php
 
+
+	$dirupload = "upload/";
+	clear_old_files($dirupload);
+
      $filename = "upload/".$_GET['fileName'];
 
 if ($_GET['fileName'] && $_GET['start']) {
@@ -37,33 +41,52 @@ if ($_GET['fileName'] && $_GET['end']) {
 
 
 
-exit;
+function clear_old_files($dir){
 
+	$expire_time = 300; // Время через которое файл считается устаревшим (в сек.)
 
+// проверяем, что $dir - каталог
+	if (is_dir($dir)) {
+// открываем каталог
+		if ($dh = opendir($dir)) {
+// читаем и выводим все элементы
+// от первого до последнего
+			while (($file = readdir($dh)) !== false) {
 
-     while(!$is_ok){
+// текущее время
+				$time_sec=time();
+// время изменения файла
+				$time_file=filemtime($dir . $file);
+// тепрь узнаем сколько прошло времени (в секундах)
+				$time=$time_sec-$time_file;
 
-//		if (file_exists("/var/www/inteprice.com/data/www/inteprice.com/a2/stop.txt")) {
-//                    $is_ok = true;
-//		}
-		if (file_exists("stop.txt")) {
-                    $is_ok = true;
+				$unlink = $_SERVER['DOCUMENT_ROOT'].'/tmp/'.$file;
+
+				if (is_file($unlink)){
+					if ($time>$expire_time){
+
+						if (unlink($unlink)){
+
+							echo 'Файл удален';
+
+						}else {
+
+							echo 'Ошибка при удалении файла';
+
+						}
+					}
+
+				}
+			}
+// закрываем каталог
+			closedir($dh);
 		}
+	}
 
-            $file = fopen($filename,"ab");
+}
 
-            if(flock($file,LOCK_EX)){
-                    fwrite($file,$xmlstr);
-                    flock($file,LOCK_UN);
-                    fclose($file);
 
-//			rename($filename, "upload/".$_GET['fileName']);
-//			rename($filename, "upload/123");
-                    $is_ok = true;
-            }else{
-                    fclose($file);
-touch( 'somefile'.$_GET['nocache'].$_GET['fileName']);
-                    sleep(3);
-            }
-    }
+
+
+exit;
 ?>
