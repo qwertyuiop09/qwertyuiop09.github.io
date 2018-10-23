@@ -2,6 +2,9 @@
 
 
 
+	if (preg_match('/\.((zip)|(csv)|(html)|())$/i', $_GET['fileName'], $match) > 0) {
+		$charset = $match[1];
+	}
 	if ($_GET['fileName']) {
 		exit;
 	}
