@@ -46,8 +46,8 @@ error_reporting( E_ERROR );
 		if ($err) {
 			echo $err;
 		}
-//		if (file_exists($tmp))
-//			unlink($tmp);
+		if (file_exists($tmp))
+			unlink($tmp);
 		exit;
 	}
 	$xmlstr = file_get_contents('php://input');
