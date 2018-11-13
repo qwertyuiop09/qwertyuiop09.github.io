@@ -57,15 +57,15 @@ var IPchatConfig = {
 
 
 
-/*
+
 
 		"AdwConvRemark": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 793789544,
 		google_custom_params: window.google_tag_params,
 //		google_user_id = '<unique user id>',
 		google_remarketing_only: true
 			},
-*/
+
 
 
 
