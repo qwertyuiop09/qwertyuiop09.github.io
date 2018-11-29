@@ -93,25 +93,12 @@ if (0) {
 
 
 
+
 		"AdwConvRemark": {
 		google_conversion_id: 863191102,
 		google_custom_params: window.google_tag_params,
 		google_remarketing_only: true
 			},
-
-
-
-
-
-		"AdwConvJivo": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
-		google_remarketing_only: false
-			},
-
 
 
 /*
@@ -150,6 +137,17 @@ if (0) {
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
 		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
+		google_remarketing_only: false
+			},
+
+
+
+		"AdwConvJivo": {
+		google_conversion_id: 969121061,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
 		google_remarketing_only: false
 			},
 
