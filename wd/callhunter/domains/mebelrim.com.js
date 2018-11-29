@@ -146,7 +146,8 @@ var IPchatConfig = {
 
 
 		"ButtonSensitivity":	"0",
-		"ButtonTransform": 3,
+//		"ButtonTransform": 3,
+		"ButtonTransform": 0,
 		"ButtonYMobile": 80,
 		"ButtonXMobile": 0,
 		"ButtonMobilePlace": 'RightTop',
