@@ -117,6 +117,25 @@ var IPchatConfig = {
 
 
 
+		"HitElement": ".sub-title",
+		"HitElementHtml": {RegExp: 'Данные заказа', Flags: 'i'},
+
+		"AdwConvHit": {
+		google_conversion_id: 770138489,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+//Order Issued (one)
+		google_conversion_label: "J2ajCKb6qZMBEPnCne8C",
+		google_remarketing_only: false
+			},
+
+
+
+
+
+
+
 		"title": "Получить консультацию",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
