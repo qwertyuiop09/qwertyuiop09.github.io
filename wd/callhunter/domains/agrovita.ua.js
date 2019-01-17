@@ -117,7 +117,7 @@ var IPchatConfig = {
 
 
 
-		"HitElement": ".sub-title",
+		"HitElement": "h3",
 		"HitElementHtml": {RegExp: 'Данные заказа', Flags: 'i'},
 
 		"AdwConvHit": {
