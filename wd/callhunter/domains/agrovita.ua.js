@@ -117,8 +117,8 @@ var IPchatConfig = {
 
 
 
-		"HitElement": "h3",
-		"HitElementHtml": {RegExp: 'Данные заказа', Flags: 'i'},
+		"HitElement": "h2",
+		"HitElementHtml": {RegExp: 'Ваш заказ  успешно отправлен и ждет обработки!', Flags: 'i'},
 
 		"AdwConvHit": {
 		google_conversion_id: 770138489,
