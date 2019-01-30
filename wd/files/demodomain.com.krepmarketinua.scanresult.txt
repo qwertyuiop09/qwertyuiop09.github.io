@@ -1,8 +1,0 @@
-https://krepmarket.in.ua/p303998090-shpilka-metricheskaya.html
-Request to scanned 45 URLS
-Scanned 2 URLS
-Add to feed id0 1 URLS
-Unknown errors: 0
-Empty Content-Type errors: 0
-No html page errors: 0
-Responce errors: 0
