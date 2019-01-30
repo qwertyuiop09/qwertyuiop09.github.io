@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/demodomain.com.merchantfeed.txt
-Ok. Config checksum: 1507629839
+Ok. Config checksum: 2649209536
