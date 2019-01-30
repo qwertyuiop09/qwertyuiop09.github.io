@@ -1,1 +1,1 @@
-krepmarketinua.feed.id0 Script Timeout
+krepmarketinua.feed.id0 200 200 Ok..
