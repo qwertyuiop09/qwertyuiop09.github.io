@@ -1,5 +1,6 @@
 Read Config File Ok
 
 /callhunter/domains/demodomain.com.merchantfeed.txt
-Feed number id0 in Config Array element number 0 have incorrect parameter file_type
+Config Array element number 0 have incorrect parameter timeHours 24
+Feed number id0 in Config Array element number 0 have incorrect parameter timeHours 24
 Config is not working . Exit
