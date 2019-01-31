@@ -1,5 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/demodomain.com.merchantfeed.txt
-Feed number id0 in Config Array element number 0 have incorrect parameter file_type
-Config is not working . Exit
+Ok. Config checksum: 3051529467
