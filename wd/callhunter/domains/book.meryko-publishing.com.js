@@ -7,7 +7,7 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 
 
 //без предоплаты, логин менеджера
-var intepriceIPL = 'defas.inteprice.com';
+var intepriceIPL = 'meryko-publishing.inteprice.com';
 var intepriceCRT = '31.01.2019';
 
 
