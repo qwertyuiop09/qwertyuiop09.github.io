@@ -1,12 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/demodomain.com-ADONLY.merchantfeed.txt
-Config Array element number 0 have2 incorrect parameter only_query
-Config Array element number /product_list have2 incorrect parameter only_query
-Config Array element number [object Object] have2 incorrect parameter only_query
-Config Array element number object have2 incorrect parameter only_query
-Config Array element number 0 have2 incorrect parameter only_query
-Config Array element number /p have2 incorrect parameter only_query
-Config Array element number [object Object] have2 incorrect parameter only_query
-Config Array element number object have2 incorrect parameter only_query
-Config is not working . Exit
+Ok. Config checksum: 3752144685
