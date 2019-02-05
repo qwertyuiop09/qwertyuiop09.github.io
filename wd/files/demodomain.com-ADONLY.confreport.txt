@@ -1,6 +1,6 @@
 Read Config File Ok
 
 /callhunter/domains/demodomain.com-ADONLY.merchantfeed.txt
-Config Array element number 0 have incorrect parameter only_query
-Config Array element number 0 have incorrect parameter only_query
+Config Array element number 0 have2 incorrect parameter only_query
+Config Array element number 0 have2 incorrect parameter only_query
 Config is not working . Exit
