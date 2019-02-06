@@ -1,1 +1,0 @@
-bad field_required, field: image_link
