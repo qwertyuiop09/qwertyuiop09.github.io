@@ -1,5 +1,5 @@
 https://krepmarket.in.ua/product_list
-Request to scanned 1113 URLS
+Request to scanned 1102 URLS
 Scanned 76 URLS
 Add to feed id0 2 URLS
 Unknown errors: 0
