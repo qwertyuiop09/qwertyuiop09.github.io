@@ -1,4 +1,4 @@
-Read Config File Ok
-
+Could not read file: demodomain.com-ADONLY.merchantfeed.txt Error: Missing ; before statement.
+/demodomain.com-ADONLY.merchantfeed.txt
 /callhunter/domains/demodomain.com-ADONLY.merchantfeed.txt
-Ok. Config checksum: 3752144685
+Config is not working . Exit
