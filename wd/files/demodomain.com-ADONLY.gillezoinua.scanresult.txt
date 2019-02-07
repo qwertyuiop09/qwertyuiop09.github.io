@@ -1,7 +1,7 @@
 https://gillezo.in.ua/
 Request to scanned 52 URLS
 Scanned 52 URLS
-Add to feed id0 13 URLS
+Add to feed id0 17 URLS
 Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
