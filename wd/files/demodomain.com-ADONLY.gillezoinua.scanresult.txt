@@ -1,5 +1,5 @@
 https://gillezo.in.ua/
-Scanned step: 28
+Scanned step: 1
 Request to scanned 53 URLS
 Scanned 53 URLS
 Add to feed id0 45 URLS
