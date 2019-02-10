@@ -1,8 +1,0 @@
-https://example2.com
-Request to scanned 1 URLS
-Scanned 1 URLS
-Add to feed id0 0 URLS
-Unknown errors: 1
-Empty Content-Type errors: 0
-No html page errors: 0
-Responce errors: 0
