@@ -1,0 +1,13 @@
+https://krepmarket.in.ua/
+Scanned step: 1
+EXECUTE ERRORS: Errors create Ad in AdGroup ID undefined: EMPTY_FIELD : AdError.EMPTY_FIELD : ad.headlinePart2
+
+
+Request to scanned 640 URLS
+Scanned 33 URLS
+Add to feed id0 1 URLS
+NO ADD to feed id0 0 URLS
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
