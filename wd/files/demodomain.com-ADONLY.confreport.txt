@@ -1,5 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/demodomain.com-ADONLY.merchantfeed.txt
-Feed number id0 in Config Array element number 0 not have correct 'addkeystype' in 'GASearch' 
-Config is not working . Exit
+Ok. Config checksum: 2720465169
