@@ -1,0 +1,5 @@
+Read Config File Ok
+
+/callhunter/domains/demodomain.com-ADONLY.merchantfeed.txt
+bad parameter: header2 in GASearch, Feed number id0 in Config Array element number 0
+Config is not working . Exit
