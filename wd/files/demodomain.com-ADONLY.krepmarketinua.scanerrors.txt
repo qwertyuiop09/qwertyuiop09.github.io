@@ -1,1 +1,0 @@
-bad parameter: price in GASearch, not exists field_name GASprice in feed fields.
