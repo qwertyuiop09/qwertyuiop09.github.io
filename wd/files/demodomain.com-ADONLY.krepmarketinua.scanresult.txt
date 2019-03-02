@@ -1,0 +1,18 @@
+https://krepmarket.in.ua/p627838876-pistolet-pokrasochnyj-elektricheskij.html
+Scanned step: 1
+EXECUTE ERRORS: bad parameter: url in GASearch, not exists field_name link in feed fields.
+Errors found for url: https://krepmarket.in.ua/p627838876-pistolet-pokrasochnyj-elektricheskij.html
+
+
+Request to scanned 34 URLS
+Scanned 1 URLS
+Add to GASearch id0 0 URLS
+Add to feed id0 1 URLS
+NO ADD to feed id0 0 URLS
+Add to GASearch id1 0 URLS
+Add to feed id1 1 URLS
+NO ADD to feed id1 0 URLS
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
