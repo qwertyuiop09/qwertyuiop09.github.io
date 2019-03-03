@@ -1,2 +1,0 @@
-bad parameter: url in GASearch, not exists field_name link in feed fields.
-Errors found for url: https://krepmarket.in.ua/p627838876-pistolet-pokrasochnyj-elektricheskij.html
