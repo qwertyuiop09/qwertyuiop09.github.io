@@ -2,11 +2,11 @@ https://gillezo.in.ua/
 Scanned step: 1
 Request to scanned 114 URLS
 Scanned 114 URLS
-Add to GASearch id0 0 URLS
-Add to feed id0 0 URLS
-NO ADD to feed id0 101 URLS (see in log details)
+Add to GASearch id0 100 URLS
+Add to feed id0 101 URLS
+NO ADD to feed id0 0 URLS
 Add to GASearch id1 0 URLS
-Add to feed id1 0 URLS
+Add to feed id1 101 URLS
 NO ADD to feed id1 0 URLS
 Unknown errors: 0
 Empty Content-Type errors: 0
