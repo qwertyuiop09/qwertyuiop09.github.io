@@ -1,5 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/demodomain.com-ADONLY.merchantfeed.txt
-Config Array element number 0 not have paused children feed id1 in parameter pausedFeeds for paused parent feed id0
-Config is not working . Exit
+Ok. Config checksum: 3928786747
