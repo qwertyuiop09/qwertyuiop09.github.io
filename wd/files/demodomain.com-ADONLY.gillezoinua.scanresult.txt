@@ -1,0 +1,5 @@
+https://gillezo.in.ua/
+EXECUTE ERRORS: Campaign with GASearch Id gillezoinua.feed.id0 have duplicate company name in account
+Campaign with GASearch Id gillezoinua.feed.id1 have duplicate company name in account
+
+
