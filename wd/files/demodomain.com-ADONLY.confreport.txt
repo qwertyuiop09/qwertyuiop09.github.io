@@ -1,4 +1,5 @@
 Read Config File Ok
 
 /callhunter/domains/demodomain.com-ADONLY.merchantfeed.txt
-Ok. Config checksum: 1356440669
+Feed number id1 in Config Array element number 0 is not have jobs (create feed files and/or create search company and/or have children feeds) 
+Config is not working . Exit
