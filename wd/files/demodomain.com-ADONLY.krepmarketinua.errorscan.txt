@@ -1,0 +1,2 @@
+Errors create AdGroup for removed Campaign: OPERATION_NOT_PERMITTED_FOR_REMOVED_ENTITY : OperationAccessDenied.OPERATION_NOT_PERMITTED_FOR_REMOVED_ENTITY : operations[1]
+Errors found for url: https://krepmarket.in.ua/p627842346-sverlo-metallu-hss.html
