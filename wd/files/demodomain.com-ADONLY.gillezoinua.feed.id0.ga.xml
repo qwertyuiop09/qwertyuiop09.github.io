@@ -75,20 +75,20 @@
 			<g:price>185 UAH</g:price>
 		</item>
 		<item>
-			<g:id>1933766377</g:id>
-			<g:title>Сменные Кассеты Gillette Mach3 Turbo 8шт Упаковка</g:title>
-			<g:description>Сменные кассеты gillette mach3 turbo 8шт упаковка</g:description>
-			<g:link>https://gillezo.in.ua/p888873973-smennye-kassety-gillette.html?sodship=y</g:link>
-			<g:image_link>https://images.ua.prom.st/1587933541_w252_h230_smennye-kassety-gillette.jpg</g:image_link>
-			<g:availability>in stock</g:availability>
-			<g:price>200 UAH</g:price>
-		</item>
-		<item>
 			<g:id>903201906</g:id>
 			<g:title>Лезвия Gillette Mach3 Turbo 8шт Упаковка</g:title>
 			<g:description>Лезвия gillette mach3 turbo 8шт упаковка</g:description>
 			<g:link>https://gillezo.in.ua/p693300174-lezviya-gillette-mach3.html?sodship=y</g:link>
 			<g:image_link>https://images.ua.prom.st/1147944386_w252_h230_lezviya-gillette-mach3.jpg</g:image_link>
+			<g:availability>in stock</g:availability>
+			<g:price>200 UAH</g:price>
+		</item>
+		<item>
+			<g:id>1933766377</g:id>
+			<g:title>Сменные Кассеты Gillette Mach3 Turbo 8шт Упаковка</g:title>
+			<g:description>Сменные кассеты gillette mach3 turbo 8шт упаковка</g:description>
+			<g:link>https://gillezo.in.ua/p888873973-smennye-kassety-gillette.html?sodship=y</g:link>
+			<g:image_link>https://images.ua.prom.st/1587933541_w252_h230_smennye-kassety-gillette.jpg</g:image_link>
 			<g:availability>in stock</g:availability>
 			<g:price>200 UAH</g:price>
 		</item>
