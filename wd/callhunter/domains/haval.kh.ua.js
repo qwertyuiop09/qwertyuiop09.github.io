@@ -69,8 +69,7 @@ var IPchatConfig = {
 
 
 
-
-
+/*
 
 
 		"AdwConvTime": {
@@ -81,8 +80,6 @@ var IPchatConfig = {
 		google_conversion_label: "O5sWCOH69ZYBENHPo-ID",
 		google_remarketing_only: false
 			},
-
-
 
 
 
@@ -113,7 +110,7 @@ var IPchatConfig = {
 		},
 
 
-
+*/
 
 
 		"title": "Получить консультацию",
