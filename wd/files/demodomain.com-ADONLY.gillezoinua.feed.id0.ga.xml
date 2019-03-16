@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<link>https://gillezo.in.ua</link>
+		<item>
+			<g:id>4182055924</g:id>
+			<g:title>Лезвия Gillette Mach3 8шт Упаковка</g:title>
+			<g:description>Лезвия gillette mach3 8шт упаковка</g:description>
+			<g:link>https://gillezo.in.ua/p693301426-lezviya-gillette-mach3.html?sodship=y</g:link>
+			<g:image_link>https://images.ua.prom.st/1147944398_w337_h473_lezviya-gillette-mach3.jpg</g:image_link>
+			<g:availability>in stock</g:availability>
+			<g:price>185 UAH</g:price>
+		</item>
+		<item>
+			<g:id>1160972135</g:id>
+			<g:title>Лезвия Gillette Mach3 Sensitive 8шт Упаковка</g:title>
+			<g:description>Лезвия gillette mach3 sensitive 8шт упаковка</g:description>
+			<g:link>https://gillezo.in.ua/p693303654-lezviya-gillette-mach3.html?sodship=y</g:link>
+			<g:image_link>https://images.ua.prom.st/1147944401_w252_h230_lezviya-gillette-mach3.jpg</g:image_link>
+			<g:availability>in stock</g:availability>
+			<g:price>190 UAH</g:price>
+		</item>
+	</channel>
+</rss>
