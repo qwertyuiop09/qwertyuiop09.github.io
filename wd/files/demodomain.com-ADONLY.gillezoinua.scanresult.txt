@@ -1,7 +1,7 @@
 https://gillezo.in.ua
 Scanned step: 1
-Request to scanned 96 URLS
-Scanned 7 URLS
+Request to scanned 102 URLS
+Scanned 8 URLS
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
