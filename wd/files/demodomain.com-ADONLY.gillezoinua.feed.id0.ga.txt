@@ -1,0 +1,4 @@
+id	title	description	link	image_link	availability	price
+4182055924	Лезвия Gillette Mach3 8шт Упаковка	Лезвия gillette mach3 8шт упаковка	https://gillezo.in.ua/p693301426-lezviya-gillette-mach3.html?sodship=y	https://images.ua.prom.st/1147944398_w337_h473_lezviya-gillette-mach3.jpg	in stock	185 UAH
+1160972135	Лезвия Gillette Mach3 Sensitive 8шт Упаковка	Лезвия gillette mach3 sensitive 8шт упаковка	https://gillezo.in.ua/p693303654-lezviya-gillette-mach3.html?sodship=y	https://images.ua.prom.st/1147944401_w252_h230_lezviya-gillette-mach3.jpg	in stock	190 UAH
+1999204328	Лезвия Gillette Mach3 Venus 8шт Упаковка	Лезвия gillette mach3 venus 8шт упаковка	https://gillezo.in.ua/p714847568-lezviya-gillette-mach3.html?sodship=y	https://images.ua.prom.st/1186535438_w505_h473_lezviya-gillette-mach3.jpg	in stock	250 UAH
