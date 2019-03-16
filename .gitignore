@@ -19,3 +19,6 @@ wd/callhunter/domains/*.*.*.*.*.*.txt
 wd/callhunter/domains/*.*.*.*.*.*.*.txt
 wd/callhunter/domains/*.*.*.*.*.*.*.*.txt
 wd/callhunter/domains/*.*.*.*.*.*.*.*.*.txt
+#ignore part of txt files in catalog wd/files/
+wd/files/*.txt
+wd/files/*.*.txt
