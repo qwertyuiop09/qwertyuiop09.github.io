@@ -1,4 +1,4 @@
-Could not read file: demodomain.com-ADONLY.merchantfeed.txt Error: Invalid property ID.
-/demodomain.com-ADONLY.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/demodomain.com-ADONLY.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 833440699
