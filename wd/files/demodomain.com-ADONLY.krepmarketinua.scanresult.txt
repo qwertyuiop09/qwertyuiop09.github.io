@@ -1,17 +1,13 @@
-https://krepmarket.in.ua/p641856073-tros-polietilenovoj-opletke.html
+https://krepmarket.in.ua
 Scanned step: 1
-EXECUTE ERRORS: Errors build Ad in AdGroup ID 66803567663: Call to function AdBuilder.build() is missing required argument: description.
-Errors found for url: https://krepmarket.in.ua/p641856073-tros-polietilenovoj-opletke.html
-
-
-Request to scanned 38 URLS
-Scanned 1 URLS
+Request to scanned 788 URLS
+Scanned 41 URLS
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 0 URLS
-All urls in feed id0 1 URLS
-Found parsed item urls for id0 1 URLS
+All urls in GASearch id0 2 URLS
+All urls in feed id0 2 URLS
+Found parsed item urls for id0 2 URLS
 Not found parsed item urls for id0 0 URLS
 
 Unknown errors: 0

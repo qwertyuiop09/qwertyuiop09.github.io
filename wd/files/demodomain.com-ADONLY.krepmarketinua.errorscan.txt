@@ -1,2 +1,0 @@
-Errors build Ad in AdGroup ID 66803567663: Call to function AdBuilder.build() is missing required argument: description.
-Errors found for url: https://krepmarket.in.ua/p641856073-tros-polietilenovoj-opletke.html
