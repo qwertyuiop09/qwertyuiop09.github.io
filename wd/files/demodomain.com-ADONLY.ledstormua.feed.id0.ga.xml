@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
 	<channel>
-		<link>https://ledstorm.ua/svetodiodnaya-lampa-e27-3vt-vm-0403-</link>
+		<link>https://ledstorm.ua/svetodiodnye-lampy/</link>
 		<item>
 			<g:id>565357443</g:id>
 			<g:title>Светодиодная Лампа E27 3вт (vm-0403) Venom</g:title>
@@ -10,6 +10,33 @@
 			<g:image_link>https://ledstorm.ua/image/cache/catalog/products/366/366_3050189412-1000x1000.jpg</g:image_link>
 			<g:availability>in stock</g:availability>
 			<g:price>21.06 UAH</g:price>
+		</item>
+		<item>
+			<g:id>1209511294</g:id>
+			<g:title>Светодиодная Лампа E27 3вт (vm-0703) Venom</g:title>
+			<g:description>Светодиодная led лампа с цоколем е27 – если у вас давно появилось желание сэкономить денежные средства за электроэнергию, тогда вам просто необходимо приобрести светодиодные лампочки. Лампочки с распространённым цоколем е27 являются новой и по истине лучшей инновационной альтернативой обычным лампочкам. Преимуществом данных ламп является их экологичность и экономичность по сравнению с ртутными, лампами накаливания, и галогеновыми лампами.</g:description>
+			<g:link>https://ledstorm.ua/svetodiodnaya-lampa-e27-3vt-vm-0703-?sodship=y</g:link>
+			<g:image_link>https://ledstorm.ua/image/cache/catalog/products/367/367_1263204071-1000x1000.jpg</g:image_link>
+			<g:availability>in stock</g:availability>
+			<g:price>21.06 UAH</g:price>
+		</item>
+		<item>
+			<g:id>72169493</g:id>
+			<g:title>Светодиодная Лампа E27 3вт(vm04032) Venom</g:title>
+			<g:description>Светодиодная led лампочка с цоколем е27 – если у вас давно появилось желание сэкономить денежные средства за электроэнергию, тогда вам просто необходимо приобрести светодиодные лампочки. Лампочки с распространённым цоколем е27 являются новой и по истине лучшей инновационной альтернативой обычным лампочкам. Преимуществом данных ламп является их экологичность и экономичность по сравнению с ртутными, лампами накаливания, и галогеновыми лампами.</g:description>
+			<g:link>https://ledstorm.ua/svetodiodnaya-lampa-e27-3vt?sodship=y</g:link>
+			<g:image_link>https://ledstorm.ua/image/cache/catalog/photo/photo2/366_3050189412-800x800-1000x1000.jpg</g:image_link>
+			<g:availability>in stock</g:availability>
+			<g:price>21.06 UAH</g:price>
+		</item>
+		<item>
+			<g:id>788269201</g:id>
+			<g:title>Светодиодная Лампа Elm Mr16 3w P31 Gu5.3 4000 Elm  (18-0010)</g:title>
+			<g:description>Светодиодная лампа elm mr16 3w p31 gu5.3 4000 elm  (18-0010)</g:description>
+			<g:link>https://ledstorm.ua/svetodiodnaya-lampa-elm-mr16-3w-p31-gu5-3-4000-elm-18-0010?sodship=y</g:link>
+			<g:image_link>https://ledstorm.ua/image/cache/catalog/lampy_elm/18-0010-1000x1000.jpg</g:image_link>
+			<g:availability>in stock</g:availability>
+			<g:price>28.44 UAH</g:price>
 		</item>
 	</channel>
 </rss>
