@@ -1,0 +1,18 @@
+https://ledstorm.ua/svetodiodnye-lampy/
+Scanned step: 1
+Request to scanned 34 URLS
+Scanned 3 URLS
+
+Campaigns in GASearch id1 0 Num
+All urls in feed id1 1 URLS
+Found parsed item urls for id1 1 URLS
+Not found parsed item urls for id1 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Last execute time: 2.38
+
+Current Scan Status: ended.
