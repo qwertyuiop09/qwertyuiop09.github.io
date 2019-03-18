@@ -13,6 +13,6 @@ Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
-Last execute time: 6.13
+Last execute time: 2.68
 
 Current Scan Status: ended.
