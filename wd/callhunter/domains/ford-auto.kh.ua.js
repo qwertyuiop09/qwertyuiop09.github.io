@@ -69,7 +69,7 @@ var IPchatConfig = {
 
 
 
-/*
+
 
 
 
@@ -114,7 +114,7 @@ var IPchatConfig = {
 
 
 
-*/
+
 
 
 

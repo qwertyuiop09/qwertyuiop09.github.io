@@ -71,7 +71,7 @@ var IPchatConfig = {
 
 
 
-/*
+
 
 		"AdwConvTime": {
 		google_conversion_id: 1011410897,
@@ -113,7 +113,7 @@ var IPchatConfig = {
 		},
 
 
-*/
+
 
 
 		"title": "Получить консультацию",
