@@ -69,7 +69,7 @@ var IPchatConfig = {
 
 
 
-/*
+
 
 
 		"AdwConvTime": {
@@ -110,7 +110,7 @@ var IPchatConfig = {
 		},
 
 
-*/
+
 
 
 		"title": "Получить консультацию",
