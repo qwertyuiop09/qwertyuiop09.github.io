@@ -1,13 +1,13 @@
 https://ledstorm.ua/svetodiodnye-lampy/
-Scanned step: 2
-Request to scanned 269 URLS
-Scanned 173 URLS
+Scanned step: 3
+Request to scanned 492 URLS
+Scanned 242 URLS
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 158 URLS
-All urls in GASearch id0 158 URLS
-All urls in feed id0 162 URLS
-Found parsed item urls for id0 162 URLS
+Add / Modify urls in GASearch id0 218 URLS
+All urls in GASearch id0 218 URLS
+All urls in feed id0 222 URLS
+Found parsed item urls for id0 222 URLS
 Not found parsed item urls for id0 0 URLS
 
 Unknown errors: 0
