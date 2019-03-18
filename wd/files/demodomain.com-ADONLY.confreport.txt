@@ -1,7 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/demodomain.com-ADONLY.merchantfeed.txt
-Feed number id1 in Config Array element number 0 have dublicate ext 1111
-Feed number id1 in Config Array element number 0 have dublicated feedId  krepmarketinua.feed.1111
-Feed number id1 in Config Array element number 0 have dublicate parameter 'Id' in 'GASearch' Рекламная кампания
-Config is not working . Exit
+Ok. Config checksum: 1932216313
