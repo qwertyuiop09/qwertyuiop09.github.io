@@ -69,7 +69,7 @@ var IPchatConfig = {
 
 
 
-/*
+
 
 
 
@@ -114,7 +114,7 @@ var IPchatConfig = {
 
 
 
-*/
+
 
 		"title": "Получить консультацию",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
