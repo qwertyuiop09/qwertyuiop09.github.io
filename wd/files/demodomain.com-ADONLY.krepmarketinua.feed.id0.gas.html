@@ -13,8 +13,8 @@ for (var i=0; i < arrayGA.length; i++) {
 for (var ii=0; ii < arrayGA[i].length; ii++) {
 document.write('<hr><div><ol>')
 for (var GASAId in arrayGA[i][ii].data) {
-document.write('<li class="renattw"><div><a href="' + arrayGA[i][ii].url + '"><h3 class="sA5rQ">' + arrayGA[i][ii].data[GASAId].Headlines + '</h3><br><div class="useyer"><span class="Z98Wse">')
-document.write(arrayGAShtml[0] + '</span><cite class="UdQCqe" style="max-width:453px">' + arrayGAShtml[2] + arrayGA[i][ii].data[GASAId].Paths + '</cite></div></a></div><div>' + arrayGA[i][ii].data[GASAId].Descriptions + '</div></li>')
+document.write('<li class="renattw"><div><a href="' + arrayGA[i][ii].url + '"><h3 class="sA5rQ">' + arrayGA[i][ii].data[GASAId].Headlines + '&lrm;</h3><br><div class="useyer"><span class="Z98Wse">')
+document.write(arrayGAShtml[0] + '</span><cite class="UdQCqe" style="max-width:453px">' + arrayGAShtml[2] + arrayGA[i][ii].data[GASAId].Paths + '</cite>&lrm;</div></a></div><div>' + arrayGA[i][ii].data[GASAId].Descriptions + '</div></li>')
 }
 document.write('</ol></div><div class="brs" data-hveid="CAcQAA"><div class="U7izfe"><h3 class="dPAwzb">' + arrayGAShtml[1] + '</h3></div><div class="brs_col">' + arrayGA[i][ii].keywrds + '</div></div>')
 console.log('write ' + (i+1) + ' Item')
