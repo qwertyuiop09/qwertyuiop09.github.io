@@ -1,0 +1,18 @@
+https://krepmarket.in.ua/p303998091-shpilka-metricheskaya.html
+Scanned step: 1
+Request to scanned 771 URLS
+Scanned 50 URLS
+
+Campaigns in GASearch id0 0 Num
+All urls in feed id0 12 URLS
+Found parsed item urls for id0 12 URLS
+Not found parsed item urls for id0 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Last execute time: 4.48
+
+Current Scan Status: ended.
