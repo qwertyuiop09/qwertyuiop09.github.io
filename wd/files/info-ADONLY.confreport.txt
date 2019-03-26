@@ -1,4 +1,4 @@
-File: info-ADONLY.merchantfeed.txt not found
-/info-ADONLY.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/info-ADONLY.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 1273115
