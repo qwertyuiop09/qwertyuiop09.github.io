@@ -1,0 +1,2 @@
+bad parsing_type (need to remove parsing_type), field: GASdecription
+Errors found for url: https://rozetka.com.ua/nokia_7_plus_11b2nb01a01/p35493231/
