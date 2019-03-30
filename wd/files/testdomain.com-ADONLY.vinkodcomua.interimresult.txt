@@ -1,10 +1,10 @@
 https://vinkod.com.ua
-Scanned step: 0
+Scanned step: 1
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
-Request to scanned 1 URLS
-Scanned 0 URLS
+Request to scanned 2 URLS
+Scanned 1 URLS
 
 Campaigns in GASearch id0 0 Num
 All urls in feed id0 0 URLS
@@ -17,7 +17,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Debug_On: yes
-Last execute time: 0.47
+Last execute time: 0.7
 
 Current Scan Status: continue.
 
