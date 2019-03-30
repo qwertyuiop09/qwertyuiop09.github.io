@@ -1,7 +1,7 @@
 https://vinkod.com.ua
-Scanned step: 1
-Request to scanned 92669 URLS
-Scanned 4916 URLS
+Scanned step: 2
+Request to scanned 93850 URLS
+Scanned 9194 URLS
 
 Campaigns in GASearch id0 0 Num
 All urls in feed id0 0 URLS
