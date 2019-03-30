@@ -1,7 +1,7 @@
 https://vinkod.com.ua
 Scanned step: 1
-Request to scanned 92315 URLS
-Scanned 4339 URLS
+Request to scanned 92669 URLS
+Scanned 4916 URLS
 
 Campaigns in GASearch id0 0 Num
 All urls in feed id0 0 URLS
@@ -13,7 +13,7 @@ Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
-Last execute time: 28.7
+Last execute time: 28.68
 
 Current Scan Status: continue.
 
