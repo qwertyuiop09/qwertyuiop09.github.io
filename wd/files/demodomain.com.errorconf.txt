@@ -1,0 +1,4 @@
+File: demodomain.com.merchantfeed.txt not found
+/demodomain.com.merchantfeed.txt
+/callhunter/domains/demodomain.com.merchantfeed.txt
+Config is not working . Exit
