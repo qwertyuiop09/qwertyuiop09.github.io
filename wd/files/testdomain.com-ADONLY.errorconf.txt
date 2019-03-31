@@ -1,4 +1,0 @@
-File: testdomain.com-ADONLY.merchantfeed.txt not found
-/testdomain.com-ADONLY.merchantfeed.txt
-/callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
-Config is not working . Exit
