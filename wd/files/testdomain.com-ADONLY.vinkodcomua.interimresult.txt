@@ -17,7 +17,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Debug_On: yes
-Last execute time: 0.45
+Last execute time: 0.4
 
 Current Scan Status: continue.
 
