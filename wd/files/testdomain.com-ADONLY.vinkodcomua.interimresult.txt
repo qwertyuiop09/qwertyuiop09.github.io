@@ -18,7 +18,7 @@ Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
 Debug_On: yes
-Last execute time: 0.47
+Last execute time: 0.42
 
 Current Scan Status: continue.
 
