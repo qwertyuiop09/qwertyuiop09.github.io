@@ -1,2 +1,2 @@
 bad parsing_type (need to remove parsing_type), field: GASdecription
-Errors found for url: https://rozetka.com.ua/samsung_galaxy_m20_4_64gb_ocean_blue/p72016107/
+Errors found for url: https://rozetka.com.ua/sony_xa2_black/p34482935/
