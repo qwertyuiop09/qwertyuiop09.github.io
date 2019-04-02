@@ -1,10 +1,10 @@
 https://rozetka.com.ua/mobile-phones/c80003/state=new/
 Scanned step: 1
 EXECUTE ERRORS: bad parsing_type (need to remove parsing_type), field: GASdecription
-Errors found for url: https://rozetka.com.ua/nokia_7_plus_11b2nb01a01/p35493231/
+Errors found for url: https://rozetka.com.ua/samsung_galaxy_m20_4_64gb_ocean_blue/p72016107/
 
 
-Request to scanned 119 URLS
+Request to scanned 117 URLS
 Scanned 2 URLS
 
 Campaigns in GASearch id0 0 Num
@@ -17,6 +17,7 @@ Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
-Last execute time: 0.67
+Add dublicates urls: 0
+Last execute time: 0.8
 
 Current Scan Status: ended.
