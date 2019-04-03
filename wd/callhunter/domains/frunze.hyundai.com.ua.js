@@ -46,6 +46,7 @@ var IPchatConfig = {
 
 	var IPclhrDataUpdate = {
 
+		"testting": "1",
 
 		"hunterOn": "0",
 		"showButton": 	"0",
