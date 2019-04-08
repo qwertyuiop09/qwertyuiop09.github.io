@@ -1,6 +1,5 @@
 Read Config File Ok
 
 /callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
-Config Array element number 0 have incorrect parameter skipSeparators
-Config Array element number 0 is not have feeds
+Config Array element number 0 is not have parameter SITE
 Config is not working . Exit
