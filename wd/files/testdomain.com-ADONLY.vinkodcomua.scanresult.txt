@@ -10,7 +10,7 @@ EXECUTE MESSAGES: CSV data.length = 183657
 Request to scanned 39458 URLS
 Scanned 1039 URLS
 
-For GASearch id0 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные вариант оплаты. Доставка в день оплаты. Возможность Самовывоза. Оригинальная упаковка.
+For GASearch id0 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные варианты оплаты. Доставка в день заказа. Возможность Самовывоза. Оригинальная упаковка.
 Campaigns in GASearch id0 0 Num
 All urls in feed id0 1000 URLS
 Found parsed item urls for id0 1000 URLS
@@ -22,6 +22,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 12.88
+Last execute time: 14.1
 
 Current Scan Status: ended.
