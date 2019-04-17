@@ -1,4 +1,4 @@
-Could not read file: testdomain.com-ADONLY.merchantfeed.txt Error: No item with the given ID could be found, or you do not have permission to access it.
-/testdomain.com-ADONLY.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 2656000245
