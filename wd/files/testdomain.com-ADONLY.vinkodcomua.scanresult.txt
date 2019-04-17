@@ -11,7 +11,9 @@ Request to scanned 74159 URLS
 Scanned 11 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные варианты оплаты. Доставка в день заказа. Возможность Самовывоза. Оригинальная упаковка.
-Campaigns in GASearch id0 0 Num
+Campaigns in GASearch id0 1 Num
+Add / Modify urls in GASearch id0 undefined URLS
+All urls in GASearch id0 10 URLS
 All urls in feed id0 10 URLS
 Found parsed item urls for id0 10 URLS
 Not found parsed item urls for id0 0 URLS
@@ -22,6 +24,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 7.62
+Last execute time: 7.12
 
 Current Scan Status: ended.
