@@ -9,15 +9,15 @@ EXECUTE MESSAGES: CSV data.length = 183669
 
 
 Request to scanned 37133 URLS
-Scanned 1316 URLS
+Scanned 1772 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Опт и Розница. Возможность Самовывоза. Оригинальная упаковка.
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 506 URLS
-All urls in GASearch id0 506 URLS
-All urls in feed id0 506 URLS
-Found parsed item urls for id0 506 URLS
-Not found parsed item urls for id0 810 URLS (see in log details)
+Add / Modify urls in GASearch id0 418 URLS
+All urls in GASearch id0 912 URLS
+All urls in feed id0 942 URLS
+Found parsed item urls for id0 942 URLS
+Not found parsed item urls for id0 830 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
