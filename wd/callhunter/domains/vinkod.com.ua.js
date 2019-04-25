@@ -109,7 +109,7 @@ if (0) {
 		"HitElement": "h1.c",
 		"HitElementHtml": {RegExp: 'оформлен', Flags: 'i'},
 
-		"AdwConvHit": {
+		"AdwConvHit": [{
 		google_conversion_id: 969121061,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
@@ -117,32 +117,32 @@ if (0) {
 		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
 //for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
 		google_remarketing_only: false
-			},
+			}],
 
 
 
 
 
 
-		"AdwConvTime": {
+		"AdwConvTime": [{
 		google_conversion_id: 969121061,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
 		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
 		google_remarketing_only: false
-			},
+			}],
 
 
 
-		"AdwConvCHSnd": {
+		"AdwConvCHSnd": [{
 		google_conversion_id: 969121061,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
 		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
 		google_remarketing_only: false
-			},
+			}],
 
 
 
