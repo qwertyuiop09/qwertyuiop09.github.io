@@ -19,8 +19,8 @@ Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
-Abnormal exits: no
+Abnormal exits: YES
 Add dublicates urls: 0
-Last execute time: 0.67
+Last execute time: 0.48
 
 Current Scan Status: ended.
