@@ -1,0 +1,4 @@
+Read Config File Ok
+
+/callhunter/domains/vinkod.com.ua.merchantfeed.txt
+Ok. Config checksum: 881284196
