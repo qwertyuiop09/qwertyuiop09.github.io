@@ -1,4 +1,0 @@
-https://vinkod.com.ua
-CREATE SEARCH CAMPAIGNS: Campaign with GASearch Id vinkodcomua.feed.id0 is now created in account, exit
-
-
