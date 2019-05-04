@@ -1,24 +1,19 @@
 https://vinkod.com.ua
-Scanned step: 1
-EXECUTE WARNINGS: Previos start was aborted for scan https://vinkod.com.ua
-CSV file maybe truncated: https://vinkod.com.ua/export_out/uniq_static_file.csv, expected length:62241373, real length:41863568
-Exit shouldExitEarly 1
-
-
-EXECUTE MESSAGES: CSV data.length = 183692
+Scanned step: 2
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 36452 URLS
-Scanned 1911 URLS
+Scanned 4030 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Опт и Розница. Возможность Самовывоза. Оригинальная упаковка.
 
 Campaigns in GASearch id0 2 Num
-Add / Modify urls in GASearch id0 123 URLS
-All urls in GASearch id0 950 URLS
-All urls in feed id0 1065 URLS
-Found parsed item urls for id0 1065 URLS
-Not found parsed item urls for id0 846 URLS (see in log details)
+Add / Modify urls in GASearch id0 409 URLS
+All urls in GASearch id0 2605 URLS
+All urls in feed id0 3030 URLS
+Found parsed item urls for id0 3030 URLS
+Not found parsed item urls for id0 1000 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
