@@ -1,1 +1,1 @@
-Exit existdublicatesgroups
+Exit notequalgroupsnum
