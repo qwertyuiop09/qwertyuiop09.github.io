@@ -1,16 +1,27 @@
 https://vinkod.com.ua
-Scanned step: 3
+Scanned step: 1
+EXECUTE ERRORS: errors bad function field_Fun:Cannot find function toLowerCase in object 1. , selector=, fieldName:brandskeys, field: brandskeys
+Errors found for url: https://vinkod.com.ua/part-bosch-0204114073/
+
+
+EXECUTE WARNINGS: CSV file maybe truncated: https://vinkod.com.ua/export_out/uniq_static_file.csv, expected length:62188253, real length:41866472
+Delete bad last element in CSV Array: https://vinkod.com.ua/export_out/uniq_static_file.csv
+
+
+EXECUTE MESSAGES: CSV data.length = 183696
+
+
 Request to scanned 2190 URLS
-Scanned 1164 URLS
+Scanned 1 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Опт и Розница. Возможность Самовывоза. Оригинальная упаковка.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 1000 URLS
-All urls in GASearch id0 1000 URLS
-All urls in feed id0 1127 URLS
-Found parsed item urls for id0 1127 URLS
-Not found parsed item urls for id0 36 URLS (see in log details)
+Add / Modify urls in GASearch id0 0 URLS
+All urls in GASearch id0 0 URLS
+All urls in feed id0 0 URLS
+Found parsed item urls for id0 0 URLS
+Not found parsed item urls for id0 1 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -18,6 +29,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 15.2
+Last execute time: 2.87
 
 Current Scan Status: ended.
