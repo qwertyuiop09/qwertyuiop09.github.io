@@ -1,0 +1,2 @@
+errors bad function field_Fun:Cannot find function toLowerCase in object 1. , selector=, fieldName:brandskeys, field: brandskeys
+Errors found for url: https://vinkod.com.ua/part-bosch-0204114073/
