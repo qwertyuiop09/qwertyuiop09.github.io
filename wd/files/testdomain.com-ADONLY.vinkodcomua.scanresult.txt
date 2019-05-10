@@ -1,4 +1,4 @@
-https://vinkod.com.ua/part-bosch-0204114073/
+https://vinkod.com.ua/part-bosch-0986424707/
 Scanned step: 1
 Request to scanned 1 URLS
 Scanned 1 URLS
@@ -18,6 +18,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 0.9
+Last execute time: 0.58
 
 Current Scan Status: ended.
