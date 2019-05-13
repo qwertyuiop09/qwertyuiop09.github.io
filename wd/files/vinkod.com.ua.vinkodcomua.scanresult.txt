@@ -1,12 +1,12 @@
 https://vinkod.com.ua
 Scanned step: 2
-Request to scanned 0 URLS
+Request to scanned 2176 URLS
 Scanned 1163 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Опт и Розница. Возможность Самовывоза. Оригинальная упаковка.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 931 URLS
+Add / Modify urls in GASearch id0 0 URLS
 All urls in GASearch id0 1000 URLS
 All urls in feed id0 1000 URLS
 Found parsed item urls for id0 1000 URLS
@@ -18,6 +18,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 18.07
+Last execute time: 6.47
 
 Current Scan Status: ended.
