@@ -100,6 +100,10 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
+		"ViewFormClick": '.callhunter_viewform_click, #search_callback',
+
+
+
 //	"workStart": "09",
 //	"workEnd": "18",
 	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat",
