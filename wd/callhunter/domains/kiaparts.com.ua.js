@@ -100,7 +100,7 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
-		"ViewFormClick": '.callhunter_viewform_click, #search_callback',
+		"ViewFormClick": '.callhunter_viewform_click, #search_callback, #search_callback_vin',
 
 
 
