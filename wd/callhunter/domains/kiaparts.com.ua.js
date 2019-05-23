@@ -110,15 +110,23 @@ if (0) {
 
 
 
-
-		"AdwConvRemark": {
+		"AdwConvRemark": [
+		{
 		google_conversion_id: 982175123,
 		google_custom_params: window.google_tag_params,
 		google_remarketing_only: true
 			},
+		{
+		google_conversion_id: 746584469,
+		google_custom_params: window.google_tag_params,
+		google_remarketing_only: true
+			}
+
+		],
 
 
-		"AdwConvTime": {
+		"AdwConvTime": [
+		{
 		google_conversion_id: 982175123,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
@@ -126,11 +134,21 @@ if (0) {
 		google_conversion_label: "ih76CJflp3UQk5ur1AM",
 		google_remarketing_only: false
 			},
+		{
+		google_conversion_id: 746584469,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "4d0xCPPi2JoBEJXz_-MC",
+		google_remarketing_only: false
+			}
+		],
 
 
 
 
-		"AdwConvCHSnd": {
+		"AdwConvCHSnd": [
+		{
 		google_conversion_id: 982175123,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
@@ -138,6 +156,15 @@ if (0) {
 		google_conversion_label: "eDdPCPrbj3UQk5ur1AM",
 		google_remarketing_only: false
 			},
+		{
+		google_conversion_id: 746584469,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "dEsCCJa245oBEJXz_-MC",
+		google_remarketing_only: false
+			}
+		],
 
 
 
@@ -146,7 +173,8 @@ if (0) {
 		"HitElementHtml": {RegExp: 'Уважаемый клиент!', Flags: 'i'},
 
 
-		"AdwConvHit": {
+		"AdwConvHit": [
+		{
 		google_conversion_id: 982175123,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
@@ -154,17 +182,15 @@ if (0) {
 		google_conversion_label: "e9d2CKn4oXUQk5ur1AM",
 		google_remarketing_only: false
 			},
-
-
-
-		"AdwConvJivo": {
-		google_conversion_id: 982175123,
+		{
+		google_conversion_id: 746584469,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "sMOzCNyOkHUQk5ur1AM",
+		google_conversion_label: "wApLCOLDz5oBEJXz_-MC",
 		google_remarketing_only: false
-		},
+			}
+		],
 
 
 
