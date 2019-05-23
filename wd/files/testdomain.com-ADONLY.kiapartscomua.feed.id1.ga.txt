@@ -1,6 +1,0 @@
-link
-https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc?sodship=y
-https://kiaparts.com.ua/product/search_detal/page/2/pnum/200/sort/code/t_sort/asc?sodship=y
-https://kiaparts.com.ua/product/search_detal/page/3/pnum/200/sort/code/t_sort/asc?sodship=y
-https://kiaparts.com.ua/product/search_detal/page/4/pnum/200/sort/code/t_sort/asc?sodship=y
-https://kiaparts.com.ua/product/search_detal/page/5/pnum/200/sort/code/t_sort/asc?sodship=y
