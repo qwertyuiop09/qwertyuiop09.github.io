@@ -1,0 +1,2 @@
+price	id	title	description	link	image_link	availability
+381 UAH	3921921763	Фильтр, Воздух Во Внутренном Пространстве Mann-filter Cuk 5480	Подходит на: Ford Galaxy (wgr),Seat Alhambra (7v8 7v9),Vw Sharan (7m8 7m9 7m6). Оригинальные Коды: cuk 5480. Характеристики: Высота [мм]: 30. Длина [мм]: 536. Исполнение фильтра: Фильтр из активированного угля. Ширина [мм]: 111.	https://vinkod.com.ua/part-mann_filter-cuk5480/?utm_campaign=sodship-id0	https://vinkod.com.ua/all/img/4/00047084603255.jpg	in stock
