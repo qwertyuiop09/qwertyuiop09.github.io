@@ -103,11 +103,6 @@ if (0) {
 		google_remarketing_only: true
 			},
 */
-		"AdwConvRemark": {
-		google_conversion_id: 746584469,
-		google_custom_params: window.google_tag_params,
-		google_remarketing_only: true
-			},
 
 
 
@@ -124,14 +119,6 @@ if (0) {
 //for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
 		google_remarketing_only: false
 			},
-		{
-		google_conversion_id: 746584469,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "wApLCOLDz5oBEJXz_-MC",
-		google_remarketing_only: false
-			}
 		],
 
 
@@ -146,14 +133,6 @@ if (0) {
 		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
 		google_remarketing_only: false
 			},
-		{
-		google_conversion_id: 746584469,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "4d0xCPPi2JoBEJXz_-MC",
-		google_remarketing_only: false
-			}
 		],
 
 
@@ -169,14 +148,6 @@ if (0) {
 		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
 		google_remarketing_only: false
 			},
-		{
-		google_conversion_id: 746584469,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "dEsCCJa245oBEJXz_-MC",
-		google_remarketing_only: false
-			}
 		],
 
 
