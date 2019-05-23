@@ -1,19 +1,19 @@
 https://vinkod.com.ua/catalogs/
-Scanned step: 14
+Scanned step: 15
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 37650 URLS
-Scanned 11619 URLS
+Scanned 12187 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Опт и Розница. Возможность Самовывоза. Оригинальная упаковка.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 7612 URLS
-All urls in GASearch id0 9386 URLS
-All urls in feed id0 9737 URLS
-Found parsed item urls for id0 9737 URLS
-Not found parsed item urls for id0 1449 URLS (see in log details)
+Add / Modify urls in GASearch id0 8134 URLS
+All urls in GASearch id0 9908 URLS
+All urls in feed id0 10266 URLS
+Found parsed item urls for id0 10266 URLS
+Not found parsed item urls for id0 1488 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Опт и Розница. Возможность Самовывоза. Оригинальная упаковка.
 
