@@ -1,24 +1,19 @@
 https://vinkod.com.ua/catalogs/
-Scanned step: 1
-EXECUTE WARNINGS: CSV file maybe truncated: https://vinkod.com.ua/export_out/uniq_static_file.csv, expected length:61998779, real length:41858889
-Delete bad last element in CSV Array: https://vinkod.com.ua/export_out/uniq_static_file.csv
-Exit shouldExitEarly 1
-
-
-EXECUTE MESSAGES: CSV data.length = 183689
+Scanned step: 2
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 37650 URLS
-Scanned 988 URLS
+Scanned 1614 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Опт и Розница. Возможность Самовывоза. Оригинальная упаковка.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 470 URLS
-All urls in GASearch id0 470 URLS
-All urls in feed id0 470 URLS
-Found parsed item urls for id0 470 URLS
-Not found parsed item urls for id0 85 URLS (see in log details)
+Add / Modify urls in GASearch id0 999 URLS
+All urls in GASearch id0 999 URLS
+All urls in feed id0 1006 URLS
+Found parsed item urls for id0 1006 URLS
+Not found parsed item urls for id0 175 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Опт и Розница. Возможность Самовывоза. Оригинальная упаковка.
 
