@@ -1,1 +1,0 @@
-Exit when check search campaign vinkodcomua.feed.id0.0., adroups num is not equal dbase elements num in it, error

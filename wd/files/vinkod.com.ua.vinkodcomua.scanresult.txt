@@ -1,10 +1,14 @@
 https://vinkod.com.ua/catalogs/
-Scanned step: 8
-EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
+Scanned step: 1
+EXECUTE WARNINGS: CSV file maybe truncated: https://vinkod.com.ua/export_out/uniq_static_file.csv, expected length:61998779, real length:41858889
+Delete bad last element in CSV Array: https://vinkod.com.ua/export_out/uniq_static_file.csv
 
 
-Request to scanned 37650 URLS
-Scanned 13655 URLS
+EXECUTE MESSAGES: CSV data.length = 183689
+
+
+Request to scanned 433 URLS
+Scanned 433 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Подбор Автозапчастей. Запрос по VIN. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Опт и Розница. Возможность Самовывоза. Оригинальная упаковка.
 
@@ -21,7 +25,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 0.5
+Last execute time: 6.67
 
-Current Scan Status: continue.
-
+Current Scan Status: ended.
