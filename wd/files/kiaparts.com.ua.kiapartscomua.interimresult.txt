@@ -1,28 +1,28 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 25
+Scanned step: 26
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
-Request to scanned 32804 URLS
-Scanned 32606 URLS
+Request to scanned 33197 URLS
+Scanned 33072 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 1218 URLS
-All urls in GASearch id0 10683 URLS
-All urls in feed id0 10703 URLS
-Found parsed item urls for id0 10703 URLS
-Not found parsed item urls for id0 21738 URLS (see in log details)
+Add / Modify urls in GASearch id0 1511 URLS
+All urls in GASearch id0 10976 URLS
+All urls in feed id0 10996 URLS
+Found parsed item urls for id0 10996 URLS
+Not found parsed item urls for id0 21909 URLS (see in log details)
 
 For GASearch id2 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id2 1 Num
-Add / Modify urls in GASearch id2 1187 URLS
-All urls in GASearch id2 10113 URLS
-All urls in feed id2 10466 URLS
-Found parsed item urls for id2 10466 URLS
-Not found parsed item urls for id2 21975 URLS (see in log details)
+Add / Modify urls in GASearch id2 1477 URLS
+All urls in GASearch id2 10403 URLS
+All urls in feed id2 10758 URLS
+Found parsed item urls for id2 10758 URLS
+Not found parsed item urls for id2 22147 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
