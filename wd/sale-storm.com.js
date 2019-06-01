@@ -91,13 +91,6 @@ var IPchatConfig = {
 
 	var IPclhrDataUpdate = {
 
-	"sodship": {
-	        'SMSName': 'SDRSHIP',  //начало СМС-сообщения (без |)
-	        'LetterName': 'LDRSHIP', //начало заголовка в почтовом сообщении (без |)
-	        'Days': 1 //сколько дней хранить кук
-	},
-
-
 
 //	"TimeOnSite": "5",
 
