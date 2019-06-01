@@ -100,6 +100,15 @@ if (0) {
 	var IPclhrDataUpdate = {
 
 
+	"sodship": {
+	        'SMSName': 'DROPSHIP',  //начало СМС-сообщения (без |)
+	        'LetterName': 'DROPSHIP', //начало заголовка в почтовом сообщении (без |)
+	        'Days': 45 //сколько дней хранить кук
+	},
+
+
+
+
 		"ViewFormClick": '.callhunter_viewform_click, #search_callback, #search_callback_vin',
 
 
