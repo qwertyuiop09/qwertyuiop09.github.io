@@ -1,1 +1,1 @@
-{"Num":2,"base":{"http://www.stikon.od.ua":[1,"03.06.2019",1,"http://www.stikon.od.ua","048 775 9775"],"http://www.kandinsky-residence.com.ua":[2,"03.06.2019",1,"http://www.kandinsky-residence.com.ua",undefined]}}
+{"Num":3,"base":{"http://www.stikon.od.ua":[1,"03.06.2019",1,"http://www.stikon.od.ua","048 775 9775"],"http://www.kandinsky-residence.com.ua":[2,"03.06.2019",1,"http://www.kandinsky-residence.com.ua",undefined],"http://novostroyki.lun.ua":[3,"03.06.2019",1,"http://novostroyki.lun.ua",undefined]}}
