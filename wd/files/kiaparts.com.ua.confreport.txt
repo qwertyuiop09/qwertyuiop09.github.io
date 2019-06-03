@@ -1,4 +1,4 @@
-File: kiaparts.com.ua.merchantfeed.txt is empty
-/kiaparts.com.ua.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/kiaparts.com.ua.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 479423233
