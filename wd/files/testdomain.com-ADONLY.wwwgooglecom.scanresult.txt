@@ -1,0 +1,25 @@
+https://www.google.com/
+Scanned step: 1
+EXECUTE WARNINGS: CSV file maybe truncated: https://cdn.sale-storm.com/wd/files/nina_dbase.csv, expected length:102, real length:81
+
+
+EXECUTE MESSAGES: CSV data.length = 1
+
+
+Request to scanned 110 URLS
+Scanned 20 URLS
+
+Campaigns in GASearch id0 0 Num
+All urls in feed id0 20 URLS
+Found parsed item urls for id0 20 URLS
+Not found parsed item urls for id0 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 1.58
+
+Current Scan Status: ended.
