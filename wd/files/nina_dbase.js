@@ -1,1 +1,0 @@
-{"http://www.novostroiki.od.ua":[1,"03.06.2019",1,"http://www.novostroiki.od.ua","097 389 6515"],"http://www.kandinsky-residence.com.ua":[2,"03.06.2019",1,"http://www.kandinsky-residence.com.ua",undefined]}
