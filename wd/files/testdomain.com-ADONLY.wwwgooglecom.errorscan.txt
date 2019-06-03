@@ -1,1 +1,0 @@
-bad function startInitFun:"Loggerlog" is not defined.
