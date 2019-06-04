@@ -175,7 +175,9 @@ if (0) {
 		],
 
 
+/*
 
+заменено на регистрацию
 
 		"HitElement": "#content > div > p > b",
 		"HitElementHtml": {RegExp: 'Уважаемый клиент!', Flags: 'i'},
@@ -200,6 +202,25 @@ if (0) {
 			}
 		],
 
+
+*/
+
+		"HitElement": "#content > p:nth-child(1)",
+		"HitElementHtml": {RegExp: 'Ваш аккаунт був успішно зареєстрований на нашому сайті', Flags: 'i'},
+
+
+/*
+
+		"AdwConvHit": {
+		google_conversion_id: 982175123,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "e9d2CKn4oXUQk5ur1AM",
+		google_remarketing_only: false
+			},
+
+*/
 
 
 
