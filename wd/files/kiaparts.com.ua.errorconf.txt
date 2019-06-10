@@ -1,5 +1,0 @@
-Read Config File Ok
-
-/callhunter/domains/kiaparts.com.ua.merchantfeed.txt
-Config Array element number 0 have incorrect parameter pausedFeeds. Not found feed: 
-Config is not working . Exit
