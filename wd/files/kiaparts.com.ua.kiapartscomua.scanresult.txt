@@ -1,6 +1,6 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
 Scanned step: 18
-Request to scanned 34824 URLS
+Request to scanned 0 URLS
 Scanned 34824 URLS
 
 For GASearch id2 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
@@ -27,6 +27,6 @@ No html page errors: 0
 Responce errors (404): 1
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 3.08
+Last execute time: 5.2
 
 Current Scan Status: ended.
