@@ -3,44 +3,44 @@ Scanned step: 1
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
-Request to scanned 618 URLS
-Scanned 451 URLS
+Request to scanned 813 URLS
+Scanned 711 URLS
 
 For GASearch id2 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id2 1 Num
 Add / Modify urls in GASearch id2 0 URLS
-All urls in GASearch id2 203 URLS
-All urls in feed id2 211 URLS
-Found parsed item urls for id2 211 URLS
-Not found parsed item urls for id2 237 URLS (see in log details)
+All urls in GASearch id2 327 URLS
+All urls in feed id2 337 URLS
+Found parsed item urls for id2 337 URLS
+Not found parsed item urls for id2 370 URLS (see in log details)
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id3 1 Num
 Add / Modify urls in GASearch id3 0 URLS
-All urls in GASearch id3 261 URLS
-All urls in feed id3 263 URLS
-Found parsed item urls for id3 263 URLS
-Not found parsed item urls for id3 185 URLS (see in log details)
+All urls in GASearch id3 412 URLS
+All urls in feed id3 414 URLS
+Found parsed item urls for id3 414 URLS
+Not found parsed item urls for id3 293 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id4 1 Num
 Add / Modify urls in GASearch id4 0 URLS
-All urls in GASearch id4 261 URLS
-All urls in feed id4 263 URLS
-Found parsed item urls for id4 263 URLS
-Not found parsed item urls for id4 185 URLS (see in log details)
+All urls in GASearch id4 412 URLS
+All urls in feed id4 414 URLS
+Found parsed item urls for id4 414 URLS
+Not found parsed item urls for id4 293 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
-Add / Modify urls in GASearch id5 252 URLS
-All urls in GASearch id5 252 URLS
-All urls in feed id5 263 URLS
-Found parsed item urls for id5 263 URLS
-Not found parsed item urls for id5 185 URLS (see in log details)
+Add / Modify urls in GASearch id5 399 URLS
+All urls in GASearch id5 399 URLS
+All urls in feed id5 414 URLS
+Found parsed item urls for id5 414 URLS
+Not found parsed item urls for id5 293 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
