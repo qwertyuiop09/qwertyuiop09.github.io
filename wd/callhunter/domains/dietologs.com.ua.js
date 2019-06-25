@@ -182,6 +182,7 @@ var IPchatConfig = {
 
 		"ExtFormBtnFCvalidAttr": "aria-required",
 		//ExtFormBtnFCvalidVal: true, //закомментирован
+		"ExtFormBtnFCnovalidOnly": 1,
 
 
 		"ButtonSensitivity":	"0",
