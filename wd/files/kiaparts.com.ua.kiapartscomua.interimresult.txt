@@ -1,46 +1,46 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 23
+Scanned step: 24
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 25828 URLS
-Scanned 25677 URLS
+Request to scanned 27226 URLS
+Scanned 27104 URLS
 
 For GASearch id2 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id2 1 Num
-Add / Modify urls in GASearch id2 13 URLS
-All urls in GASearch id2 6829 URLS
-All urls in feed id2 7079 URLS
-Found parsed item urls for id2 7079 URLS
-Not found parsed item urls for id2 18468 URLS (see in log details)
+Add / Modify urls in GASearch id2 15 URLS
+All urls in GASearch id2 7251 URLS
+All urls in feed id2 7523 URLS
+Found parsed item urls for id2 7523 URLS
+Not found parsed item urls for id2 19444 URLS (see in log details)
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id3 1 Num
-Add / Modify urls in GASearch id3 19 URLS
-All urls in GASearch id3 9752 URLS
-All urls in feed id3 9767 URLS
-Found parsed item urls for id3 9767 URLS
-Not found parsed item urls for id3 15780 URLS (see in log details)
+Add / Modify urls in GASearch id3 23 URLS
+All urls in GASearch id3 10341 URLS
+All urls in feed id3 10357 URLS
+Found parsed item urls for id3 10357 URLS
+Not found parsed item urls for id3 16610 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id4 1 Num
-Add / Modify urls in GASearch id4 22 URLS
-All urls in GASearch id4 9752 URLS
-All urls in feed id4 9767 URLS
-Found parsed item urls for id4 9767 URLS
-Not found parsed item urls for id4 15780 URLS (see in log details)
+Add / Modify urls in GASearch id4 29 URLS
+All urls in GASearch id4 10341 URLS
+All urls in feed id4 10357 URLS
+Found parsed item urls for id4 10357 URLS
+Not found parsed item urls for id4 16610 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
-Add / Modify urls in GASearch id5 20 URLS
-All urls in GASearch id5 9434 URLS
-All urls in feed id5 9767 URLS
-Found parsed item urls for id5 9767 URLS
-Not found parsed item urls for id5 15780 URLS (see in log details)
+Add / Modify urls in GASearch id5 27 URLS
+All urls in GASearch id5 10000 URLS
+All urls in feed id5 10357 URLS
+Found parsed item urls for id5 10357 URLS
+Not found parsed item urls for id5 16610 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
