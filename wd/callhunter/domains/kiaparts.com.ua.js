@@ -179,6 +179,23 @@ if (0) {
 
 
 
+
+
+		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10 },
+
+		"AdwConvCallWidget": {
+		google_conversion_id: 746584469,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "bmx4CO6ynaUBEJXz_-MC",
+		google_remarketing_only: false
+		},
+
+
+
+
+
 		"HitElement": "#content > div > p > b",
 		"HitElementHtml": {RegExp: 'Уважаемый клиент!', Flags: 'i'},
 
@@ -201,6 +218,11 @@ if (0) {
 		google_remarketing_only: false
 			}
 		],
+
+
+
+
+
 
 
 
