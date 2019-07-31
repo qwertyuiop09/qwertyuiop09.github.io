@@ -1,6 +1,6 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
 Scanned step: 24
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 34988 URLS
@@ -30,7 +30,7 @@ No html page errors: 0
 Responce errors (404): 1
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.68
+Last execute time: 0.57
 
 Current Scan Status: continue.
 
