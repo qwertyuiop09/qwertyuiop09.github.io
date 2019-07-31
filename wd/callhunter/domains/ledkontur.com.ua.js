@@ -56,8 +56,8 @@ var IPchatConfig = {
 
 		"AdwConvRemark": {
 		google_conversion_id: 720741680,
-		//google_custom_params: window.google_tag_params,
-		google_custom_params: undefined,
+		google_custom_params: window.google_tag_params,
+		//google_custom_params: undefined,
 		google_remarketing_only: true
 			},
 
