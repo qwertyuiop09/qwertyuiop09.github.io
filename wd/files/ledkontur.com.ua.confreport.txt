@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/ledkontur.com.ua.merchantfeed.txt
-Ok. Config checksum: 587381772
+Ok. Config checksum: 3063395553
