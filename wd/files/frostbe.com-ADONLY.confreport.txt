@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/frostbe.com-ADONLY.merchantfeed.txt
-Ok. Config checksum: 742839428
+Ok. Config checksum: 2371033936
