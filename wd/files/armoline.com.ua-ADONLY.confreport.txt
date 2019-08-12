@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/armoline.com.ua-ADONLY.merchantfeed.txt
-Ok. Config checksum: 3702610004
+Ok. Config checksum: 2505372395
