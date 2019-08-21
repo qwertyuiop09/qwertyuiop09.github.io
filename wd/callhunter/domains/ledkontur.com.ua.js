@@ -104,6 +104,18 @@ var IPchatConfig = {
 
 
 
+		"AdwConvJivo": {
+		google_conversion_id: 720741680,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "grQdCLeaqqgBELDK1tcC",
+		google_remarketing_only: false
+			},
+
+
+
+
 
 		"title": "Получить консультацию",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
