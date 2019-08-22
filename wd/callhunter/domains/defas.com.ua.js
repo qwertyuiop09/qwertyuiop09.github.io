@@ -51,6 +51,12 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
+	"hunterOn": "0",
+//	"showButton": 	"0",
+
+
+
+
 	"workStart": "09",
 	"workEnd": "21",
 	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
@@ -133,34 +139,23 @@ var IPchatConfig = {
 
 
 
+
+
 /*
 
-		"AdwConvJivo": {
-		google_conversion_id: 836067726,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
-		google_remarketing_only: false
-			},
-
-
-		"SetCallWidget": {button: "#fca_call_button", phoneField:'#fca_phone' },
-
-
+		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
 
 		"AdwConvCallWidget": {
 		google_conversion_id: 836067726,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "VqrlCP27jXwQpbqOzgM",
+		google_conversion_label: "zrPyCJ3zyqgBEI7D1Y4D",
 		google_remarketing_only: false
 		},
 
-
-
 */
+
 
 
 
