@@ -1,0 +1,3 @@
+price	title	description	link	image_link	id	availability	product_type
+2781.00 UAH	Sava Tamar M+S Plus (Ведущая) 8.5 R17.5 121/120M	Sava tamar M+S plus (ведущая) 8.5 R17.5 121/120M	https://truck-point.com.ua/catalog/8-5-r17-5-vedushchie/97407-sava-tamar-m-s-plus-vedushchaya-8-5-r17-5-121-120m/	http://lici.zzz.com.ua/truck-point/4117.400x400.png	2879262356	in stock	Грузовые и Автобусные Шины > 8 5 R17 5
+5490.00 UAH	Bridgestone V-Steel Mix M716 8.5 R17.5 121M	Bridgestone V-Steel mix M716 8.5 R17.5 121M	https://truck-point.com.ua/catalog/8-5-r17-5-vedushchie/95462-bridgestone-v-steel-mix-m716-8-5-r17-5-121m/	http://lici.zzz.com.ua/truck-point/6224.400x400.png	542047930	in stock	Грузовые и Автобусные Шины > 8 5 R17 5
