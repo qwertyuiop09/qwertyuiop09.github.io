@@ -116,18 +116,18 @@ if (0) {
 
 
 
-//		"ViewFormClick": '.callhunter_viewform_click, #search_callback, #search_callback_vin',
+		"ViewFormClick": '.callhunter_viewform_click, #search_callback, #search_callback_vin',
 
 
 
-//	"showButton": 	"0",
+	"showButton": 	"0",
+	"hunterOn": "0",
 
 
 //	"workStart": "09",
 //	"workEnd": "18",
 	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat",
 
-	"hunterOn": "0",
 
 
 		"AdwConvRemark": [
