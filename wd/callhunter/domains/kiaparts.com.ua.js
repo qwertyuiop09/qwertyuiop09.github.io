@@ -188,18 +188,26 @@ if (0) {
 
 
 
-
 		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
 
-		"AdwConvCallWidget": {
+		"AdwConvCallWidget": [
+		{
+		google_conversion_id: 982175123,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "sMOzCNyOkHUQk5ur1AM",
+		google_remarketing_only: false
+			},
+		{
 		google_conversion_id: 746584469,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
 		google_conversion_label: "bmx4CO6ynaUBEJXz_-MC",
 		google_remarketing_only: false
-		},
-
+			}
+		],
 
 
 
