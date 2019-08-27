@@ -1,0 +1,3 @@
+itemNum	itemName	brands	digitkeys	brandkeys	brandsforads	link	image_link
+k996032011	Подшипник Ступицы Колеса	Kia,HYUNDAI%%%(0054027350),(k996032011)	(0054027350),(k996032011)	киа,kia,хюндай,хэндай,hyundai	Качественные Запчасти HYUNDAI, КИА с Быстрой Доставкой по Украине.	https://kiaparts.com.ua/product/search/item/k996032011	/storage/detal_photo/0054027350-kia-01.jpg
+0310000130	Жидкость Гур	HYUNDAI%%%(0310000130)	(0310000130)	хюндай,хэндай,hyundai	Качественные Запчасти HYUNDAI с Быстрой Доставкой по Украине.	https://kiaparts.com.ua/product/search/item/0310000130	/storage/detal_photo/0310000130-hyundai-01.jpg

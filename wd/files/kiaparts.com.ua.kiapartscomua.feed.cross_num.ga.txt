@@ -1,0 +1,3 @@
+itemNum	itemName	brands	digitkeys	brandkeys	brandsforads	link	image_link
+k996032011	Подшипник Ступицы Колеса	Kia,HYUNDAI%%%(0054027350)	(0054027350)	киа,kia,хюндай,хэндай,hyundai	Качественные Оригинальные Запчасти HYUNDAI, КИА с Доставкой по Украине.	https://kiaparts.com.ua/product/search/item/k996032011	/storage/detal_photo/0054027350-kia-01.jpg
+k02airsd00006	Фильтр Воздушный	Kia,HYUNDAI%%%(0k01113z40)	(0k01113z40)	киа,kia,хюндай,хэндай,hyundai	Качественные Оригинальные Запчасти HYUNDAI, КИА с Доставкой по Украине.	https://kiaparts.com.ua/product/search/item/k02airsd00006	/storage/detal_photo/0k01113z40-mobis-01.jpg
