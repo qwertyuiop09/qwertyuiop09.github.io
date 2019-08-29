@@ -52,7 +52,7 @@ var IPchatConfig = {
 
 
 	"hunterOn": "0",
-//	"showButton": 	"0",
+	"showButton": 	"0",
 
 
 
