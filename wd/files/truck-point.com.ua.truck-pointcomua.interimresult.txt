@@ -1,15 +1,15 @@
 https://truck-point.com.ua/catalog/
-Scanned step: 2
+Scanned step: 3
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 3234 URLS
-Scanned 3091 URLS
+Request to scanned 4549 URLS
+Scanned 4470 URLS
 
 Campaigns in GASearch id0 0 Num
-All urls in feed id0 2039 URLS
-Found parsed item urls for id0 2039 URLS
-Not found parsed item urls for id0 207 URLS (see in log details)
+All urls in feed id0 2902 URLS
+Found parsed item urls for id0 2902 URLS
+Not found parsed item urls for id0 343 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
