@@ -1,6 +1,6 @@
 https://truck-point.com.ua/catalog/
 Scanned step: 4
-Request to scanned 0 URLS
+Request to scanned 4760 URLS
 Scanned 4760 URLS
 
 Campaigns in GASearch id0 0 Num
@@ -14,6 +14,6 @@ No html page errors: 0
 Responce errors (404): 4
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 8.27
+Last execute time: 10.18
 
 Current Scan Status: ended.
