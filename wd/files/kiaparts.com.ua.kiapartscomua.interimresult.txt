@@ -1,7 +1,6 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
 Scanned step: 22
-EXECUTE WARNINGS: Previos start was aborted for scan https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Exit Service invoked too many times for one day: urlfetch.
+EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 27431 URLS
@@ -40,7 +39,7 @@ No html page errors: 0
 Responce errors (404): 1
 Abnormal exits: YES
 Add dublicates urls: 0
-Last execute time: 20.23
+Last execute time: 0.62
 
 Current Scan Status: continue.
 
