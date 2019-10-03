@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/wim.mk.ua-ADONLY.merchantfeed.txt
-Ok. Config checksum: 3096799267
+Ok. Config checksum: 2222681676
