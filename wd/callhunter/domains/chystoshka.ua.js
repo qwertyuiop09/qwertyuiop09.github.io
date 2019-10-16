@@ -126,6 +126,9 @@ var IPchatConfig = {
 		"MMFileType": "2",
 		//"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 		//"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+		"ExtFormBtnFC": 'form#xd_zvonok-form [type=submit], form#xd_zvonok-form button:not([type=reset])',
+
+
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 
