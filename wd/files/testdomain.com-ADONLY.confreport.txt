@@ -1,5 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
-Config Array element number 0 have incorrect parameter skip_query [object Object]
-Config is not working . Exit
+Ok. Config checksum: 1847757177
