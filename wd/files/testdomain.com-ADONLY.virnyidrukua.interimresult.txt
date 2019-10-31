@@ -1,17 +1,17 @@
 https://virnyidruk.ua/
-Scanned step: 5
+Scanned step: 6
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 1616 URLS
-Scanned 1519 URLS
+Request to scanned 1966 URLS
+Scanned 1851 URLS
 
 For GASearch id10 don't forget! add Campaigns Extensions: Оригинальные запчасти. Сервисный центр. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id10 0 Num
-All urls in feed id10 1324 URLS
-Found parsed item urls for id10 1324 URLS
-Not found parsed item urls for id10 125 URLS (see in log details)
+All urls in feed id10 1624 URLS
+Found parsed item urls for id10 1624 URLS
+Not found parsed item urls for id10 142 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -19,7 +19,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.72
+Last execute time: 28.73
 
 Current Scan Status: continue.
 
