@@ -1,0 +1,4 @@
+Read Config File Ok
+
+/callhunter/domains/chystoshka.ua.merchantfeed.txt
+Ok. Config checksum: 473142876
