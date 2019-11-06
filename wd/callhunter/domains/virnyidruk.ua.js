@@ -57,7 +57,7 @@ var IPchatConfig = {
 
 
 	// размещение кнопки (справа внизу RightBottom, справа вверху RightTop, слева внизу LeftBottom, слева вверху LeftTop)
-	"ButtonPlace":	"RightTop",
+	"ButtonPlace":	"LeftBottom",
 
 
 
