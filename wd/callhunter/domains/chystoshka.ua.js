@@ -64,8 +64,8 @@ var IPchatConfig = {
 
 
 
-		"HitElement": "h1.main-h",
-		"HitElementHtml": {RegExp: '(Ваше замовлення отримано)|(Ваш заказ принят)', Flags: 'i'},
+		"HitElement": "h1",
+		"HitElementHtml": {RegExp: '(Замовлення успішно сформовано)|(Заказ успешно сформирован)', Flags: 'i'},
 
 		"AdwConvHit": {
 		google_conversion_id: 697395037,
