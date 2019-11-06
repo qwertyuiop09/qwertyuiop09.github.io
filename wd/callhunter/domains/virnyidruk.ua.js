@@ -56,6 +56,11 @@ var IPchatConfig = {
 
 
 
+	// размещение кнопки (справа внизу RightBottom, справа вверху RightTop, слева внизу LeftBottom, слева вверху LeftTop)
+	"ButtonPlace":	"RightTop",
+
+
+
 		"AdwConvRemark": {
 		google_conversion_id: 697356077,
 		google_custom_params: window.google_tag_params,
