@@ -57,7 +57,7 @@ var IPchatConfig = {
 
 
 		"AdwConvRemark": {
-		google_conversion_id: 720741680,
+		google_conversion_id: 697395037,
 		google_custom_params: window.google_tag_params,
 		google_remarketing_only: true
 			},
@@ -68,7 +68,7 @@ var IPchatConfig = {
 		"HitElementHtml": {RegExp: '(Ваше замовлення отримано)|(Ваш заказ принят)', Flags: 'i'},
 
 		"AdwConvHit": {
-		google_conversion_id: 720741680,
+		google_conversion_id: 697395037,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -79,12 +79,14 @@ var IPchatConfig = {
 
 
 
+
+
 		"AdwConvTime": {
-		google_conversion_id: 720741680,
+		google_conversion_id: 697395037,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "vTgcCILH7KYBELDK1tcC",
+		google_conversion_label: "1SHxCPeol7MBEN3OxcwC",
 		google_remarketing_only: false
 			},
 
@@ -93,7 +95,7 @@ var IPchatConfig = {
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 720741680,
+		google_conversion_id: 697395037,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
