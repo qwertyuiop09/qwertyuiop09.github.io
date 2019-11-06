@@ -53,7 +53,7 @@ var IPchatConfig = {
 
 
 
-/*
+
 
 
 		"AdwConvRemark": {
@@ -72,10 +72,9 @@ var IPchatConfig = {
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "QVCVCLm-9aYBELDK1tcC",
+		google_conversion_label: "NuGmCICBm7MBEN3OxcwC",
 		google_remarketing_only: false
 			},
-
 
 
 
@@ -106,7 +105,7 @@ var IPchatConfig = {
 
 
 
-*/
+
 
 
 
