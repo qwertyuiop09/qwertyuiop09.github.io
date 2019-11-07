@@ -7,6 +7,12 @@ var intepriceIPL = 'virnyidruk.inteprice.com';
 var intepriceCRT = '06.11.2019';
 
 
+//блокируем кнопку для мобилок
+window.jqIPAcode(".mob-calmee").ready(function () {
+	window.jqIPAcode("<style>").prop("type", "text/css").html(".mob-calmee { display: none!important; visibility: hidden!important; }").appendTo("head");
+});
+
+
 var IPchatConfig = {
 //    "widget_color": "#474747",
     "widget_color": "#427cd4",
