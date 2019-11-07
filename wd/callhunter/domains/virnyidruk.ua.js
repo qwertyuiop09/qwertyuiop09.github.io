@@ -56,7 +56,7 @@ var IPchatConfig = {
 
 
 //у них есть своя кнопка для мобилок, убираем
-	"CSS": '.mob-calmee { display:none!important; }',
+	"CSS": '.mob-calmee { display: none!important; visibility: hidden!important; }',
 
 //	"showButton": 	"2",
 
