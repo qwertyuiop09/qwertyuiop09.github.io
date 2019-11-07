@@ -1,0 +1,50 @@
+https://chystoshka.ua/catalogue/
+Scanned step: 1
+Request to scanned 20 URLS
+Scanned 20 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Детская Линейка Средств. Без Фосфатов и Химии. Только Фруктовые Кислоты. Малый Расход Концентрата. Немецкое Качество BASF. Без неприятных запахов. Смывается Без Остатка. Идеально Для Аллергиков. Самая Доступная Цена. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа.
+
+Campaigns in GASearch id0 1 Num
+Add / Modify urls in GASearch id0 0 URLS
+All urls in GASearch id0 9 URLS
+All urls in feed id0 9 URLS
+Found parsed item urls for id0 9 URLS
+Not found parsed item urls for id0 1 URLS (see in log details)
+
+For GASearch id1 don't forget! add Campaigns Extensions: Детская Линейка Средств. Без Фосфатов и Химии. Только Фруктовые Кислоты. Малый Расход Концентрата. Немецкое Качество BASF. Без неприятных запахов. Смывается Без Остатка. Идеально Для Аллергиков. Самая Доступная Цена. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа.
+
+Campaigns in GASearch id1 1 Num
+Add / Modify urls in GASearch id1 0 URLS
+All urls in GASearch id1 9 URLS
+All urls in feed id1 9 URLS
+Found parsed item urls for id1 9 URLS
+Not found parsed item urls for id1 1 URLS (see in log details)
+
+For GASearch id2 don't forget! add Campaigns Extensions: Дитяча Лінійка Засобів. Без Фосфатів і Хімії. Тільки Фруктові Кислоти. Мала Витрата Концентрату. Німецька Якість BASF. Без неприємних запахів. Змивається Без Залишку. Ідеально Для Алергіків. Сама Доступна Ціна. Безкоштовна Консультація. Різні Варіанти Оплати. Доставка в День Замовлення.
+
+Campaigns in GASearch id2 1 Num
+Add / Modify urls in GASearch id2 0 URLS
+All urls in GASearch id2 9 URLS
+All urls in feed id2 9 URLS
+Found parsed item urls for id2 9 URLS
+Not found parsed item urls for id2 1 URLS (see in log details)
+
+For GASearch id3 don't forget! add Campaigns Extensions: Дитяча Лінійка Засобів. Без Фосфатів і Хімії. Тільки Фруктові Кислоти. Мала Витрата Концентрату. Німецька Якість BASF. Без неприємних запахів. Змивається Без Залишку. Ідеально Для Алергіків. Сама Доступна Ціна. Безкоштовна Консультація. Різні Варіанти Оплати. Доставка в День Замовлення.
+
+Campaigns in GASearch id3 1 Num
+Add / Modify urls in GASearch id3 0 URLS
+All urls in GASearch id3 9 URLS
+All urls in feed id3 9 URLS
+Found parsed item urls for id3 9 URLS
+Not found parsed item urls for id3 1 URLS (see in log details)
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 0.92
+
+Current Scan Status: ended.
