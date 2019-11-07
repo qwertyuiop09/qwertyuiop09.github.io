@@ -62,6 +62,11 @@ var IPchatConfig = {
 
 
 
+	// дополнительная настройка для объектов которые должны по клику показывать форму CallHunter
+	"ViewFormClick": '.callhunter_viewform_click, .call-img',
+
+
+
 	// размещение кнопки (справа внизу RightBottom, справа вверху RightTop, слева внизу LeftBottom, слева вверху LeftTop)
 	"ButtonPlace":	"LeftBottom",
 
