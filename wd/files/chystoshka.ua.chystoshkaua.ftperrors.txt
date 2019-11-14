@@ -1,2 +1,0 @@
-chystoshkaua.feed.main Error: in files_types not found files to send
-chystoshkaua.feed.main_ua Error: in files_types not found files to send
