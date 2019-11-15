@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/virnyidruk.ua.merchantfeed.txt
-Ok. Config checksum: 1409967145
+Ok. Config checksum: 1181148130
