@@ -1,16 +1,16 @@
 https://santehsfera.com.ua/product_list
-Scanned step: 1
+Scanned step: 2
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
-Request to scanned 892 URLS
-Scanned 423 URLS
+Request to scanned 1202 URLS
+Scanned 815 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Возможность Самовывоза.
 
 Campaigns in GASearch id0 0 Num
-All urls in feed id0 335 URLS
-Found parsed item urls for id0 335 URLS
+All urls in feed id0 673 URLS
+Found parsed item urls for id0 673 URLS
 Not found parsed item urls for id0 0 URLS
 
 Unknown errors: 0
