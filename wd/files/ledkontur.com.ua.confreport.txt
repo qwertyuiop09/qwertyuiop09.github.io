@@ -1,0 +1,4 @@
+File: ledkontur.com.ua.merchantfeed.txt is empty
+/ledkontur.com.ua.merchantfeed.txt
+/callhunter/domains/ledkontur.com.ua.merchantfeed.txt
+Config is not working . Exit
