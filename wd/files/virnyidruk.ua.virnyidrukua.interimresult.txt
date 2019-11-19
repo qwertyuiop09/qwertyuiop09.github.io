@@ -1,37 +1,37 @@
 https://virnyidruk.ua/
-Scanned step: 3
+Scanned step: 4
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 855 URLS
-Scanned 827 URLS
+Request to scanned 1128 URLS
+Scanned 1114 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 341 URLS
-All urls in feed id0 722 URLS
-Found parsed item urls for id0 722 URLS
-Not found parsed item urls for id0 58 URLS (see in log details)
+All urls in GASearch id0 449 URLS
+All urls in feed id0 972 URLS
+Found parsed item urls for id0 972 URLS
+Not found parsed item urls for id0 85 URLS (see in log details)
 
 For GASearch id102 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id102 1 Num
-Add / Modify urls in GASearch id102 3 URLS
-All urls in GASearch id102 350 URLS
-All urls in feed id102 722 URLS
-Found parsed item urls for id102 722 URLS
-Not found parsed item urls for id102 58 URLS (see in log details)
+Add / Modify urls in GASearch id102 7 URLS
+All urls in GASearch id102 460 URLS
+All urls in feed id102 972 URLS
+Found parsed item urls for id102 972 URLS
+Not found parsed item urls for id102 85 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 365 URLS
-All urls in feed id1 722 URLS
-Found parsed item urls for id1 722 URLS
-Not found parsed item urls for id1 58 URLS (see in log details)
+All urls in GASearch id1 489 URLS
+All urls in feed id1 972 URLS
+Found parsed item urls for id1 972 URLS
+Not found parsed item urls for id1 85 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.73
+Last execute time: 28.72
 
 Current Scan Status: continue.
 
