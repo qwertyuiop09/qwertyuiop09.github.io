@@ -1,33 +1,33 @@
 https://virnyidruk.ua/
 Scanned step: 5
-Request to scanned 1145 URLS
-Scanned 1145 URLS
+Request to scanned 1150 URLS
+Scanned 1150 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 463 URLS
-All urls in feed id0 996 URLS
-Found parsed item urls for id0 996 URLS
+All urls in GASearch id0 459 URLS
+All urls in feed id0 1001 URLS
+Found parsed item urls for id0 1001 URLS
 Not found parsed item urls for id0 91 URLS (see in log details)
 
 For GASearch id102 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id102 1 Num
-Add / Modify urls in GASearch id102 65 URLS
-All urls in GASearch id102 474 URLS
-All urls in feed id102 996 URLS
-Found parsed item urls for id102 996 URLS
+Add / Modify urls in GASearch id102 8 URLS
+All urls in GASearch id102 470 URLS
+All urls in feed id102 1001 URLS
+Found parsed item urls for id102 1001 URLS
 Not found parsed item urls for id102 91 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 504 URLS
-All urls in feed id1 996 URLS
-Found parsed item urls for id1 996 URLS
+All urls in GASearch id1 502 URLS
+All urls in feed id1 1001 URLS
+Found parsed item urls for id1 1001 URLS
 Not found parsed item urls for id1 91 URLS (see in log details)
 
 Unknown errors: 0
@@ -36,6 +36,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 2.52
+Last execute time: 4.03
 
 Current Scan Status: ended.
