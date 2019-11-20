@@ -81,6 +81,7 @@ var IPchatConfig = {
 
 
 		//https://virnyidruk.ua/shop/cart/send-order
+		//https://virnyidruk.ua/shop/cart/send-order?pay=1
 		"HitElement": "p",
 		"HitElementHtml": {RegExp: '(Дякуємо за Ваше замовлення)|(Благодарим за ваш заказ)', Flags: 'i'},
 
