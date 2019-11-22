@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/santehsfera.com.ua-ADONLY.merchantfeed.txt
-Ok. Config checksum: 3420700859
+Ok. Config checksum: 770414444
