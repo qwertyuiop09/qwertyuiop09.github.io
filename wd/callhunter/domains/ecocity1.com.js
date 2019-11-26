@@ -8,7 +8,7 @@ var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,un
 
 //без предоплаты, логин менеджера
 var intepriceIPL = 'ecocity.inteprice.com';
-var intepriceCRT = '02.05.2019';
+var intepriceCRT = '26.11.2019';
 
 
 var IPchatConfig = {
@@ -57,7 +57,7 @@ var IPchatConfig = {
 
 
 		"AdwConvRemark": {
-		google_conversion_id: 747679327,
+		google_conversion_id: 693563345,
 		google_custom_params: window.google_tag_params,
 		google_remarketing_only: true
 			},
@@ -70,7 +70,7 @@ var IPchatConfig = {
 		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
 */
 		"AdwConvHit": {
-		google_conversion_id: 747679327,
+		google_conversion_id: 693563345,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -85,11 +85,11 @@ var IPchatConfig = {
 
 
 		"AdwConvTime": {
-		google_conversion_id: 747679327,
+		google_conversion_id: 693563345,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "TDnGCPny9pwBEN_cwuQC",
+		google_conversion_label: "jIUHCPGKmbUBENHf28oC",
 		google_remarketing_only: false
 			},
 
@@ -98,11 +98,11 @@ var IPchatConfig = {
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 747679327,
+		google_conversion_id: 693563345,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "l4CtCNG0gp0BEN_cwuQC",
+		google_conversion_label: "5pbdCPeKmbUBENHf28oC",
 		google_remarketing_only: false
 			},
 
@@ -129,7 +129,7 @@ var IPchatConfig = {
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 
 
-		"ExtFormBtnFCvalidAttr": "required",
+		"ExtFormBtnFCvalidAttr": "aria-required",
 		//"ExtFormBtnFCvalidVal": true, //закомментирован
 		"ExtFormBtnFCnovalidOnly": 1,
 
