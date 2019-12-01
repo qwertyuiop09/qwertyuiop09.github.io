@@ -1,28 +1,28 @@
 https://santehsfera.com.ua/product_list
-Scanned step: 1
+Scanned step: 2
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 559 URLS
-Scanned 483 URLS
+Request to scanned 1013 URLS
+Scanned 949 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Возможность Самовывоза.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 201 URLS
-All urls in feed id0 201 URLS
-Found parsed item urls for id0 201 URLS
-Not found parsed item urls for id0 221 URLS (see in log details)
+All urls in GASearch id0 277 URLS
+All urls in feed id0 277 URLS
+Found parsed item urls for id0 277 URLS
+Not found parsed item urls for id0 555 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Возможность Самовывоза.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 209 URLS
-All urls in feed id1 209 URLS
-Found parsed item urls for id1 209 URLS
-Not found parsed item urls for id1 213 URLS (see in log details)
+All urls in GASearch id1 439 URLS
+All urls in feed id1 441 URLS
+Found parsed item urls for id1 441 URLS
+Not found parsed item urls for id1 391 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -30,7 +30,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.73
+Last execute time: 28.7
 
 Current Scan Status: continue.
 
