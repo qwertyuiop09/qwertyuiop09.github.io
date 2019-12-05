@@ -96,14 +96,8 @@ phoneField="#SUBMIT_BUTTON"
 
 
 
-/*
 	
-		"ClickElement": "",
-
-	//сработает конверсия если есть параметр ClickElement
-	//параметры кода отслеживания конверсий Гугла (клик по кнопке)
-	//в настройках конверсий - "Учет" - одна конверсия (а не каждая конверсия)
-
+		"ClickElement": "div.b24-widget-button-wrapper.b24-widget-button-position-bottom-right.b24-widget-button-visible > div.b24-widget-button-inner-container > div.b24-widget-button-block > div.b24-widget-button-inner-block > div.b24-widget-button-icon-container > div.b24-widget-button-inner-item.b24-widget-button-icon-animation > svg > path",
 
 		"AdwConvСlick": {
 		google_conversion_id: 958647086,
@@ -115,7 +109,7 @@ phoneField="#SUBMIT_BUTTON"
 		},
 
 
-*/
+
 
 
 
