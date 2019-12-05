@@ -79,6 +79,10 @@ var IPchatConfig = {
 
 /*
 
+
+bitrix widget нельзя интегрировать - у него свои окна!!
+
+
 чат 
 button="div.bx-livechat-textarea > div.bx-im-textarea > div.bx-im-textarea-box > textarea";
 phoneField="div.bx-livechat-textarea > div.bx-im-textarea > div.bx-im-textarea-box > button";
@@ -92,45 +96,7 @@ phoneField="#SUBMIT_BUTTON"
 
 
 
-
-
-		"SetCallWidget": {button: "input.crm-webform-input.crm-webform-input-phone.crm-webform-input-phone-padding", phoneField:'#SUBMIT_BUTTON'},
-
-
-		"AdwConvCallWidget": {
-		google_conversion_id: 958647086,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "5SCqCOjtt7YBEK6Wj8kD",
-		google_remarketing_only: false
-		},
-
-
-
-
-
-
 /*
-
-//для чатов
-//пример для JivoChat (но можно не использовать конкретно для JivoChat, так как если отсутсвует SetChatWidget, то в скрипте по молчанию используются настройки для JivoChat)
-//"SetChatWidget": {button: "#jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
-
-
-		"AdwConvChatWidget": {
-		google_conversion_id: 958647086,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "Y-dACO_EobYBEK6Wj8kD",
-		google_remarketing_only: false
-			},
-
-
-
-
-
 	
 		"ClickElement": "",
 
