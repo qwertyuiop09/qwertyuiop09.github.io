@@ -1,6 +1,6 @@
 https://santehsfera.com.ua/product_list
 Scanned step: 3
-Request to scanned 1496 URLS
+Request to scanned 0 URLS
 Scanned 1496 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Возможность Самовывоза.
@@ -27,6 +27,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 3.77
+Last execute time: 5.5
 
 Current Scan Status: ended.
