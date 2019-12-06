@@ -2,11 +2,27 @@ var SSCHunterGa=function(b,c){try{var a=window[window.GoogleAnalyticsObject];a(f
 var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,undefined5,Conv_value){if(type==200){console.log("ConvTime exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Hot Activity","ss_hot_activity")}else if(type>=1&&type<200){console.log("ConvCHSnd exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Client Hunter","ss_send_message")}else if(type==201){console.log("ConvClick exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Click","ss_click_event")}else if(type==202){console.log("ConvSubmit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Submit","ss_form_submit")}else if(type==203){console.log("ConvHit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("View Page","ss_page_hit")}else if(type==204){console.log("ConvChat exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Chat Widget","ss_chat_call")}else if(type==205){console.log("CallWidget exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Call Widget","ss_widget_callback")}if(typeof Conv_value!="undefined")console.log("ConvValue exist: "+Conv_value)};
 
 
+/*
+есть в основной директории такой код
 var pagecur=window.location.href.toString().split(window.location.host)[1];
 if (pagecur.indexOf('wrk=12') >= 0) {
-	if(typeof SSCHunterGa=="function")SSCHunterGa("Client Active","ss_send_active");
-}
+	try {
+		if(typeof SSCHunterGa=="function")SSCHunterGa("Client Active","ss_send_active");
+	} catch (e) { }
+	try {
+		var AdwConvTime = {
+		google_conversion_id: 697356077,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "_mXbCKzbuLYBEK2ew8wC",
+		google_remarketing_only: false
+			};
+		SSCHunterAdwordstrack(AdwConvTime);
+	} catch (e) { }
 
+}
+*/
 
 
 
