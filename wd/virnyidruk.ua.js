@@ -5,7 +5,9 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 //передаем в аналитикс Заинтересованность 1с
 	try {
 		if(typeof SSCHunterGa=="function")SSCHunterGa("Client Active","ss_send_active");
-	} catch (e) { }
+	} catch (e) {
+		console.log('SSCHunterGa Error, name: ' + e.name + ", message: " + e.message);
+	}
 //передаем в ads Заинтересованность 2с
 	try {
 		var AdwConvTime = {
@@ -17,7 +19,8 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 		google_remarketing_only: false
 			};
 		SSCHunterAdwordstrack(AdwConvTime);
-	} catch (e) { }
+	} catch (e) {
+		console.log('SSCHunterAdwordstrack Error, name: ' + e.name + ", message: " + e.message);
+	}
 
 }
-
