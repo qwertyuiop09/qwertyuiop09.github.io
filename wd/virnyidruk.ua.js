@@ -5,7 +5,7 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 
 	function docready(f){/in/.test(document.readyState)?setTimeout(docready,9,f):f()}
 
-//без docready могут не всегда передаваться конверсии в аналитикс, и не работает SSCHunterAdwordstrack (так как надо сначала вызвать его с пустым параметрром SSCHunterAdwordstrack())
+//без docready не всегда передаются конверсии в аналитикс, и не работает SSCHunterAdwordstrack (так как не успевает до того подгрузится SSCHunterAdwordstrack())
 	docready(function(){
 
 //передаем в аналитикс Заинтересованность 1с
