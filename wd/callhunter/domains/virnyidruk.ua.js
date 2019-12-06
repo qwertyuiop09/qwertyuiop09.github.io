@@ -6,9 +6,11 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 есть в основной директории такой код
 var pagecur=window.location.href.toString().split(window.location.host)[1];
 if (pagecur.indexOf('wrk=12') >= 0) {
+//передаем в аналитикс
 	try {
 		if(typeof SSCHunterGa=="function")SSCHunterGa("Client Active","ss_send_active");
 	} catch (e) { }
+//передаем в ads
 	try {
 		var AdwConvTime = {
 		google_conversion_id: 697356077,
