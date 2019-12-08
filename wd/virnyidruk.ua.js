@@ -17,17 +17,28 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 		}
 //передаем в ads Заинтересованность 2с
 		try {
-			var AdwConvTime = {
-			google_conversion_id: 697356077,
-			google_conversion_language: "en",
-			google_conversion_format: "3",
-			google_conversion_color: "ffffff",
-			google_conversion_label: "_mXbCKzbuLYBEK2ew8wC",
-			google_remarketing_only: false
-				};
-//			console.log(typeof(window['google_trackConversion']));
-			SSCHunterAdwordstrack(AdwConvTime);
-//			console.log('SSCHunterAdwordstrack Ok');
+
+			if (Math.random() < 0.5) {
+
+				setTimeout(function() {
+
+					var AdwConvTime = {
+					google_conversion_id: 697356077,
+					google_conversion_language: "en",
+					google_conversion_format: "3",
+					google_conversion_color: "ffffff",
+					google_conversion_label: "_mXbCKzbuLYBEK2ew8wC",
+					google_remarketing_only: false
+						};
+//					console.log(typeof(window['google_trackConversion']));
+					SSCHunterAdwordstrack(AdwConvTime);
+//					console.log('SSCHunterAdwordstrack Ok');
+
+
+				}, 1000);
+
+
+			}
 		} catch (e) {
 			console.log('SSCHunterAdwordstrack Error, name: ' + e.name + ", message: " + e.message);
 		}
