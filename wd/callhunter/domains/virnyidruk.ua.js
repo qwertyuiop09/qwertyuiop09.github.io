@@ -3,9 +3,10 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 
 /*
-есть в основной директории такой код
+есть в основной директории такой код, комментируем здесь
 var pagecur=window.location.href.toString().split(window.location.host)[1];
 if (pagecur.indexOf('wrk=12') >= 0) {
+
 	function docready(f){/in/.test(document.readyState)?setTimeout(docready,9,f):f()}
 
 //без docready не всегда передаются конверсии в аналитикс, и не работает SSCHunterAdwordstrack (так как не успевает до того подгрузится SSCHunterAdwordstrack())
@@ -20,17 +21,28 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 		}
 //передаем в ads Заинтересованность 2с
 		try {
-			var AdwConvTime = {
-			google_conversion_id: 697356077,
-			google_conversion_language: "en",
-			google_conversion_format: "3",
-			google_conversion_color: "ffffff",
-			google_conversion_label: "_mXbCKzbuLYBEK2ew8wC",
-			google_remarketing_only: false
-				};
-//			console.log(typeof(window['google_trackConversion']));
-			SSCHunterAdwordstrack(AdwConvTime);
-//			console.log('SSCHunterAdwordstrack Ok');
+
+			if (Math.random() < 0.5) {
+
+				setTimeout(function() {
+
+					var AdwConvTime = {
+					google_conversion_id: 697356077,
+					google_conversion_language: "en",
+					google_conversion_format: "3",
+					google_conversion_color: "ffffff",
+					google_conversion_label: "_mXbCKzbuLYBEK2ew8wC",
+					google_remarketing_only: false
+						};
+//					console.log(typeof(window['google_trackConversion']));
+					SSCHunterAdwordstrack(AdwConvTime);
+//					console.log('SSCHunterAdwordstrack Ok');
+
+
+				}, 1000);
+
+
+			}
 		} catch (e) {
 			console.log('SSCHunterAdwordstrack Error, name: ' + e.name + ", message: " + e.message);
 		}
