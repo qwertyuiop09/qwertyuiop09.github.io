@@ -1,10 +1,10 @@
 https://virnyidruk.ua/
-Scanned step: 5
+Scanned step: 6
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 1615 URLS
-Scanned 1595 URLS
+Request to scanned 2046 URLS
+Scanned 1997 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -13,7 +13,7 @@ Add / Modify urls in GASearch id0 0 URLS
 All urls in GASearch id0 476 URLS
 All urls in feed id0 1022 URLS
 Found parsed item urls for id0 1022 URLS
-Not found parsed item urls for id0 480 URLS (see in log details)
+Not found parsed item urls for id0 793 URLS (see in log details)
 
 For GASearch id103 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -22,7 +22,7 @@ Add / Modify urls in GASearch id103 0 URLS
 All urls in GASearch id103 488 URLS
 All urls in feed id103 489 URLS
 Found parsed item urls for id103 1022 URLS
-Not found parsed item urls for id103 480 URLS (see in log details)
+Not found parsed item urls for id103 793 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -31,20 +31,20 @@ Add / Modify urls in GASearch id1 0 URLS
 All urls in GASearch id1 514 URLS
 All urls in feed id1 1022 URLS
 Found parsed item urls for id1 1022 URLS
-Not found parsed item urls for id1 480 URLS (see in log details)
+Not found parsed item urls for id1 793 URLS (see in log details)
 
 Campaigns in GASearch id10 0 Num
-All urls in feed id10 131 URLS
-Found parsed item urls for id10 131 URLS
-Not found parsed item urls for id10 1371 URLS (see in log details)
+All urls in feed id10 238 URLS
+Found parsed item urls for id10 238 URLS
+Not found parsed item urls for id10 1577 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
-Responce errors (0): 18
+Responce errors (0): 87
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.7
+Last execute time: 28.73
 
 Current Scan Status: continue.
 
