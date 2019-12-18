@@ -1,37 +1,37 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 8
+Scanned step: 9
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 10733 URLS
-Scanned 10589 URLS
+Request to scanned 12150 URLS
+Scanned 11912 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id3 1 Num
-Add / Modify urls in GASearch id3 133 URLS
-All urls in GASearch id3 525 URLS
-All urls in feed id3 537 URLS
-Found parsed item urls for id3 537 URLS
-Not found parsed item urls for id3 9999 URLS (see in log details)
+Add / Modify urls in GASearch id3 134 URLS
+All urls in GASearch id3 532 URLS
+All urls in feed id3 545 URLS
+Found parsed item urls for id3 545 URLS
+Not found parsed item urls for id3 11307 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id4 1 Num
-Add / Modify urls in GASearch id4 409 URLS
-All urls in GASearch id4 1222 URLS
-All urls in feed id4 1258 URLS
-Found parsed item urls for id4 1258 URLS
-Not found parsed item urls for id4 9278 URLS (see in log details)
+Add / Modify urls in GASearch id4 483 URLS
+All urls in GASearch id4 1525 URLS
+All urls in feed id4 1575 URLS
+Found parsed item urls for id4 1575 URLS
+Not found parsed item urls for id4 10277 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
-Add / Modify urls in GASearch id5 604 URLS
-All urls in GASearch id5 1680 URLS
-All urls in feed id5 1750 URLS
-Found parsed item urls for id5 1750 URLS
-Not found parsed item urls for id5 8786 URLS (see in log details)
+Add / Modify urls in GASearch id5 705 URLS
+All urls in GASearch id5 2000 URLS
+All urls in feed id5 2074 URLS
+Found parsed item urls for id5 2074 URLS
+Not found parsed item urls for id5 9778 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
