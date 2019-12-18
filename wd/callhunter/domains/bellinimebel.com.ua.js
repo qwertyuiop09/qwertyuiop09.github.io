@@ -120,8 +120,8 @@ var IPchatConfig = {
 //пример для JivoChat (но можно не использовать конкретно для JivoChat, так как если отсутсвует SetChatWidget, то в скрипте по молчанию используются настройки для JivoChat)
 //"SetChatWidget": {button: "#jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
 
-//здесь #jcont вместо #jcont_content_wrapper
-"SetChatWidget": {button: "#jcont .sendButton_1o, #jcont jdiv.button_Jn, #jcont .buttonIcon_1R, #jcont jdiv.button_3r", phoneField:'#jcont .inputField_2G, #jcont input.phoneInput_3Q, #jcont input.inputWrap_2D, #jcont .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
+//здесь #jcont добавлено к #jcont_content_wrapper
+"SetChatWidget": {button: "#jcont .sendButton_1o, #jcont jdiv.button_Jn, #jcont .buttonIcon_1R, #jcont jdiv.button_3r, #jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont .inputField_2G, #jcont input.phoneInput_3Q, #jcont input.inputWrap_2D, #jcont .inputField_G5, #jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
 
 
 		"AdwConvChatWidget": {
