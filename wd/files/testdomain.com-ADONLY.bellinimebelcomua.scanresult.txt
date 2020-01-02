@@ -1,0 +1,21 @@
+https://bellinimebel.com.ua/events/
+Scanned step: 1
+Request to scanned 46 URLS
+Scanned 46 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Мебельный Салон BELLINI. Элитная импортная мебель. Акции и скидки до -50%. Поставка от Производителя. Цены Прямого Импортера. Бесплатная Консультация. Различные Варианты Оплаты. Доставка в День Заказа. Возможность Самовывоза.
+
+Campaigns in GASearch id0 0 Num
+All urls in feed id0 40 URLS
+Found parsed item urls for id0 40 URLS
+Not found parsed item urls for id0 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors (404): 1
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 1.63
+
+Current Scan Status: ended.
