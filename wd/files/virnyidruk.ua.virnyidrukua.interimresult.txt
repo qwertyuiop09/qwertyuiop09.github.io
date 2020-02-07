@@ -1,10 +1,10 @@
 https://virnyidruk.ua/
-Scanned step: 3
+Scanned step: 4
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 1230 URLS
-Scanned 1218 URLS
+Request to scanned 1775 URLS
+Scanned 1728 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -13,7 +13,7 @@ Add / Modify urls in GASearch id0 0 URLS
 All urls in GASearch id0 471 URLS
 All urls in feed id0 1009 URLS
 Found parsed item urls for id0 1009 URLS
-Not found parsed item urls for id0 149 URLS (see in log details)
+Not found parsed item urls for id0 637 URLS (see in log details)
 
 For GASearch id103 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -22,7 +22,7 @@ Add / Modify urls in GASearch id103 0 URLS
 All urls in GASearch id103 484 URLS
 All urls in feed id103 485 URLS
 Found parsed item urls for id103 1009 URLS
-Not found parsed item urls for id103 149 URLS (see in log details)
+Not found parsed item urls for id103 637 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -31,12 +31,12 @@ Add / Modify urls in GASearch id1 0 URLS
 All urls in GASearch id1 515 URLS
 All urls in feed id1 1009 URLS
 Found parsed item urls for id1 1009 URLS
-Not found parsed item urls for id1 149 URLS (see in log details)
+Not found parsed item urls for id1 637 URLS (see in log details)
 
 Campaigns in GASearch id10 0 Num
-All urls in feed id10 19 URLS
-Found parsed item urls for id10 19 URLS
-Not found parsed item urls for id10 1139 URLS (see in log details)
+All urls in feed id10 157 URLS
+Found parsed item urls for id10 157 URLS
+Not found parsed item urls for id10 1489 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
