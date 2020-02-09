@@ -1,10 +1,10 @@
 https://virnyidruk.ua/
-Scanned step: 8
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+Scanned step: 9
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 Request to scanned 3688 URLS
-Scanned 3586 URLS
+Scanned 3592 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -38,13 +38,13 @@ All urls in feed id10 804 URLS
 Found parsed item urls for id10 804 URLS
 Not found parsed item urls for id10 2620 URLS (see in log details)
 
-Unknown errors: 0
+Unknown errors: 6
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.72
+Last execute time: 29.32
 
 Current Scan Status: continue.
 
