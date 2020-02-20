@@ -1,5 +1,5 @@
 https://armoline.com.ua/
-Scanned step: 1
+Scanned step: 2
 Request to scanned 215 URLS
 Scanned 215 URLS
 
@@ -27,6 +27,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 15.3
+Last execute time: 2.13
 
 Current Scan Status: ended.
