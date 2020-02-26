@@ -1,6 +1,6 @@
 https://armoline.com.ua/
 Scanned step: 1
-Request to scanned 212 URLS
+Request to scanned 0 URLS
 Scanned 212 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Фабрика "АРМОЛАЙН". Официальный производитель. Эксклюзивные Модели. Только Прочные Материалы. Высокое Качество Пошива. Опт и Розница. Доставка в День Заказа.
@@ -27,6 +27,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 16.27
+Last execute time: 16.97
 
 Current Scan Status: ended.
