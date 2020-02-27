@@ -1,10 +1,10 @@
 https://virnyidruk.ua/
-Scanned step: 11
+Scanned step: 12
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 4988 URLS
-Scanned 4942 URLS
+Request to scanned 5446 URLS
+Scanned 5401 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -13,7 +13,7 @@ Add / Modify urls in GASearch id0 0 URLS
 All urls in GASearch id0 472 URLS
 All urls in feed id0 1022 URLS
 Found parsed item urls for id0 1022 URLS
-Not found parsed item urls for id0 3716 URLS (see in log details)
+Not found parsed item urls for id0 4159 URLS (see in log details)
 
 For GASearch id103 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -22,7 +22,7 @@ Add / Modify urls in GASearch id103 0 URLS
 All urls in GASearch id103 485 URLS
 All urls in feed id103 486 URLS
 Found parsed item urls for id103 1022 URLS
-Not found parsed item urls for id103 3716 URLS (see in log details)
+Not found parsed item urls for id103 4159 URLS (see in log details)
 
 For GASearch id1 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
 
@@ -31,12 +31,12 @@ Add / Modify urls in GASearch id1 0 URLS
 All urls in GASearch id1 516 URLS
 All urls in feed id1 1022 URLS
 Found parsed item urls for id1 1022 URLS
-Not found parsed item urls for id1 3716 URLS (see in log details)
+Not found parsed item urls for id1 4159 URLS (see in log details)
 
 Campaigns in GASearch id10 0 Num
-All urls in feed id10 1231 URLS
-Found parsed item urls for id10 1231 URLS
-Not found parsed item urls for id10 3507 URLS (see in log details)
+All urls in feed id10 1407 URLS
+Found parsed item urls for id10 1407 URLS
+Not found parsed item urls for id10 3774 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
