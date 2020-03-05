@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/primapak.com.ua.merchantfeed.txt
-Ok. Config checksum: 2368913523
+Ok. Config checksum: 1167299696
