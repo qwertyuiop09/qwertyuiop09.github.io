@@ -4,9 +4,8 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 
 //без предоплаты, логин менеджера
-//раскомментировать !!!
-//var intepriceIPL = '..............inteprice.com';
-//var intepriceCRT = '--.--.20--';
+var intepriceIPL = 'serebro.inteprice.com';
+var intepriceCRT = '11.03.2020';
 
 
 var IPchatConfig = {
@@ -45,6 +44,7 @@ var IPchatConfig = {
 
 
 
+
 	var IPclhrDataUpdate = {
 
 		//убрать !!!
@@ -67,7 +67,7 @@ var IPchatConfig = {
 /*
 
 		"AdwConvRemark": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 978714109,
 		google_custom_params: window.google_tag_params,
 		//google_custom_params: undefined,
 //		google_user_id = '<unique user id>',
@@ -80,9 +80,8 @@ var IPchatConfig = {
 /*
 		"HitElement": ".sub-title",
 		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
 		"AdwConvHit": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 978714109,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -91,24 +90,26 @@ var IPchatConfig = {
 		google_remarketing_only: false
 			},
 
+*/
 
 
 
 
 
 		"AdwConvTime": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 978714109,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_conversion_label: "t-lPCKv64MkBEP3719ID",
 		google_remarketing_only: false
 			},
 
 
+/*
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 978714109,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -117,6 +118,7 @@ var IPchatConfig = {
 			},
 
 
+*/
 
 /*
 
@@ -126,7 +128,7 @@ var IPchatConfig = {
 
 
 		"AdwConvChatWidget": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 978714109,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -148,7 +150,7 @@ var IPchatConfig = {
 
 
 		"AdwConvCallWidget": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 978714109,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
