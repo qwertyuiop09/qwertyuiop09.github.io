@@ -1,12 +1,12 @@
 https://serebro.ua/
-Scanned step: 7
+Scanned step: 3
 Request to scanned 2652 URLS
 Scanned 2652 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 2522 URLS
+Add / Modify urls in GASearch id0 1 URLS
 All urls in GASearch id0 2522 URLS
 All urls in feed id0 2522 URLS
 Found parsed item urls for id0 2522 URLS
@@ -18,6 +18,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 14.52
+Last execute time: 7.67
 
 Current Scan Status: ended.
