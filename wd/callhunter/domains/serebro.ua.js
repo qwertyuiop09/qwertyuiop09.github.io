@@ -122,7 +122,7 @@ var IPchatConfig = {
 
 
 
-		"SetChatWidget": {button: "#jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
+		"SetChatWidget": {button: "jdiv.sendButton_1o, jdiv.button_Jn, .buttonIcon_1R, jdiv.button_3r", phoneField:'textarea.inputField_2G, input.phoneInput_3Q, input.inputWrap_2D, .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
 
 		"AdwConvChatWidget": {
 		google_conversion_id: 978714109,
