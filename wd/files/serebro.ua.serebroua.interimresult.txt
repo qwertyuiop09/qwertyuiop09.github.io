@@ -1,27 +1,27 @@
 https://serebro.ua/
-Scanned step: 3
+Scanned step: 4
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
-Request to scanned 1102 URLS
-Scanned 1085 URLS
+Request to scanned 1566 URLS
+Scanned 1544 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 1032 URLS
-All urls in feed id0 1032 URLS
-Found parsed item urls for id0 1032 URLS
+All urls in GASearch id0 1468 URLS
+All urls in feed id0 1468 URLS
+Found parsed item urls for id0 1468 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 1030 URLS
-All urls in GASearch id1 1030 URLS
-All urls in feed id1 1032 URLS
-Found parsed item urls for id1 1032 URLS
+Add / Modify urls in GASearch id1 1466 URLS
+All urls in GASearch id1 1466 URLS
+All urls in feed id1 1468 URLS
+Found parsed item urls for id1 1468 URLS
 Not found parsed item urls for id1 0 URLS
 
 Unknown errors: 0
@@ -30,7 +30,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.68
+Last execute time: 28.72
 
 Current Scan Status: continue.
 
