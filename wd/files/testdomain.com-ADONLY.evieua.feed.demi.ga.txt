@@ -1,0 +1,2 @@
+price	title	description	link	image_link	id	availability	product_type
+1895 UAH	Кроссовки Saba Big Rose Star Для Девочек	Подкладка: натуральная кожа. Материал верха: натуральная кожа.	https://evie.ua/catalog/obuv_devochkam_2/demisezonnaya_obuv_devochkam_/saba_big_rose_star.html	https://evie.ua/upload/resize_cache/iblock/e4d/500_500_1/e4d306d8332f43c1c81626f9c96c210e.jpg	1452926346	in stock	Обувь Девочкам > Лето > Кеды
