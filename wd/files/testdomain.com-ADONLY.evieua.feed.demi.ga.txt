@@ -1,0 +1,2 @@
+price	title	description	link	image_link	id	availability	product_type
+957 UAH	Деми Ботинки Для Девочек Mini Martens Black	Подкладка: натуральная кожа. Материал верха: лак на основе микрофибры, со специальным покрытием, который не поддается царапинам. Страна бренда: украина.	https://evie.ua/catalog/obuv_devochkam_2/mini_martens_black.html?offerID=3545	https://evie.ua/upload/resize_cache/iblock/2a8/500_500_1/2a8c3aedaee6829f1e53fabe07069b2d.jpg	110573283	in stock	Обувь Девочкам > Деми > Ботинки
