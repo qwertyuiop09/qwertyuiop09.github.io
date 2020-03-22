@@ -1,19 +1,19 @@
 https://evie.ua/catalog/
 Scanned step: 1
-EXECUTE WARNINGS: Exit shouldExitEarly 2
+EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
 EXECUTE MESSAGES: XML data.length = 979
 
 
 Request to scanned 539 URLS
-Scanned 204 URLS
+Scanned 284 URLS
 
-For GASearch id0 don't forget! add Campaigns Extensions: Стильная Обувь Fashion. Оригинальный Дизайн. Детский Бренд N1. Различные Варианты Оплаты. Доставка в День Заказа.
+For GASearch id0 don't forget! add Campaigns Extensions: Стильная Fashion Обувь. Оригинальный Дизайн. Детский Бренд N1. Различные Варианты Оплаты. Доставка в День Заказа.
 
 Campaigns in GASearch id0 0 Num
-All urls in feed id0 133 URLS
-Found parsed item urls for id0 133 URLS
+All urls in feed id0 200 URLS
+Found parsed item urls for id0 200 URLS
 Not found parsed item urls for id0 0 URLS
 
 Unknown errors: 0
@@ -22,7 +22,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.7
+Last execute time: 28.68
 
 Current Scan Status: continue.
 
