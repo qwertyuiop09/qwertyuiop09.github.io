@@ -1,6 +1,6 @@
 https://evie.ua/catalog/
 Scanned step: 3
-Request to scanned 539 URLS
+Request to scanned 0 URLS
 Scanned 539 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Стильная Fashion Обувь. Оригинальный Дизайн. Детский Бренд N1. Различные Варианты Оплаты. Доставка в День Заказа.
@@ -16,6 +16,6 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 19.65
+Last execute time: 17.32
 
 Current Scan Status: ended.
