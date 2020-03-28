@@ -1,0 +1,6 @@
+https://mubler.com.ua/product_list
+CREATE SEARCH CAMPAIGNS: Campaign with GASearch Id mublercomua.feed.mebl_vitalni is now created in account, exit
+Campaign with GASearch Id mublercomua.feed.vishalki is now created in account, exit
+Campaign with GASearch Id mublercomua.feed.shafikupe is now created in account, exit
+
+
