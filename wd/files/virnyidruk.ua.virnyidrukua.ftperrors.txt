@@ -1,1 +1,0 @@
-virnyidrukua.feed.zapr_partnomer Error: in files_types not found files to send
