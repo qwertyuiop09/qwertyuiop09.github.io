@@ -1,6 +1,6 @@
 https://mubler.com.ua/product_list
 Scanned step: 2
-Request to scanned 0 URLS
+Request to scanned 331 URLS
 Scanned 331 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Фабричні Меблі і Двері. Висока якість. Різні Варіанти Оплати.
@@ -115,8 +115,8 @@ Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
-Abnormal exits: YES
+Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 13.75
+Last execute time: 23.9
 
 Current Scan Status: ended.
