@@ -1,36 +1,36 @@
 https://serebro.ua/
-Scanned step: 3
-EXECUTE WARNINGS: Exit shouldExitEarly 1
+Scanned step: 4
+EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 1397 URLS
-Scanned 1373 URLS
+Request to scanned 2170 URLS
+Scanned 2145 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 2 URLS
-All urls in GASearch id0 1303 URLS
-All urls in feed id0 1303 URLS
-Found parsed item urls for id0 1303 URLS
+All urls in GASearch id0 2038 URLS
+All urls in feed id0 2038 URLS
+Found parsed item urls for id0 2038 URLS
 Not found parsed item urls for id0 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 2 URLS
-All urls in GASearch id1 1303 URLS
-All urls in feed id1 1303 URLS
-Found parsed item urls for id1 1303 URLS
+All urls in GASearch id1 2038 URLS
+All urls in feed id1 2038 URLS
+Found parsed item urls for id1 2038 URLS
 Not found parsed item urls for id1 0 URLS
 
 For GASearch id2 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
 
 Campaigns in GASearch id2 1 Num
 Add / Modify urls in GASearch id2 2 URLS
-All urls in GASearch id2 1303 URLS
-All urls in feed id2 1303 URLS
-Found parsed item urls for id2 1303 URLS
+All urls in GASearch id2 2038 URLS
+All urls in feed id2 2038 URLS
+Found parsed item urls for id2 2038 URLS
 Not found parsed item urls for id2 0 URLS
 
 Unknown errors: 3
@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.7
+Last execute time: 28.68
 
 Current Scan Status: continue.
 
