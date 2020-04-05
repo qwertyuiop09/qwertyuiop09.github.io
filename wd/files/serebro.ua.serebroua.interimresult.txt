@@ -1,41 +1,41 @@
 https://serebro.ua/
-Scanned step: 1
+Scanned step: 2
 EXECUTE WARNINGS: Exit shouldExitEarly 1
 
 
-Request to scanned 577 URLS
-Scanned 567 URLS
+Request to scanned 1227 URLS
+Scanned 1213 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 539 URLS
-All urls in feed id0 539 URLS
-Found parsed item urls for id0 539 URLS
+All urls in GASearch id0 1154 URLS
+All urls in feed id0 1154 URLS
+Found parsed item urls for id0 1154 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 539 URLS
-Found parsed item urls for id1000 539 URLS
+All urls in feed id1000 1154 URLS
+Found parsed item urls for id1000 1154 URLS
 Not found parsed item urls for id1000 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
 
 Campaigns in GASearch id1 1 Num
 Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 539 URLS
-All urls in feed id1 539 URLS
-Found parsed item urls for id1 539 URLS
+All urls in GASearch id1 1154 URLS
+All urls in feed id1 1154 URLS
+Found parsed item urls for id1 1154 URLS
 Not found parsed item urls for id1 0 URLS
 
 For GASearch id2 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
 
 Campaigns in GASearch id2 1 Num
 Add / Modify urls in GASearch id2 0 URLS
-All urls in GASearch id2 539 URLS
-All urls in feed id2 539 URLS
-Found parsed item urls for id2 539 URLS
+All urls in GASearch id2 1154 URLS
+All urls in feed id2 1154 URLS
+Found parsed item urls for id2 1154 URLS
 Not found parsed item urls for id2 0 URLS
 
 Unknown errors: 0
@@ -44,7 +44,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.68
+Last execute time: 28.7
 
 Current Scan Status: continue.
 
