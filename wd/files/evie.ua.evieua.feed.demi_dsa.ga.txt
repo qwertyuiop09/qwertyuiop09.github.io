@@ -59,7 +59,6 @@ https://evie.ua/catalog/obuv_devochkam_2/demisezonnaya_obuv_devochkam_/krossovki
 https://evie.ua/catalog/obuv_devochkam_2/demisezonnaya_obuv_devochkam_/krossovki/adele_black.html	SINGLE_PRODUCT
 https://evie.ua/catalog/obuv_devochkam_2/demisezonnaya_obuv_devochkam_/krossovki/saba_pudra_glitter_.html	SINGLE_PRODUCT
 https://evie.ua/catalog/obuv_devochkam_2/demisezonnaya_obuv_devochkam_/krossovki/blake_glitter_rose.html	SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/demisezonnaya_obuv_devochkam_/krossovki/saba_pudra_neon.html	SINGLE_PRODUCT
 https://evie.ua/catalog/obuv_devochkam_2/demisezonnaya_obuv_devochkam_/krossovki/diesel_big_white.html	SINGLE_PRODUCT
 https://evie.ua/catalog/obuv_devochkam_2/demisezonnaya_obuv_devochkam_/krossovki/diesel_big_pudra.html	SINGLE_PRODUCT
 https://evie.ua/catalog/obuv_devochkam_2/demisezonnaya_obuv_devochkam_/krossovki/diesel_silver.html	SINGLE_PRODUCT
