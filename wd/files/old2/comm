@@ -1,4 +1,318 @@
-Read Config File Ok
+SSMFD MAX 1
+Пользователь	:	noreply.salestorm@gmail.com
+Дата и время	:	апр. 07, 2020 04:35:59 AM
+Источник	:	Скрипт
+
+
+
+
+
+История
+07.04.2020 04:36:10	Checking the following accounts: ["959-600-7486","790-681-2834","574-623-0023","226-824-4372"]
+07.04.2020 04:36:25	Read Config File Ok
+
+/callhunter/domains/evie.ua.merchantfeed.txt
+Ok. Config checksum: 499683336
+07.04.2020 04:36:25	Run Execute mode, accaunt evie.ua
+07.04.2020 04:36:26	Could not find file: evie.ua.SSSitesAlreadyChecked.json on Google Drive. Creating new file.
+07.04.2020 04:36:27	Not have jobs for current execute, account evie.ua
+07.04.2020 04:36:27	Read Config File Ok
+
+/callhunter/domains/mubler.com.ua-ADONLY.merchantfeed.txt
+Ok. Config checksum: 3438672280
+07.04.2020 04:36:27	Run Execute mode, accaunt mubler.com.ua-ADONLY
+07.04.2020 04:36:29	Could not find file: mubler.com.ua-ADONLY.SSSitesAlreadyChecked.json on Google Drive. Creating new file.
+07.04.2020 04:36:30	Not have jobs for current execute, account mubler.com.ua-ADONLY
+07.04.2020 04:36:25	Read Config File Ok
 
 /callhunter/domains/serebro.ua.merchantfeed.txt
 Ok. Config checksum: 3865927537
+07.04.2020 04:36:25	Run Execute mode, accaunt serebro.ua
+07.04.2020 04:37:08	https://serebro.ua/
+Scanned step: 5
+Request to scanned 2635 URLS
+Scanned 2635 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id0 1 Num
+Add / Modify urls in GASearch id0 0 URLS
+All urls in GASearch id0 2506 URLS
+All urls in feed id0 2506 URLS
+Found parsed item urls for id0 2506 URLS
+Not found parsed item urls for id0 0 URLS
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 2506 URLS
+Found parsed item urls for id1000 2506 URLS
+Not found parsed item urls for id1000 0 URLS
+
+For GASearch id1 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id1 1 Num
+Add / Modify urls in GASearch id1 0 URLS
+All urls in GASearch id1 2506 URLS
+All urls in feed id1 2506 URLS
+Found parsed item urls for id1 2506 URLS
+Not found parsed item urls for id1 0 URLS
+
+For GASearch id2 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id2 1 Num
+Add / Modify urls in GASearch id2 0 URLS
+All urls in GASearch id2 2506 URLS
+All urls in feed id2 2506 URLS
+Found parsed item urls for id2 2506 URLS
+Not found parsed item urls for id2 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 1.13
+
+Current Scan Status: ended. Prepare to exit.
+07.04.2020 04:37:27	Read Config File Ok
+
+/callhunter/domains/serebro.ua.merchantfeed.txt
+Ok. Config checksum: 3865927537
+07.04.2020 04:38:26	Current Scan Status: ended.
+07.04.2020 04:38:47	Rewrite serebro.ua.scanreport.txt :
+serebroua 420576102 0 Tue Apr 07 2020 04:38:47
+07.04.2020 04:38:53	Read Config File Ok
+
+/callhunter/domains/serebro.ua.merchantfeed.txt
+Ok. Config checksum: 3865927537
+07.04.2020 04:38:53	Run Execute mode, accaunt serebro.ua
+07.04.2020 04:38:54	https://serebro.ua/
+Scanned step: 5
+Request to scanned 0 URLS
+Scanned 2635 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id0 1 Num
+Add / Modify urls in GASearch id0 0 URLS
+All urls in GASearch id0 2506 URLS
+All urls in feed id0 2506 URLS
+Found parsed item urls for id0 2506 URLS
+Not found parsed item urls for id0 0 URLS
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 2506 URLS
+Found parsed item urls for id1000 2506 URLS
+Not found parsed item urls for id1000 0 URLS
+
+For GASearch id1 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id1 1 Num
+Add / Modify urls in GASearch id1 0 URLS
+All urls in GASearch id1 2506 URLS
+All urls in feed id1 2506 URLS
+Found parsed item urls for id1 2506 URLS
+Not found parsed item urls for id1 0 URLS
+
+For GASearch id2 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id2 1 Num
+Add / Modify urls in GASearch id2 0 URLS
+All urls in GASearch id2 2506 URLS
+All urls in feed id2 2506 URLS
+Found parsed item urls for id2 2506 URLS
+Not found parsed item urls for id2 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 2.9
+
+Current Scan Status: ended. Prepare to exit.
+07.04.2020 04:39:00	Read Config File Ok
+
+/callhunter/domains/serebro.ua.merchantfeed.txt
+Ok. Config checksum: 3865927537
+07.04.2020 04:39:30	Current Scan Status: ended.
+07.04.2020 04:39:50	Rewrite serebro.ua.scanreport.txt :
+serebroua 420576102 0 Tue Apr 07 2020 04:39:50
+07.04.2020 04:39:55	Read Config File Ok
+
+/callhunter/domains/serebro.ua.merchantfeed.txt
+Ok. Config checksum: 3865927537
+07.04.2020 04:39:55	Run Execute mode, accaunt serebro.ua
+07.04.2020 04:39:56	https://serebro.ua/
+Scanned step: 5
+Request to scanned 0 URLS
+Scanned 2635 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id0 1 Num
+Add / Modify urls in GASearch id0 0 URLS
+All urls in GASearch id0 2506 URLS
+All urls in feed id0 2506 URLS
+Found parsed item urls for id0 2506 URLS
+Not found parsed item urls for id0 0 URLS
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 2506 URLS
+Found parsed item urls for id1000 2506 URLS
+Not found parsed item urls for id1000 0 URLS
+
+For GASearch id1 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id1 1 Num
+Add / Modify urls in GASearch id1 0 URLS
+All urls in GASearch id1 2506 URLS
+All urls in feed id1 2506 URLS
+Found parsed item urls for id1 2506 URLS
+Not found parsed item urls for id1 0 URLS
+
+For GASearch id2 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id2 1 Num
+Add / Modify urls in GASearch id2 0 URLS
+All urls in GASearch id2 2506 URLS
+All urls in feed id2 2506 URLS
+Found parsed item urls for id2 2506 URLS
+Not found parsed item urls for id2 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 3.95
+
+Current Scan Status: ended. Prepare to exit.
+07.04.2020 04:40:07	Read Config File Ok
+
+/callhunter/domains/serebro.ua.merchantfeed.txt
+Ok. Config checksum: 3865927537
+07.04.2020 04:40:25	Current Scan Status: ended.
+07.04.2020 04:40:30	Rewrite serebro.ua.scanreport.txt :
+serebroua 420576102 0 Tue Apr 07 2020 04:40:30
+07.04.2020 04:40:34	Read Config File Ok
+
+/callhunter/domains/serebro.ua.merchantfeed.txt
+Ok. Config checksum: 3865927537
+07.04.2020 04:40:34	Run Execute mode, accaunt serebro.ua
+07.04.2020 04:40:35	https://serebro.ua/
+Scanned step: 5
+Request to scanned 0 URLS
+Scanned 2635 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id0 1 Num
+Add / Modify urls in GASearch id0 0 URLS
+All urls in GASearch id0 2506 URLS
+All urls in feed id0 2506 URLS
+Found parsed item urls for id0 2506 URLS
+Not found parsed item urls for id0 0 URLS
+
+Campaigns in GASearch id1000 0 Num
+All urls in feed id1000 2506 URLS
+Found parsed item urls for id1000 2506 URLS
+Not found parsed item urls for id1000 0 URLS
+
+For GASearch id1 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id1 1 Num
+Add / Modify urls in GASearch id1 0 URLS
+All urls in GASearch id1 2506 URLS
+All urls in feed id1 2506 URLS
+Found parsed item urls for id1 2506 URLS
+Not found parsed item urls for id1 0 URLS
+
+For GASearch id2 don't forget! add Campaigns Extensions: Собственное Производство. Превосходное Качество. Родиевое Покрытие. Оригинальный Дизайн. 5000 Моделей Украшений. Бесплатная Доставка.
+
+Campaigns in GASearch id2 1 Num
+Add / Modify urls in GASearch id2 0 URLS
+All urls in GASearch id2 2506 URLS
+All urls in feed id2 2506 URLS
+Found parsed item urls for id2 2506 URLS
+Not found parsed item urls for id2 0 URLS
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 4.58
+
+Current Scan Status: ended. Prepare to exit.
+07.04.2020 04:40:42	Read Config File Ok
+
+/callhunter/domains/serebro.ua.merchantfeed.txt
+Ok. Config checksum: 3865927537
+07.04.2020 04:40:59	Current Scan Status: ended.
+07.04.2020 04:41:05	Rewrite serebro.ua.scanreport.txt :
+serebroua 420576102 0 Tue Apr 07 2020 04:41:05
+07.04.2020 04:41:13	Read Config File Ok
+
+/callhunter/domains/serebro.ua.merchantfeed.txt
+Ok. Config checksum: 3865927537
+07.04.2020 04:41:14	Run Execute mode, accaunt serebro.ua
+07.04.2020 04:41:14	Could not find file: serebro.ua.SSSitesAlreadyChecked.json on Google Drive. Creating new file.
+07.04.2020 04:41:15	Not have jobs for current execute, account serebro.ua
+07.04.2020 04:36:26	Read Config File Ok
+
+/callhunter/domains/virnyidruk.ua.merchantfeed.txt
+Ok. Config checksum: 1474401952
+07.04.2020 04:36:26	Run Execute mode, accaunt virnyidruk.ua
+07.04.2020 05:04:41	https://virnyidruk.ua/
+Scanned step: 5
+EXECUTE WARNINGS: Exit shouldExitEarly 1
+
+
+Request to scanned 1889 URLS
+Scanned 1837 URLS
+
+For GASearch id0 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
+
+Campaigns in GASearch id0 1 Num
+Add / Modify urls in GASearch id0 0 URLS
+All urls in GASearch id0 484 URLS
+All urls in feed id0 1024 URLS
+Found parsed item urls for id0 1024 URLS
+Not found parsed item urls for id0 731 URLS (see in log details)
+
+For GASearch id103 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
+
+Campaigns in GASearch id103 1 Num
+Add / Modify urls in GASearch id103 0 URLS
+All urls in GASearch id103 500 URLS
+All urls in feed id103 501 URLS
+Found parsed item urls for id103 1024 URLS
+Not found parsed item urls for id103 731 URLS (see in log details)
+
+For GASearch id1 don't forget! add Campaigns Extensions: Услуга "Вечный картридж". Обмен или заправка. Качественная гарантия. Бесплатная консультация. Самые Низкие цены. Различные Варианты Оплаты.
+
+Campaigns in GASearch id1 1 Num
+Add / Modify urls in GASearch id1 0 URLS
+All urls in GASearch id1 530 URLS
+All urls in feed id1 1024 URLS
+Found parsed item urls for id1 1024 URLS
+Not found parsed item urls for id1 731 URLS (see in log details)
+
+Campaigns in GASearch id10 0 Num
+All urls in feed id10 192 URLS
+Found parsed item urls for id10 192 URLS
+Not found parsed item urls for id10 1563 URLS (see in log details)
+
+Unknown errors: 0
+Empty Content-Type errors: 0
+No html page errors: 0
+Responce errors: 0
+Abnormal exits: no
+Add dublicates urls: 0
+Last execute time: 28.68
+
+Current Scan Status: continue.
