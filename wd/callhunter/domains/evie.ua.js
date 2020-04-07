@@ -137,6 +137,15 @@ var IPchatConfig = {
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit][name="web_form_submit"]',
+
+		// отступ кнопки по горизонтали от края окна
+		//"ButtonX":	"140",
+		"ButtonX":	"180",
+		// отступ кнопки по вертикали от края окна
+		"ButtonY":	"140",
+
+
+
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		//"ButtonYMobile": 80,
