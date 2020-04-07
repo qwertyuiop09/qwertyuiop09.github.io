@@ -48,7 +48,7 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
-		"showButton": 	"0",
+		//"showButton": 	"0",
 
 
 		"consultantOn": "4",
