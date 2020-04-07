@@ -1,0 +1,20 @@
+Page URL	Custom label
+https://serebro.ua/products/braslet-serebryanyy-s-fianitom-akva-br007tsak-br007tsak-165.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-braslet-s-fianitom-br014tsb-br014tsb-165.html	SINGLE_PRODUCT
+https://serebro.ua/products/braslet-serebryanyy-s-chernym-fianitom-br014tsch-br014tsch-165.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-braslet-s-fianitom-peridot-br015tsp-br015tsp-17.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-braslet-s-fianitom-shampan-br015tssh-br015tssh-17.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-braslet-s-fianitom-br015tsb-br015tsb-18.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-braslet-s-chernym-fianitom-br015tsch-br015tsch-185.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanaya-lozhka-udacha-l001.html	SINGLE_PRODUCT
+https://serebro.ua/products/lozhka-serebryanaya-l009-l009.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanaya-lozhka-chasiki-9026e.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-zazhim-dlya-galstuka-stil-8347e.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-zazhim-dlya-galstuka-veneda-8157e.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-zazhim-dlya-galstuka-mediya-8067e.html	SINGLE_PRODUCT
+https://serebro.ua/products/brelok-serebryanyy-volvo-8125e.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-zazhim-dlya-galstuka-s-emalu-8159e-8159e.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-brelok-khunday-8079.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanaya-lozhka-zagrebushka-9028-9028.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanyy-brelok-sitroen-8120.html	SINGLE_PRODUCT
+https://serebro.ua/products/serebryanaya-detskaya-lozhka-utochka-9027e.html	SINGLE_PRODUCT
