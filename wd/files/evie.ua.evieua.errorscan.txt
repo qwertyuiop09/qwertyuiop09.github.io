@@ -1,6 +1,1 @@
-Error delete files in removeAllScanFiles !!!, message in script start
-Found error file(s): 
-evie.ua.evieua.feed.leto.2.gas.html
-evie.ua.evieua.feed.demi.2.gas.html
-
-account evie.ua
+Error delete files in removeAllScanFiles !!!, message in script start, account evie.ua
