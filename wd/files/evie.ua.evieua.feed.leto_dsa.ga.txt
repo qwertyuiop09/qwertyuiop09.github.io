@@ -1,0 +1,6 @@
+Page URL	Custom label
+https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/molly_silver_.html	LETO_SINGLE_PRODUCT
+https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/molly_orange.html	LETO_SINGLE_PRODUCT
+https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/molly_lime.html	LETO_SINGLE_PRODUCT
+https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/molly_neon.html	LETO_SINGLE_PRODUCT
+https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/e_31_sandals_silver.html	LETO_SINGLE_PRODUCT
