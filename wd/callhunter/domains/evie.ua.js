@@ -118,17 +118,16 @@ var IPchatConfig = {
 
 
 
-
-
+/*
 		"title": "Получить консультацию",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
 		"button": "Жду ответ!",
 		"callTime": "0",
-		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
+		//"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
+		"fields": "+Введите ваш телефон(+380)*, -Ваш вопрос (Необязательно)*",
 		"emptyPhone": "+380",
-
-
+*/
 
 
 
@@ -165,7 +164,7 @@ var IPchatConfig = {
 	        phone_field: 1,
 	        phone_required: 1,
 	        email_field: 1,
-	        email_required: 1,
+	        email_required: 0,
 	        name_field: 1,
 	        name_required: 0,
 	        fields_forced: 1,
