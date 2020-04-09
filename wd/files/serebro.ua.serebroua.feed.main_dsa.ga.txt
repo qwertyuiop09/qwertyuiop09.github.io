@@ -1876,7 +1876,6 @@ https://serebro.ua/products/sergi-serebryanye-s-fianitom-zelenoe-yabloko-valensi
 https://serebro.ua/products/sergi-serebryanye-s-fianitom-tsveta-granat-valensiya-pds84tsg.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-serebryanye-s-fianitom-tsveta-peridot-valensiya-pds84tsp.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-serebryanye-s-fianitom-liliya-pds87.html	SINGLE_PRODUCT
-https://serebro.ua/products/sergi-serebryanye-s-chernym-fianitom-liliya-pds87tsch.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-serebryanye-s-fianitom-tsveta-peridot-liliya-pds87tsp.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-serebryanye-s-fianitom-tsveta-granat-liliya-pds87tsg.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-serebryanye-s-fianitom-tsveta-shampan-liliya-pds87tssh.html	SINGLE_PRODUCT
