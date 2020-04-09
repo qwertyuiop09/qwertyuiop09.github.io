@@ -1,9 +1,1 @@
-Error delete files in removeAllScanFiles !!!, message in script start
-Found error file(s): 
-mubler.com.ua-ADONLY.mublercomua.feed.zerkala.1.gas.html
-mubler.com.ua-ADONLY.mublercomua.feed.main_dsa.1.ga.txt
-mubler.com.ua-ADONLY.mublercomua.feed.komodi.1.gas.html
-mubler.com.ua-ADONLY.mublercomua.feed.main.1.html
-mubler.com.ua-ADONLY.mublercomua.feed.tumbitv.1.gas.html
-
-account mubler.com.ua-ADONLY
+Error delete files in removeAllScanFiles !!!, message in script start, account mubler.com.ua-ADONLY
