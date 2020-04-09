@@ -63,12 +63,3 @@ https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/simply_gold_tassels.htm
 https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/bosonozhki_sue_silver.html	LETO_SINGLE_PRODUCT
 https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/bosonozhki_sue_rose.html	LETO_SINGLE_PRODUCT
 https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/mini_melissa_pink.html	LETO_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/mini_melissa_peach.html	LETO_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/mini_bird_pink.html	LETO_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/mini_bird_red.html	LETO_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/mini_bird_silver_glitter.html	LETO_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/mini_bird_pudra_glitter.html	LETO_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/bosonozhki_lovely_blue.html	LETO_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/zoy_silver.html	LETO_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/lucy_rose.html	LETO_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/zoy_red_fur.html	LETO_SINGLE_PRODUCT
