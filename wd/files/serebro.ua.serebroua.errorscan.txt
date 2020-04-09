@@ -1,5 +1,1 @@
-Error delete files in removeAllScanFiles !!!, message in script start
-Found error file(s): 
-serebro.ua.serebroua.feed.exact.7.gas.html
-
-account serebro.ua
+Error delete files in removeAllScanFiles !!!, message in script start, account serebro.ua
