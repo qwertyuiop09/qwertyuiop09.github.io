@@ -38,8 +38,8 @@ https://mubler.com.ua/p1081788071-lizhko-neman-karmen.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1081788495-lizhko-neman-violetta.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1081789608-lizhko-neman-sofiya.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1081791069-lizhko-neman-palaniya.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1125518922-lizhko-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1081793557-lizhko-neman-elen.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1125518922-lizhko-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128757342-lizhko-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128798636-lizhko-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128836916-lizhko-art-head.html	SINGLE_PRODUCT
@@ -77,8 +77,8 @@ https://mubler.com.ua/p1009332649-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1009338251-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1009930534-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1009931675-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1009933335-mizhkimnatni-dveri-sklom.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1081746055-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1009933335-mizhkimnatni-dveri-sklom.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1009934281-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p998355348-komod-neman-anzhelika.html	SINGLE_PRODUCT
 https://mubler.com.ua/p998361309-komod-neman-lajt.html	SINGLE_PRODUCT
@@ -92,8 +92,8 @@ https://mubler.com.ua/p998457405-komod-neman-solomiya.html	SINGLE_PRODUCT
 https://mubler.com.ua/p998461611-komod-neman-lyuchiya.html	SINGLE_PRODUCT
 https://mubler.com.ua/p998464617-komod-neman-alba.html	SINGLE_PRODUCT
 https://mubler.com.ua/p998468926-komod-neman-kris.html	SINGLE_PRODUCT
-https://mubler.com.ua/p998471258-komod-neman-kri3.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1064765679-komod-neman-virdzhiniya.html	SINGLE_PRODUCT
+https://mubler.com.ua/p998471258-komod-neman-kri3.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1064786644-komod-neman-marsel.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1064793605-komod-neman-anabel.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1064804808-komod-neman-elen.html	SINGLE_PRODUCT
@@ -159,8 +159,8 @@ https://mubler.com.ua/p1082577986-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082679292-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082680181-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082680459-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1125529745-tumba-prilizhkova-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082680985-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1125529745-tumba-prilizhkova-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128765716-tumba-prilizhkova-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128774844-tumba-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128799902-tumba-prilizhkova-art.html	SINGLE_PRODUCT
