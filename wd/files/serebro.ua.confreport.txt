@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/serebro.ua.merchantfeed.txt
-Ok. Config checksum: 2731614996
+Ok. Config checksum: 2435142903
