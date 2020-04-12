@@ -1718,7 +1718,6 @@ https://serebro.ua/products/sergi-serebryanye-s-fianitom-rozovogo-tsveta-karolin
 https://serebro.ua/products/sergi-serebryanye-s-izumrudom-nano-gretta-bs107ni.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-serebryanye-s-naturalnym-tsitrinom-kira-pds77ts.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-iz-serebra-s-fianitom-tsveta-shampan-kristall-pds80tssh.html	SINGLE_PRODUCT
-https://serebro.ua/products/serebryanye-sergi-s-fianitom-tsveta-granat-pds14tsg-pds14tsg.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-iz-serebra-s-naturalnym-agatom-sabina-pds73ag.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-iz-serebra-s-ametistom-linda-bs103am.html	SINGLE_PRODUCT
 https://serebro.ua/products/sergi-iz-serebra-s-naturalnym-ametistom-nadezhda-bs104am.html	SINGLE_PRODUCT
