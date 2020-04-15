@@ -1,0 +1,12 @@
+Error delete files in removeAllScanFiles !!!, message in script start
+Found error file(s): 
+mubler.com.ua-ADONLY.mublercomua.feed.mebl_vitalni.1.gas.html
+mubler.com.ua-ADONLY.mublercomua.feed.prihozi.1.ga.txt
+mubler.com.ua-ADONLY.mublercomua.feed.dveri.1.gas.html
+mubler.com.ua-ADONLY.mublercomua.feed.lizka.1.html
+mubler.com.ua-ADONLY.mublercomua.feed.zerkala.1.html
+mubler.com.ua-ADONLY.mublercomua.feed.zerkala.1.ga.txt
+mubler.com.ua-ADONLY.mublercomua.feed.main.1.gas.html
+mubler.com.ua-ADONLY.mublercomua.feed.dit_lizka.1.gas.html
+
+account mubler.com.ua-ADONLY
