@@ -1,5 +1,1 @@
-Error delete files in removeAllScanFiles !!!, message in script start
-Found error file(s): 
-mubler.com.ua-ADONLY.mublercomua.feed.stoli.2.ga.txt
-
-account mubler.com.ua-ADONLY
+Error delete files in removeAllScanFiles !!!, message in script start, account mubler.com.ua-ADONLY
