@@ -1,0 +1,6 @@
+bad field_type: .ga.txt in correctfeedExtFunctions, check script code
+bad field_type: .gas.html in correctfeedExtFunctions, check script code
+bad field_type: .ga.txt in correctfeedExtFunctions, check script code
+bad field_type: .gas.html in correctfeedExtFunctions, check script code
+bad field_type: .ga.txt in correctfeedExtFunctions, check script code
+bad field_type: .gas.html in correctfeedExtFunctions, check script code
