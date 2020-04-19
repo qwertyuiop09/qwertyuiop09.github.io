@@ -214,8 +214,8 @@ https://mubler.com.ua/p1098697138-dityache-lizhko-gorische.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1098707538-dityache-lizhko-gorische.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1098712253-dityache-lizhko-gorische.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1100428233-dityache-lizhko-gorische.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1100436413-dityache-lizhko-gorische.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128871562-dvopoverhove-lizhko-art.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1100436413-dityache-lizhko-gorische.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128871966-dvopoverhove-lizhko-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128873148-dvopoverhove-lizhko-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128875780-dityache-lizhko-art.html	SINGLE_PRODUCT
@@ -281,8 +281,8 @@ https://mubler.com.ua/p1078704288-stil-neman-pristavnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078705008-stil-neman-pristavnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078705053-stil-neman-pristavnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078705725-stil-neman-rozkladnij.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1101851793-stil-neman-zhurnalnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078706607-stil-transformer-neman.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1101851793-stil-neman-zhurnalnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128752047-stil-zhurnalnij-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128772598-stil-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128804189-stil-zhurnalnij-art.html	SINGLE_PRODUCT
