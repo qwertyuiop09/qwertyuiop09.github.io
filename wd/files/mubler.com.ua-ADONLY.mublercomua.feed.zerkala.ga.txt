@@ -1,0 +1,3 @@
+price	title	description	link	image_link	id	availability	product_type
+2456 UAH	Дзеркало Мастерклас МZ-11 Гефест Білий	Дзеркало із модульної системи гефест має дуже цікавий дизайн із гравірування, яке чудово впишеться у всі особливості кожного інтер'єру.	https://mubler.com.ua/p1135267373-dzerkalo-masterklas-gefest.html	https://images.ua.prom.st/2247608557_w640_h640_dzerkalo-masterklas-mz-11.jpg	1135267373	in stock	Дзеркала
+2456 UAH	Дзеркало Мастерклас МZ-12 Гефест Венге	Дзеркало із модульної системи гефест має дуже цікавий дизайн із гравірування, яке чудово впишеться у всі особливості кожного інтер'єру.	https://mubler.com.ua/p1135268636-dzerkalo-masterklas-gefest.html	https://images.ua.prom.st/2247611515_w640_h640_dzerkalo-masterklas-mz-12.jpg	1135268636	in stock	Дзеркала
