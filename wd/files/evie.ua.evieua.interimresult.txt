@@ -3,45 +3,45 @@ Scanned step: 1
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 103 URLS
-Scanned 72 URLS
+Request to scanned 174 URLS
+Scanned 152 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Стильная Fashion Обувь. Оригинальный Дизайн. Детский Бренд N1. Различные Варианты Оплаты. Доставка в День Заказа.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 67 URLS
-All urls in feed id0 67 URLS
-Found parsed item urls for id0 67 URLS
+All urls in GASearch id0 100 URLS
+All urls in feed id0 100 URLS
+Found parsed item urls for id0 100 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 67 URLS
-Found parsed item urls for id1000 67 URLS
+All urls in feed id1000 100 URLS
+Found parsed item urls for id1000 100 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id1010 0 Num
-All urls in feed id1010 67 URLS
-Found parsed item urls for id1010 67 URLS
+All urls in feed id1010 100 URLS
+Found parsed item urls for id1010 100 URLS
 Not found parsed item urls for id1010 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Стильная Fashion Обувь. Оригинальный Дизайн. Детский Бренд N1. Различные Варианты Оплаты. Доставка в День Заказа.
 
 Campaigns in GASearch id1 1 Num
-Add / Modify urls in GASearch id1 0 URLS
-All urls in GASearch id1 0 URLS
-All urls in feed id1 0 URLS
-Found parsed item urls for id1 0 URLS
+Add / Modify urls in GASearch id1 2 URLS
+All urls in GASearch id1 41 URLS
+All urls in feed id1 41 URLS
+Found parsed item urls for id1 41 URLS
 Not found parsed item urls for id1 0 URLS
 
 Campaigns in GASearch id1001 0 Num
-All urls in feed id1001 0 URLS
-Found parsed item urls for id1001 0 URLS
+All urls in feed id1001 41 URLS
+Found parsed item urls for id1001 41 URLS
 Not found parsed item urls for id1001 0 URLS
 
 Campaigns in GASearch id1011 0 Num
-All urls in feed id1011 0 URLS
-Found parsed item urls for id1011 0 URLS
+All urls in feed id1011 41 URLS
+Found parsed item urls for id1011 41 URLS
 Not found parsed item urls for id1011 0 URLS
 
 For GASearch id2 don't forget! add Campaigns Extensions: Стильная Fashion Обувь. Оригинальный Дизайн. Детский Бренд N1. Различные Варианты Оплаты. Доставка в День Заказа.
@@ -69,7 +69,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.72
+Last execute time: 28.73
 
 Current Scan Status: continue.
 
