@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/evie.ua.merchantfeed.txt
-Ok. Config checksum: 2941779053
+Ok. Config checksum: 1771163784
