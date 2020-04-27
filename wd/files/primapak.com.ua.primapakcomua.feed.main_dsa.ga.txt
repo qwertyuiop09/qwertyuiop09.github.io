@@ -54,10 +54,10 @@ https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_mobilnykh_aksessu
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_mobilnykh_aksessuarov/2345/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_mobilnykh_aksessuarov/2346/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_mobilnykh_aksessuarov/2343/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_suvenirov/2348/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_suvenirov/2349/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_suvenirov/2350/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_suvenirov/2347/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_suvenirov/2349/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_suvenirov/2348/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_suvenirov/2350/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/biorazlagaemye_pakety/2372/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/biorazlagaemye_pakety/2371/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/biorazlagaemye_pakety/2370/	SINGLE_PRODUCT
