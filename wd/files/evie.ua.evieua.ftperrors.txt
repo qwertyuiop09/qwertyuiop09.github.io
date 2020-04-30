@@ -1,3 +1,0 @@
-evieua.feed.demi Script Timeout
-evieua.feed.leto Script Timeout
-evieua.feed.zima Script Timeout
