@@ -1,2 +1,0 @@
-price	title	description	link	image_link	id	availability	product_type
-1195 UAH	Босоножки Для Девочек Leslie Silver	Подкладка: натуральная кожа. Материал верха: натуральная кожа.	https://evie.ua/catalog/obuv_devochkam_2/leto/bosonozhki/leslie_silver.html	https://evie.ua/upload/resize_cache/iblock/26b/500_500_1/26bdfc3535919f84f1b8c28bb772368b.jpg	14472	in stock	Обувь Девочкам > Лето > Босоножки
