@@ -181,8 +181,8 @@ https://mubler.com.ua/p1132236483-tumba-neman-line.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1135271051-tumba-prilizhkova-masterklas.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1135267373-dzerkalo-masterklas-gefest.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1135268636-dzerkalo-masterklas-gefest.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1064816389-shafa-neman-marsel.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1064811546-shafa-neman-virdzhiniya.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1064816389-shafa-neman-marsel.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1064818688-shafa-neman-anabel.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1064823736-shafa-neman-elen.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1127009087-shafa-art-head.html	SINGLE_PRODUCT
