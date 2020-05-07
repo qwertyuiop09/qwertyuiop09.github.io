@@ -123,4 +123,3 @@ https://evie.ua/catalog/obuv_malchikam/demisezonnaya/krossovki_malchikam/brookly
 https://evie.ua/catalog/obuv_malchikam/demisezonnaya/krossovki_malchikam/brooklyn_green.html	DEMI_SINGLE_PRODUCT
 https://evie.ua/catalog/obuv_malchikam/demisezonnaya/krossovki_malchikam/kodi_denim_.html	DEMI_SINGLE_PRODUCT
 https://evie.ua/catalog/obuv_malchikam/demisezonnaya/krossovki_malchikam/kodi_grey.html	DEMI_SINGLE_PRODUCT
-https://evie.ua/catalog/obuv_malchikam/demisezonnaya/krossovki_malchikam/luke_green_haki.html	DEMI_SINGLE_PRODUCT
