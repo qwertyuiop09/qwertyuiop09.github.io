@@ -44,20 +44,6 @@ var IPchatConfig = {
 
 
 
-/*
-	if(typeof google_tag_params == 'undefined') {
-//		https://support.google.com/google-ads/answer/6335506?hl=ru
-//		https://developers.google.com/adwords-remarketing-tag/parameters?hl=ru
-//		https://www.ru.advertisercommunity.com/t5/Prodvinutye-funktsii-Google-Ads/Nastroyka-dinamicheskogo-remarketinga-AdWords-cherez-TagManager/td-p/143077#
-//		https://webpromoexperts.com.ua/blog/dinamicheskij-remarketing/
-//		https://sotnik.biz.ua/articles/dinamicheskiy_remarketing_nastroyka_raznymi_sposobami/
-		var google_tag_params = {
-			ecomm_prodid: 'REPLACE_WITH_VALUE',
-			ecomm_pagetype: 'REPLACE_WITH_VALUE',
-			ecomm_totalvalue: 'REPLACE_WITH_VALUE',
-		};
-	}
-*/
 
 
 	var IPclhrDataUpdate = {
@@ -82,16 +68,16 @@ var IPchatConfig = {
 
 
 
-/*
+
+
 
 		"AdwConvRemark": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 636631322,
 		google_custom_params: window.google_tag_params,
 		//google_custom_params: undefined,
-//		google_user_id = '<unique user id>',
 		google_remarketing_only: true
 			},
-*/
+
 
 
 
@@ -100,7 +86,7 @@ var IPchatConfig = {
 		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
 */
 		"AdwConvHit": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 636631322,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -115,7 +101,7 @@ var IPchatConfig = {
 
 
 		"AdwConvTime": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 636631322,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -126,7 +112,7 @@ var IPchatConfig = {
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 636631322,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
