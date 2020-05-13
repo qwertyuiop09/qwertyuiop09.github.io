@@ -126,6 +126,24 @@ var IPchatConfig = {
 
 
 
+
+
+		//PhoneClick
+		"ClickElement": "div.col-sm-6:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.col-sm-6:nth-child(2) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(2) > p:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(4) > p:nth-child(1) > a:nth-child(1)",
+
+		"AdwConvСlick": {
+		google_conversion_id: 932723871,
+		google_conversion_language: "en",
+		google_conversion_format: "3",
+		google_conversion_color: "ffffff",
+		google_conversion_label: "6XSBCIv6j9ABEJryyK8C",
+		google_remarketing_only: false
+		},
+
+
+
+
+
 /*
 		"title": "Получить консультацию",
 		"titleworktime": "Мы свяжемся с Вами через несколько минут",
