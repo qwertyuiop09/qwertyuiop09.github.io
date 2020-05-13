@@ -1042,7 +1042,6 @@ https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/02010908-pups-muz-svet-art-
 https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/00028876-pups-muz-lyalya-2014-12dmr-60sht-2-6-vidov-rus-v-pakete-2040sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/111-kukly/200583951-32000-moya-pervaya-kukla-32sm-rozovaya-odezhda-3-	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/00048416-pups-muz-1104-144sht-4-batar-4-vida-rus-chip-4-zvuka-v-pakete-28sm	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/19030551-pups-divchinka-muz-10-melodiy-kulok-36sm-13020r	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19038334-stulchik-metall-hk-cs7855-36sht-2-skladnoy-so-stolikom-v-pak-223760sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19033054-stolik-z-lyalkami-kovpak-6-lyalok-a8-326-r-24-52313sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/02028012-domik-zvuk-svet-art-h-012-4sht-0-plastik-korobka-s-otkrytym-oknom-63-5x15-5x46-5sm-jambo-200130811	SINGLE_PRODUCT
@@ -1128,6 +1127,7 @@ https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/20058544
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200585115-kreyda-dlya-oblichchya-olivtsi-12-kol-solorino-32650ptr	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200584217-kosmetika-v-korobtsi-e2254-r-346-525sm-	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200585118-kreyda-dlya-volossya-olivtsi-5-kol-standart-solorino-68659ptr	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200585117-kreyda-dlya-volossya-olivtsi-5-kol-metalik-solorino-68680ptr	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200584218-kosmetika-v-korobtsi-e2270-r-26-5727-5sm-	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/04003834-konstruktor-pruzhina-kuli-art-202402-16sht-2-plastik-kolorova-korobka-23-5x13x28-5sm-jambo-200440383	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/04005983-konstruktor-cities-art-39051-24sht-2-plastik-kolorova-korobka-42-5x28x6-8sm-jambo-200494598	SINGLE_PRODUCT
