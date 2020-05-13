@@ -4,9 +4,8 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 
 //без предоплаты, логин менеджера
-//раскомментировать !!!
-//var intepriceIPL = 'jambo.inteprice.com';
-//var intepriceCRT = '03.05.2020';
+var intepriceIPL = 'jambo.inteprice.com';
+var intepriceCRT = '13.05.2020';
 
 
 var IPchatConfig = {
@@ -51,13 +50,8 @@ var IPchatConfig = {
 		"CSS": '.clhr-form textarea { line-height: 20px; }  .clhr-form .clhr-cls { line-height: 17px; }',
 
 
-		//убрать !!!
-		"hunterOn": "0",
-		"showButton": 	"0",
-		"consultantOn": "0",
 
-		//раскомментировать !!!
-		//"consultantOn": "4",
+		"consultantOn": "4",
 
 
 
@@ -159,11 +153,7 @@ var IPchatConfig = {
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
-//надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
-//также была проблема с азури - если подключаться к их форме магазина, то глючит страница "спасибо за покупку" - просто вылазит ошибка без перехода на эту страницу
-//а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+		//"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 		"ButtonYMobile": 80,
