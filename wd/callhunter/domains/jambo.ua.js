@@ -120,7 +120,7 @@ var IPchatConfig = {
 
 
 
-		//PhoneClick (не работает)
+		//PhoneClick
 		"ClickElement": "div.col-sm-6:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.col-sm-6:nth-child(2) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(2) > p:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(4) > p:nth-child(1) > a:nth-child(1)",
 
 		"AdwConvСlick": {
