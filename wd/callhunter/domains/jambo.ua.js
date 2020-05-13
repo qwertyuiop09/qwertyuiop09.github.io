@@ -145,6 +145,8 @@ var IPchatConfig = {
 		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
 		"emptyPhone": "+380",
 */
+		"callTime": "0",
+		"emptyPhone": "+380",
 
 
 
