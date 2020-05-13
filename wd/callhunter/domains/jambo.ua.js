@@ -81,17 +81,15 @@ var IPchatConfig = {
 
 
 
-/*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
+		"HitElement": ".checkout-order-confirm-message",
+		"HitElementHtml": {RegExp: 'Спасибо за заказ.', Flags: 'i'},
+
 		"AdwConvHit": {
 		google_conversion_id: 636631322,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
 		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
-//for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
 		google_remarketing_only: false
 			},
 
