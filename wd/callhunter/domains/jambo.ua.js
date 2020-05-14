@@ -121,7 +121,7 @@ var IPchatConfig = {
 
 
 		//PhoneClick
-		//"ClickElement": "div.col-sm-6:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.col-sm-6:nth-child(2) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(2) > p:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(4) > p:nth-child(1) > a:nth-child(1)",
+		//"ClickElement": "div.col-sm-6:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.col-sm-6:nth-child(2) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(2) > p:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(4) > p:nth-child(1) > a:nth-child(1), .sidebar-contacts-block > li:nth-child(2) > div:nth-child(2) > p:nth-child(3) > a:nth-child(1)",
 
 		"AdwConvСlick": {
 		google_conversion_id: 932723871,
@@ -229,10 +229,18 @@ var IPchatConfig = {
 		var isTouch = IPchlIb['isTouch'];
 		if (isTouch) {
 			//PhoneClick
-			window.IPclhrDataUpdate.ClickElement = "div.col-sm-6:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.col-sm-6:nth-child(2) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(2) > p:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(4) > p:nth-child(1) > a:nth-child(1)";
+			window.IPclhrDataUpdate.ClickElement = "div.col-sm-6:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.col-sm-6:nth-child(2) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(2) > p:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(4) > p:nth-child(1) > a:nth-child(1), .sidebar-contacts-block > li:nth-child(2) > div:nth-child(2) > p:nth-child(3) > a:nth-child(1)";
 		} else {
-			window.IPclhrDataUpdate.ViewFormClick = "div.col-sm-6:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.col-sm-6:nth-child(2) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(2) > p:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(4) > p:nth-child(1) > a:nth-child(1)";
+			window.IPclhrDataUpdate.ViewFormClick = "div.col-sm-6:nth-child(1) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.col-sm-6:nth-child(2) > div:nth-child(1) > span:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(2) > p:nth-child(1) > a:nth-child(1), div.footer-main-list:nth-child(4) > p:nth-child(1) > a:nth-child(1), .sidebar-contacts-block > li:nth-child(2) > div:nth-child(2) > p:nth-child(3) > a:nth-child(1)";
 		}
+		if (window.IPclhrDataUpdate.ViewFormClick) {
+			window.IPclhrDataUpdate.ViewFormClick += ", ";
+		} else {
+			window.IPclhrDataUpdate.ViewFormClick = "";
+		}
+		window.IPclhrDataUpdate.ViewFormClick += ".sidebar-contacts-block > li:nth-child(1) > div:nth-child(2) > p:nth-child(2), .sidebar-contacts-block > li:nth-child(1) > div:nth-child(2) > p:nth-child(5), .sidebar-contacts-block > li:nth-child(1) > svg:nth-child(1)";
+
+
 	}
 
 
