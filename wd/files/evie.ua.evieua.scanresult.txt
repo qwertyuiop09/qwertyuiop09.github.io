@@ -1,8 +1,5 @@
 https://evie.ua/
 Scanned step: 1
-EXECUTE WARNINGS: Previos start was aborted for scan https://evie.ua/
-
-
 Request to scanned 5 URLS
 Scanned 5 URLS
 
@@ -72,8 +69,8 @@ Unknown errors: 5
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
-Abnormal exits: YES
+Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 0.88
+Last execute time: 0.95
 
 Current Scan Status: ended.
