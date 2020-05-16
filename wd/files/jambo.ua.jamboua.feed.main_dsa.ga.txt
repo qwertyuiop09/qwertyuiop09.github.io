@@ -1831,7 +1831,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/00020943-b
 https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/19034868-nastilna-rozvazhalna-gra-super-rancher-g-sr-01-01u-p	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/147004676-nastilna-rozvazhalna-gra-fantasy-30564-strateg	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/19037677-nastilna-rozvazhalna-gra-alians-g-aln-01u-p	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/19035606-igra-pizanskaya-bashnya-ukr-6-dt-vg-01u	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/147004631-rozvivayucha-nastilna-gra-mega-vega-g-mv-01u-p	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/19034758-rozvivayucha-igrashka-korablik-v-korobtsi	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/19035458-mash-shvidka-dopomoga-tekhnok-4579-tekhn-6	SINGLE_PRODUCT
@@ -1915,7 +1914,6 @@ https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584847-dityachiy-velo
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584809-velosiped-detskiy-2-kh-kolyosnyy-14-191421-1sht-like2bike-sprint-zelyonyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584793-velosiped-detskiy-2-kh-kolyosnyy-20-192029-1sht-like2bike-active-zhyoltyy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584849-dityachiy-velosiped-miqilong-yd-chervoniy-16-mql-yd16-red	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584786-velosiped-detskiy-2-kh-kolyosnyy-18-191825-1sht-like2bike-active-siniy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/19038168-velosiped-dityachiy-prof1-16-d-y16104-top-grade-dzvinok-dop-kolesa-biryuzoviy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584761-velosiped-detskiy-2-kh-kolyosnyy-14-191416-1sht-like2bike-rally-rozovyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584833-samokat-neon-glider-chervoniy-n100963	SINGLE_PRODUCT
@@ -1945,8 +1943,6 @@ https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584649-samokat
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584839-samokat-neon-viper-siniy-n100828	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584647-samokat-detskiy-3-kolyos-sc180315-6sht-mix-2-tsveta-kolesa-pu-so-svetom	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584834-samokat-neon-glider-siniy-n100964	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584662-samokat-yw0143-6sht-alyumplast-3-kolesa-pu-svet-kolyosa-per-120mm-zadn-80-mm	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584660-samokat-yw0147-6sht-2-tsveta-4-kolesa-pu-svet-v-korobke-602715sm	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584658-samokat-gorodskoy-2-kh-kolyos-sc17072-6-sht-belyy-kolesa-pu-180-mm	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/147004696-samokat-bt-ks-0181-3-kh-kolesn-plastik-skladnoy-s-fonarikom-5tsv-svet-pu-kol-11045mm-3413sm-79-sm-ko	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/00043662-mashinka-katala-samokat-2v1-little-people-8316-	SINGLE_PRODUCT
@@ -2051,7 +2047,6 @@ https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039046-baseyn-57182-re
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039114-igroviy-tsentr-57129-girka-navis-grib-remkomplekt-kor-40-39-11-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/00043340-57431-basseyn-detskiy-krokodil-s-razbryzgivatelem-19816091sm-4-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19035249-nabir-vodyanoyi-zbroyi-3v1-korobka-vodyaniy-pistolet-maska-yys-01-r-45318sm-	SINGLE_PRODUCT
-https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/00045887-vodyaniy-pistolet-kulok-3366-r-481123-sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19035613-vodnyy-pistolet-yw0459-1-60sht-s-ryukzakom-v-pakete	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/152-vozdushnye-zmei-vetryachki-sachki/19035057-zapuskalka-as920-1498257-48sht-na-planshetke-33183sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/152-vozdushnye-zmei-vetryachki-sachki/147004503-planer-bp19918-60sht-31-534-sm-s-motorchikom-na-planshetke	SINGLE_PRODUCT
