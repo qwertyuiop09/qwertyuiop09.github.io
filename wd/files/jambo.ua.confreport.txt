@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/jambo.ua.merchantfeed.txt
-Ok. Config checksum: 3465808759
+Ok. Config checksum: 3365646065
