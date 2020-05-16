@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/mubler.com.ua-ADONLY.merchantfeed.txt
-Ok. Config checksum: 3473571544
+Ok. Config checksum: 1913885867
