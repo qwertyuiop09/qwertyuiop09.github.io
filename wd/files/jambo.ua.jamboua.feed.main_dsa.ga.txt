@@ -61,7 +61,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585641-
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585650-tolokar-muzichniy-avtoshka-bezhevo-rozheviy-0142-07-doloni	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585653-tolokar-muzichniy-avtoshka-sino-zhovtiy-0142-04-doloni	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004266-katalka-dzhipik-politsiya-siniy-105-o	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004257-mototsikl-politsiya-muzichniy-biliy-0139-51-f	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/00015250-mototsikl-2kh-kolesnyy-limonnyy	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585662-skuter-biryuzoviy-502-orion	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/19038014-katalka-orionchik-belaya	SINGLE_PRODUCT
@@ -78,10 +77,8 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585638-
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004251-katalka-avtoshka-salatovo-rozheva-vinks-0141-08-f	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004256-mototsikl-sport-siniy-0138-10-f	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/00026450-katalka-orionchik-zelenyy	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585663-skuter-rozheviy-502-orion	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585660-mototsikl-z-signalom-chervoniy-501v-5-orion	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004254-mototsikl-sport-muzichniy-siniy-0139-1-f	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004249-katalka-avtoshka-muzichna-korichnevo-chervona-0142-01-f	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585643-tolokar-avtoshka-bezhevo-rozheviy-0141-07-doloni	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/19038015-katalka-orionchik-s-ruchkoy-zelenaya	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585659-mototsikl-z-signalom-zeleniy-501v-5-orion	SINGLE_PRODUCT
@@ -101,7 +98,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585628-
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/00014953-rolotsikl-krasnyy-siniy-2-01936	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585623-velobig-rolotsikl-2-3824-tekhnok	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/00022040-avtomobil-tekhnok-oranzhevaya-3-01875	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585627-mini-bayk-dlya-khlopchikiv-4340-tekhnok	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585632-mototsikl-muzichniy-chorno-zeleniy-na-viduvnikh-kolesakh-6474-tekhnok	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004284-avto-dlya-progulyanok-bila-3503-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585622-bayk-metaleviy-trokhkolisniy-v-korobtsi-4746-tekhnok	SINGLE_PRODUCT
@@ -448,7 +444,6 @@ https://jambo.ua/02-igrushki-dlya-devochek/111-kukly/02007522-nabir-lyalok-mini-
 https://jambo.ua/02-igrushki-dlya-devochek/111-kukly/02004748-nabir-hairdorables-budinok-tolokar-art-tm224-24sht-2-plastik-korobka-z-vidkritim-viknom-39-5x16x21-5sm-jambo-200472474	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/02009507-nabir-igroviy-solodoshchi-art-d977-3-48sht-2-plastik-korobka-z-vidkritim-viknom-29x8-5x20sm-jambo-200496950	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/02009422-nabir-igroviy-solodoshchi-art-d977-8-36sht-2-plastik-korobka-z-vidkritim-viknom-34x8-5x27sm-jambo-200496942	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/02009361-nabir-igroviy-solodoshchi-art-d977-19-24sht-0-plastik-korobka-z-vidkritim-viknom-45-5x8-5x33sm-jambo-200496936	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/124-konstruktory-metallicheskie-magnitnye/04004670-konstruktor-magnitniy-art-689-47-24sht-0-plastik-kolorova-korobka-38-5x22-5x6-6sm-jambo-200526467	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/06001358-shakhmati-magnitni-art-qql702-48sht-2-plastik-kolorova-korobka-28-5x15x3sm-jambo-200502135	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/130-teleskopy-i-mikroskopy/06001082-teleskop-art-7004a-12sht-2-plastik-korobka-z-vidkritim-viknom-55x8x39-5sm-jambo-100818108	SINGLE_PRODUCT
@@ -645,7 +640,6 @@ https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/01006090-pistolet-vodyani
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/01006282-pistolet-vodyaniy-art-zrh121410-48sht-0-plastik-paket-opp-40x1x1sm-jambo-200421618	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/01006137-pistolet-vodyaniy-art-zrh121409-72sht-0-plastik-paket-opp-47x1x1sm-jambo-200421613	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/01005550-pistolet-vodyaniy-z-ryukzakom-art-zrh121401-48sht-0-plastik-paket-opp-38x30x1sm-jambo-200421555	SINGLE_PRODUCT
-https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/01005840-pistolet-vodyaniy-art-zrh121405-24sht-0-plastik-paket-opp-60x1x1sm-jambo-200421584	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/01005789-pistolet-vodyaniy-z-ryukzakom-art-zrh121404-72sht-0-plastik-paket-opp-36x31x1sm-jambo-200421578	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/01006427-pistolet-vodyaniy-art-zrh121412-48sht-0-plastik-paket-opp-45x1x1sm-jambo-200421642	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/02006234-vikhovanets-v-perenostsi-art-lqh121711-10sht-0-plastik-shouboks-15x10x8sm-jambo-200423623	SINGLE_PRODUCT
@@ -754,7 +748,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/1903
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200584010-mashina-metal-7844-4-72sht-2-avtoprom-1-32-36-politsiya-mersedes-benz-g65-svet-4-zvuka-signala-otkr-dveri-kapot-bagazhnik-v-korobke-1899sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/19037168-mashina-metall-7644-36sht-2-avtoprom-batar-svet-zvuk-otkr-dveri-v-kor-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/00041229-mashina-metall-68246a-12sht-2-avtoprom-m1-22-lotus-exige-s-bat-svet-zv-otkr-dveri-kapot-bagazh-v-kor	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200583989-mashina-metal-7855-68355d-48sht-2-avtoprom-1-32-bmw-m3-dtm-svet-zvuk-v-korobke-1899sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/00044371-igroviy-nabir-udarna-khvilya-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/147005727-mashinka-transformer-hot-wheels-monster-jam	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/147004527-motorizovaniy-priskoryuvach-z-mashinkoyu-hot-wheels	SINGLE_PRODUCT
@@ -852,7 +845,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19035
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/00047733-drakon-28109-4sht-r-u-70sm-khodit-prisedaet-dvig-golov-zvuk-svet-na-bat-ke-v-kor-ke-76-24-23sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01009634-mashina-r-k-art-ghh121319-36sht-0-plastik-korobka-z-vidkritim-viknom-35x12x16sm-jambo-200420963	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01009597-mashina-pereverten-r-k-art-ghh121318-12sht-0-plastik-korobka-z-vidkritim-viknom-31x19x27sm-jambo-200420959	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19036504-tank-na-r-u-akkum-33801-33805-24sht-2-2-vida-v-korobke-29-512-513sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19033818-kvadrokopter-na-r-u-1336-24sht-r-r-109-59sm-v-korobke	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01015253-mashina-r-k-art-757-48sht-0-plastik-shouboks-32x13x14sm-jambo-200495025	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01006822-stroytekhnika-r-u-muz-svet-art-968-22-36sht-2-plastik-korobka-s-otkrytym-oknom-39-5x11x15sm-jambo-200052068	SINGLE_PRODUCT
@@ -943,7 +935,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/00045983-pistolet-gidroge
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01012955-pistolet-myaki-kuli-art-2083766-96sht-1-plastik-shouboks-23-5x22x5sm-jambo-200339295	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/200584210-nabir-nerf-nitro-v-korobtsi-7712	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/200584234-ruzhe-muz-lx3655a-36sht-2-svet-zvuk-v-korobke-58194sm	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/00036822-pistolet-cyma-zm03-s-pulkami-metal-kor-20414-sh-k-h130508716-36-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/00047874-pistolet-metal-zm18-24sht-pulki-v-kor-26-5175-5sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/200584231-pistolet-metal-plastik-g-6s-24sht-s-pulkami-v-korobke-22163-4sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/147004347-pistolet-p-698-48sht-pulki-v-kor-24163-5sm	SINGLE_PRODUCT
@@ -1072,7 +1063,6 @@ https://jambo.ua/02-igrushki-dlya-devochek/118-bytovaya-tekhnika-kukhni/20058398
 https://jambo.ua/02-igrushki-dlya-devochek/118-bytovaya-tekhnika-kukhni/200585005-ovoshchi-i-frukty-686-48sht-2-delyatsya-popolam-vesy-tarelki-nozh-dostochka-v-korzine-17-517-513-5sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/118-bytovaya-tekhnika-kukhni/200584264-kukhnnaya-moyka-bq688-1-2-12sht-2-vida-techet-voda-posudka-aksessuary-v-kor-45-12812-1sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/118-bytovaya-tekhnika-kukhni/200584225-posuda-6006n-1162138-24sht-2-stolovye-pribory-24pr-chashki-blyudtsa-tarelki-lozhki-vilki-nozhi-v-kor-41628sm	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/118-bytovaya-tekhnika-kukhni/200584253-posuda-farfor-868-e33-72sht-2-chaynik-chashechki-blyudtsa-lozhechki-v-kor-	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/02003346-kasoviy-aparat-art-ls820a32-1-36sht-0-plastik-shouboks-33-5x14x15sm-jambo-200495334	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/02003144-kasoviy-aparat-art-xj329-4-18sht-2-plastik-kolorova-korobka-38x14-5x25sm-jambo-200284314	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/02007172-magazin-art-zd588-11-18sht-2-plastik-tsvetnaya-korobka-0x0x0sm-jambo-200162717	SINGLE_PRODUCT
@@ -1197,7 +1187,6 @@ https://jambo.ua/04-konstruktory/155-konstruktory-dlya-devochek/200585080-konstr
 https://jambo.ua/04-konstruktory/155-konstruktory-dlya-devochek/200585089-konstruktor-1119936sht-2205det-v-kor-30225sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/127-loto-domino-shakhmaty/147004963-shakhmati-magnitni-4v1-korobka-6228-r-2417-53-5sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/127-loto-domino-shakhmaty/147004965-shakhmati-magnitni-4v1-korobka-6328-r-30224sm	SINGLE_PRODUCT
-https://jambo.ua/06-razvivayushchie-igry/127-loto-domino-shakhmaty/147004949-shakhmati-derev-yani-3v1-korobka-8802-r-30316sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/127-loto-domino-shakhmaty/19037216-shakhmaty-8899-36sht-2-3v1-shashki-nardy-v-korobke-3218sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/127-loto-domino-shakhmaty/147004966-shakhmati-magnitni-korobka-8008	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/128-molberty-dostochki-dlya-risovaniya/200584019-doska-2-kh-storonpl-0703-ure-12shtmagnit-rus-ukr-angl-bukvy-s-melom-v-kor-52732-5sm	SINGLE_PRODUCT
@@ -1870,7 +1859,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/190376
 https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/147004294-konstruktor-metaleviy-budtekhnika-v-chemodani-289-det-3879-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/19029880-konstruktor-novogo-pokolinnya-vuildplay-budinok-bnp-01-01-p	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/19037607-konst-tekhno-v-sakvoyazhi-3640-tekhn-8	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/00022332-kukhnya-9-4-01168	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200585001-shariki-d8sm-60-sht-02-418-kv	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200585000-shariki-d8-sm-40-sht-kw-02-417-kind-sht-	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/00015856-kukhnya-3-3-01666	SINGLE_PRODUCT
@@ -1879,7 +1867,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/00032104-kolyask
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/147004281-kukhnya-7-0847-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/147004283-moya-persha-kukhnya-3039-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200584646-9782-domashnya-laboratoriya-shkolyara-3-4-klas-12114064r	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/19038229-valiza-6108-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/147004633-nabir-kulok-perlamutrovikh-80-sht-467v-6-o	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584842-dityachiy-velosiped-miqilong-sd-chervoniy-12-mql-sd12-red	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/19033243-velosiped-dityachiy-prof1-g1855-18-dodatkovi-kolesa-dzvinok-chorno-biliy-chervoniy-	SINGLE_PRODUCT
@@ -1905,7 +1892,6 @@ https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584811-velosiped-dets
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/19039135-velosiped-dityachiy-prof1-20-d-w20115-2-original-krila-dzvinok-pidnizhka-siniy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584760-velosiped-detskiy-2-kh-kolyosnyy-14-191415-1sht-like2bike-rally-siniy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584813-velosiped-detskiy-2-kh-kolyosnyy-14-191425-1sht-like2bike-dark-rider-chyorno-siniy-	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584787-velosiped-detskiy-2-kh-kolyosnyy-18-191827-1sht-like2bike-active-salatovyy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584771-velosiped-detskiy-2-kh-kolyosnyy-16-191620-1sht-like2bike-dark-rider-chyorno-siniy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584792-velosiped-detskiy-2-kh-kolyosnyy-20-192028-1sht-like2bike-active-rozovyy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584764-velosiped-detskiy-2-kh-kolyosnyy-16-191613-1sht-like2bike-rally-goluboy	SINGLE_PRODUCT
@@ -1916,7 +1902,6 @@ https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584762-velosiped-dets
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/19038023-velosiped-3-kh-koles-tr17009-roz-1sht-skladnoy-kozyrek-naduvnye-kolesa-12-i-10	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584759-velosiped-detskiy-2-kh-kolyosnyy-14-191414-1sht-like2bike-rally-salatovyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584810-velosiped-detskiy-2-kh-kolyosnyy-14-191422-1sht-like2bike-sprint-goluboy-	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584763-velosiped-detskiy-2-kh-kolyosnyy-14-191418-1sht-like2bike-rally-fuksiya-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584765-velosiped-detskiy-2-kh-kolyosnyy-16-191614-1sht-like2bike-rally-salatovyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584806-velosiped-detskiy-2-kh-kolyosnyy-20-192035-1sht-like2bike-sprint-siniy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584791-velosiped-detskiy-2-kh-kolyosnyy-20-192027-1sht-like2bike-active-salatovyy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
@@ -1924,11 +1909,9 @@ https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584782-velosiped-dets
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584784-velosiped-detskiy-2-kh-kolyosnyy-16-191628-1sht-like2bike-active-rozovyy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584807-velosiped-detskiy-2-kh-kolyosnyy-14-191419-1sht-like2bike-sprint-rozovyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584766-velosiped-detskiy-2-kh-kolyosnyy-16-191615-1sht-like2bike-rally-siniy-	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584776-velosiped-detskiy-2-kh-kolyosnyy-18-191821-1sht-like2bike-dark-rider-chyorno-zhyoltyy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584801-velosiped-detskiy-2-kh-kolyosnyy-18-191834-1sht-like2bike-sprint-goluboy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584848-dityachiy-velosiped-miqilong-yd-pomarancheviy-14-mql-yd14-orange	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584847-dityachiy-velosiped-miqilong-sd-siniy-12-mql-sd12-blue	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584781-velosiped-detskiy-2-kh-kolyosnyy-20-192024-1sht-like2bike-dark-rider-chyorno-rozovyy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584809-velosiped-detskiy-2-kh-kolyosnyy-14-191421-1sht-like2bike-sprint-zelyonyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584793-velosiped-detskiy-2-kh-kolyosnyy-20-192029-1sht-like2bike-active-zhyoltyy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584849-dityachiy-velosiped-miqilong-yd-chervoniy-16-mql-yd16-red	SINGLE_PRODUCT
@@ -1954,7 +1937,6 @@ https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584661-samokat
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584654-samokat-tryukovyy-2-kh-kolyos-sc190311-6-sht-chernyy-kolesa-pu-100-mm-alyum	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584846-samokat-neon-flash-zeleniy-n100798	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584656-samokat-detskiy-3-kh-kolyos-sc20136-6-sht-printovanyy-kolesa-pu-so-svetom	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584650-samokat-detskiy-4-kh-kolyos-5-v-1-sc17099-6sht-zelyonyy-kolesa-pu-so-svetom	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584663-skeyt-sl-f04-6sht-pu-kolesa-razmer-7020sm-4-tsveta	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584840-samokat-neon-viper-zeleniy-n100829	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584841-samokat-neon-flash-siniy-n100796	SINGLE_PRODUCT
@@ -2070,7 +2052,6 @@ https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039114-igroviy-tsentr-
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/00043340-57431-basseyn-detskiy-krokodil-s-razbryzgivatelem-19816091sm-4-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19035249-nabir-vodyanoyi-zbroyi-3v1-korobka-vodyaniy-pistolet-maska-yys-01-r-45318sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/00045887-vodyaniy-pistolet-kulok-3366-r-481123-sm	SINGLE_PRODUCT
-https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19033388-vodyaniy-pistolet-kulok-3388-r-601326-5-sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19035613-vodnyy-pistolet-yw0459-1-60sht-s-ryukzakom-v-pakete	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/152-vozdushnye-zmei-vetryachki-sachki/19035057-zapuskalka-as920-1498257-48sht-na-planshetke-33183sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/152-vozdushnye-zmei-vetryachki-sachki/147004503-planer-bp19918-60sht-31-534-sm-s-motorchikom-na-planshetke	SINGLE_PRODUCT
