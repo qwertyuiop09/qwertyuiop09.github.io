@@ -1093,7 +1093,6 @@ https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/19032988
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/147005551-blisk-dlya-gub-num-noms	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200585119-kreyda-dlya-volossya-klasichni-kol-v-nabori-5-kol-podarunkova-upakovka-solorino-37015ptr	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/19036888-kosmetika-b6284-48sht-2-2-yarusa-teni-pomada-kistochki-v-kor-29625sm	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/02003660-dityachiy-manikyurniy-nabir-art-xqh121713-36sht-0-plastik-korobka-z-vidkritim-viknom-36x27x8sm-jambo-200423366	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200585445-kosmetika-2966ta-36sht-2-teni-kistochki-pomada-lak-r-r-igrushki-14-5154-5-sm-v-kor-25632-5-sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200584877-shkatulka-kartonna-dlya-prikras-190x110kh135mm-edinorig-gb01-1904	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200584090-grim-dlya-litsa-9-tsv	SINGLE_PRODUCT
@@ -1820,7 +1819,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/00020943-b
 https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/19034868-nastilna-rozvazhalna-gra-super-rancher-g-sr-01-01u-p	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/147004676-nastilna-rozvazhalna-gra-fantasy-30564-strateg	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/19037677-nastilna-rozvazhalna-gra-alians-g-aln-01u-p	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/147004631-rozvivayucha-nastilna-gra-mega-vega-g-mv-01u-p	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/19034758-rozvivayucha-igrashka-korablik-v-korobtsi	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/19035458-mash-shvidka-dopomoga-tekhnok-4579-tekhn-6	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/147004263-avto-fs-2-betonozmishuvach-516-o	SINGLE_PRODUCT
@@ -1900,7 +1898,6 @@ https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584766-velosiped-dets
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584801-velosiped-detskiy-2-kh-kolyosnyy-18-191834-1sht-like2bike-sprint-goluboy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584848-dityachiy-velosiped-miqilong-yd-pomarancheviy-14-mql-yd14-orange	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584847-dityachiy-velosiped-miqilong-sd-siniy-12-mql-sd12-blue	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584809-velosiped-detskiy-2-kh-kolyosnyy-14-191421-1sht-like2bike-sprint-zelyonyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584793-velosiped-detskiy-2-kh-kolyosnyy-20-192029-1sht-like2bike-active-zhyoltyy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584849-dityachiy-velosiped-miqilong-yd-chervoniy-16-mql-yd16-red	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/19038168-velosiped-dityachiy-prof1-16-d-y16104-top-grade-dzvinok-dop-kolesa-biryuzoviy-	SINGLE_PRODUCT
