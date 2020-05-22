@@ -36,7 +36,7 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 					google_conversion_label: "_mXbCKzbuLYBEK2ew8wC",
 					google_remarketing_only: false
 						};
-//					console.log(typeof(window['google_trackConversion']));
+					console.log(typeof(window['google_trackConversion']));
 					SSCHunterAdwordstrack(AdwConvTime);
 					console.log('SSCHunterAdwordstrack Ok');
 
