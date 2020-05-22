@@ -24,7 +24,8 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 //передаем в ads Заинтересованность 2с
 		try {
 
-			if (Math.random() < 0.5) {
+			//if (Math.random() < 0.5) {
+			if (1) {
 
 				setTimeout(function() {
 
