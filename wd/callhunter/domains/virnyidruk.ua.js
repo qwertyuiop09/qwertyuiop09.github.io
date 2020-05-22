@@ -16,7 +16,7 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 //передаем в аналитикс Заинтересованность 1с
 		try {
 			if(typeof SSCHunterGa=="function")SSCHunterGa("Client Active","ss_send_active");
-//			console.log('SSCHunterGa Ok');
+			console.log('SSCHunterGa Ok');
 		} catch (e) {
 			console.log('SSCHunterGa Error, name: ' + e.name + ", message: " + e.message);
 		}
@@ -38,7 +38,7 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 						};
 //					console.log(typeof(window['google_trackConversion']));
 					SSCHunterAdwordstrack(AdwConvTime);
-//					console.log('SSCHunterAdwordstrack Ok');
+					console.log('SSCHunterAdwordstrack Ok');
 
 
 				}, 1000);
