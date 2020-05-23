@@ -100,8 +100,8 @@ https://mubler.com.ua/p1082577986-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082679292-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082680181-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082680459-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1125529745-tumba-prilizhkova-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082680985-tumba-prilizhkova-neman.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1125529745-tumba-prilizhkova-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128765716-tumba-prilizhkova-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128774844-tumba-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128799902-tumba-prilizhkova-art.html	SINGLE_PRODUCT
@@ -278,8 +278,8 @@ https://mubler.com.ua/p1078704288-stil-neman-pristavnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078705008-stil-neman-pristavnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078705053-stil-neman-pristavnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078705725-stil-neman-rozkladnij.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1101851793-stil-neman-zhurnalnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078706607-stil-transformer-neman.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1101851793-stil-neman-zhurnalnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128752047-stil-zhurnalnij-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128772598-stil-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128804189-stil-zhurnalnij-art.html	SINGLE_PRODUCT
