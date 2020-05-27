@@ -1,5 +1,5 @@
 
-var IpAid='hyundai-auto.kh.ua';
+var IpAid='frunze.hyundai.com.ua';
 
 
 var intepriceApermissions = {
