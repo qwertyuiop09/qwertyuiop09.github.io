@@ -1,10 +1,10 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 19
+Scanned step: 20
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 23531 URLS
-Scanned 23275 URLS
+Scanned 23276 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -13,7 +13,7 @@ Add / Modify urls in GASearch id3 2 URLS
 All urls in GASearch id3 551 URLS
 All urls in feed id3 562 URLS
 Found parsed item urls for id3 562 URLS
-Not found parsed item urls for id3 22594 URLS (see in log details)
+Not found parsed item urls for id3 22595 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -22,7 +22,7 @@ Add / Modify urls in GASearch id4 0 URLS
 All urls in GASearch id4 2605 URLS
 All urls in feed id4 2697 URLS
 Found parsed item urls for id4 2697 URLS
-Not found parsed item urls for id4 20459 URLS (see in log details)
+Not found parsed item urls for id4 20460 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -31,7 +31,7 @@ Add / Modify urls in GASearch id5 2 URLS
 All urls in GASearch id5 3107 URLS
 All urls in feed id5 3199 URLS
 Found parsed item urls for id5 3199 URLS
-Not found parsed item urls for id5 19957 URLS (see in log details)
+Not found parsed item urls for id5 19958 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
