@@ -1,19 +1,7 @@
 Error delete files in removeAllScanFiles !!!, message in script start
 Found 1 error file(s): 
-evie.ua.evieua.feed.demi.2.gas.html
-evie.ua.evieua.feed.leto_dsa.2.ga.txt
-evie.ua.evieua.feed.leto.2.html
-evie.ua.evieua.feed.demi_rub_dsa.2.ga.txt
-evie.ua.evieua.feed.demi_dsa.2.ga.txt
-evie.ua.evieua.feed.demi.2.ga.txt
-evie.ua.evieua.feed.demi.2.html
 evie.ua.SSSitesAlreadyChecked.json
-evie.ua.evieua.feed.leto.1.gas.html
-evie.ua.evieua.feed.demi.1.gas.html
-evie.ua.evieua.feed.leto.1.ga.txt
-evie.ua.evieua.feed.demi.1.ga.txt
 
 Found 2 error file(s): 
-evie.ua.evieua.feed.demi.1.ga.txt
 
 account evie.ua
