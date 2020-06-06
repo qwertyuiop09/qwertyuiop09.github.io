@@ -1,0 +1,2 @@
+id	excluded_destination	comment
+2205285733	Shopping Ads	 msales av 150.56
