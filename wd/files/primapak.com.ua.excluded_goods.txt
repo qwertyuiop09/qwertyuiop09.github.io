@@ -1,2 +1,2 @@
-id	excluded_destination	comment
-2205285733	Shopping Ads	 msales av 150.56
+id	excluded_destination	custom_label_4	comment
+2205285733	Shopping Ads	210350353	 msales av 148.53
