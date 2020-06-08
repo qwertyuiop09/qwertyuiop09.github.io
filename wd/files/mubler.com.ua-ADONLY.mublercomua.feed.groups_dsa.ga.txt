@@ -1,13 +1,1 @@
 Page URL	Custom label
-https://mubler.com.ua/	MAIN_PAGE
-https://mubler.com.ua/g68844825-stoli	PRODUCT_RUBRIC
-https://mubler.com.ua/g68920627-lizhka	PRODUCT_RUBRIC
-https://mubler.com.ua/g68998943-mizhkimnatni-dveri	PRODUCT_RUBRIC
-https://mubler.com.ua/g69602551-komodi	PRODUCT_RUBRIC
-https://mubler.com.ua/g69948326-tumbi-tumbi	PRODUCT_RUBRIC
-https://mubler.com.ua/g70225241-dzerkala	PRODUCT_RUBRIC
-https://mubler.com.ua/g82183453-shafi-shafi-kupe	PRODUCT_RUBRIC
-https://mubler.com.ua/g83624199-dityachi-lizhka	PRODUCT_RUBRIC
-https://mubler.com.ua/g84112613-prihozhi	PRODUCT_RUBRIC
-https://mubler.com.ua/g84953487-vishalki	PRODUCT_RUBRIC
-https://mubler.com.ua/g84954819-mebli-dlya-vitalni	PRODUCT_RUBRIC
