@@ -1,1 +1,2 @@
-Page URL	Custom label	comment
+Page URL	Custom label
+https://jambo.ua/aaaaa/	decline	comment
