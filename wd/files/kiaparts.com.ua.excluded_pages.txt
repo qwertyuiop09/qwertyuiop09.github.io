@@ -1,1 +1,1 @@
-Page URL	Custom label	comment
+Page URL	Custom label
