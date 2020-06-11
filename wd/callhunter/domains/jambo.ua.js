@@ -244,8 +244,8 @@ var IPchatConfig = {
 		window.IPclhrDataUpdate.ViewFormClick += ", #" + idcallback;
 
 //перезаписываем ссылку (на ссылке по умолчанию висит обработчик)
-//		var tmpa = document.getElementById(idcallback);
-//		tmpa.href = "javascript:void(0);";
+		var tmpa = document.getElementById(idcallback);
+		tmpa.href = "javascript:void(0);";
 
 
 
