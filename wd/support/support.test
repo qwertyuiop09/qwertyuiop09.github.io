@@ -32,14 +32,14 @@ if (IPclhrData.ViewFormClick) {
 
 	b(document).delegate(IPclhrData.ViewFormClick,"click",function(a){intepriceCallHunterActive&&a.preventDefault();return E(2)});
 
-/*
+
 		b(IPclhrData.ViewFormClick).each(function() {
 			var buttonCurr=b(this)[0];
 			buttonCurr.addEventListener = function addEventListener() {};
 			buttonCurr.attachEvent = function attachEvent() {};
 		});
 
-*/
+
 
 
 }
