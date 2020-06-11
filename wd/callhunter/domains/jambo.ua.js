@@ -248,13 +248,13 @@ var IPchatConfig = {
 		window.jqIPAcode("#" + idcallback).attr('href', "javascript:void(0);");
 
 
-window.jqIPAcode("#" + idcallback).change(function(){
-      console.log( window.jqIPAcode("#" + idcallback).attr("href") );
-});
+//window.jqIPAcode("#" + idcallback).change(function(){
+//      console.log( window.jqIPAcode("#" + idcallback).attr("href") );
+//});
 
 
-//window.jqIPAcode("#" + idcallback).bind('hashchange',function(){ 
-window.jqIPAcode("#" + idcallback).delegate('hashchange',function(){ 
+window.jqIPAcode("#" + idcallback).bind('hashchange',function(){ 
+//window.jqIPAcode("#" + idcallback).delegate('hashchange',function(){ 
     console.log( window.jqIPAcode("#" + idcallback).attr("href") + ' 2' );
 }); 
 
