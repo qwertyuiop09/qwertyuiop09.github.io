@@ -247,7 +247,7 @@ var IPchatConfig = {
 			var tmpa = document.getElementById(idcallback);
 			if (tmpa.href !== "javascript:void(0);")
 				tmpa.href = "javascript:void(0);";
-		}, 2000);
+		}, 20000);
 
 
 
