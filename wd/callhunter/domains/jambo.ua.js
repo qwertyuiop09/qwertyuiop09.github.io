@@ -244,6 +244,7 @@ var IPchatConfig = {
 		window.IPclhrDataUpdate.ViewFormClick += ", #" + idcallback;
 
 
+		//всегда href не должен меняться и равен javascript:void(0);
 		var tmpa = document.getElementById(idcallback);
 		if (tmpa.href !== "javascript:void(0);")
 			tmpa.href = "javascript:void(0);";
@@ -253,93 +254,6 @@ var IPchatConfig = {
 			if (tmpa.href !== "javascript:void(0);")
 				tmpa.href = "javascript:void(0);";
 		}, 2000);
-
-
-
-/*
-
-
-		window.jqIPAcode("#" + idcallback).attr('href', "javascript:void(0);");
-
-		setInterval(function() {
-			window.jqIPAcode("#" + idcallback).attr('href', "javascript:void(0);");
-		}, 2000);
-
-
-
-
-//window.jqIPAcode("#" + idcallback).change(function(){
-//      console.log( window.jqIPAcode("#" + idcallback).attr("href") );
-//});
-
-
-window.jqIPAcode("#" + idcallback).bind('hashchange',function(){ 
-//window.jqIPAcode("#" + idcallback).delegate('hashchange',function(){ 
-    console.log( window.jqIPAcode("#" + idcallback).attr("href") + ' 2' );
-}); 
-
-
-
-
-		window.jqIPAcode(document).delegate("#" + idcallback, "click", function(e) {
-//			var tmpa = document.getElementById(idcallback);
-//			tmpa.href = "javascript:void(0);";
-//			e.preventDefault();
-//			window.jqIPAcode(this).attr('href', "javascript:void(0);");
-//  window.jqIPAcode(this).prop('href','javascript:void(0);');
-//alert('Testing, sorry!');
-
-	e.preventDefault();
-        this.href = "javascript:void(0);";
-//        window.jqIPAcode(this).click();
-
-
-
-		});
-
-
-
-
-
-//перезаписываем ссылку (на ссылке по умолчанию висит обработчик)
-		var tmpa = document.getElementById(idcallback);
-		tmpa.href = "javascript:void(0);";
-
-
-
-
-
-		function recreateNode(el, withChildren) {
-		  if (withChildren) {
-		    el.parentNode.replaceChild(el.cloneNode(true), el);
-		  } else {
-		    var newEl = el.cloneNode(false);
-		    while (el.hasChildNodes()) newEl.appendChild(el.firstChild);
-		    el.parentNode.replaceChild(newEl, el);
-		  }
-		}
-
-
-//это удаление всех предыдущих js-обработчиков
-		window.jqIPAcode('#'+idcallback).each(function() {
-			var buttonCurr=window.jqIPAcode(this)[0];
-			recreateNode(buttonCurr, true);
-		});
-
-
-
-//это удаление всех подключаемых потом js-обработчиков
-//ставим в конце функции, иначе не cработает (здесь не сработает)
-		window.jqIPAcode('#'+idcallback).each(function() {
-			var buttonCurr=window.jqIPAcode(this)[0];
-			buttonCurr.addEventListener = function addEventListener() {};
-			buttonCurr.attachEvent = function attachEvent() {};
-		});
-
-*/
-
-
-
 
 
 
