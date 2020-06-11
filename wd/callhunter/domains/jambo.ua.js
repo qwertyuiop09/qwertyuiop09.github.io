@@ -270,6 +270,8 @@ jQuery(IPclhrData["PRIClass"]).each(function() {
 		}
 		window.IPclhrDataUpdate.ViewFormClick += ".sidebar-contacts-block > li:nth-child(1) > div:nth-child(2) > p:nth-child(2), .sidebar-contacts-block > li:nth-child(1) > div:nth-child(2) > p:nth-child(5), .sidebar-contacts-block > li:nth-child(1) > svg:nth-child(1)";
 
+		window.IPclhrDataUpdate.ViewFormClick += ", #request-call";
+
 
 	}
 
