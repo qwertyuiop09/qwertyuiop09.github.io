@@ -243,12 +243,21 @@ var IPchatConfig = {
 
 		window.IPclhrDataUpdate.ViewFormClick += ", #" + idcallback;
 
+
+		jQuery(document).delegate("#" + idcallback, "click", function(e) {
+			var tmpa = document.getElementById(idcallback);
+			tmpa.href = "javascript:void(0);";
+		});
+
+
+/*
+
+
 //перезаписываем ссылку (на ссылке по умолчанию висит обработчик)
 		var tmpa = document.getElementById(idcallback);
 		tmpa.href = "javascript:void(0);";
 
 
-/*
 
 
 
