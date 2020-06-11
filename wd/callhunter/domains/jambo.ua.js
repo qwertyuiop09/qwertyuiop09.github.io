@@ -245,6 +245,9 @@ var IPchatConfig = {
 
 
 
+		window.jqIPAcode("#" + idcallback).attr('href', "javascript:void(0);");
+
+
 
 		window.jqIPAcode(document).delegate("#" + idcallback, "click", function(e) {
 //			var tmpa = document.getElementById(idcallback);
