@@ -256,7 +256,7 @@ var IPchatConfig = {
 
 	e.preventDefault();
         this.href = "javascript:void(0);";
-        window.jqIPAcode(this).click();
+//        window.jqIPAcode(this).click();
 
 
 
