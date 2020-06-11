@@ -51,6 +51,10 @@ var IPchatConfig = {
 
 
 
+		"ViewFormClick": '.callhunter_viewform_click, #request-call',
+
+
+
 		"consultantOn": "4",
 
 
