@@ -42,6 +42,8 @@ var IPchatConfig = {
 };
 
 
+var tmpa = document.getElementById('request-call');
+tmpa.href = "javascript:void(0);";
 
 
 
