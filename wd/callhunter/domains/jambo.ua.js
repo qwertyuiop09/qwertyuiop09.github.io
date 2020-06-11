@@ -244,7 +244,7 @@ var IPchatConfig = {
 		window.IPclhrDataUpdate.ViewFormClick += ", #" + idcallback;
 
 
-		jQuery(document).delegate("#" + idcallback, "click", function(e) {
+		window.jqIPAcode(document).delegate("#" + idcallback, "click", function(e) {
 			var tmpa = document.getElementById(idcallback);
 			tmpa.href = "javascript:void(0);";
 		});
