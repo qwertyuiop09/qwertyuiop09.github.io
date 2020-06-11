@@ -238,11 +238,14 @@ var IPchatConfig = {
 		}
 		window.IPclhrDataUpdate.ViewFormClick += ".sidebar-contacts-block > li:nth-child(1) > div:nth-child(2) > p:nth-child(2), .sidebar-contacts-block > li:nth-child(1) > div:nth-child(2) > p:nth-child(5), .sidebar-contacts-block > li:nth-child(1) > svg:nth-child(1)";
 
-		window.IPclhrDataUpdate.ViewFormClick += ", #request-call";
+
+		var idcallback = 'request-call';
+
+		window.IPclhrDataUpdate.ViewFormClick += ", #" + idcallback;
 
 //перезаписываем ссылку (на ссылке по умолчанию висит обработчик)
-		var tmpa = document.getElementById('request-call');
-		tmpa.href = "javascript:void(0);";
+//		var tmpa = document.getElementById(idcallback);
+//		tmpa.href = "javascript:void(0);";
 
 
 
@@ -258,10 +261,24 @@ var IPchatConfig = {
 
 
 //это удаление всех предыдущих js-обработчиков
-		window.jqIPAcode('#request-call').each(function() {
+		window.jqIPAcode('#'+idcallback).each(function() {
 			var buttonCurr=window.jqIPAcode(this)[0];
 			recreateNode(buttonCurr, true);
 		});
+
+
+
+/*
+//это удаление всех подключаемых потом js-обработчиков
+//ставим в конце функции, иначе не cработает (здесь не сработает)
+		window.jqIPAcode('#'+idcallback).each(function() {
+			var buttonCurr=jQuery(this)[0];
+			buttonCurr.addEventListener = function addEventListener() {};
+			buttonCurr.attachEvent = function attachEvent() {};
+		});
+
+*/
+
 
 
 
