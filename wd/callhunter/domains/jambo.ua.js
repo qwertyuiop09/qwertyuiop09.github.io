@@ -265,6 +265,11 @@ jQuery(IPclhrData["PRIClass"]).each(function() {
 
 		window.IPclhrDataUpdate.ViewFormClick += ", #request-call";
 
+		var tmpa = document.getElementById('request-call');
+		tmpa.href = "javascript:void(0);";
+
+
+
 
 	}
 
