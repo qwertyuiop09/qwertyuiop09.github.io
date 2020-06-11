@@ -249,6 +249,8 @@ var IPchatConfig = {
 
 
 
+/*
+
 		window.jqIPAcode(document).delegate("#" + idcallback, "click", function(e) {
 //			var tmpa = document.getElementById(idcallback);
 //			tmpa.href = "javascript:void(0);";
@@ -266,7 +268,7 @@ var IPchatConfig = {
 		});
 
 
-/*
+
 
 
 //перезаписываем ссылку (на ссылке по умолчанию висит обработчик)
@@ -274,7 +276,7 @@ var IPchatConfig = {
 		tmpa.href = "javascript:void(0);";
 
 
-*/
+
 
 
 		function recreateNode(el, withChildren) {
@@ -295,7 +297,6 @@ var IPchatConfig = {
 		});
 
 
-/*
 
 //это удаление всех подключаемых потом js-обработчиков
 //ставим в конце функции, иначе не cработает (здесь не сработает)
