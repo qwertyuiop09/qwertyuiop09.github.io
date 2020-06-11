@@ -243,11 +243,16 @@ var IPchatConfig = {
 
 		window.IPclhrDataUpdate.ViewFormClick += ", #" + idcallback;
 
+
+		var tmpa = document.getElementById(idcallback);
+		if (tmpa.href !== "javascript:void(0);")
+			tmpa.href = "javascript:void(0);";
+
 		setInterval(function() {
 			var tmpa = document.getElementById(idcallback);
 			if (tmpa.href !== "javascript:void(0);")
 				tmpa.href = "javascript:void(0);";
-		}, 20000);
+		}, 2000);
 
 
 
