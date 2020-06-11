@@ -253,6 +253,12 @@ window.jqIPAcode("#" + idcallback).change(function(){
 });
 
 
+//window.jqIPAcode("#" + idcallback).bind('hashchange',function(){ 
+window.jqIPAcode("#" + idcallback).delegate('hashchange',function(){ 
+    console.log( window.jqIPAcode("#" + idcallback).attr("href") + ' 2' );
+}); 
+
+
 
 /*
 
