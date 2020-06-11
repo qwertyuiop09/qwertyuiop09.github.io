@@ -248,6 +248,11 @@ var IPchatConfig = {
 		window.jqIPAcode("#" + idcallback).attr('href', "javascript:void(0);");
 
 
+
+
+/*
+
+
 //window.jqIPAcode("#" + idcallback).change(function(){
 //      console.log( window.jqIPAcode("#" + idcallback).attr("href") );
 //});
@@ -260,7 +265,6 @@ window.jqIPAcode("#" + idcallback).bind('hashchange',function(){
 
 
 
-/*
 
 		window.jqIPAcode(document).delegate("#" + idcallback, "click", function(e) {
 //			var tmpa = document.getElementById(idcallback);
