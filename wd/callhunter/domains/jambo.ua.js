@@ -249,6 +249,8 @@ var IPchatConfig = {
 //			tmpa.href = "javascript:void(0);";
 			e.preventDefault();
 			window.jqIPAcode(this).attr('href', "javascript:void(0);");
+//  window.jqIPAcode(this).prop('href','javascript:void(0);');
+
 		});
 
 
