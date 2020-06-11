@@ -74,13 +74,6 @@ jQuery(IPclhrData["PRIClass"]).each(function() {
 		"CSS": '.clhr-form textarea { line-height: 20px; }  .clhr-form .clhr-cls { line-height: 17px; }',
 
 
-
-//		"ViewFormClick": '.callhunter_viewform_click, #request-call, .request-call-button.button.text-uppercase, .request-call-wrap.text-center',
-
-//		"ViewFormClick": '.callhunter_viewform_click, .request-call-button',
-
-
-
 		"consultantOn": "4",
 
 
