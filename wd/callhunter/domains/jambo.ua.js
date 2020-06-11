@@ -248,6 +248,7 @@ var IPchatConfig = {
 		tmpa.href = "javascript:void(0);";
 
 
+/*
 
 		function recreateNode(el, withChildren) {
 		  if (withChildren) {
@@ -268,11 +269,10 @@ var IPchatConfig = {
 
 
 
-/*
 //это удаление всех подключаемых потом js-обработчиков
 //ставим в конце функции, иначе не cработает (здесь не сработает)
 		window.jqIPAcode('#'+idcallback).each(function() {
-			var buttonCurr=jQuery(this)[0];
+			var buttonCurr=window.jqIPAcode(this)[0];
 			buttonCurr.addEventListener = function addEventListener() {};
 			buttonCurr.attachEvent = function attachEvent() {};
 		});
