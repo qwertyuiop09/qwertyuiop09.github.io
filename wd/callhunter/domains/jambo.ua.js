@@ -244,13 +244,21 @@ var IPchatConfig = {
 		window.IPclhrDataUpdate.ViewFormClick += ", #" + idcallback;
 
 
+
+
 		window.jqIPAcode(document).delegate("#" + idcallback, "click", function(e) {
 //			var tmpa = document.getElementById(idcallback);
 //			tmpa.href = "javascript:void(0);";
 //			e.preventDefault();
 //			window.jqIPAcode(this).attr('href', "javascript:void(0);");
 //  window.jqIPAcode(this).prop('href','javascript:void(0);');
-alert('Testing, sorry!');
+//alert('Testing, sorry!');
+
+	e.preventDefault();
+        this.href = "javascript:void(0);";
+        window.jqIPAcode(this).click();
+
+
 
 		});
 
