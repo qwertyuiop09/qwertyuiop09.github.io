@@ -243,6 +243,15 @@ var IPchatConfig = {
 
 		window.IPclhrDataUpdate.ViewFormClick += ", #" + idcallback;
 
+		setInterval(function() {
+			var tmpa = document.getElementById(idcallback);
+			if (tmpa.href !== "javascript:void(0);")
+				tmpa.href = "javascript:void(0);";
+		}, 2000);
+
+
+
+/*
 
 
 		window.jqIPAcode("#" + idcallback).attr('href', "javascript:void(0);");
@@ -252,7 +261,6 @@ var IPchatConfig = {
 		}, 2000);
 
 
-/*
 
 
 //window.jqIPAcode("#" + idcallback).change(function(){
