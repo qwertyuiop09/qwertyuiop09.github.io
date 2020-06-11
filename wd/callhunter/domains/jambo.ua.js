@@ -262,7 +262,7 @@ var IPchatConfig = {
 		tmpa.href = "javascript:void(0);";
 
 
-
+*/
 
 
 		function recreateNode(el, withChildren) {
@@ -283,7 +283,7 @@ var IPchatConfig = {
 		});
 
 
-
+/*
 
 //это удаление всех подключаемых потом js-обработчиков
 //ставим в конце функции, иначе не cработает (здесь не сработает)
