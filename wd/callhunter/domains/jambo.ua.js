@@ -247,7 +247,9 @@ var IPchatConfig = {
 
 		window.jqIPAcode("#" + idcallback).attr('href', "javascript:void(0);");
 
-
+		setInterval(function() {
+			window.jqIPAcode("#" + idcallback).attr('href', "javascript:void(0);");
+		}, 2000);
 
 
 /*
