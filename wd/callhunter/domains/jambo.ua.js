@@ -42,31 +42,6 @@ var IPchatConfig = {
 };
 
 
-/*
-var tmpa = document.getElementById('request-call');
-tmpa.href = "javascript:void(0);";
-//tmpa.href = "#";
-
-function recreateNode(el, withChildren) {
-  if (withChildren) {
-    el.parentNode.replaceChild(el.cloneNode(true), el);
-  } else {
-    var newEl = el.cloneNode(false);
-    while (el.hasChildNodes()) newEl.appendChild(el.firstChild);
-    el.parentNode.replaceChild(newEl, el);
-  }
-}
-
-
-//это удаление всех предыдущих js-обработчиков
-jQuery(IPclhrData["PRIClass"]).each(function() {
-	var buttonCurr=jQuery(this)[0];
-	recreateNode(buttonCurr, true);
-});
-
-*/
-
-
 
 
 	var IPclhrDataUpdate = {
@@ -265,6 +240,7 @@ jQuery(IPclhrData["PRIClass"]).each(function() {
 
 		window.IPclhrDataUpdate.ViewFormClick += ", #request-call";
 
+//перезаписываем ссылку (на ссылке по умолчанию висит обработчик)
 		var tmpa = document.getElementById('request-call');
 		tmpa.href = "javascript:void(0);";
 
