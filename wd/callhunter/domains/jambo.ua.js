@@ -54,7 +54,7 @@ tmpa.href = "javascript:void(0);";
 
 
 
-		"ViewFormClick": '.callhunter_viewform_click, #request-call, .request-call-button.button.text-uppercase',
+		"ViewFormClick": '.callhunter_viewform_click, #request-call, .request-call-button.button.text-uppercase, .request-call-wrap.text-center',
 
 //		"ViewFormClick": '.callhunter_viewform_click, .request-call-button',
 
