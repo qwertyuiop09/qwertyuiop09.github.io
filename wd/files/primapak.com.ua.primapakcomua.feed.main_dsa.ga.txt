@@ -6,11 +6,11 @@ https://primapak.com.ua/catalog/paketi_mayka/pakety_dlya_magazinov_razlivnogo_pi
 https://primapak.com.ua/catalog/paketi_mayka/pakety_dlya_magazinov_razlivnogo_piva/2279/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_dlya_magazinov_razlivnogo_piva/2281/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_produktovykh_marketov/2283/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_produktovykh_marketov/2285/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_produktovykh_marketov/2287/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_produktovykh_marketov/2288/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_produktovykh_marketov/2284/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_produktovykh_marketov/2285/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_produktovykh_marketov/2286/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_produktovykh_marketov/2284/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_sushi/2289/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_sushi/2290/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_mayka_dlya_sushi/2293/	SINGLE_PRODUCT
