@@ -1,1 +1,2 @@
 id	excluded_destination	custom_label_4	comment
+2205285733	Shopping Ads	210350353	 msales av 116.5
