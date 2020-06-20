@@ -145,8 +145,8 @@ https://mubler.com.ua/p1082559242-komod-neman-krid.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082561785-komod-neman-krid.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082562196-komod-neman-krid.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082565368-komod-neman-kris.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1082565679-komod-neman-kris.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1127003282-komod-art-head.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1082565679-komod-neman-kris.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1127005136-komod-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1082566289-komod-neman-kris.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128770442-komod-art-head.html	SINGLE_PRODUCT
@@ -161,8 +161,8 @@ https://mubler.com.ua/p1130178250-komod-masterform-akvarel.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1130180470-komod-masterform-akvarel.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1009930534-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1009931675-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1081746055-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1009933335-mizhkimnatni-dveri-sklom.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1081746055-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1009934281-mizhkimnatni-dveri-neman.html	SINGLE_PRODUCT
 https://mubler.com.ua/p998361309-komod-neman-lajt.html	SINGLE_PRODUCT
 https://mubler.com.ua/p998363859-komod-neman-lajt.html	SINGLE_PRODUCT
@@ -281,8 +281,8 @@ https://mubler.com.ua/p1078704288-stil-neman-pristavnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078705008-stil-neman-pristavnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078705053-stil-neman-pristavnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078705725-stil-neman-rozkladnij.html	SINGLE_PRODUCT
-https://mubler.com.ua/p1101851793-stil-neman-zhurnalnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1078706607-stil-transformer-neman.html	SINGLE_PRODUCT
+https://mubler.com.ua/p1101851793-stil-neman-zhurnalnij.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128752047-stil-zhurnalnij-art.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128772598-stil-art-head.html	SINGLE_PRODUCT
 https://mubler.com.ua/p1128804189-stil-zhurnalnij-art.html	SINGLE_PRODUCT
