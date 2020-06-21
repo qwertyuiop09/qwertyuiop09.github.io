@@ -1,4 +1,22 @@
 Page URL	Custom label
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19035430-knizhka-z-mekhanizmami-persha-knizhka-z-rukhomimi-elementami-kolori-verti-shtovkhay-malyuy-ta-gray	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584410-kniga-persha-entsiklopediya-tvarin-dlya-malyukiv-vid-8-misyatsiv-do-5-rokiv-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584420-kniga-ukrayinski-narodni-kazki-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19035163-knizhka-z-mekhanizmami-persha-knizhka-z-rukhomimi-elementami-pori-roku-diznaysya-gray-kruti-shtovkhay	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584392-kniga-kniga-kartonka-persha-velika-abetka-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19039194-kniga-kazki-gans-khristiyan-andersen-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19036949-kniga-knizhkavikontsya-diznaysya-sekreti-transportu-ukr-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19034223-kniga-kniga-kartonka-velikiy-vimmelbukh-tvarini-ukr-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037854-kniga-dinozavri-ta-inshi-davni-tvarini-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19038424-kniga-ilyustrovaniy-atlas-zhivoyi-prirodi-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19035428-kniga-kniga-kartonka-velikiy-vimmelbukh-transport-ukr-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19035164-knizhka-z-mekhanizmami-persha-knizhka-z-rukhomimi-elementami-sviyski-tvarini-diznavaysya-gray-kruti-shtovkhay	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19036198-kniga-knizhka-z-sekretnimi-vikontsyami-tsikavi-znannya-pro-use-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19036932-knizhka-z-mekhanizmami-persha-knizhka-z-rukhomimi-elementami-yidemo-letimo-plivemo-verti-shtovkhay-chitay-ta-gray	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19034220-knizhka-z-mekhanizmom-persha-knizhka-z-rukhomimi-elementami-lisovi-tvarini-diznaysya-gray-kruti-shtovkhay	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19034219-knizhka-z-mekhanizmom-persha-knizhka-z-rukhomimi-elementami-lichba-vid-0-do-9-lichi-divis-kruti-ta-vchis	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19038461-kniga-knizhka-z-sekretnimi-vikontsyami-tsifri-rozumna-knizhka-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584449-kniga-knizhka-z-sekretnimi-vikontsyami-potyagi-tsikava-knizhka-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039047-baseyn-57412-4-kiltsya-114-26-sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039112-baseyn-57124-ravlik-z-navisom-remkomplekt-2-3-roki-kor-145-102-44-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/00043313-57422-basseyn-detskiy-14733sm-6-	SINGLE_PRODUCT
@@ -222,8 +240,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/19038014-k
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585652-tolokar-muzichniy-avtoshka-salatovo-rozheviy-vinks-0142-08-doloni	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585637-mototsikl-politsiya-chervoniy-0138-560-doloni	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585636-mototsikl-politsiya-zeleniy-0138-520-doloni	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/00031947-bayk-politsiya-0138-570	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/00041120-mototsikl-2kh-kolesnyy-muz-limonnyy	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585661-skuter-biliy-502-orion	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585638-mototsikl-muzichniy-sport-zeleniy-0139-5-doloni	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004251-katalka-avtoshka-salatovo-rozheva-vinks-0141-08-f	SINGLE_PRODUCT
@@ -381,7 +397,6 @@ https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/08008640-shezl
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/08018763-krislo-goydalka-muzika-art-9a-6-3sht-plastik-kolorova-korobka-50-5x16x51-5sm-jambo-200567876	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/08009234-khodunki-art-9a-10-5sht-plastik-prozoriy-paket-55x70x65sm-jambo-200567923	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/08009180-khodunki-art-9a-8-5sht-plastik-prozoriy-paket-67x56x60sm-jambo-200567918	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/08009050-khodunki-art-9a-7-5sht-plastik-prozoriy-paket-67x67x60sm-jambo-200567905	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/08008534-krislo-goydalka-muzika-art-9a-1-4sht-plastik-kolorova-korobka-46x56x11-5sm-jambo-200567853	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport/01011459-avtobus-shkilniy-art-x666-01c-48sht-plastik-korobka-z-vidkritim-viknom-1x1x1sm-jambo-200425145	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport/01009394-mashinka-pozhezhna-art-933-134a-72sht-0-plastik-shouboks-20x16x12-5sm-jambo-200494939	SINGLE_PRODUCT
@@ -661,7 +676,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport/01004234-m
 https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport/01001459-mashinka-cross-country-art-3588-60sht-2-plastik-shouboks-xxsm-jambo-200500145	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport/01001975-pistolet-zapuskalka-z-mashinkami-art-7166q-60sht-plastik-korobka-z-vidkritim-viknom-26x8-5x20-5sm-jambo-200503197	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01001106-transformer-r-k-art-27-1kx-48sht-plastik-shouboks-17-5x15x20sm-jambo-200495110	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01021113-transformer-r-k-art-27-2kx-48sht-plastik-shouboks-17-5x15x20sm-jambo-200495111	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01011366-mashina-limuzin-r-k-art-666-713a-24sht-plastik-shouboks-47x14x14-5sm-jambo-200495136	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/01002608-parking-budtekhnika-art-p871-a-24sht-2-plastik-korobka-z-vidkritim-viknom-45-5x26-5x8-5sm-jambo-200206080	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/01011828-kosmichna-stantsiya-art-p889-a-30sht-2-plastik-korobka-z-vidkritim-viknom-41-5x24x8sm-jambo-200407182	SINGLE_PRODUCT
@@ -885,7 +899,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01009
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01009615-tank-r-k-art-xj19a-30sht-plastik-shouboks-35x15-5x14sm-jambo-200494961	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01003586-mashina-cross-country-r-k-art-zr902-12sht-plastik-korobka-z-vidkritim-viknom-36-7x19-2x20-5sm-jambo-200514358	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/03008203-dinozavr-r-k-art-60105-12sht-2-plastik-z-vidkritim-viknom-48-5x17x33sm-jambo-200083820	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01009641-mashina-r-k-art-ghh121317-96sht-0-plastik-korobka-z-vidkritim-viknom-26x9x12sm-jambo-200420964	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01004087-kran-r-k-art-6806-12sht-0-plastik-korobka-z-vidkritim-viknom-43-5x20-5x76sm-jambo-100234408	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01006953-mashinka-r-k-art-cv8818-80a-18sht-plastik-kolorova-korobka-38-8x10-8x24-8sm-jambo-200247695	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01005291-mashina-r-k-art-3031-1-24sht-plastik-shouboks-38x11x31sm-jambo-200495029	SINGLE_PRODUCT
@@ -923,7 +936,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01001
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19038125-robot-r-u-batar-602-603-48sht-2-2-vida-v-korobke-6-557-5sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19035788-mashina-na-r-u-8203g-12sht-v-korobke-29-813-28-sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/00047733-drakon-28109-4sht-r-u-70sm-khodit-prisedaet-dvig-golov-zvuk-svet-na-bat-ke-v-kor-ke-76-24-23sm	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01009634-mashina-r-k-art-ghh121319-36sht-0-plastik-korobka-z-vidkritim-viknom-35x12x16sm-jambo-200420963	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19033818-kvadrokopter-na-r-u-1336-24sht-r-r-109-59sm-v-korobke	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01015253-mashina-r-k-art-757-48sht-0-plastik-shouboks-32x13x14sm-jambo-200495025	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01006822-stroytekhnika-r-u-muz-svet-art-968-22-36sht-2-plastik-korobka-s-otkrytym-oknom-39-5x11x15sm-jambo-200052068	SINGLE_PRODUCT
@@ -1373,7 +1385,6 @@ https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/200585530-57112-
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/00046580-mikrofon-873-96sht-2batar-v-kor-23168sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/200585593-58021-ksilofon-sorter-na-kolesakh-1-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/00025359-muz-razv-telefon-umnyy-telefon-7028-60sht-2-batar-uchit-tsifram-bukvam-figuram-v-kor-29135sm	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/147004962-pianino-parovozik-tomas-korobka-6627-r-3823-57sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/147004435-muz-razv-igrushka-he0520-1702209-24sht-24-igrovye-paneli-zvuk-melodii-v-korobke-261721sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/147005316-58039-moya-pervaya-r-u-politseyskaya-mashina-2-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/147005325-igrovoy-nabor-skorostnoy-poezd-2-	SINGLE_PRODUCT
@@ -1455,7 +1466,6 @@ https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli/200584670-pog
 https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli/200584673-pogremushka-myagkaya-v-ruchku-fisher-price-gh73131-lvenok	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli/200584669-pogremushka-podveska-myagkaya-fisher-price-gh73146-knizhka-s-zerkaltsem	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli/200584672-pogremushka-myagkaya-v-ruchku-fisher-price-gh73100-zhiraf	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli/00044620-bryazkaltse-pishchalka-tigr-03037726	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli/200584675-pogremushka-myagkaya-v-ruchku-fisher-price-gh73133-zhiraf	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli/00040308-bryazkaltse-prorizuvach-kaleydoskop-zhaba-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli/200584679-pogremushka-podveska-myagkaya-fisher-price-gh73094-medvezhonok	SINGLE_PRODUCT
@@ -1506,7 +1516,6 @@ https://jambo.ua/08-igrushki-dlya-detey/108-kovriki/03011305-kilimok-igroviy-mik
 https://jambo.ua/08-igrushki-dlya-detey/108-kovriki/19031204-kilimok-muzichniy-shchenyachiy-patrul-yq3112-r-38304-sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/108-kovriki/30056623-kilimok-igroviy-art-17a-17-15sht-plastik-plivka-60x60x1sm-jambo-200566662	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/108-kovriki/200584018-igrovoy-kovrik-he0623-24sht-2-rul-v-korobke-431223sm	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/108-kovriki/00017968-kovrik-dlya-malyshey-trop-les-3059-602669-12sht-batar-muz-duga-pogrem-v-kor-54408-5sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/01004349-geroyi-svitlo-zvuk-art-xz-9962-48sht-2-plastik-z-vidkritim-viknom-31x23-6x7sm-jambo-200369434	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/03003269-dinozavr-svitlo-zvuk-art-1025a-18sht-0-plastik-z-vidkritim-viknom-32x14x27sm-jambo-200237326	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/03007249-dinozavr-svitlo-zvuk-art-388-2-60sht-2-plastik-z-vidkritim-viknom-26-4x9-6x19-3sm-jambo-200255724	SINGLE_PRODUCT
@@ -1763,7 +1772,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/147004676-
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/19034758-rozvivayucha-igrashka-korablik-v-korobtsi	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/19035458-mash-shvidka-dopomoga-tekhnok-4579-tekhn-6	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/147004260-a-m-k-maz-kh3-pozhezhna-034-o	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/00025258-pozharnaya-mashina-kh2-12	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/147004299-mozayika-8-geom-figuri-528sht-3008-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/00012477-piramida-vyduv-2-bol-15-01133	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/19029880-konstruktor-novogo-pokolinnya-vuildplay-budinok-bnp-01-01-p	SINGLE_PRODUCT
@@ -1795,7 +1803,6 @@ https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584753-velosiped-3-kh
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584794-velosiped-detskiy-2-kh-kolyosnyy-20-192030-1sht-like2bike-active-oranzhevyy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584758-velosiped-detskiy-2-kh-kolyosnyy-14-191413-1sht-like2bike-rally-goluboy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/19038023-velosiped-3-kh-koles-tr17009-roz-1sht-skladnoy-kozyrek-naduvnye-kolesa-12-i-10	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584810-velosiped-detskiy-2-kh-kolyosnyy-14-191422-1sht-like2bike-sprint-goluboy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584765-velosiped-detskiy-2-kh-kolyosnyy-16-191614-1sht-like2bike-rally-salatovyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584766-velosiped-detskiy-2-kh-kolyosnyy-16-191615-1sht-like2bike-rally-siniy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584801-velosiped-detskiy-2-kh-kolyosnyy-18-191834-1sht-like2bike-sprint-goluboy	SINGLE_PRODUCT
@@ -1907,7 +1914,6 @@ https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039174-plotik-56587-zh
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039181-baseyn-56452-karkasniy-dityachiy-183-38-sm-977-l-kor-41-15-5-15-sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19032499-intex-matrats-48776-np-kholodnoe-serdtse-6-razmerom-157kh88kh18sm-korobka	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039183-velyur-matras-64758-siniy-kor-137-191-25-sm-	SINGLE_PRODUCT
-https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039038-baseyn-52192-z-dakhom-naduvne-dno-147-147-122-sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039046-baseyn-57182-remkomplekt-6-kor-229-56-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19035249-nabir-vodyanoyi-zbroyi-3v1-korobka-vodyaniy-pistolet-maska-yys-01-r-45318sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19035613-vodnyy-pistolet-yw0459-1-60sht-s-ryukzakom-v-pakete	SINGLE_PRODUCT
@@ -1924,29 +1930,19 @@ https://jambo.ua/25-sezonnye-tovary/154-sanki-ledyanki/00039881-sanki-mbs-veliki
 https://jambo.ua/25-sezonnye-tovary/154-sanki-ledyanki/00039500-sanki-s-tormozom	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/154-sanki-ledyanki/00039430-sanki-mbs-veliki-sini	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/154-sanki-ledyanki/00039499-sanki-mushlya-marmat	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19035430-knizhka-z-mekhanizmami-persha-knizhka-z-rukhomimi-elementami-kolori-verti-shtovkhay-malyuy-ta-gray	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584391-kniga-kazki-sharl-perro-brati-grimm-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037840-kniga-atlas-vsesvitu-dlya-ditey-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19039228-kniga-knizhka-z-sekretnimi-vikontsyami-vidkriy-ta-diznaysya-istoriya-rechey-pristroyiv-mekhanizmiv-	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584420-kniga-ukrayinski-narodni-kazki-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19036931-kniga-kniga-kartonka-velikiy-vimmelbukh-miy-budinok-ukr-	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19035163-knizhka-z-mekhanizmami-persha-knizhka-z-rukhomimi-elementami-pori-roku-diznaysya-gray-kruti-shtovkhay	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037855-kniga-kniga-kartonka-pershiy-foto-vimmelbukh-svit-navkolo-tebe-vidkriy-polichi-zapamyatay-ukr-	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19038461-kniga-knizhka-z-sekretnimi-vikontsyami-tsifri-rozumna-knizhka-	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19034219-knizhka-z-mekhanizmom-persha-knizhka-z-rukhomimi-elementami-lichba-vid-0-do-9-lichi-divis-kruti-ta-vchis	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19039194-kniga-kazki-gans-khristiyan-andersen-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037054-velika-ilyustrovana-kniga-pro-prirodu-u	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19036949-kniga-knizhkavikontsya-diznaysya-sekreti-transportu-ukr-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19034224-kniga-kniga-kartonka-velikiy-vimmelbukh-u-misti-ukr-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037859-kniga-knizhka-z-sekretnimi-vikontsyami-ferma-ukr-	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19034223-kniga-kniga-kartonka-velikiy-vimmelbukh-tvarini-ukr-	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037854-kniga-dinozavri-ta-inshi-davni-tvarini-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584448-kniga-tsikava-nauka-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037811-kniga-kniga-kartonka-pershiy-foto-vimmelbukh-tvarini-vidkriy-polichi-zapamyatay-ukr-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037841-kniga-velika-entsiklopediya-kishki-ta-koshenyata-vid-a-do-ya-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584409-kniga-pervaya-kniga-malenkogo-geniya-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19035429-kniga-kniga-kartonka-velikiy-vimmelbukh-ferma-ukr-	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19035428-kniga-kniga-kartonka-velikiy-vimmelbukh-transport-ukr-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037812-kniga-knizhka-z-sekretnimi-vikontsyami-veseli-prigodi-tsutsenyati-olivera-u-misti-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037821-kniga-ulyublena-knizhka-malyuka-vid-6-misyatsiv-do-4-rokiv-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19036993-naytemnisha-temryava-u	SINGLE_PRODUCT
