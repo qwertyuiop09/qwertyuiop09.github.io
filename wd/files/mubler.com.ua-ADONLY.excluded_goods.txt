@@ -1,2 +1,3 @@
 id	excluded_destination	custom_label_4	comment
-1109490622	Shopping Ads	192351854	 msales av 21.13
+994975021	Shopping Ads	192351854	Not AllConversions
+1109490622	Shopping Ads	192351854	 msales av 20.93
