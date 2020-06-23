@@ -1,15 +1,7 @@
 Error delete files in removeAllScanFiles !!!, message in script start
 Found 1 error file(s): 
 jambo.ua.SSSitesAlreadyChecked.json
-jambo.ua.jamboua.feed.main_dsa.4.ga.txt
-jambo.ua.jamboua.feed.main.1.gas.html
-jambo.ua.jamboua.feed.groups_dsa.1.ga.txt
-jambo.ua.jamboua.feed.main.1.ga.txt
 
 Found 2 error file(s): 
-jambo.ua.jamboua.feed.main_dsa.4.ga.txt
-jambo.ua.jamboua.feed.main.1.gas.html
-jambo.ua.jamboua.feed.groups_dsa.1.ga.txt
-jambo.ua.jamboua.feed.main.1.ga.txt
 
 account jambo.ua
