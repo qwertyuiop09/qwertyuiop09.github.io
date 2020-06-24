@@ -1,4 +1,4 @@
-File: jambo.ua.merchantfeed.txt is empty
-/jambo.ua.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/jambo.ua.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 1792632983

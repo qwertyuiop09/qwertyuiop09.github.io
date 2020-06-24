@@ -1,4 +1,0 @@
-File: virnyidruk.ua.merchantfeed.txt is empty
-/virnyidruk.ua.merchantfeed.txt
-/callhunter/domains/virnyidruk.ua.merchantfeed.txt
-Config is not working . Exit

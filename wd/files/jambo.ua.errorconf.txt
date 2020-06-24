@@ -1,4 +1,0 @@
-File: jambo.ua.merchantfeed.txt is empty
-/jambo.ua.merchantfeed.txt
-/callhunter/domains/jambo.ua.merchantfeed.txt
-Config is not working . Exit

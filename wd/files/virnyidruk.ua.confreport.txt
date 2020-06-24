@@ -1,4 +1,4 @@
-File: virnyidruk.ua.merchantfeed.txt is empty
-/virnyidruk.ua.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/virnyidruk.ua.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 1104762840

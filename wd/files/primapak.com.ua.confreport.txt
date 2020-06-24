@@ -1,4 +1,4 @@
-File: primapak.com.ua.merchantfeed.txt is empty
-/primapak.com.ua.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/primapak.com.ua.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 829931128
