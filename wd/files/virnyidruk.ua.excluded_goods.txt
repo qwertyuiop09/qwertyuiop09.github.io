@@ -1,2 +1,2 @@
 id	excluded_destination	custom_label_4	comment
-3991503962	Shopping Ads	143005716	 msales av 84.73
+3991503962	Shopping Ads	143005716	 msales av 78.71
