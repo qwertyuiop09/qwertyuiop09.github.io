@@ -22,8 +22,8 @@ https://jambo.ua/25-sezonnye-tovary/152-vozdushnye-zmei-vetryachki-sachki	PRODUC
 https://jambo.ua/25-sezonnye-tovary/151-mylnye-puzyri	PRODUCT_RUBRIC
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie	PRODUCT_RUBRIC
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary	PRODUCT_RUBRIC
-https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/104-zavodnye-igrushki	PRODUCT_RUBRIC
+https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/156-igrushki-dlya-malyshey	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/103-katalki	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey	PRODUCT_RUBRIC
@@ -34,8 +34,8 @@ https://jambo.ua/08-igrushki-dlya-detey/108-kovriki	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli	PRODUCT_RUBRIC
-https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/105-proektory-i-svetilniki	PRODUCT_RUBRIC
+https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika	PRODUCT_RUBRIC
 https://jambo.ua/26-aktsiya-regulyarnaya	PRODUCT_RUBRIC
 https://jambo.ua/07-sport-i-otdykh/138-palatki-korziny	PRODUCT_RUBRIC
 https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki	PRODUCT_RUBRIC
