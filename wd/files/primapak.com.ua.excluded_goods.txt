@@ -1,1 +1,2 @@
 id	excluded_destination	custom_label_4	comment
+766211292	Shopping Ads	210350353	Not AllConversions
