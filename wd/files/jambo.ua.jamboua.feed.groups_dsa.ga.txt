@@ -11,11 +11,11 @@ https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii	PRODU
 https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport	PRODUCT_RUBRIC
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely	PRODUCT_RUBRIC
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy	PRODUCT_RUBRIC
-https://jambo.ua/10-myagkaya-igrushka	PRODUCT_RUBRIC
 https://jambo.ua/173-geymerskiy-merch/175-minecraft	PRODUCT_RUBRIC
 https://jambo.ua/173-geymerskiy-merch/178-nanables	PRODUCT_RUBRIC
 https://jambo.ua/173-geymerskiy-merch/177-fortnite	PRODUCT_RUBRIC
 https://jambo.ua/173-geymerskiy-merch/176-roblox	PRODUCT_RUBRIC
+https://jambo.ua/10-myagkaya-igrushka	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/104-zavodnye-igrushki	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/103-katalki	PRODUCT_RUBRIC
