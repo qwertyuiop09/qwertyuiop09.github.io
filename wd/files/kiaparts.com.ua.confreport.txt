@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/kiaparts.com.ua.merchantfeed.txt
-Ok. Config checksum: 1750461408
+Ok. Config checksum: 671310488
