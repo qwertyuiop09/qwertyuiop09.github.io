@@ -1,6 +1,6 @@
 Page URL	Custom label
 https://jambo.ua/	MAIN_PAGE
-https://jambo.ua/11-transport-dlya-detey	PRODUCT_RUBRIC
+https://jambo.ua/01-igrushki-dlya-malchikov	PRODUCT_RUBRIC
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels	PRODUCT_RUBRIC
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin	PRODUCT_RUBRIC
 https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery	PRODUCT_RUBRIC
@@ -16,6 +16,12 @@ https://jambo.ua/173-geymerskiy-merch/178-nanables	PRODUCT_RUBRIC
 https://jambo.ua/173-geymerskiy-merch/177-fortnite	PRODUCT_RUBRIC
 https://jambo.ua/173-geymerskiy-merch/176-roblox	PRODUCT_RUBRIC
 https://jambo.ua/10-myagkaya-igrushka	PRODUCT_RUBRIC
+https://jambo.ua/25-sezonnye-tovary/154-sanki-ledyanki	PRODUCT_RUBRIC
+https://jambo.ua/25-sezonnye-tovary/153-zontiki-dozhdeviki	PRODUCT_RUBRIC
+https://jambo.ua/25-sezonnye-tovary/152-vozdushnye-zmei-vetryachki-sachki	PRODUCT_RUBRIC
+https://jambo.ua/25-sezonnye-tovary/151-mylnye-puzyri	PRODUCT_RUBRIC
+https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie	PRODUCT_RUBRIC
+https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/104-zavodnye-igrushki	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/103-katalki	PRODUCT_RUBRIC
@@ -30,12 +36,6 @@ https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki	PRODUCT_RUB
 https://jambo.ua/08-igrushki-dlya-detey/106-pogremushki-i-karuseli	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/105-proektory-i-svetilniki	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika	PRODUCT_RUBRIC
-https://jambo.ua/25-sezonnye-tovary/154-sanki-ledyanki	PRODUCT_RUBRIC
-https://jambo.ua/25-sezonnye-tovary/153-zontiki-dozhdeviki	PRODUCT_RUBRIC
-https://jambo.ua/25-sezonnye-tovary/152-vozdushnye-zmei-vetryachki-sachki	PRODUCT_RUBRIC
-https://jambo.ua/25-sezonnye-tovary/151-mylnye-puzyri	PRODUCT_RUBRIC
-https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie	PRODUCT_RUBRIC
-https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary	PRODUCT_RUBRIC
 https://jambo.ua/07-sport-i-otdykh/138-palatki-korziny	PRODUCT_RUBRIC
 https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki	PRODUCT_RUBRIC
 https://jambo.ua/07-sport-i-otdykh/136-bokserskie-nabory	PRODUCT_RUBRIC
@@ -64,7 +64,7 @@ https://jambo.ua/02-igrushki-dlya-devochek/117-kolyaski-dlya-kukol	PRODUCT_RUBRI
 https://jambo.ua/02-igrushki-dlya-devochek/116-aksessuary-dlya-kukol	PRODUCT_RUBRIC
 https://jambo.ua/02-igrushki-dlya-devochek/115-mebel-tm-tanira	PRODUCT_RUBRIC
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki	PRODUCT_RUBRIC
-https://jambo.ua/01-igrushki-dlya-malchikov	PRODUCT_RUBRIC
+https://jambo.ua/11-transport-dlya-detey	PRODUCT_RUBRIC
 https://jambo.ua/173-geymerskiy-merch	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey	PRODUCT_RUBRIC
 https://jambo.ua/07-sport-i-otdykh	PRODUCT_RUBRIC
