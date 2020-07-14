@@ -1,0 +1,17 @@
+Error delete files in removeAllScanFiles !!!, message in script start
+Found 1 error file(s): 
+virnyidruk.ua.SSSitesAlreadyChecked.json
+virnyidruk.ua.virnyidrukua.feed.zapr_dsa.4.ga.txt
+virnyidruk.ua.virnyidrukua.feed.zapr_printnum.3.ga.txt
+virnyidruk.ua.virnyidrukua.feed.zapr_printnum.2.gas.html
+virnyidruk.ua.virnyidrukua.feed.zapr_partnomer3.2.gas.html
+virnyidruk.ua.virnyidrukua.feed.zapr_partnomer3.1.gas.html
+virnyidruk.ua.virnyidrukua.feed.zapr_partnomer.1.ga.txt
+
+Found 2 error file(s): 
+virnyidruk.ua.virnyidrukua.feed.zapr_dsa.4.ga.txt
+virnyidruk.ua.virnyidrukua.feed.zapr_printnum.3.ga.txt
+virnyidruk.ua.virnyidrukua.feed.zapr_printnum.2.gas.html
+virnyidruk.ua.virnyidrukua.feed.zapr_partnomer3.2.gas.html
+
+account virnyidruk.ua
