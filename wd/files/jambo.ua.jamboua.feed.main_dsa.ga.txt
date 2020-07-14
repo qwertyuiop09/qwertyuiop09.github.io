@@ -45,7 +45,6 @@ https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/2005839
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005178-igroviy-nabir-lil-woodzeez-dvopoverkhove-lizhko-dlya-dityachoyi-kimnati-6169z	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584844-dityachiy-velosiped-miqilong-yd-siniy-16-mql-yd16-blue	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/176-roblox/200585373-igrova-kolektsiyna-figurka-jazwares-roblox-desktop-series-phantom-forces-tactical-genius-w7	SINGLE_PRODUCT
-https://jambo.ua/12-knigi-i-kantselyariya/147005128-nabir-podarunkoviy-13-predmetiv-salatoviy	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/172-kantselyarskie-prenadlezhnosti/147005102-pidstavka-dlya-pismovogo-priladdya-akula-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/172-kantselyarskie-prenadlezhnosti/147005103-pidstavka-dlya-pismovogo-priladdya-gippo-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/147005658-tambler-yes-s-blestkami-black-cat-450ml-s-trubochkoy	SINGLE_PRODUCT
@@ -435,15 +434,16 @@ https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/200585397-nabir-zmagann
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/00029528-podarunkoviy-nabir-avtomobiley-3-sht-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/19034073-vantazhivka-treyler-hot-wheels-v-asort-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/147004537-igroviy-nabir-puskach-hot-wheels	SINGLE_PRODUCT
+https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/200585404-nabir-povniy-vpered-seriyi-monster-trucks-hot-wheels-v-as-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/19038641-trek-zmagannya-za-kubok-chempiona-hot-wheels-v-as-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/200585829-igroviy-nabir-peregoni-na-fabritsi-hot-wheels	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/19032483-igroviy-nabir-tryuki-u-misti-v-as-2-hot-wheels	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/200585396-superzbilshena-mashinka-pozashlyakhovik-1-24-seriyi-monster-trucks-hot-wheels-v-as-	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/111-kukly/19036609-lyalka-barbie-rukhaysya-yak-ya-onovl-v-as-4	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/111-kukly/200585830-lyalka-kolorove-perevtilennya-barbie-ceriya-2-v-as-	SINGLE_PRODUCT
+https://jambo.ua/08-igrushki-dlya-detey/102-interaktivnye-igrushki/19035981-sestrichka-rozumnogo-tsutsenyati-z-tekhnologieyu-smart-stages-ukr-fisher-price-fpp85	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/00037182-charivniy-gorshchechok-ukrayinomovniy	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/102-interaktivnye-igrushki/19035980-rozumne-tsutsenya-z-tekhnologieyu-smart-stages-ukr-fisher-price-fpn91	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/102-interaktivnye-igrushki/19035981-sestrichka-rozumnogo-tsutsenyati-z-tekhnologieyu-smart-stages-ukr-fisher-price-fpp85	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200584643-9010-nabir-milna-fabrika-red-15100428r	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200584638-0305-nabir-dlya-eksperimentiv-nauka-chi-magiya-12114066r	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200584645-9781-nabir-dlya-eksperementiv-laboratoriya-shkolyara-1-2-klas-12114063r	SINGLE_PRODUCT
@@ -538,6 +538,7 @@ https://jambo.ua/173-geymerskiy-merch/175-minecraft/200585717-igrova-figurka-mc-
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200585715-igrova-figurka-mc-aleks-iz-krilami	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/120-karety-loshadi-poni/02004235-kareta-na-batar-muzika-svitlo-art-sm3007-36sht-2-plastik-korobka-z-vidkritim-viknom-35x22x7-7sm-jambo-200169423	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/19034076-igroviy-nabir-chudoviska-u-misti-v-as-hot-wheels	SINGLE_PRODUCT
+https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/147004531-igroviy-nabir-peregoni-v-aeroportu-hot-wheels	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/00029520-mashinka-hot-wheels-zmini-kolir-v-asort-01345716	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/06001467-tisto-dlya-liplennya-art-sm8037-24sht-2-boroshno-korobka-z-vidkritim-viknom-31x32-7x8sm-jambo-200424146	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/06001920-nabir-dlya-pokeru-5v1-art-238-24sht-0-plastik-z-vidkritim-viknom-39-5x32-5x5-5sm-jambo-100666192	SINGLE_PRODUCT
@@ -1036,7 +1037,6 @@ https://jambo.ua/04-konstruktory/124-konstruktory-metallicheskie-magnitnye/04004
 https://jambo.ua/04-konstruktory/125-konstruktory-dlya-malyshey/04006688-konstruktor-zapravka-art-188-285-16sht-0-plastik-z-vidkritim-viknom-42-5x9x27sm-jambo-200260668	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/125-konstruktory-dlya-malyshey/04006626-konstruktor-potyag-z-tistechkami-art-188-282-16sht-0-plastik-z-vidkritim-viknom-42-5x9x27sm-jambo-200260662	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/125-konstruktory-dlya-malyshey/04007418-konstruktor-shchasliva-ferma-art-188-291-48sht-plastik-kolorova-korobka-24x8x22sm-jambo-200307741	SINGLE_PRODUCT
-https://jambo.ua/04-konstruktory/155-konstruktory-dlya-devochek/04002211-konstruktor-friends-sluzhba-dostavki-podarunkiv-art-10608-60sht-plastik-kolorova-korobka-33-3x21x4-5sm-jambo-200127221	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/155-konstruktory-dlya-devochek/04001788-konstruktor-friends-tvorcha-maysternya-emmi-art-10553-96sht-plastik-kolorova-korobka-20x19x4-5sm-jambo-200127178	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/155-konstruktory-dlya-devochek/04001634-konstruktor-friends-kosmichna-podorozh-art-10556-60sht-plastik-kolorova-korobka-30x22x5-5sm-jambo-200127163	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/155-konstruktory-dlya-devochek/04002174-konstruktor-friends-vistavka-sobak-art-10607-60sht-plastik-kolorova-korobka-33-3x21x4-5sm-jambo-200127217	SINGLE_PRODUCT
@@ -1090,7 +1090,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery/01004977-tra
 https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery/01006331-transformer-muz-svet-art-998-3-60sht-2-plastik-korobka-s-otkrytym-oknom-18-5x7x26sm-jambo-100274633	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery/01004795-robot-muz-svet-art-383-27-36sht-2-plastik-korobka-s-otkrytym-oknom-32x10-5x24sm-jambo-200029479	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery/01008447-transformer-art-8601-60sht-plastik-korobka-s-otkrytym-oknom-21x26-5x9sm-jambo-200283844	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery/01006570-transformer-mashinka-pistolet-art-368a-72sht-2-plastik-shouboks-22x12x24sm-jambo-200260507	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery/00043194-transformer-81501-24sht-2-vida-v-korobke-241029sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery/00041592-robot-transformer-korobka-d622-e221a-597772-r-24-5kh8-3kh34-6-sm-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery/200583972-robot-koshka-8201-24sht-2-2-tsveta-batar-svet-zvuk-v-kor-2625-sm	SINGLE_PRODUCT
@@ -1145,6 +1144,11 @@ https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/19038471-mega-garazh-ho
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/00044370-gipermashinka-transformer-seriyi-turboshvidkist-v-as-2-01023163	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/147005729-konteyner-hot-wheels-na-50-mashinok	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/147005726-mashinka-pozashlyakhovik-dragon-monster-jam	SINGLE_PRODUCT
+https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/19038642-vantazhivka-transporter-kruti-tryuki-onovl-hot-wheels	SINGLE_PRODUCT
+https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/147004539-avtomobil-bazoviy-10-sht-	SINGLE_PRODUCT
+https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/200585400-igroviy-nabir-golodna-akula-robot-seriyi-zmini-kolir-hot-wheels	SINGLE_PRODUCT
+https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/200585403-igroviy-nabir-monstro-petlya-seriyi-monster-trucks-hot-wheels	SINGLE_PRODUCT
+https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/00029519-trek-polyuvannya-na-akulu-seriyi-zmini-kolir-hot-wheels	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport/01017593-litak-z-pinoplastu-art-jqh1011101-200sht-1-pinoplast-kolorova-korobka-30x27x1sm-jambo-200377059	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport/01001428-litachok-art-6818-18sht-plastik-shouboks-34x18x31sm-jambo-200425142	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport/01009475-nabir-mashinok-u-keysi-art-8616-72sht-2-metal-plastikova-korobka-26-5x8-5x16sm-jambo-200443947	SINGLE_PRODUCT
@@ -1460,6 +1464,7 @@ https://jambo.ua/06-razvivayushchie-igry/127-loto-domino-shakhmaty/147004963-sha
 https://jambo.ua/06-razvivayushchie-igry/127-loto-domino-shakhmaty/147004965-shakhmati-magnitni-4v1-korobka-6328-r-30224sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/127-loto-domino-shakhmaty/19037216-shakhmaty-8899-36sht-2-3v1-shashki-nardy-v-korobke-3218sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/127-loto-domino-shakhmaty/147004966-shakhmati-magnitni-korobka-8008	SINGLE_PRODUCT
+https://jambo.ua/06-razvivayushchie-igry/128-molberty-dostochki-dlya-risovaniya/200586397-doshka-interaktivna-sukho-stiralna-colorino	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/06002944-tisto-dlya-liplennya-art-sm8012-72sht-2-boroshno-korobka-z-vidkritim-viknom-21x20x6sm-jambo-200197294	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/06001474-tisto-dlya-liplennya-art-sm8038-24sht-2-boroshno-kolorova-korobka-27-7x21-4x7-5sm-jambo-200424147	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/06003002-tisto-dlya-liplennya-art-sm8016-18sht-2-boroshno-korobka-z-vidkritim-viknom-46x16x24-5sm-jambo-200197300	SINGLE_PRODUCT
@@ -1473,7 +1478,6 @@ https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/19033028-na
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/00045300-nabor-dlya-tvorchestva-yuvelirnye-ukrasheniya-06004272	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/00043801-nabor-dlya-tvorchestva-28299-1-24shtglina-dlya-lepki-3-pachki-po-400-v-kor-13127sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/00031426-sovinon	SINGLE_PRODUCT
-https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/00032700-nabor-dlya-tvorchestva-sm8001-48sht-2-v-kor-23309sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200584094-nabor-dlya-tvorchestva-lovets-snov-11015	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200585015-nabor-dlya-tvorchestva-196865-24sht-2-magnitnaya-kniga-42-det-30421-5-sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200584128-nabor-dlya-izgotovleniya-bombochek-dlya-vann-oops-vzryvnaya-fabrika-	SINGLE_PRODUCT
@@ -1482,6 +1486,8 @@ https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200584129-n
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200584130-nabor-khimicheskikh-eksperimentov-oops-metamorfozy-	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200584127-nabor-khimicheskikh-eksperimentov-oops-bolshaya-khimicheskaya-laboratoriya-	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200584095-nabor-dlya-tvorchestva-sketchbuk-kreativnyy-mini-11401-miks-3-diz	SINGLE_PRODUCT
+https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200586401-masa-plastichna-legka-6-kol-colorino	SINGLE_PRODUCT
+https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200586402-nabir-lyalka-motanka-edinorig-colorino	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/131-muzykalnye-instrumenty/05002898-organ-art-3826-1-18sht-0-plastik-kolorova-korobka-60x20x1sm-jambo-200496289	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/131-muzykalnye-instrumenty/05002935-organ-art-990-18sht-0-plastik-kolorova-korobka-58x20x1sm-jambo-200496293	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/131-muzykalnye-instrumenty/19038498-organ-mq3782-36sht-2batar-muz-s-mikrofonom-zaryadka-v-korobke-47146sm	SINGLE_PRODUCT
@@ -1552,6 +1558,7 @@ https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/19036866-pianino
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/200584212-sorter-veseloshchi-v-avtobusi-zi-svitlom-ozvucheniy-ukrayinskoyu-movoyu-v-korobtsi-uka-a0117-r-2914-515sm-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/19035631-muz-mashinka-11012-13-36sht-22-vida-v-korobke	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/200584060-muz-zhivotnoe-6623-12sht-2sobaka-muz-perenoska-svet-zvuk-v-korobke-282516sm	SINGLE_PRODUCT
+https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200585009-planshet-abetka-pl-719-29-96sht-2batar-na-ukr-obuchenie-bukvy-tsveta-schet-v-kor-191-629-5sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200584245-planshet-zoopark-pl-719-13-96sht-2batar-na-ukr-obuchenie-bukvy-tsveta-schet-razmer-plansheta-2118-61-8-sm-v-kor-18229-5sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/147005318-58006-gusenitsa-kosnis-i-ed-1-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/200584045-muz-razv-zhivotnoe-vesele-kurcha-pl-719-75-60sht-2bat-ukr-ozvuchka-muz-stikhi-frazy-razmer-igrushki11-8144-6sm-v-korobke-18-6215sm	SINGLE_PRODUCT
@@ -1690,7 +1697,6 @@ https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/19036118-lo
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200584203-rozvivayuchiy-stolik-zi-svitlom-ozvucheniy-ukrayinskoyu-v-korobtsi-uka-a0021-r-38-58-527sm-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200585018-logika-sorter-9933-12shtfigurki-vkladyshi-pult-v-korobke-19-519-526sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200585492-57029-detskaya-igrushka-piramidka-originalnye-koltsa-1-ukr-upakovka-	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200585009-planshet-abetka-pl-719-29-96sht-2batar-na-ukr-obuchenie-bukvy-tsveta-schet-v-kor-191-629-5sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200584012-igra-frukto10-ukr002-48shtna-ukr-igra-na-razvitie-navyka-skorostnogo-slozheniya-v-korobke-11-511-54-sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200584011-igra-chisloobig-ukr003-48shtna-ukr-effektivno-obuchitsya-schyotu-i-sravneniyu-chisel-v-uvlekatelnoy-igrovoy-forme-v-korobke-11-511-54-sm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/147005315-57030detskaya-igrushka-piramidka-veselaya-ferma-6m-ukr-upakovka-	SINGLE_PRODUCT
@@ -1698,6 +1704,9 @@ https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/147005317-5
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/147005463-igrashka-spiv-minora-fhd55	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200584202-rozvivayuchiy-stolik-zi-svitlom-ozvucheniy-ukrayinskoyu-v-korobtsi-uka-a0020-r-38826-5sm-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/147005320-57082-konstruktor-s-instrumentami-mototsikl-3-ukr-upakovka-	SINGLE_PRODUCT
+https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200586372-muzichna-knizhechka-z-virshikami-ukr-fisher-price	SINGLE_PRODUCT
+https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200586371-kubiki-shcho-rukhayutsya-yaskravi-fisher-price	SINGLE_PRODUCT
+https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200586373-rozumniy-planshet-z-tekhnologieyu-smart-stages-ukr-fisher-price	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/108-kovriki/03018590-kilimok-rozvivayuchiy-art-hhh0813106-36sht-1-plyush-paket-pvkh-58x62x1sm-jambo-200338859	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/108-kovriki/03018606-kilimok-rozvivayuchiy-art-hhh0813107-36sht-1-plyush-paket-pvkh-58x62x1sm-jambo-200338860	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/108-kovriki/03009831-razvivayushchiy-kovrik-bambini-art-101000983-36sht-2-plyush-tsvetnaya-korobka-30-3x9x26sm-jambo-101000983	SINGLE_PRODUCT
@@ -1869,6 +1878,7 @@ https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/200585377-stul
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/200584354-tambler-stakan-yes-rainbow-480ml-glitter	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/147005657-termos-yes-lol-juicy-420-ml	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/147005660-termos-yes-pink-cat-320-ml	SINGLE_PRODUCT
+https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/200586375-stil-igroviy-dityachiy-480kh580kh640	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/156-igrushki-dlya-malyshey/200585590-57098-moya-pervaya-kompyuternaya-myshka-svet-zvuk-9m-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/156-igrushki-dlya-malyshey/200585523-80013-detskaya-igrushka-avtogonki-s-katapultami-zvuk-18m-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/200586177-medalnitsya-moyi-dosyagnennya-600300mm	SINGLE_PRODUCT
@@ -1916,7 +1926,6 @@ https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika/147004746-dityachiy-konstru
 https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika/19032152-magnitni-pazli-budinochki-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika/19038652-mozayika-wooden-pixel-2	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika/00042203-korovka-akrobat-la-4	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/00041860-nabir-dlya-tvorchosti-bebi-nozhka-bn-01-p	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200585168-nabir-dlya-tvorchosti-51204-ukr-savanna-v-kor-tsi-30-23-5-7sm	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/147004643-nabir-dlya-tvorchosti-dino-place-51202-strateg	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/147004670-nabir-dlya-kreativnoyi-tvorchosti-mister-tisto-hair-care-71307-strateg	SINGLE_PRODUCT
@@ -1944,7 +1953,6 @@ https://jambo.ua/11-transport-dlya-detey/133-velosipedy/19034148-velosiped-ditya
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584796-velosiped-detskiy-2-kh-kolyosnyy-16-191633-1sht-like2bike-sprint-zelyonyy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584752-velosiped-3-kh-koles-tr18016-bord-1sht-s-povorotnym-sidenem-rama-sklad-naduvnye-kolesa-10-i-8	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584804-velosiped-detskiy-2-kh-kolyosnyy-20-192033-1sht-like2bike-sprint-zelyonyy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584812-velosiped-detskiy-2-kh-kolyosnyy-14-191424-1sht-like2bike-dark-rider-chyorno-salatovyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584805-velosiped-detskiy-2-kh-kolyosnyy-20-192034-1sht-like2bike-sprint-goluboy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584751-velosiped-3-kh-koles-tr18015-gol-1sht-s-povorotnym-sidenem-rama-sklad-naduvnye-kolesa-10-i-8	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584770-velosiped-detskiy-2-kh-kolyosnyy-16-191619-1sht-like2bike-dark-rider-chyorno-salatovyy	SINGLE_PRODUCT
@@ -2019,7 +2027,6 @@ https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19034354-matrats-vinil-5
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039184-krug-56512-z-ruchkami-ta-spinkoyu-3-vidi-102-sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039042-baseyn-57104-krugliy-3-kolori-68-l-86-25-sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039110-baseyn-56495-3-kiltsya-466-l	SINGLE_PRODUCT
-https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039094-plotik-57525-akula-173-107-sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19034333-basseyn-naduvn-59416-12sht-khrustalnyy-krug-3-sekts-3-let-rem-komplekt-v-kor-11425sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039086-matrats-58787-rozheva-kvitka-remkomplekt-kor-142-142-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039041-baseyn-56490-2-kiltsya-572-l	SINGLE_PRODUCT
@@ -2084,6 +2091,12 @@ https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584339-256-ukr-entsiklopediya-kosmosu-6	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/163-karandashi-ruchki-korrektory/147005049-kreyda-geleva-color-peps-gel-6-kol-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/163-karandashi-ruchki-korrektory/19038203-362403-3624-kolorovi-olivtsi	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/163-karandashi-ruchki-korrektory/19030604-karandashi-tsvetnye-artist-24-tsveta-12015221	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/163-karandashi-ruchki-korrektory/200586407-olivtsi-kolorovi-trikutni-dvostoronni-24-sht-kh-48-kol-colorino-12-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/163-karandashi-ruchki-korrektory/200586406-olivtsi-kolorovi-trikutni-dvostoronni-18-sht-kh-36-kol-colorino	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/164-kraski-kisti-stakanchiki/200586413-pastel-sukha-kvadratna-premium-seriya-artist-v-plastikovomu-konteyneri-24-kolori	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/164-kraski-kisti-stakanchiki/200586412-pastel-sukha-kvadratna-premium-seriya-artist-v-plastikovomu-konteyneri-12-koloriv	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/164-kraski-kisti-stakanchiki/200586416-farbi-akvarelni-veliki-tabletki-18-kol-colorino	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/166-flomastery-markery/19038206-58-816558-8165-e-000-flomasteri	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/166-flomastery-markery/19038196-58-826758-8267-e-000-flomasteri	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/166-flomastery-markery/200585105-flomasteri-12-kol-2-storonni-penzelkovi-colorino-92500ptr	SINGLE_PRODUCT
