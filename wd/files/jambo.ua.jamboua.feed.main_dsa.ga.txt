@@ -1,4 +1,22 @@
 Page URL	Custom label
+https://jambo.ua/10-myagkaya-igrushka/200584948-plyusheva-igrashka-minecraft-happy-explorer-untamed-wolf-plush	SINGLE_PRODUCT
+https://jambo.ua/10-myagkaya-igrushka/200584946-plyusheva-igrashka-minecraft-happy-explorer-creeper-plush-n-a-green	SINGLE_PRODUCT
+https://jambo.ua/10-myagkaya-igrushka/200584941-plyusheva-igrashka-minecraft-8-tuxedo-cat-plush	SINGLE_PRODUCT
+https://jambo.ua/10-myagkaya-igrushka/200584947-plyusheva-igrashka-minecraft-happy-explorer-diamond-steve-plush-n-a-blue	SINGLE_PRODUCT
+https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584923-kruzhka-minecraft-tnt-plastic-mug-n-a-red-plastikova	SINGLE_PRODUCT
+https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584919-kruzhka-minecraft-plastic-creeper-face-mug-n-a-green-plastikova	SINGLE_PRODUCT
+https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584951-brelok-minecraft-bobble-mobs-blind-packs-series-1-1-box-multicolor	SINGLE_PRODUCT
+https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584926-brelok-minecraft-metal-sword-keychain-n-a-n-a	SINGLE_PRODUCT
+https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584955-medalyon-minecraft-enchanted-enderman	SINGLE_PRODUCT
+https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200585078-dityachiy-velosiped-miqilong-yd-chorniy-16-mql-yd16-black	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19039021-kukrlichba-gotuemo-ruku-do-pisma-pukhka	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19039023-224-ukr-velika-entsiklopediya-dlya-divchatok-6	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19039019-kukrenglish-gotuemo-ruku-do-pisma-pukhka-10	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19039022-224-ukr-velika-entsiklopediya-chomusika-u-pitannyakh-i-vidpovidyakh-6	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/147004651-bkpukrvesela-lichba-5	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/147004654-bkpukrkumedni-tvarini-ekzotichni-5	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/147004650-bkpukrvesela-abetka-5	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19039024-224-ukr-velika-kniga-znan-dlya-malyukiv-6	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/128-molberty-dostochki-dlya-risovaniya/200586397-doshka-interaktivna-sukho-stiralna-colorino	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200586401-masa-plastichna-legka-6-kol-colorino	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/129-nabory-dlya-tvorchestva/200586402-nabir-lyalka-motanka-edinorig-colorino	SINGLE_PRODUCT
@@ -25,8 +43,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/200585403-igroviy-nabir
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels/00029519-trek-polyuvannya-na-akulu-seriyi-zmini-kolir-hot-wheels	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/00037182-charivniy-gorshchechok-ukrayinomovniy	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/102-interaktivnye-igrushki/19035980-rozumne-tsutsenya-z-tekhnologieyu-smart-stages-ukr-fisher-price-fpn91	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200586372-muzichna-knizhechka-z-virshikami-ukr-fisher-price	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200586371-kubiki-shcho-rukhayutsya-yaskravi-fisher-price	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/107-razvivayushchie-igrushki/200586373-rozumniy-planshet-z-tekhnologieyu-smart-stages-ukr-fisher-price	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/200586370-perevertysh-cyclones-r-u-666-0636sht3tsveta-v-kor-37833sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039076-matrats-58761-ananas-remkomplekt-9-kor-216-124-sm-	SINGLE_PRODUCT
@@ -53,9 +69,14 @@ https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584835-samokat
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584846-samokat-neon-flash-zeleniy-n100798	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584840-samokat-neon-viper-zeleniy-n100829	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147005842-elektronna-gra-splash-toys-frutti-miks-st30108	SINGLE_PRODUCT
+https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/200584832-roliki-neon-street-rollers-zeleniy-n100736	SINGLE_PRODUCT
+https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/200584831-roliki-neon-street-rollers-siniy-n100735	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005172-igroviy-nabir-lil-woodzeez-litak-61533z-podarok-6217gtz	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005165-igroviy-nabir-lil-woodzeez-shkola-i-simya-mishey-6101m-podarok-6217gtz	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005184-nabir-figurok-lil-woodzeez-velika-rodina-mishey-7ed-6491z	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005182-igroviy-nabir-lil-woodzeez-budinok-bobblehead-64701z-podarok-6217gtz	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147005839-elektronna-gra-splash-toys-zhirafa-st30125	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147005841-elektronna-gra-splash-toys-norovista-lama-st30107	SINGLE_PRODUCT
-https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/200584832-roliki-neon-street-rollers-zeleniy-n100736	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/176-roblox/147005627-igrova-kolektsiyna-figurka-jazwares-roblox-mystery-figures-safety-orange-assortment-s6	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/19035990-dziga-auldey-infinity-nado-seriya-standart-holy-whisker-nebesniy-vikhor	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/19035987-dziga-auldey-infinity-nado-seriya-atletik-glittering-butterfly-iskristiy-metelik	SINGLE_PRODUCT
@@ -64,20 +85,22 @@ https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005178-igroviy-
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005171-igroviy-nabir-lil-woodzeez-den-narodzhennya-6151z	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005174-igroviy-nabir-lil-woodzeez-pavilyon-z-morozivom-malenkiy-6162z-podarok-6217gtz	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/19036726-dziga-auldey-infinity-nado-seriya-standart-glittering-butterfly-iskristiy-metelik	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005166-igroviy-nabir-lil-woodzeez-vitalnya-i-dityacha-6123z	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005167-igroviy-nabir-lil-woodzeez-klas-ta-igroviy-maydanchik-6124z	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005176-igroviy-nabir-lil-woodzeez-kvitkoviy-magazin-malenkiy-6164z-podarok-6217gtz	SINGLE_PRODUCT
+https://jambo.ua/173-geymerskiy-merch/177-fortnite/147005245-kolektsiyna-figurka-jazwares-fortnite-solo-raptor	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005180-igroviy-nabir-lil-woodzeez-zamiskiy-budinok-6325z-podarok-6217gtz	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005184-nabir-figurok-lil-woodzeez-velika-rodina-mishey-7ed-6491z	SINGLE_PRODUCT
+https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147005838-elektronna-gra-splash-toys-golodni-khameleoni-st30110	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005168-igroviy-nabir-lil-woodzeez-kukhonka-i-pidsobna-6125z	SINGLE_PRODUCT
+https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005169-igroviy-nabir-lil-woodzeez-spalnya-i-yidalnya-6127z	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/19035024-dziga-auldey-infinity-nado-seriya-standart-blast-flame-boyoviy-vedmid	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/176-roblox/200585371-igrova-kolektsiyna-figurka-jazwares-roblox-imagination-figure-pack-crystello-the-crystal-god-w7	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/176-roblox/147005645-nabir-jazwares-roblox-environmental-set-jailbreak-great-escape-w5	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005185-nabir-figurok-lil-woodzeez-simya-mishey-6003m	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005186-nabir-figurok-lil-woodzeez-simya-krolikiv-6006m	SINGLE_PRODUCT
-https://jambo.ua/173-geymerskiy-merch/177-fortnite/147005245-kolektsiyna-figurka-jazwares-fortnite-solo-raptor	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147005837-elektronna-gra-splash-toys-usi-na-bort-st30127	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005166-igroviy-nabir-lil-woodzeez-vitalnya-i-dityacha-6123z	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005179-igroviy-nabir-lil-woodzeez-nyanya-6253z	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005165-igroviy-nabir-lil-woodzeez-shkola-i-simya-mishey-6101m-podarok-6217gtz	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005175-igroviy-nabir-lil-woodzeez-perukarnya-malenka-6163z-podarok-6217gtz	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005182-igroviy-nabir-lil-woodzeez-budinok-bobblehead-64701z-podarok-6217gtz	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/200583935-igrova-figurka-monkart-transformer-bitroid-draka-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584844-dityachiy-velosiped-miqilong-yd-siniy-16-mql-yd16-blue	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/176-roblox/200585373-igrova-kolektsiyna-figurka-jazwares-roblox-desktop-series-phantom-forces-tactical-genius-w7	SINGLE_PRODUCT
@@ -95,7 +118,6 @@ https://jambo.ua/12-knigi-i-kantselyariya/163-karandashi-ruchki-korrektory/20058
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200586006-ya-moya-simya-ta-druzi-95-kartok-angliyska	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200586007-miy-dim-95-kartok-angliyska	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/200586210-008-28-igrushechnyy-nabor-instrumentov	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/200586209-008-86-igrovoy-nabor-detskiy-tryumo-s-aksessuarami-	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/00040876-008-902a-igrovoy-nabor-telezhka-dlya-supermarketa-s-produktami	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/00040874-008-903a-igrovoy-nabor-telezhka-dlya-supermarketa-s-produktami	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/00040891-008-56-detskiy-igrovoy-nabor-kukhnya-s-aksessuarami	SINGLE_PRODUCT
@@ -189,7 +211,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/00004449-n
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/00021857-avtomobil-printsessa-3-01922	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585623-velobig-rolotsikl-2-3824-tekhnok	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585630-mototsikl-zeleniy-na-viduvnikh-kolesakh-6443-tekhnok	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200586165-mototsikl-zeleniy-5859-tekhnok	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/147004288-ekskavator-gusenichniy-6276-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/19035458-mash-shvidka-dopomoga-tekhnok-4579-tekhn-6	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/147004285-avtomobil-viyskoviy-titan-5965-tekh	SINGLE_PRODUCT
@@ -207,7 +228,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/190376
 https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/147004292-konstruktor-metaleviy-avto-v-chemodani-312-det-3855-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/147004281-kukhnya-7-0847-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/147004283-moya-persha-kukhnya-3039-tekh	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/19038229-valiza-6108-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/147004282-kukhonniy-nabir-10-14-predmetiv-5934-tekh	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200586170-nabir-instrumentiv-94-predmeti-v-sakvoyazhi-4395-tekhnok	SINGLE_PRODUCT
 https://jambo.ua/07-sport-i-otdykh/136-bokserskie-nabory/00023034-boks-nabir-ukrayina-velikiy-p	SINGLE_PRODUCT
@@ -250,7 +270,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004249-
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585634-mototsikl-sport-fioletoviy-0138-60-doloni	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/00015844-mototsikl-2kh-kolesnyy-zelenyy	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004269-mashina-dlya-katannya-lambo-siniy-021o	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200586151-tolokar-misyatsekhid-muzichniy-119u-orion	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200586142-avto-fs-1-bortove-025-orion	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200586148-tolokar-drakosha-sinya-z-sirim-198-orion	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200586143-avto-fs-1-pozhezhna-mashina-131-orion	SINGLE_PRODUCT
@@ -574,10 +593,7 @@ https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/14
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200585701-pukrparotyagi-ta-potyagi-6-pazliv-a4-5-id	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19039009-pukrpukhnasta-abetka-6-pazliv-a4-5id	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584932-beysbolka-minecraft-steve-overworld-snap-back-hat-one-size-green-snap-back	SINGLE_PRODUCT
-https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584919-kruzhka-minecraft-plastic-creeper-face-mug-n-a-green-plastikova	SINGLE_PRODUCT
-https://jambo.ua/10-myagkaya-igrushka/200584946-plyusheva-igrashka-minecraft-happy-explorer-creeper-plush-n-a-green	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584952-kolektsiyna-figurka-minecraft-adventure-figures-series-3-retail-shared-upc-asso	SINGLE_PRODUCT
-https://jambo.ua/10-myagkaya-igrushka/200584947-plyusheva-igrashka-minecraft-happy-explorer-diamond-steve-plush-n-a-blue	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/200584942-plyusheva-igrashka-minecraft-happy-explorer-calico-cat-plush	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/200584944-plyusheva-igrashka-minecraft-12-alex-plush	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/200584945-plyusheva-igrashka-minecraft-happy-explorer-enderman-plush-n-a-black	SINGLE_PRODUCT
@@ -586,13 +602,9 @@ https://jambo.ua/173-geymerskiy-merch/175-minecraft/200585675-ryukzak-minecraft-
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584920-beysbolka-minecraft-enderman-mob-hat-one-size-black	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584927-brelok-minecraft-metal-pickaxe-keychain-n-a-n-a	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584956-medalyon-minecraft-enchanted-wolf	SINGLE_PRODUCT
-https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584955-medalyon-minecraft-enchanted-enderman	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584929-beysbolka-minecraft-creeper-mob-hat-applique-one-size-green	SINGLE_PRODUCT
-https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584951-brelok-minecraft-bobble-mobs-blind-packs-series-1-1-box-multicolor	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584930-ryukzak-minecraft-creepy-creeper-single-backpack-n-a-dark-grey	SINGLE_PRODUCT
-https://jambo.ua/10-myagkaya-igrushka/200584941-plyusheva-igrashka-minecraft-8-tuxedo-cat-plush	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/200584939-plyusheva-igrashka-minecraft-happy-explorer-parrot-plush	SINGLE_PRODUCT
-https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584923-kruzhka-minecraft-tnt-plastic-mug-n-a-red-plastikova	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584917-brelok-minecraft-diamond-sword-keychain-one-size-multicolor	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/200584950-plyusheva-igrashka-minecraft-happy-explorer-dolphin-plush	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585668-tolokar-orionchik-siniy-419-orion	SINGLE_PRODUCT
@@ -1098,7 +1110,6 @@ https://jambo.ua/10-myagkaya-igrushka/19031649-myagk-igrushka-hpc23-60sht-2-5-mi
 https://jambo.ua/10-myagkaya-igrushka/00047847-igrashka-ozvuchena-shchenyachiy-patrul-sp27041	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/19030848-myagkaya-igrushka-oktonavti	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/00024157-myagkaya-igrushka-shpulya-1-mal-	SINGLE_PRODUCT
-https://jambo.ua/10-myagkaya-igrushka/200584948-plyusheva-igrashka-minecraft-happy-explorer-untamed-wolf-plush	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/200584916-plyusheva-igrashka-minecraft-happy-explorer-steve-in-enderman-costume-plush-black-purple	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/200584928-plyusheva-igrashka-minecraft-12-steve-plush	SINGLE_PRODUCT
 https://jambo.ua/10-myagkaya-igrushka/19037187-myagkaya-igrushka-clg17052-80sht-zhivotnoe-v-sumochke-4-vida-v-pakete-20816-sm	SINGLE_PRODUCT
@@ -1263,7 +1274,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/00
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/00040854-zal-doroga-miy-pershiy-poyizd-svit-ta-muz-efekt-0736	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/19031559-trek-inerts-999-50-36sht-1mashinka-v-korobke-48633sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/00040127-trek-inerts-999-23-48sht-2-v-korobke-315-529sm	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/19038386-parking-tb-1870-30sht-2v-kor-25-7931-8sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/01001602-nabir-igroviy-transport-art-x666-05c-18sht-plastik-korobka-z-vidkritim-viknom-50x25x11sm-jambo-200425160	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/01002165-nabir-dityachi-instrumenti-art-sdl6619-1-60sht-0-plastik-plastikova-korobka-26-5x20x7-5sm-jambo-200495216	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/01001811-kosmichna-stantsiya-art-p888-a-24sht-2-plastik-korobka-z-vidkritim-viknom-45-5x26-5x8-5sm-jambo-200407181	SINGLE_PRODUCT
@@ -1366,7 +1376,6 @@ https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/19037305-pups-funkts-z-akse
 https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/02009827-pups-muz-svet-art-qh6036-10-12sht-2-vinil-shouboks-39x18-5x28sm-jambo-200121982	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/00040374-nabir-pupsiv-ozvucheni-korobka-12-sht-12079-r-3535-518-sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/02015972-lyalka-reborn-art-4015-36sht-1-vinil-korobka-z-vidkritim-viknom-25x21x13sm-jambo-200337597	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/19030545-pups-z-aksesuarami-ozvucheniy-12-melodiy-kulok-41sm-11013r	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/19030540-pups-funkts-z-akses-vv-p-e-z-butilochki-gorshok-rozb-korob-805288-8r-3318-238sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/02010908-pups-muz-svet-art-qh6035-1-36sht-2-vinil-korobka-s-otkrytym-oknom-18-5x14-8x31sm-jambo-200122090	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/111-kukly/200583951-32000-moya-pervaya-kukla-32sm-rozovaya-odezhda-3-	SINGLE_PRODUCT
@@ -1518,7 +1527,6 @@ https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/07000950-khokey-art-
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/00041431-khokkey-joy-toy-0701-24sht-v-kor-54296sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147004902-nastilna-gra-zberi-a5640-4	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147005840-elektronna-gra-splash-toys-smittevoz-st30122	SINGLE_PRODUCT
-https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147005838-elektronna-gra-splash-toys-golodni-khameleoni-st30110	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/19038255-gra-rozvivayucha-tik-tak-new-ost	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/19038239-gra-viktorina-ukrayini-premium-ost	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147004909-nastilna-gra-moya-persha-monopoliya	SINGLE_PRODUCT
@@ -1529,7 +1537,6 @@ https://jambo.ua/07-sport-i-otdykh/135-sportivnye-igry/200585433-tennis-tr1910-6
 https://jambo.ua/07-sport-i-otdykh/136-bokserskie-nabory/07000318-bokserskiy-nabir-art-cqh121404-24sht-0-plastik-kolorova-korobka-54x19x9sm-jambo-200422031	SINGLE_PRODUCT
 https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/147004451-penni-bord-sc180412-12shtrazobr-metall-krepleniya-kolyosa-pu-svet-5916sm-4-vida	SINGLE_PRODUCT
 https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/19035858-skeyt-sc17106-8sht-prozrachnyy-metall-krepleniya-kolyosa-pu-5514sm	SINGLE_PRODUCT
-https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/200584831-roliki-neon-street-rollers-siniy-n100735	SINGLE_PRODUCT
 https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/19039296-penni-bord-sc17107-20shtrazobr-prozrachnyy-metall-krepleniya-kolyosa-pu-svet-5514sm	SINGLE_PRODUCT
 https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/200585358-penni-bord-sc17027-12shtmetall-krepleniya-kolyosa-pu-7419sm	SINGLE_PRODUCT
 https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/200585352-penni-bord-sc180411-12shtrazobr-metall-krepleniya-kolyosa-pu-5916sm-4-vida	SINGLE_PRODUCT
@@ -1735,7 +1742,6 @@ https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/0300157
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/03003444-igrashka-mm-art-861-13a-48sht-0-plastik-kolorova-korobka-23x15x1sm-jambo-200496344	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/03007842-supergeroy-5vidov-art-650902-10sht-2-plastik-korobka-s-otkrytym-oknom-0x0x0sm-jambo-100852784	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/03009547-morska-tvarina-art-5501-36sht-vinil-shouboks-24x18x10sm-jambo-200494954	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005172-igroviy-nabir-lil-woodzeez-litak-61533z-podarok-6217gtz	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005509-igroviy-nabir-rev-ta-rambl-diecast-lori-ta-tipper	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005284-arena-auldey-infinity-nado-v-wrestle-throne-m-chotiri-kuti	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/200583934-igrova-figurka-monkart-transformer-bitroid-dante-	SINGLE_PRODUCT
@@ -1757,9 +1763,6 @@ https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/1903752
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005513-igrova-figurka-rev-ta-rambl-power-up-krash	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005507-igroviy-nabir-rev-ta-rambl-diecast-bo-ta-sprittser	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005177-igroviy-nabir-lil-woodzeez-plyazh-6165z	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005167-igroviy-nabir-lil-woodzeez-klas-ta-igroviy-maydanchik-6124z	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005168-igroviy-nabir-lil-woodzeez-kukhonka-i-pidsobna-6125z	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005176-igroviy-nabir-lil-woodzeez-kvitkoviy-magazin-malenkiy-6164z-podarok-6217gtz	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005183-igroviy-nabir-lil-woodzeez-plyazh-wz6534z	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/147005173-igroviy-nabir-lil-woodzeez-dityachiy-sadochok-6161z-podarok-6217gtz	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005293-dzia-auldey-infinity-nado-krek-boss-shadow-streak-bos-pekelniy-privid	SINGLE_PRODUCT
@@ -1767,7 +1770,6 @@ https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/1470049
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/19038524-muz-krokodil-9985-48sht-2-batar-svet-v-korobke	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005290-dzia-auldey-infinity-nado-v-seriya-advanced-fiery-dragon-vognyaniy-drakon	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005225-kolektsiyna-figurka-domez-collectible-figure-pack-marvel-spider-man-classic-s1-1-figurka	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005169-igroviy-nabir-lil-woodzeez-spalnya-i-yidalnya-6127z	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005170-igroviy-nabir-lil-woodzeez-poliklinika-6148z-podarok-6217gtz	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005291-dzia-auldey-infinity-nado-v-seriya-advanced-jade-bow-nefritoviy-luk	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/109-nabory-figurok-i-personazhey/147005222-kolektsiyna-figurka-domez-collectible-figure-pack-marvels-avengers-4-s1-1-figurka	SINGLE_PRODUCT
@@ -2058,7 +2060,6 @@ https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039181-baseyn-56452-ka
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19032499-intex-matrats-48776-np-kholodnoe-serdtse-6-razmerom-157kh88kh18sm-korobka	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039183-velyur-matras-64758-siniy-kor-137-191-25-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039046-baseyn-57182-remkomplekt-6-kor-229-56-sm-	SINGLE_PRODUCT
-https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19035249-nabir-vodyanoyi-zbroyi-3v1-korobka-vodyaniy-pistolet-maska-yys-01-r-45318sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19035613-vodnyy-pistolet-yw0459-1-60sht-s-ryukzakom-v-pakete	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/152-vozdushnye-zmei-vetryachki-sachki/19035057-zapuskalka-as920-1498257-48sht-na-planshetke-33183sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/152-vozdushnye-zmei-vetryachki-sachki/147004503-planer-bp19918-60sht-31-534-sm-s-motorchikom-na-planshetke	SINGLE_PRODUCT
@@ -2110,7 +2111,6 @@ https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584936-ryukzak-minecraft-
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584937-ryukzak-minecraft-17-scatter-creeper-backpack-n-a-multicolor	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584931-beysbolka-minecraft-spider-jockey-snap-back-hat-one-size-black-grey	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584940-ryukzak-minecraft-17-bobble-mobs-backpack-17-gray	SINGLE_PRODUCT
-https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584926-brelok-minecraft-metal-sword-keychain-n-a-n-a	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584918-brelok-minecraft-diamond-pickaxe-keychain-one-size-multicolor	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584958-ryukzak-minecraft-17-creepy-things-backpack-n-a-green	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/176-roblox/147005638-nabir-jazwares-roblox-game-packs-murder-mystery-2-w6	SINGLE_PRODUCT
