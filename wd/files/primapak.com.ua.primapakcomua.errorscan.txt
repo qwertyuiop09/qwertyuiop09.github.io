@@ -1,1 +1,0 @@
-Error delete files in removeAllScanFiles !!!, message in script start, account primapak.com.ua
