@@ -104,8 +104,8 @@ https://primapak.com.ua/catalog/pakety_fasovochnye/fasovochnye_9/625/	SINGLE_PRO
 https://primapak.com.ua/catalog/pakety_fasovochnye/fasovochnye_9/622/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_fasovochnye/fasovochnye_2/621/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_fasovochnye/fasovochnye_2/620/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2116/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2099/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2116/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2098/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2095/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2094/	SINGLE_PRODUCT
