@@ -1,34 +1,8 @@
 Error delete files in removeAllScanFiles !!!, message in script start
 Found 1 error file(s): 
-virnyidruk.ua.virnyidrukua.feed.rash_partnomer.10.html
-virnyidruk.ua.virnyidrukua.feed.rash_dsa.9.ga.txt
-virnyidruk.ua.virnyidrukua.feed.rash_dsa.6.ga.txt
-virnyidruk.ua.virnyidrukua.feed.rash_partnomer.5.html
-virnyidruk.ua.virnyidrukua.feed.zapr_printnum.4.gas.html
-virnyidruk.ua.virnyidrukua.feed.zapr_partnomer.4.gas.html
-virnyidruk.ua.virnyidrukua.feed.rash_dsa.4.ga.txt
-virnyidruk.ua.virnyidrukua.feed.rash_partnomer.4.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_printnum.4.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_dsa.4.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_partnomer.4.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_printnum.3.gas.html
-virnyidruk.ua.virnyidrukua.feed.zapr_partnomer3.3.gas.html
-virnyidruk.ua.virnyidrukua.feed.zapr_partnomer.3.gas.html
-virnyidruk.ua.virnyidrukua.feed.zapr_printnum.3.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_dsa.3.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_partnomer.3.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_partnomer.2.gas.html
-virnyidruk.ua.virnyidrukua.feed.zapr_printnum.2.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_dsa.2.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_printnum.1.gas.html
-virnyidruk.ua.virnyidrukua.feed.zapr_partnomer3.1.gas.html
-virnyidruk.ua.virnyidrukua.feed.zapr_partnomer.1.gas.html
-virnyidruk.ua.virnyidrukua.feed.zapr_printnum.1.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_dsa.1.ga.txt
-virnyidruk.ua.virnyidrukua.feed.zapr_partnomer.1.ga.txt
+virnyidruk.ua.SSSitesAlreadyChecked.json
+virnyidruk.ua.SSSitesAlreadyChecked.json
 
 Found 2 error file(s): 
-virnyidruk.ua.SSSitesAlreadyChecked.json
-virnyidruk.ua.SSSitesAlreadyChecked.json
 
 account virnyidruk.ua
