@@ -1,57 +1,64 @@
 id	excluded_destination	custom_label_4	comment
-07007662	Shopping Ads	221240107	Not AllConversions
-02002768	Shopping Ads	221240107	Not AllConversions
-03004239	Shopping Ads	221240107	Not AllConversions
-09003824	Shopping Ads	221240107	Not AllConversions
-02007548	Shopping Ads	221240107	Not AllConversions
-01025386	Shopping Ads	221240107	Not AllConversions
-01006129	Shopping Ads	221240107	Not AllConversions
-08007100	Shopping Ads	221240107	Not AllConversions
-03004336	Shopping Ads	221240107	Not AllConversions
-02006988	Shopping Ads	221240107	Not AllConversions
-02006870	Shopping Ads	221240107	Not AllConversions
-07009853	Shopping Ads	221240107	Not AllConversions
-04004816	Shopping Ads	221240107	Not AllConversions
-08018751	Shopping Ads	221240107	Not AllConversions
-01007670	Shopping Ads	221240107	Not AllConversions
 07008341	Shopping Ads	221240107	Not AllConversions
-06004711	Shopping Ads	221240107	Not AllConversions
-02001278	Shopping Ads	221240107	Not AllConversions
-02006832	Shopping Ads	221240107	Not AllConversions
-01000462	Shopping Ads	221240107	Not AllConversions
 01000647	Shopping Ads	221240107	Not AllConversions
-01004501	Shopping Ads	221240107	Not AllConversions
+01000462	Shopping Ads	221240107	Not AllConversions
+06004711	Shopping Ads	221240107	Not AllConversions
+02006832	Shopping Ads	221240107	Not AllConversions
+02001278	Shopping Ads	221240107	Not AllConversions
 02006656	Shopping Ads	221240107	Not AllConversions
 06003034	Shopping Ads	221240107	Not AllConversions
-06018899	Shopping Ads	221240107	Not AllConversions
+01003751	Shopping Ads	221240107	Not AllConversions
+01004501	Shopping Ads	221240107	Not AllConversions
 03005055	Shopping Ads	221240107	Not AllConversions
+06018899	Shopping Ads	221240107	Not AllConversions
+02004755	Shopping Ads	221240107	Not AllConversions
 07001081	Shopping Ads	221240107	Not AllConversions
 01004482	Shopping Ads	221240107	Not AllConversions
 01001517	Shopping Ads	221240107	Not AllConversions
-02004755	Shopping Ads	221240107	Not AllConversions
 03021091	Shopping Ads	221240107	Not AllConversions
 07001041	Shopping Ads	221240107	Not AllConversions
 02004258	Shopping Ads	221240107	Not AllConversions
 09001479	Shopping Ads	221240107	Not AllConversions
-09003831	Shopping Ads	221240107	Not AllConversions
 01004301	Shopping Ads	221240107	Not AllConversions
+09003831	Shopping Ads	221240107	Not AllConversions
 01009690	Shopping Ads	221240107	Not AllConversions
-02002106	Shopping Ads	221240107	Not AllConversions
 02003015	Shopping Ads	221240107	Not AllConversions
+02002106	Shopping Ads	221240107	Not AllConversions
 12002117	Shopping Ads	221240107	Not AllConversions
 03005168	Shopping Ads	221240107	Not AllConversions
 12007860	Shopping Ads	221240107	Not AllConversions
+05004719	Shopping Ads	221240107	Not AllConversions
 07000417	Shopping Ads	221240107	Not AllConversions
 02004583	Shopping Ads	221240107	Not AllConversions
-02001290	Shopping Ads	221240107	Not AllConversions
 04006421	Shopping Ads	221240107	Not AllConversions
-02002564	Shopping Ads	221240107	Not AllConversions
-06001920	Shopping Ads	221240107	Not AllConversions
+07006047	Shopping Ads	221240107	Not AllConversions
 01022211	Shopping Ads	221240107	Not AllConversions
+06001920	Shopping Ads	221240107	Not AllConversions
+02002564	Shopping Ads	221240107	Not AllConversions
 01002954	Shopping Ads	221240107	Not AllConversions
 07008089	Shopping Ads	221240107	Not AllConversions
 01009143	Shopping Ads	221240107	Not AllConversions
 06027499	Shopping Ads	221240107	Not AllConversions
-01014038	Shopping Ads	221240107	 msales av 30 p 30 f
-01006373	Shopping Ads	221240107	 msales av 30 p 30 f
+01005957	Shopping Ads	221240107	Not AllConversions
+03004239	Shopping Ads	221240107	Not AllConversions
+02002768	Shopping Ads	221240107	Not AllConversions
+07007662	Shopping Ads	221240107	Not AllConversions
+01005994	Shopping Ads	221240107	Not AllConversions
+01025386	Shopping Ads	221240107	Not AllConversions
+09003824	Shopping Ads	221240107	Not AllConversions
+02007548	Shopping Ads	221240107	Not AllConversions
+01006129	Shopping Ads	221240107	Not AllConversions
+03004336	Shopping Ads	221240107	Not AllConversions
+08007100	Shopping Ads	221240107	Not AllConversions
+02004443	Shopping Ads	221240107	Not AllConversions
+02006988	Shopping Ads	221240107	Not AllConversions
+02006870	Shopping Ads	221240107	Not AllConversions
+01007670	Shopping Ads	221240107	Not AllConversions
+04004816	Shopping Ads	221240107	Not AllConversions
+08018751	Shopping Ads	221240107	Not AllConversions
+07009853	Shopping Ads	221240107	Not AllConversions
 01345716	Shopping Ads	221240107	 msales av 30 p 30 f
+01014038	Shopping Ads	221240107	 msales av 30 p 30 f
+01014062	Shopping Ads	221240107	 msales av 30 p 30 f
+03003408	Shopping Ads	221240107	 msales av 30 p 30 f
+01006373	Shopping Ads	221240107	 msales av 30 p 30 f
