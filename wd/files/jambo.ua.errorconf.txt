@@ -1,4 +1,0 @@
-Could not read file: jambo.ua.merchantfeed.txt Error: Service error: Drive
-/jambo.ua.merchantfeed.txt
-/callhunter/domains/jambo.ua.merchantfeed.txt
-Config is not working . Exit

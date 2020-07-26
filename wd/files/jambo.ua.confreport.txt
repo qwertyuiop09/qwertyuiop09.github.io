@@ -1,4 +1,4 @@
-Could not read file: jambo.ua.merchantfeed.txt Error: Service error: Drive
-/jambo.ua.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/jambo.ua.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 1792632983
