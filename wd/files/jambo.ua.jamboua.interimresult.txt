@@ -1,23 +1,23 @@
 https://jambo.ua
-Scanned step: 3
+Scanned step: 4
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 4665 URLS
-Scanned 4637 URLS
+Request to scanned 6140 URLS
+Scanned 6110 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Уникальные Бренды. Горячие Новинки и Акции. Различные Варианты Оплаты. Доставка в День Заказа. Сеть магазинов Jambo.
 
 Campaigns in GASearch id0 1 Num
 Add / Modify urls in GASearch id0 0 URLS
-All urls in GASearch id0 1686 URLS
-All urls in feed id0 1695 URLS
-Found parsed item urls for id0 1695 URLS
-Not found parsed item urls for id0 2529 URLS (see in log details)
+All urls in GASearch id0 2087 URLS
+All urls in feed id0 2097 URLS
+Found parsed item urls for id0 2097 URLS
+Not found parsed item urls for id0 3536 URLS (see in log details)
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 1695 URLS
-Found parsed item urls for id1000 1695 URLS
+All urls in feed id1000 2097 URLS
+Found parsed item urls for id1000 2097 URLS
 Not found parsed item urls for id1000 0 URLS
 
 For GASearch id1 don't forget! add Campaigns Extensions: Уникальные Бренды. Горячие Новинки и Акции. Различные Варианты Оплаты. Доставка в День Заказа. Сеть магазинов Jambo.
@@ -27,7 +27,7 @@ Add / Modify urls in GASearch id1 0 URLS
 All urls in GASearch id1 1 URLS
 All urls in feed id1 1 URLS
 Found parsed item urls for id1 1 URLS
-Not found parsed item urls for id1 2647 URLS (see in log details)
+Not found parsed item urls for id1 3252 URLS (see in log details)
 
 Campaigns in GASearch id1001 0 Num
 All urls in feed id1001 1 URLS
