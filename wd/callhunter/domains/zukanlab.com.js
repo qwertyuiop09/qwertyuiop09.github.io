@@ -53,9 +53,9 @@ var IPchatConfig = {
 
 
 
-//	"workStart": "09",
-//	"workEnd": "18",
-//	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+	"workStart": "09",
+	"workEnd": "19",
+	"workDays": "Mon, Tue, Wed, Thu, Fri",
 
 
 
