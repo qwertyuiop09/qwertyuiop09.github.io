@@ -76,31 +76,12 @@ var IPchatConfig = {
 
 
 
-/*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
-		"AdwConvHit": {
-		google_conversion_id: 612145020,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
-//for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
-		google_remarketing_only: false
-			},
-
-
-
-
-
-
 		"AdwConvTime": {
 		google_conversion_id: 612145020,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_conversion_label: "5xs9CPaM3tgBEPyu8qMC",
 		google_remarketing_only: false
 			},
 
