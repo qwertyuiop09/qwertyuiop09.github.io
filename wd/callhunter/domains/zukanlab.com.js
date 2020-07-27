@@ -4,9 +4,8 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 
 //без предоплаты, логин менеджера
-//раскомментировать !!!
-//var intepriceIPL = 'zukanlab.inteprice.com';
-//var intepriceCRT = '18.07.2020';
+var intepriceIPL = 'zukanlab.inteprice.com';
+var intepriceCRT = '27.07.2020';
 
 
 var IPchatConfig = {
@@ -48,13 +47,8 @@ var IPchatConfig = {
 
 	var IPclhrDataUpdate = {
 
-		//убрать !!!
-		"hunterOn": "0",
-		"showButton": 	"0",
-		"consultantOn": "0",
 
-		//раскомментировать !!!
-		//"consultantOn": "4",
+		"consultantOn": "4",
 
 
 
@@ -87,58 +81,16 @@ var IPchatConfig = {
 
 
 
+
+
 		"AdwConvCHSnd": {
 		google_conversion_id: 612145020,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
+		google_conversion_label: "Xua4CPrW-9gBEPyu8qMC",
 		google_remarketing_only: false
 			},
-
-
-
-/*
-
-//для чатов
-//пример для JivoChat (но можно не использовать конкретно для JivoChat, так как если отсутсвует SetChatWidget, то в скрипте по молчанию используются настройки для JivoChat)
-//"SetChatWidget": {button: "#jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
-
-
-		"AdwConvChatWidget": {
-		google_conversion_id: 612145020,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
-		google_remarketing_only: false
-			},
-
-
-
-
-		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-
-//для виджетов обратного звонка
-//пример для binotel.ua "SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-//в других, ниже, еще не настроено отслеживание соединения звонка phoneFound (если их использовать, то лучше настроить phoneFound, иначе могут быть пропуски конверсий)
-//пример для fastcallagent.com.ua "SetCallWidget": {button: "#fca_call_button", phoneField:'#fca_phone' },
-//пример для venyoo.ru "SetCallWidget": {button: '#leadia_widget_callform_sendrequest, #sendLeadBtn', phoneField:'input.leadia_widget_order_control[data-form-field=callform_phone], input.leadia_msg_form_input[data-form-field=phone], input.leadia_msg_form_input[data-form-field=email]', phoneRegExp:'^([0-9]+)|([^\s]+\@[^\s]+\.[^\s]+)$'},
-//пример для livetex.ru "SetCallWidget": {button: "div.lt-widget-wrap button.lt-bttn", phoneField:'div.lt-widget-wrap input.lt-i-label__input', phoneRegExp:'([0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9])|([^\\s]+\@[^\\s]+\\.[^\\s]+)'},
-
-
-		"AdwConvCallWidget": {
-		google_conversion_id: 612145020,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "VqrlCP27jXwQpbqOzgM",
-		google_remarketing_only: false
-		},
-
-
-
-*/
 
 
 
@@ -162,9 +114,6 @@ var IPchatConfig = {
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 //		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
-//надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
-//также была проблема с азури - если подключаться к их форме магазина, то глючит страница "спасибо за покупку" - просто вылазит ошибка без перехода на эту страницу
-//а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
