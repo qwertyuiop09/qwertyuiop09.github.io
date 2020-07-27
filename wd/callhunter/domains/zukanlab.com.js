@@ -48,6 +48,9 @@ var IPchatConfig = {
 	var IPclhrDataUpdate = {
 
 
+
+		"CSS": '.clhr-form h6 { line-height: 1.2; }',
+
 		"consultantOn": "4",
 
 
