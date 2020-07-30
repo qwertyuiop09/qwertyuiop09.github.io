@@ -327,7 +327,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/2005
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200584010-mashina-metal-7844-4-72sht-2-avtoprom-1-32-36-politsiya-mersedes-benz-g65-svet-4-zvuka-signala-otkr-dveri-kapot-bagazhnik-v-korobke-1899sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200586203-mototsikl-metal-plastik-inerts-7750-72sht-2-avtoprom-1-12-2-tsveta-v-korobke-21-5127sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200586204-mashina-metal-7844-2-72sht-2-avtoprom-1-32-36-politsiya-land-rover-svet-4-zvuka-signala-otkr-dveri-kapot-bagazhnik-v-korobke-1899sm	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200586206-mashina-metal-7689b-12sht-avtoprom-1-24-audi-q7-chernyy-tsvet-batar-svet-zvuk-dveri-otkr-v-kor-28-514-511-5sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200584005-mashina-metal-68441-7948-48sht-2-avtoprom-1-32-ford-shelby-gt350-3-tsveta-svet-zvuk-v-korobke-1898sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200584006-mashina-metal-68335-7952-48sht-2-avtoprom-1-32-chevrolet-camaro-ss-3-tsveta-svet-zvuk-v-korobke-1898sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/147004405-mashina-metall-7666-36sht-3-avtoprom-1-24-toyota-2-tsveta-batar-svet-zvuk-otkr-dveri-v-kor-241111sm	SINGLE_PRODUCT
@@ -1614,7 +1613,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/200584507-igrovoy-
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/147004437-igrovoy-nabor-6501-108sht-2-soberi-nasekomoe-3-vida-na-blistere-21-44-225-3sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/00032555-chervoniy-nabir-navchannya-z-trik-trek-angl-mova	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/19037658-igrovoy-nabor-lq2021-12sht-2-v-korobke-50-51533sm	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01008565-kulemet-pompoviy-art-777-710c-18sht-plastik-korobka-z-vidkritim-viknom-45x9-5x26-5sm-jambo-200455856	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01001821-blaster-art-11212-60sht-0-plastik-shouboks-25-5x8-4x19-2sm-jambo-200497182	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01003058-blaster-art-kt8889-1-48sht-2-plastik-shouboks-32x6-5x22-5sm-jambo-200003005	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01004136-luk-art-9822-16-24sht-2-plastik-karton-1x1x1sm-jambo-100543413	SINGLE_PRODUCT
@@ -1728,7 +1726,6 @@ https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/19030551-pups-divchinka-muz
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19038334-stulchik-metall-hk-cs7855-36sht-2-skladnoy-so-stolikom-v-pak-223760sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19033054-stolik-z-lyalkami-kovpak-6-lyalok-a8-326-r-24-52313sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/02028012-domik-zvuk-svet-art-h-012-4sht-0-plastik-korobka-s-otkrytym-oknom-63-5x15-5x46-5sm-jambo-200130811	SINGLE_PRODUCT
-https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/00041885-stulchik-metall-cs7859-1489988-24sht-2-skladnoy-so-stolikom-v-pak-223760sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19029534-kukolnyy-dom-960-s-kuklami-mebelyu-avto-kor-53735-sh-k-18-	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19031566-krovatka-metall-cs7860-1489990-36sht-2-dlya-kukly-do-45sm-s-odeyalom-podushkoy-v-sumke-244325sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/200584248-krovatka-metall-881-1-24sht-podushka-prostyn-odeyalko-r-r-igrushki-472835sm-v-kor-45-5429-5sm	SINGLE_PRODUCT
@@ -2582,7 +2579,6 @@ https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19034333-basseyn-naduvn-
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039086-matrats-58787-rozheva-kvitka-remkomplekt-kor-142-142-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039041-baseyn-56490-2-kiltsya-572-l	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/00044276-plotik-naduvn-58857np-6sht-vinil-s-podstakannikom-15597-sm	SINGLE_PRODUCT
-https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039249-plotik-bw-34094-cherepakha-z-navisom-kor-74-66-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/00033041-maska-vod-z-lastami-kulok-33038c	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039075-matrats-58753-lodyanik-remkomplekt-kor-208-135-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/00043302-59431-basseyn-detskiy-tropicheskie-rybki-13228sm-12-	SINGLE_PRODUCT
