@@ -1,4 +1,5 @@
 Page URL	Custom label
+https://jambo.ua/12-knigi-i-kantselyariya/166-flomastery-markery/200586634-flomasteri-24-kolori-super-washable-jumbo-1632-24cb-tm-marco-1632-24cb	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200585387-model-dzhip-5-kt5420wb-jeep-wrangler-military-metal-inerts-otkr-dv-3tsv-kor-96-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200585389-model-dzhip-5-kt5097w-hummer-h2-sut-2005-metal-inerts-otkr-dv-4tsv-kor-96-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200585382-model-legkovaya-5-kt5407fw-aston-martin-vulcan-w-printing-metal-inerts-otkr-dv-4tsv-kor-96-	SINGLE_PRODUCT
@@ -303,7 +304,6 @@ https://jambo.ua/12-knigi-i-kantselyariya/147005128-nabir-podarunkoviy-13-predme
 https://jambo.ua/12-knigi-i-kantselyariya/172-kantselyarskie-prenadlezhnosti/147005102-pidstavka-dlya-pismovogo-priladdya-akula-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/172-kantselyarskie-prenadlezhnosti/147005103-pidstavka-dlya-pismovogo-priladdya-gippo-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/147005658-tambler-yes-s-blestkami-black-cat-450ml-s-trubochkoy	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/110-aksessuary-dlya-detey/147005659-tambler-yes-s-blestkami-pink-cat-450ml-s-trubochkoy	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/93-igrushechnyy-transport/200586223-mashinka-transformer-screechers-wild-l-2-naytvizhn	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/119-igrovye-nabory/200584501-igroviy-nabir-poopsie-s2-charivniy-ulyublenets-z-syurprizami-zi-slaym-aksesuarami	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/163-karandashi-ruchki-korrektory/200584524-nabir-aromatnikh-gelevikh-ruchok-feeriya-aromativ-8-koloriv	SINGLE_PRODUCT
@@ -1726,6 +1726,7 @@ https://jambo.ua/02-igrushki-dlya-devochek/112-pupsy/19030551-pups-divchinka-muz
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19038334-stulchik-metall-hk-cs7855-36sht-2-skladnoy-so-stolikom-v-pak-223760sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19033054-stolik-z-lyalkami-kovpak-6-lyalok-a8-326-r-24-52313sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/02028012-domik-zvuk-svet-art-h-012-4sht-0-plastik-korobka-s-otkrytym-oknom-63-5x15-5x46-5sm-jambo-200130811	SINGLE_PRODUCT
+https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/00041885-stulchik-metall-cs7859-1489988-24sht-2-skladnoy-so-stolikom-v-pak-223760sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19029534-kukolnyy-dom-960-s-kuklami-mebelyu-avto-kor-53735-sh-k-18-	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/19031566-krovatka-metall-cs7860-1489990-36sht-2-dlya-kukly-do-45sm-s-odeyalom-podushkoy-v-sumke-244325sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/114-mebel-dlya-kukol-domiki-zamki/200584248-krovatka-metall-881-1-24sht-podushka-prostyn-odeyalko-r-r-igrushki-472835sm-v-kor-45-5429-5sm	SINGLE_PRODUCT
@@ -1826,6 +1827,7 @@ https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/19030806-konstrukt
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/00030402-konstruktor-sluban-m38-b0552-24sht-gorod-296-det-v-razobr-kor-42-5336-7-sm	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/04003766-konstruktor-pruzhina-kuli-art-202102-16sht-2-plastik-kolorova-korobka-23-5x13x28-5sm-jambo-200440376	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/00041442-konstruktor-5025-30-28-34-48sht-24-vida-miks-12-15-det-1-figurka-v-kompl-v-plast-bokse-181222sm	SINGLE_PRODUCT
+https://jambo.ua/04-konstruktory/124-konstruktory-metallicheskie-magnitnye/04002513-konstruktor-1000det-boks-art-205-13-36sht-2-plastik-plastikovaya-korobka-25-5x16x15-5sm-jambo-200032745	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/200584690-konstruktor-10718-18sht-2-573det-v-sobr-korobke-5330-56-sm	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/19030768-konstruktor-ninja-movie-korobka-368-det-10725-r-38-8226-sm	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/147005619-konstruktor-bela-10946-36sht-2-v-sobr-kor-38-8226-5sm	SINGLE_PRODUCT
@@ -1873,10 +1875,9 @@ https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/19037535-konstrukt
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/147004418-konstruktor-02081-18sht-v-sobr-korobke-534310sm	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/19038139-konstruktor-car-station-188-80-30sht-38det-v-korobke-35826sm	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/123-konstruktory-plastikovye/19036310-konstruktor-2705-transport-figurki-185-det-kor-30-17-5-5-sm-	SINGLE_PRODUCT
-https://jambo.ua/04-konstruktory/124-konstruktory-metallicheskie-magnitnye/04009244-konstruktor-iz-naduvnikh-kulok-art-wxh121402-48sht-0-plastik-kolorova-korobka-25x29x8sm-jambo-200421924	SINGLE_PRODUCT
-https://jambo.ua/04-konstruktory/124-konstruktory-metallicheskie-magnitnye/04002513-konstruktor-1000det-boks-art-205-13-36sht-2-plastik-plastikovaya-korobka-25-5x16x15-5sm-jambo-200032745	SINGLE_PRODUCT
-https://jambo.ua/04-konstruktory/124-konstruktory-metallicheskie-magnitnye/04028110-konstruktor-magnitnyy-30-det-art-qf8110e-plastik-tsvetnaya-korobka-43-58x36x8sm-jambo-200099655	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/124-konstruktory-metallicheskie-magnitnye/00049161-konstruktor-shesterenki-9003-48sht-2-batar-svet-zvuk-v-korobke	SINGLE_PRODUCT
+https://jambo.ua/04-konstruktory/124-konstruktory-metallicheskie-magnitnye/04028110-konstruktor-magnitnyy-30-det-art-qf8110e-plastik-tsvetnaya-korobka-43-58x36x8sm-jambo-200099655	SINGLE_PRODUCT
+https://jambo.ua/04-konstruktory/124-konstruktory-metallicheskie-magnitnye/04009244-konstruktor-iz-naduvnikh-kulok-art-wxh121402-48sht-0-plastik-kolorova-korobka-25x29x8sm-jambo-200421924	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/125-konstruktory-dlya-malyshey/04001291-konstruktor-blochniy-art-clh121702-12sht-0-foamiran-paket-pvkh-51x20x5sm-jambo-200423129	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/125-konstruktory-dlya-malyshey/04001284-konstruktor-blochniy-art-clh121701-12sht-0-foamiran-paket-pvkh-40-5x20-5x15-5sm-jambo-200423128	SINGLE_PRODUCT
 https://jambo.ua/04-konstruktory/125-konstruktory-dlya-malyshey/04007277-konstruktor-s-sharami-art-hd8820b-36sht-2-plastik-tsvetnaya-korobka-28x20-5x7sm-jambo-200043727	SINGLE_PRODUCT
