@@ -86,7 +86,7 @@ var IPchatConfig = {
 
 
 
-		"ClickElement": ".b24-widget-button-inner-container",
+		"ClickElement": ".b24-widget-button-wrapper",
 
 		"AdwConvСlick": {
 		google_conversion_id: 846791330,
