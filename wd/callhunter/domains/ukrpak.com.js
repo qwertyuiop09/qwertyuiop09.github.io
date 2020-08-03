@@ -61,31 +61,11 @@ var IPchatConfig = {
 
 
 
-/*
 
 		"AdwConvRemark": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 846791330,
 		google_custom_params: window.google_tag_params,
-		//google_custom_params: undefined,
-//		google_user_id = '<unique user id>',
 		google_remarketing_only: true
-			},
-*/
-
-
-
-/*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
-		"AdwConvHit": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
-//for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
-		google_remarketing_only: false
 			},
 
 
@@ -94,18 +74,18 @@ var IPchatConfig = {
 
 
 		"AdwConvTime": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 846791330,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_conversion_label: "RMiCCJC81dkBEKKF5JMD",
 		google_remarketing_only: false
 			},
 
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 846791330,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -123,7 +103,7 @@ var IPchatConfig = {
 
 
 		"AdwConvChatWidget": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 846791330,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -145,7 +125,7 @@ var IPchatConfig = {
 
 
 		"AdwConvCallWidget": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 846791330,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
