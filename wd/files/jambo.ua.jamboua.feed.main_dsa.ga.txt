@@ -699,7 +699,6 @@ https://jambo.ua/07-sport-i-otdykh/140-myachi/200585447-myach-voleybolnyy-extrem
 https://jambo.ua/07-sport-i-otdykh/140-myachi/19039147-myach-basketbol-bb0417-30sht-7	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/100-igrushki-muzykalnye/200585743-planshet-abetka-pl-719-58-96sht-2batar-na-ukr-obuchenie-bukvy-tsveta-schet-v-kor-191-629-5sm	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584663-skeyt-sl-f04-6sht-pu-kolesa-razmer-7020sm-4-tsveta	SINGLE_PRODUCT
-https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/200585348-penni-bord-sc17067-8sht-metall-krepleniya-kolesa-pvc-8-tsvetov-v-korobke-551510sm	SINGLE_PRODUCT
 https://jambo.ua/07-sport-i-otdykh/137-skeyty-roliki/200584664-penni-bord-wx-211-8sht-pu-kolesa-3-tsveta	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584649-samokat-detskiy-4-kh-kolyos-5-v-1-sc17098-6sht-goluboy-kolesa-pu-so-svetom	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200585736-samokat-g060-6sht-3-kolesa-pu-svet-kolyosa-per-120mm-zadn-80-mm-4-tsveta	SINGLE_PRODUCT
@@ -1603,7 +1602,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/96-igrovye-nabory/19037658-igrovoy-n
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01001821-blaster-art-11212-60sht-0-plastik-shouboks-25-5x8-4x19-2sm-jambo-200497182	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01003058-blaster-art-kt8889-1-48sht-2-plastik-shouboks-32x6-5x22-5sm-jambo-200003005	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01004136-luk-art-9822-16-24sht-2-plastik-karton-1x1x1sm-jambo-100543413	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/19035052-snayperskaya-vintovka-batar-5503-36sht-2-svet-zvuk-v-korobke-43224sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01005390-luk-art-9922-19-12sht-0-plastik-karton-88-5x23-5x4sm-jambo-101000539	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/00045983-pistolet-gidrogel-pul-31723sm-art-633-plastik-100927545-jambo	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/200584210-nabir-nerf-nitro-v-korobtsi-7712	SINGLE_PRODUCT
@@ -2400,7 +2398,6 @@ https://jambo.ua/08-igrushki-dlya-detey/156-igrushki-dlya-malyshey/200585590-570
 https://jambo.ua/08-igrushki-dlya-detey/156-igrushki-dlya-malyshey/200585523-80013-detskaya-igrushka-avtogonki-s-katapultami-zvuk-18m-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/13018058-pazli-derev-art-yjgyh0811105-144sht-1-derevo-plivka-27x12x3sm-jambo-200337805	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/13018409-pazli-derev-art-yjgyh0811112-72sht-1-derevo-kolorova-korobka-28x15x3-5sm-jambo-200337840	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika/19036466-rozvivayucha-gra-aplikatsiya-2	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika/19038650-dityachiy-nabir-ice-cream-	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika/19038003-balansir-z-ribkami-i-piratami	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/99-tm-kubika/19032154-pazl-kombi-1-	SINGLE_PRODUCT
@@ -2450,7 +2447,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/147004676-
 https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/147004637-gra-monopoliya-svitu-7007-strateg	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/143-nastolnye-igry-pazly/147004649-rozvazhalna-gra-shatayko-30305-strateg	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585657-motobayk-chervoniy-504-orion	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/19038267-mototsikl-0138-f	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585654-tolokar-muzichniy-avtoshka-sino-chervoniy-0142-12-doloni	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004250-katalka-avtoshka-muzichna-fioletovo-rozheva-0142-03-f	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/147004260-a-m-k-maz-kh3-pozhezhna-034-o	SINGLE_PRODUCT
@@ -2460,7 +2456,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200585003-nabir-
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200585001-shariki-d8sm-60-sht-02-418-kv	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/00015856-kukhnya-3-3-01666	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/147004621-kulki-100-sht-kw-02-414	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/19033243-velosiped-dityachiy-prof1-g1855-18-dodatkovi-kolesa-dzvinok-chorno-biliy-chervoniy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584852-dityachiy-velosiped-miqilong-gn-chervoniy-16-mql-gn16-red	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/19034148-velosiped-dityachiy-prof1-20d-y20105-top-grade-dzvinok-pidnizhka-chervoniy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584796-velosiped-detskiy-2-kh-kolyosnyy-16-191633-1sht-like2bike-sprint-zelyonyy	SINGLE_PRODUCT
@@ -2760,3 +2755,5 @@ https://jambo.ua/173-geymerskiy-merch/178-nanables/147005503-igrova-figurka-jazw
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/200586177-medalnitsya-moyi-dosyagnennya-600300mm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/200586176-derevyani-igrashkovi-mebli-knizhkova-shafa-185kh300kh90mm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/200586178-medalnitsya-chempion-550220mm	SINGLE_PRODUCT
+https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/200586375-stil-igroviy-dityachiy-480kh580kh640mm	SINGLE_PRODUCT
+https://jambo.ua/08-igrushki-dlya-detey/179-derevyannye-izdeliya-jambo/200586458-lyalkoviy-budinok-506kh530kh202mm	SINGLE_PRODUCT
