@@ -84,6 +84,24 @@ var IPchatConfig = {
 
 
 
+
+
+
+/*
+
+
+<!-- Event snippet for ClickWidget conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-846791330/LzPwCLKi49kBEKKF5JMD',
+      'value': 13.0,
+      'currency': 'UAH'
+  });
+</script>
+
+*/
+
+
 		"AdwConvCHSnd": {
 		google_conversion_id: 846791330,
 		google_conversion_language: "en",
