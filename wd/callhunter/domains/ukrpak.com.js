@@ -4,7 +4,7 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 
 //без предоплаты, логин менеджера
-var intepriceIPL = 'ukrpak.inteprice.com';
+var intepriceIPL = 'primapak.inteprice.com';
 var intepriceCRT = '03.08.2020';
 
 
