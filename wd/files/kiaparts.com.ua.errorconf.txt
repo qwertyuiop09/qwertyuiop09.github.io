@@ -1,4 +1,0 @@
-Could not read file: kiaparts.com.ua.merchantfeed.txt Error: Service error: Drive
-/kiaparts.com.ua.merchantfeed.txt
-/callhunter/domains/kiaparts.com.ua.merchantfeed.txt
-Config is not working . Exit
