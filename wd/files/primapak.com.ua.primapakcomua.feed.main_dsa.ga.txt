@@ -108,8 +108,8 @@ https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2116/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2099/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2098/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2095/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2094/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2108/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2094/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2097/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2114/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_v_rulonakh/mayki_v_rulonakh_na_shpule/2167/	SINGLE_PRODUCT
