@@ -1,4 +1,29 @@
 Page URL	Custom label
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586658-nabir-z-almaznoyu-mozayikoyu-korolivski-pivoniyi-3040sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586668-nabir-dlya-rozpisu-po-nomerakh-silskiy-peyzazh-rayske-mistse-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586670-nabir-dlya-rozpisu-po-nomerakh-tvarini-ptakhi-zirke-oko-40kh50sm-	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586674-nabir-dlya-rozpisu-po-nomerakh-buketi-rozhevi-pivoniyi-4040sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586676-nabir-dlya-rozpisu-po-nomerakh-miskiy-peyzazh-charivna-para-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586682-nabir-dlya-rozpisu-po-nomerakh-veseliy-enot-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586664-nabir-dlya-rozpisu-po-nomerakh-buketi-natyurmorti-troyandi-kokhannya-4040sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586662-nabir-z-almaznoyu-mozayikoyu-poluden-v-venetsiyi-3040sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586669-nabir-dlya-rozpisu-po-nomerakh-tvarini-ptakhi-para-vovkiv-40kh50sm-	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586671-nabir-dlya-rozpisu-po-nomerakh-tvarini-ptakhi-ednannya-serdets-40kh50sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586678-nabir-dlya-rozpisu-po-nomerakh-tvarini-ptakhi-big-chasu-4050sm-	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586680-nabir-dlya-rozpisu-po-nomerakh-tvarini-ptakhi-bubble-gum-3040sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586666-nabir-dlya-rozpisu-po-nomerakh-buketi-nizhniy-buket-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586673-nabir-dlya-rozpisu-po-nomerakh-buketi-solodkiy-aromat-pivoniy-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586677-nabir-dlya-rozpisu-po-nomerakh-charuyuche-misto-4040sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586661-nabir-z-almaznoyu-mozayikoyu-nayulyublenishi-kviti-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586665-nabir-dlya-rozpisu-po-nomerakh-buketi-korobochka-shchastya-4040sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586672-nabir-dlya-rozpisu-po-nomerakh-tvarini-ptakhi-para-lebediv-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586667-nabir-dlya-rozpisu-po-nomerakh-miskiy-peyzazh-ranok-u-zatotsi-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586659-nabir-z-almaznoyu-mozayikoyu-pukhnastik-4040-sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586660-nabir-z-almaznoyu-mozayikoyu-sovushki-4040sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586681-nabir-dlya-rozpisu-po-nomerakh-tvarini-ptakhi-lovely-kitten-4040sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586663-nabir-z-almaznoyu-mozayikoyu-neperemozhniy-tigr-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586675-nabir-dlya-rozpisu-po-nomerakh-miskiy-peyzazh-nadikhayucha-italiya-4050sm	SINGLE_PRODUCT
+https://jambo.ua/09-ukrainskie-proizvoditeli/142-tvorchestvo/200586679-nabir-dlya-rozpisu-po-nomerakh-tvarini-ptakhi-malenka-pandochka-3040sm	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/166-flomastery-markery/200586634-flomasteri-24-kolori-super-washable-jumbo-1632-24cb-tm-marco-1632-24cb	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200585387-model-dzhip-5-kt5420wb-jeep-wrangler-military-metal-inerts-otkr-dv-3tsv-kor-96-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin/200585389-model-dzhip-5-kt5097w-hummer-h2-sut-2005-metal-inerts-otkr-dv-4tsv-kor-96-	SINGLE_PRODUCT
@@ -1518,7 +1543,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01026
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/147005604-mashina-pereverten-r-k-crazonart-17sl01a-12sht-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/00041553-mashina-akkum-r-u-333-mud01b-02b-12sht-2-vida-m1-14-v-korobke-29-81814-6sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01009820-kran-batar-ne-polnoe-r-u-art-712-24sht-2-plastik-korobka-s-otkrytym-oknom-21x17-5x41-5sm-jambo-100410982	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19036554-mashina-yd898-mj1938-39-radioker-gum-kolesa-3-vidi-bat-kor-27-5-12-5-11-5-sm-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19031779-robot-interakt-na-r-u-9366-12sht-link-govorit-po-rus-v-kor-26-815-533sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/00028863-mashina-zmeya-batar-r-u-5895a-1206853-12sht-2-v-korobke-45-529-519sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19038330-vertolet-na-r-u-bf-121-3-36sht-2-giroskop-v-korobke-50719sm	SINGLE_PRODUCT
@@ -1531,7 +1555,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19035
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19036360-mashina-esd899-4-5-6-radioker-nebit-korp-gum-kolesa-3-vidi-kor-29-5-12-11-5-sm-	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01017470-tank-r-k-svitlo-muzika-art-rfh1011101-6sht-1-plastik-shouboks-57x48x5sm-jambo-200377047	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01008132-mashina-pereverten-r-k-art-ghh121301-16sht-0-plastik-kolorova-korobka-46x34x11sm-jambo-200420813	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01021448-tank-svitlo-zvuk-r-k-art-xj13-a-24sht-2-plastik-z-vidkritim-viknom-35x15x15sm-jambo-100865144	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01001540-mashina-r-k-art-3699-q6-18sht-0-plastik-shouboks-38-5x15x16-5sm-jambo-200495154	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01005314-mashina-r-k-art-0132a-12sht-0-plastik-shouboks-42x24-5x23sm-jambo-200495031	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/19030214-kvadrokopter-f12-radioker-2-4g-akum-usb-zap-lopasti-2-kolori-svitlo-kor-33-19-5-10-sm-	SINGLE_PRODUCT
@@ -2448,7 +2471,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/200585654-
 https://jambo.ua/09-ukrainskie-proizvoditeli/144-transport-dlya-detey/147004250-katalka-avtoshka-muzichna-fioletovo-rozheva-0142-03-f	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/147004260-a-m-k-maz-kh3-pozhezhna-034-o	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/147-razvivayushchie-igrushki/19038635-konstruktor-7-540-elementiv-0557-tekh	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/00022332-kukhnya-9-4-01168	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200585003-nabir-kulok-dlya-baseyniv-80-mm-100sht-12024-sumka-m	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200585001-shariki-d8sm-60-sht-02-418-kv	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/00015856-kukhnya-3-3-01666	SINGLE_PRODUCT
@@ -2578,7 +2600,6 @@ https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039183-velyur-matras-6
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039038-baseyn-52192-z-dakhom-naduvne-dno-147-147-122-sm	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039046-baseyn-57182-remkomplekt-6-kor-229-56-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/00043340-57431-basseyn-detskiy-krokodil-s-razbryzgivatelem-19816091sm-4-	SINGLE_PRODUCT
-https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039063-velyur-matrats-68757-naduv-99-191-22-sm-siniy-kor-31-5-28-9-sm-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19039065-igroviy-tsentr-57162-ribolovlya-baseyn-girka-fontan-182l-vid-3kh-rokiv-zliv-klapan-remkomplekt-218-188	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/149-naduvnye-tovary/19034363-plotik-naduvn-56589-12sht-skat-s-nozhkami-vinil-s-kryshey-76-sm-v-kor-	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/19035249-nabir-vodyanoyi-zbroyi-3v1-korobka-vodyaniy-pistolet-maska-yys-01-r-45318sm-	SINGLE_PRODUCT
