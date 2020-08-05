@@ -98,8 +98,8 @@ phoneField="#SUBMIT_BUTTON"
 
 	
 		//"ClickElement": "div.b24-widget-button-wrapper.b24-widget-button-position-bottom-right.b24-widget-button-visible > div.b24-widget-button-inner-container > div.b24-widget-button-block > div.b24-widget-button-inner-block > div.b24-widget-button-icon-container > div.b24-widget-button-inner-item.b24-widget-button-icon-animation > svg > path",
-		//нажатие на любую кнопку виджета
-		"ClickElement": "a[data-b24-crm-button-widget]",
+		//нажатие на любую кнопку виджета или приглашение менеджера чата
+		"ClickElement": "a[data-b24-crm-button-widget], div[data-b24-crm-hello-cont]",
 
 		"AdwConvСlick": {
 		google_conversion_id: 958647086,

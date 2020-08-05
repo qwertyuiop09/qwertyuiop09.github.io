@@ -87,8 +87,8 @@ var IPchatConfig = {
 
 
 		//"ClickElement": ".b24-widget-button-wrapper",
-		//нажатие на любую кнопку виджета
-		"ClickElement": "a[data-b24-crm-button-widget]",
+		//нажатие на любую кнопку виджета или приглашение менеджера чата
+		"ClickElement": "a[data-b24-crm-button-widget], div[data-b24-crm-hello-cont]",
 
 		"AdwConvСlick": {
 		google_conversion_id: 846791330,
