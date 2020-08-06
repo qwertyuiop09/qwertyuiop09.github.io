@@ -282,7 +282,6 @@ https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/20058636
 https://jambo.ua/06-razvivayushchie-igry/131-muzykalnye-instrumenty/00042799-organ-ki-3737-u-24shtbatar-muz-s-mikrofonom-v-kor-66196sm	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584807-velosiped-detskiy-2-kh-kolyosnyy-14-191419-1sht-like2bike-sprint-rozovyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584799-velosiped-detskiy-2-kh-kolyosnyy-18-191831-1sht-like2bike-sprint-rozovyy	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200586355-velosiped-2-kh-koles-18-191804-1sht-disney-minnie-mouse-so-zvonkom-zerkalom-ruch-tormoz	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200586356-velosiped-2-kh-koles-18-191806-1sht-disney-minnie-mouse-so-zvonkom-zerkalom-ruch-tormoz	SINGLE_PRODUCT
 https://jambo.ua/25-sezonnye-tovary/150-vodnoe-oruzhie/200585826-vodyanoy-pistolet-m226-48-sht-2-s-nasosom-mix-3-tsveta-20478-6-sm	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584835-samokat-neon-glider-zeleniy-n100965	SINGLE_PRODUCT
@@ -483,7 +482,6 @@ https://jambo.ua/09-ukrainskie-proizvoditeli/146-mashinki/00014389-traktor-bolsh
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/00032104-kolyaska-dlya-kukly-10	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/147004633-nabir-kulok-perlamutrovikh-80-sht-467v-6-o	SINGLE_PRODUCT
 https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200586138-katalka-gazonokosarka-5101-maximus	SINGLE_PRODUCT
-https://jambo.ua/09-ukrainskie-proizvoditeli/148-igrovye-nabory/200586147-nabir-kulok-perlamutrovikh-96-shtuk-467v-4-orion	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200585119-kreyda-dlya-volossya-klasichni-kol-v-nabori-5-kol-podarunkova-upakovka-solorino-37015ptr	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200585120-kreyda-dlya-volossya-metalizovana-v-nabori-5-kol-podarunkova-upakovka-solorino-37046ptr	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200585115-kreyda-dlya-oblichchya-olivtsi-12-kol-solorino-32650ptr	SINGLE_PRODUCT
@@ -1111,7 +1109,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01006
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01006484-mashinka-r-k-champion-pacemaker-art-333-p024-24sht-plastik-korobka-z-vidkritim-viknom-23x10x10sm-jambo-100022648	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01004359-pozashlyakhovik-r-k-art-hb-yy1601b-18sht-plastik-korobka-z-vidkritim-viknom-35-8x19-2x18sm-jambo-200144435	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/03007259-dinozavr-r-k-svitlo-zvuk-art-9989-18sht-0-plastik-korobka-z-vidkritim-viknom-35-8x13-3x20-9sm-jambo-200085725	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01004489-pozashlyakhovik-r-k-art-hb-yy2003b-30sht-plastik-korobka-z-vidkritim-viknom-29-8x15-9x16-6sm-jambo-200144448	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/03001648-skorpion-na-r-k-svitlo-art-8902-24sht-plastik-korobka-z-vidkritim-viknom-20x8x18-5sm-jambo-200243164	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01007458-vsyudikhid-r-k-crazon-amfibiya-art-18sl02-12sht-plastik-korobka-z-vidkritim-viknom-34-2x26-2x20-2sm-jambo-200466745	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/94-igrushki-na-radioupravlenii/01005011-mashinka-r-k-art-hb-nb2803b-24sht-plastik-korobka-z-vidkritim-viknom-27-3x17-8x18sm-jambo-200144501	SINGLE_PRODUCT
@@ -1623,7 +1620,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01001821-blaster-art-1121
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01003058-blaster-art-kt8889-1-48sht-2-plastik-shouboks-32x6-5x22-5sm-jambo-200003005	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01004136-luk-art-9822-16-24sht-2-plastik-karton-1x1x1sm-jambo-100543413	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/01005390-luk-art-9922-19-12sht-0-plastik-karton-88-5x23-5x4sm-jambo-101000539	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/00045983-pistolet-gidrogel-pul-31723sm-art-633-plastik-100927545-jambo	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/200584210-nabir-nerf-nitro-v-korobtsi-7712	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/200584234-ruzhe-muz-lx3655a-36sht-2-svet-zvuk-v-korobke-58194sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/97-oruzhie/00047874-pistolet-metal-zm18-24sht-pulki-v-kor-26-5175-5sm	SINGLE_PRODUCT
@@ -2498,7 +2494,6 @@ https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584791-velosiped-dets
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584766-velosiped-detskiy-2-kh-kolyosnyy-16-191615-1sht-like2bike-rally-siniy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584801-velosiped-detskiy-2-kh-kolyosnyy-18-191834-1sht-like2bike-sprint-goluboy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584809-velosiped-detskiy-2-kh-kolyosnyy-14-191421-1sht-like2bike-sprint-zelyonyy-	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584849-dityachiy-velosiped-miqilong-yd-chervoniy-16-mql-yd16-red	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584789-velosiped-detskiy-2-kh-kolyosnyy-20-192025-1sht-like2bike-active-siniy-bez-trenirovochnykh-kolyos	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584802-velosiped-detskiy-2-kh-kolyosnyy-18-191835-1sht-like2bike-sprint-siniy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584851-dityachiy-velosiped-miqilong-yd-chervoniy-14-mql-yd14-red	SINGLE_PRODUCT
@@ -2620,6 +2615,7 @@ https://jambo.ua/25-sezonnye-tovary/154-sanki-ledyanki/00039430-sanki-mbs-veliki
 https://jambo.ua/25-sezonnye-tovary/154-sanki-ledyanki/00039499-sanki-mushlya-marmat	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584391-kniga-kazki-sharl-perro-brati-grimm-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037855-kniga-kniga-kartonka-pershiy-foto-vimmelbukh-svit-navkolo-tebe-vidkriy-polichi-zapamyatay-ukr-	SINGLE_PRODUCT
+https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037054-velika-ilyustrovana-kniga-pro-prirodu-u	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/200584448-kniga-tsikava-nauka-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037811-kniga-kniga-kartonka-pershiy-foto-vimmelbukh-tvarini-vidkriy-polichi-zapamyatay-ukr-	SINGLE_PRODUCT
 https://jambo.ua/12-knigi-i-kantselyariya/160-knigi-razvivayushchie-materialy/19037841-kniga-velika-entsiklopediya-kishki-ta-koshenyata-vid-a-do-ya-	SINGLE_PRODUCT
@@ -2670,7 +2666,6 @@ https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584936-ryukzak-minecraft-
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584937-ryukzak-minecraft-17-scatter-creeper-backpack-n-a-multicolor	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584940-ryukzak-minecraft-17-bobble-mobs-backpack-17-gray	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584918-brelok-minecraft-diamond-pickaxe-keychain-one-size-multicolor	SINGLE_PRODUCT
-https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584958-ryukzak-minecraft-17-creepy-things-backpack-n-a-green	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/175-minecraft/200584957-ryukzak-minecraft-17-overworld-sprites-backpack-n-a-multicolor	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/176-roblox/147005638-nabir-jazwares-roblox-game-packs-murder-mystery-2-w6	SINGLE_PRODUCT
 https://jambo.ua/173-geymerskiy-merch/176-roblox/147005631-igrova-kolektsiyna-figurka-jazwares-roblox-core-figures-bootleg-buccaneers-fisherman-joe-w4	SINGLE_PRODUCT
