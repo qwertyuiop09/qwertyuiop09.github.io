@@ -279,7 +279,6 @@ https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/20058636
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200586367-kosmetika-manikyur-edinorog-j1012-36sht-2-nogti-laki-lakleyki-aksessuary-v-kor-28216-5-sm	SINGLE_PRODUCT
 https://jambo.ua/02-igrushki-dlya-devochek/121-aksessuary-dlya-devochek/200586368-kosmetika-edinorog-j1011-36sht-2-teni-kistochka-laki-nogti-v-kor-26-5328sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/131-muzykalnye-instrumenty/00042799-organ-ki-3737-u-24shtbatar-muz-s-mikrofonom-v-kor-66196sm	SINGLE_PRODUCT
-https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584807-velosiped-detskiy-2-kh-kolyosnyy-14-191419-1sht-like2bike-sprint-rozovyy-	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200584799-velosiped-detskiy-2-kh-kolyosnyy-18-191831-1sht-like2bike-sprint-rozovyy	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/133-velosipedy/200586356-velosiped-2-kh-koles-18-191806-1sht-disney-minnie-mouse-so-zvonkom-zerkalom-ruch-tormoz	SINGLE_PRODUCT
 https://jambo.ua/11-transport-dlya-detey/134-samokaty-begovely/200584835-samokat-neon-glider-zeleniy-n100965	SINGLE_PRODUCT
@@ -1535,7 +1534,6 @@ https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/19
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/01013314-trek-art-888-11-18sht-0-plastik-kolorova-korobka-53x33x7sm-jambo-200496331	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/00023257-zheleznaya-doroga-mandrivka-v-chasi-k1105-24sht-svet-zvuk-dym-v-ukrainskoy-korobke-3826-57sm	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/00040104-trek-ot-seti-joy-toy-0808-24sht-2-dlina-trassy-186-sm-v-korobke-46318sm	SINGLE_PRODUCT
-https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/01008493-zheleznaya-doroga-svet-art-2084-8sht-2-plastik-korobka-s-otkrytym-oknom-59-7x10x40-5sm-jambo-200084849	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/01003369-elektrichka-art-888-36-24sht-0-plastik-korobka-z-vidkritim-viknom-53x33x7sm-jambo-200496336	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/00038862-zal-doroga-korobka-1104	SINGLE_PRODUCT
 https://jambo.ua/01-igrushki-dlya-malchikov/95-garazhi-treki-zheleznye-dorogi/19031559-trek-inerts-999-50-36sht-1mashinka-v-korobke-48633sm	SINGLE_PRODUCT
@@ -1898,7 +1896,6 @@ https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/00041431-khokkey-joy
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147004902-nastilna-gra-zberi-a5640-4	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147005840-elektronna-gra-splash-toys-smittevoz-st30122	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/19038255-gra-rozvivayucha-tik-tak-new-ost	SINGLE_PRODUCT
-https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/00016211-khokkey-joy-toy-0700-12sht-v-kor-59357sm	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/19038239-gra-viktorina-ukrayini-premium-ost	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/19038244-gra-kupi-proday-ost-	SINGLE_PRODUCT
 https://jambo.ua/06-razvivayushchie-igry/132-nastolnye-igry/147004909-nastilna-gra-moya-persha-monopoliya	SINGLE_PRODUCT
@@ -2729,6 +2726,3 @@ https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/200586176-derevyani-
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/200586178-medalnitsya-chempion-550220mm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/98-derevyannye-igry/200586375-stil-igroviy-dityachiy-480kh580kh640mm	SINGLE_PRODUCT
 https://jambo.ua/08-igrushki-dlya-detey/179-derevyannye-izdeliya-jambo/200586458-lyalkoviy-budinok-506kh530kh202mm	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/179-derevyannye-izdeliya-jambo/200586819-kukhonniy-garnitur-300kh280kh120mm	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/179-derevyannye-izdeliya-jambo/200586818-lizhko-300kh180kh160mm	SINGLE_PRODUCT
-https://jambo.ua/08-igrushki-dlya-detey/179-derevyannye-izdeliya-jambo/200586817-kholodilnik-300kh120kh120mm	SINGLE_PRODUCT
