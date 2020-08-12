@@ -1,6 +1,4 @@
-Read Config File Ok
-
+Could not read file: testdomain.com-ADONLY.merchantfeed.txt Error: Invalid property ID.
+/testdomain.com-ADONLY.merchantfeed.txt
 /callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
-Feed number id0 in Config Array element number 0 is not have fields
-Feed number id0 in Config Array element number 0 is not have jobs (create feed with VISIBLE fields and/or create search company and/or have children feeds) 
 Config is not working . Exit
