@@ -1,6 +1,5 @@
 Read Config File Ok
 
 /callhunter/domains/testdomain.com-ADONLY.merchantfeed.txt
-Feed number id0 in Config Array element number 0 is not have fields
 Feed number id0 in Config Array element number 0 is not have jobs (create feed with VISIBLE fields and/or create search company and/or have children feeds) 
 Config is not working . Exit
