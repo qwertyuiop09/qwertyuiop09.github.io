@@ -9,8 +9,8 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 //передаем в ads Запрос цены
 		try {
 
-			if (Math.random() < 0.5) {
-			//if (1) {
+			//if (Math.random() < 0.5) {
+			if (1) {
 
 				setTimeout(function() {
 
