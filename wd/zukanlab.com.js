@@ -13,7 +13,7 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 
 
 			if (Math.random() < 0.8) {
-			//if (1) {
+			/////if (1) {
 
 				setTimeout(function() {
 
