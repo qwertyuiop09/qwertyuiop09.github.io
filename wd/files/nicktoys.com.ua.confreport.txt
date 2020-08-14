@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/nicktoys.com.ua.merchantfeed.txt
-Ok. Config checksum: 3346176111
+Ok. Config checksum: 2873314727
