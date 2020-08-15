@@ -1,6 +1,6 @@
 Page URL	Custom label
 https://jambo.ua/	MAIN_PAGE
-https://jambo.ua/01-igrushki-dlya-malchikov	PRODUCT_RUBRIC
+https://jambo.ua/06-razvivayushchie-igry	PRODUCT_RUBRIC
 https://jambo.ua/01-igrushki-dlya-malchikov/122-roboty-transformery	PRODUCT_RUBRIC
 https://jambo.ua/01-igrushki-dlya-malchikov/91-metallicheskie-modeli-mashin	PRODUCT_RUBRIC
 https://jambo.ua/01-igrushki-dlya-malchikov/92-hotwheels	PRODUCT_RUBRIC
@@ -63,9 +63,6 @@ https://jambo.ua/173-geymerskiy-merch/176-roblox	PRODUCT_RUBRIC
 https://jambo.ua/173-geymerskiy-merch/177-fortnite	PRODUCT_RUBRIC
 https://jambo.ua/173-geymerskiy-merch/178-nanables	PRODUCT_RUBRIC
 https://jambo.ua/26-aktsiya-regulyarnaya	PRODUCT_RUBRIC
-https://jambo.ua/02-igrushki-dlya-devochek	PRODUCT_RUBRIC
-https://jambo.ua/04-konstruktory	PRODUCT_RUBRIC
-https://jambo.ua/06-razvivayushchie-igry	PRODUCT_RUBRIC
 https://jambo.ua/07-sport-i-otdykh	PRODUCT_RUBRIC
 https://jambo.ua/08-igrushki-dlya-detey	PRODUCT_RUBRIC
 https://jambo.ua/11-transport-dlya-detey	PRODUCT_RUBRIC
