@@ -1,35 +1,35 @@
 https://nicktoys.com.ua/
-Scanned step: 12
+Scanned step: 13
 EXECUTE WARNINGS: Exit shouldExitEarly 2
 
 
-Request to scanned 11824 URLS
-Scanned 11776 URLS
+Request to scanned 13016 URLS
+Scanned 12955 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Оригинальные Бренды. Самые Горячие Новинки. Различные Варианты Оплаты. Доставка в День Заказа.
 
 Campaigns in GASearch id0 0 Num
-All urls in feed id0 2679 URLS
-Found parsed item urls for id0 2679 URLS
+All urls in feed id0 2742 URLS
+Found parsed item urls for id0 2742 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 2679 URLS
-Found parsed item urls for id1000 2679 URLS
+All urls in feed id1000 2742 URLS
+Found parsed item urls for id1000 2742 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 386 URLS
-Found parsed item urls for id2000 386 URLS
+All urls in feed id2000 420 URLS
+Found parsed item urls for id2000 420 URLS
 Not found parsed item urls for id2000 0 URLS
 
-Unknown errors: 19
+Unknown errors: 21
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 28.7
+Last execute time: 28.68
 
 Current Scan Status: continue.
 
