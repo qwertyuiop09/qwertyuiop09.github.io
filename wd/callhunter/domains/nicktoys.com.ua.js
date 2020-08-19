@@ -63,7 +63,7 @@ var IPchatConfig = {
 
 
 
-/*
+
 
 		"AdwConvRemark": {
 		google_conversion_id: 603222864,
@@ -72,7 +72,7 @@ var IPchatConfig = {
 //		google_user_id = '<unique user id>',
 		google_remarketing_only: true
 			},
-*/
+
 
 
 
@@ -82,8 +82,6 @@ var IPchatConfig = {
 		"HitElement": ".woocommerce-notice",
 		"HitElementHtml": {RegExp: 'Спасибо. Ваш заказ был принят.', Flags: 'i'},
 
-
-/*
 
 		"AdwConvHit": {
 		google_conversion_id: 603222864,
@@ -109,17 +107,20 @@ var IPchatConfig = {
 
 
 
+
+
+
 		"AdwConvCHSnd": {
 		google_conversion_id: 603222864,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
+		google_conversion_label: "9SGzCKuGg9wBENDm0Z8C",
 		google_remarketing_only: false
 			},
 
 
-*/
+
 
 
 
