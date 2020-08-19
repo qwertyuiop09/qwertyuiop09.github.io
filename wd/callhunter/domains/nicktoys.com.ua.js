@@ -46,6 +46,7 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 
 
 //передаем в ads Запрос цены
+
 		try {
 
 			//if (Math.random() < 0.5) {
@@ -58,7 +59,7 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 					google_conversion_language: "en",
 					google_conversion_format: "3",
 					google_conversion_color: "ffffff",
-					google_conversion_label: "VglsCIaz-doBEPyu8qMC",
+					google_conversion_label: "PwnCCNeXhtwBENDm0Z8C",
 					google_remarketing_only: false
 						};
 					console.log(typeof(window['google_trackConversion']));
