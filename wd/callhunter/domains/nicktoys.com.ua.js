@@ -3,6 +3,88 @@ var SSCHunterGa=function(b,c){try{var a=window[window.GoogleAnalyticsObject];a(f
 var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,undefined5,Conv_value){if(type==200){console.log("ConvTime exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Hot Activity","ss_hot_activity")}else if(type>=1&&type<200){console.log("ConvCHSnd exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Client Hunter","ss_send_message")}else if(type==201){console.log("ConvClick exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Click","ss_click_event")}else if(type==202){console.log("ConvSubmit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Submit","ss_form_submit")}else if(type==203){console.log("ConvHit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("View Page","ss_page_hit")}else if(type==204){console.log("ConvChat exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Chat Widget","ss_chat_call")}else if(type==205){console.log("CallWidget exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Call Widget","ss_widget_callback")}if(typeof Conv_value!="undefined")console.log("ConvValue exist: "+Conv_value)};
 
 
+
+var pagecur=window.location.href.toString().split(window.location.host)[1];
+if (pagecur.indexOf('wrk=12') >= 0) {
+
+	function docready(f){/in/.test(document.readyState)?setTimeout(docready,9,f):f()}
+
+//без docready не всегда передаются конверсии в аналитикс, и не работает SSCHunterAdwordstrack (так как не успевает до того подгрузится SSCHunterAdwordstrack())
+	docready(function(){
+
+
+
+//передаем в ads Начало оформления покупки
+		try {
+
+
+			if (Math.random() < 0.7) {
+			//if (1) {
+
+				setTimeout(function() {
+
+					var AdwConvTime = {
+					google_conversion_id: 603222864,
+					google_conversion_language: "en",
+					google_conversion_format: "3",
+					google_conversion_color: "ffffff",
+					google_conversion_label: "fb_2CLKQhtwBENDm0Z8C",
+					google_remarketing_only: false
+						};
+					console.log(typeof(window['google_trackConversion']));
+					SSCHunterAdwordstrack(AdwConvTime);
+					console.log('SSCHunterAdwordstrack Ok');
+
+
+				}, 10);
+
+
+			}
+		} catch (e) {
+			console.log('SSCHunterAdwordstrack Error, name: ' + e.name + ", message: " + e.message);
+		}
+
+
+//передаем в ads Запрос цены
+		try {
+
+			//if (Math.random() < 0.5) {
+			if (1) {
+
+				setTimeout(function() {
+
+					var AdwConvTime = {
+					google_conversion_id: 603222864,
+					google_conversion_language: "en",
+					google_conversion_format: "3",
+					google_conversion_color: "ffffff",
+					google_conversion_label: "VglsCIaz-doBEPyu8qMC",
+					google_remarketing_only: false
+						};
+					console.log(typeof(window['google_trackConversion']));
+					SSCHunterAdwordstrack(AdwConvTime);
+					console.log('SSCHunterAdwordstrack2 Ok');
+
+
+				}, 1000);
+
+
+			}
+		} catch (e) {
+			console.log('SSCHunterAdwordstrack2 Error, name: ' + e.name + ", message: " + e.message);
+		}
+
+
+
+
+
+	});     
+
+
+}
+
+
+
 //без предоплаты, логин менеджера
 var intepriceIPL = 'nicktoys.inteprice.com';
 var intepriceCRT = '12.08.2020';
