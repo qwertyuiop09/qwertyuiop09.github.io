@@ -57,6 +57,83 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 
 
 
+
+function setSS_google_tag_params(arrayhash) {
+//установить window.google_tag_params из arrayhash (массива хешей)
+/*
+поиск параметров в window.dataLayer
+например
+
+window.dataLayer = window.dataLayer || [];
+    dataLayer.push({
+        'event': 'rem',
+        'ecomm_prodid': "10769",
+        'ecomm_pagetype': "product",
+        'ecomm_totalvalue': "130.00"
+    });
+*/
+
+
+	if ({}.toString.call(arrayhash) !== '[object Array]')
+		return;
+
+	var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
+	var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+
+
+
+	if ((ecomm >= 0)||(dynx >= 0)) {
+
+		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
+			window.google_tag_params = {};
+
+		if (ecomm >= 0) {
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_prodid')) {
+				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm]['ecomm_prodid']
+			} else {
+				delete window.google_tag_params['ecomm_prodid'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_pagetype')) {
+				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm]['ecomm_pagetype']
+			} else {
+				delete window.google_tag_params['ecomm_pagetype'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_totalvalue')) {
+				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm]['ecomm_totalvalue']
+			} else {
+				delete window.google_tag_params['ecomm_totalvalue'];
+			}
+		}
+
+		if (dynx >= 0) {
+			if (arrayhash[dynx].hasOwnProperty('dynx_itemid')) {
+				window.google_tag_params['dynx_itemid'] = arrayhash[dynx]['dynx_itemid']
+			} else {
+				delete window.google_tag_params['dynx_itemid'];
+			}
+			if (arrayhash[dynx].hasOwnProperty('dynx_pagetype')) {
+				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx]['dynx_pagetype']
+			} else {
+				delete window.google_tag_params['dynx_pagetype'];
+			}
+			if (arrayhash[dynx].hasOwnProperty('dynx_totalvalue')) {
+				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx]['dynx_totalvalue']
+			} else {
+				delete window.google_tag_params['dynx_totalvalue'];
+			}
+		}
+
+
+	
+	}
+
+
+}
+
+setSS_google_tag_params(window.dataLayer)
+
+
+
 //без предоплаты, логин менеджера
 var intepriceIPL = 'virnyidruk.inteprice.com';
 var intepriceCRT = '06.11.2019';
