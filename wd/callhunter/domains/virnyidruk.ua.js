@@ -101,6 +101,11 @@ function setSS_google_tag_params(arrayhash) {
 			} else {
 				delete window.google_tag_params['ecomm_totalvalue'];
 			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_category')) {
+				window.google_tag_params['ecomm_category'] = arrayhash[ecomm]['ecomm_category']
+			} else {
+				delete window.google_tag_params['ecomm_category'];
+			}
 		}
 
 		if (dynx >= 0) {
