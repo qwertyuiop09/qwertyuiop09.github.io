@@ -60,18 +60,16 @@ if (pagecur.indexOf('wrk=12') >= 0) {
 
 function setSS_google_tag_params(arrayhash) {
 //установить window.google_tag_params из arrayhash (массива хешей)
-/*
-поиск параметров в window.dataLayer
-например
 
-window.dataLayer = window.dataLayer || [];
-    dataLayer.push({
-        'event': 'rem',
-        'ecomm_prodid': "10769",
-        'ecomm_pagetype': "product",
-        'ecomm_totalvalue': "130.00"
-    });
-*/
+//поиск параметров в window.dataLayer
+//например
+//window.dataLayer = window.dataLayer || [];
+//    dataLayer.push({
+//        'event': 'rem',
+//        'ecomm_prodid': "10769",
+//        'ecomm_pagetype': "product",
+//        'ecomm_totalvalue': "130.00"
+//    });
 
 
 	if ({}.toString.call(arrayhash) !== '[object Array]')
