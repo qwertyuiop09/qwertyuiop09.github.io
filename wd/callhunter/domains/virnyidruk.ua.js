@@ -99,7 +99,7 @@ if (pagecur.indexOf('wd=11') >= 0) {
 						};
 					console.log(typeof(window['google_trackConversion']));
 					SSCHunterAdwordstrack(AdwConvTime);
-					console.log('SSCHunterAdwordstrack Ok');
+					console.log('SSCHunterAdwordstrack1 Ok');
 
 
 				}, 1000);
@@ -108,7 +108,7 @@ if (pagecur.indexOf('wd=11') >= 0) {
 			}
 
 		} catch (e) {
-			console.log('SSCHunterAdwordstrack Error, name: ' + e.name + ", message: " + e.message);
+			console.log('SSCHunterAdwordstrack1 Error, name: ' + e.name + ", message: " + e.message);
 		}
 
 
@@ -131,7 +131,7 @@ if (pagecur.indexOf('wd=11') >= 0) {
 						};
 					console.log(typeof(window['google_trackConversion']));
 					SSCHunterAdwordstrack(AdwConvTime);
-					console.log('SSCHunterAdwordstrack Ok');
+					console.log('SSCHunterAdwordstrack2 Ok');
 
 
 				}, 1000);
@@ -141,7 +141,7 @@ if (pagecur.indexOf('wd=11') >= 0) {
 
 
 		} catch (e) {
-			console.log('SSCHunterAdwordstrack Error, name: ' + e.name + ", message: " + e.message);
+			console.log('SSCHunterAdwordstrack2 Error, name: ' + e.name + ", message: " + e.message);
 		}
 	});     
 
