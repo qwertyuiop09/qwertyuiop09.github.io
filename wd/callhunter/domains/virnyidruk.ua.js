@@ -84,7 +84,6 @@ if (pagecur.indexOf('wd=11') >= 0) {
 		try {
 
 
-
 			//if (Math.random() < 0.9) {
 			if (1) {
 
@@ -108,6 +107,8 @@ if (pagecur.indexOf('wd=11') >= 0) {
 
 			}
 
+		} catch (e) {
+			console.log('SSCHunterAdwordstrack Error, name: ' + e.name + ", message: " + e.message);
 		}
 
 
