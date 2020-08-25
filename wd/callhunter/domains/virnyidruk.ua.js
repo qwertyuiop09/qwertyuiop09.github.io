@@ -102,7 +102,7 @@ if (pagecur.indexOf('wd=11') >= 0) {
 					console.log('SSCHunterAdwordstrack1 Ok');
 
 
-				}, 1000);
+				}, 10);
 
 
 			}
