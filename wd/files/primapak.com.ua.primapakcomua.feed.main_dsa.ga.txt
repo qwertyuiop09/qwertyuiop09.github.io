@@ -44,12 +44,12 @@ https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_meduchrezhdeniy/2
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_meduchrezhdeniy/2306/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_meduchrezhdeniy/2305/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_meduchrezhdeniy/2307/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2338/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2341/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2337/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2340/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2342/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2339/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2340/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2341/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2342/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_parfyumerii_i_kosmetiki/2338/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_mobilnykh_aksessuarov/2344/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_mobilnykh_aksessuarov/2345/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_banan/pakety_banan_dlya_mobilnykh_aksessuarov/2346/	SINGLE_PRODUCT
