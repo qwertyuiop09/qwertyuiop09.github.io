@@ -1,2 +1,3 @@
 id	excluded_destination	custom_label_4	comment
 766211292	Shopping Ads	210350353	Not AllConversions
+2866495392	Shopping Ads	210350353	Not AllConversions
