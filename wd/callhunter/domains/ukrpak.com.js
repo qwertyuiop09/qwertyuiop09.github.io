@@ -60,6 +60,16 @@ var IPchatConfig = {
 //	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
 
 
+/*
+
+заказ
+
+https://www.ukrpak.com/tovary/checkout/finish
+
+<article class="post"><div class="postcontent postcontent-0 clearfix"><p style="padding:20px 0;color:#fff;">Спасибо за заказ, в ближайшее время наш менеджер свяжется с Вами</p></div></article>
+
+
+*/
 
 
 		"AdwConvRemark": {
