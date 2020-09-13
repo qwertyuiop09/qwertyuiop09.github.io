@@ -1,4 +1,4 @@
-Could not read file: primapak.com.ua.merchantfeed.txt Error: Service error: Drive
-/primapak.com.ua.merchantfeed.txt
+Read Config File Ok
+
 /callhunter/domains/primapak.com.ua.merchantfeed.txt
-Config is not working . Exit
+Ok. Config checksum: 829931128
