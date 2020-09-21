@@ -1,0 +1,8 @@
+Page URL	Custom label
+https://primapak.com.ua/catalog/paketi_mayka/	RUBRIC
+https://primapak.com.ua/catalog/pakety_banan/	RUBRIC
+https://primapak.com.ua/catalog/biorazlagaemye_pakety/	RUBRIC
+https://primapak.com.ua/catalog/polietilenovye_meshki/	RUBRIC
+https://primapak.com.ua/catalog/polietilenovye_vkladyshi/	RUBRIC
+https://primapak.com.ua/catalog/pakety_mayka_bez_risunka/	RUBRIC
+https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/	RUBRIC
