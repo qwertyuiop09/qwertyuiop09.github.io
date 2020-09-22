@@ -69,7 +69,7 @@ var IPchatConfig = {
 /*
 
 		"AdwConvRemark": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 615887396,
 		google_custom_params: window.google_tag_params,
 		//google_custom_params: undefined,
 //		google_user_id = '<unique user id>',
@@ -87,7 +87,7 @@ var IPchatConfig = {
 
 /*
 		"AdwConvHit": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 615887396,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -102,18 +102,18 @@ var IPchatConfig = {
 
 
 		"AdwConvTime": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 615887396,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_conversion_label: "xlQCCMK66N8BEKTk1qUC",
 		google_remarketing_only: false
 			},
 
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 615887396,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
