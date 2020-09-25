@@ -339,7 +339,6 @@ https://www.ukrpak.com/pakety-s-logotipom	PRODUCT_RUBRIC
 https://www.ukrpak.com/polietilenovaya-upakovka	PRODUCT_RUBRIC
 https://www.ukrpak.com/polietilenovaya-upakovka/polietilenovye-meshki	PRODUCT_RUBRIC
 https://www.ukrpak.com/polietilenovaya-upakovka/polietilenovye-meshki/zakazat-polietilenovye-meshki-v-kompanii-ukrpak	PRODUCT_RUBRIC
-https://www.ukrpak.com/polietilenovaya-upakovka/meshki-dlja-pellet	PRODUCT_RUBRIC
 https://www.ukrpak.com/polietilenovaya-upakovka/pakety-dlya-shin	PRODUCT_RUBRIC
 https://www.ukrpak.com/polietilenovaya-upakovka/polietilenovye-vkladyshi	PRODUCT_RUBRIC
 https://www.ukrpak.com/polietilenovaya-upakovka/polietilenovye-vkladyshi/zakazat-polietilenovye-vkladishi-v-kompanii-ukrpak190411095136190411095646190411100012190411100247190411100553190411101544190411101844190411102619190411103310190411103915	PRODUCT_RUBRIC
