@@ -1,4 +1,4 @@
 Read Config File Ok
 
 /callhunter/domains/ukrpak.com.merchantfeed.txt
-Ok. Config checksum: 3616999542
+Ok. Config checksum: 605229093
