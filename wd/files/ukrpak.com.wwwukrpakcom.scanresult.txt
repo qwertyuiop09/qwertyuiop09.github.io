@@ -1,26 +1,26 @@
 https://www.ukrpak.com/
 Scanned step: 3
-Request to scanned 745 URLS
-Scanned 745 URLS
+Request to scanned 748 URLS
+Scanned 748 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Заказ от 2000 шт. Качественный Полиэтилен. Скидки на Пакеты с Лого. Консультация Специалистов. Самая низкая цена. Различные Варианты Оплаты. Быстрая Доставка.
 
 Campaigns in GASearch id0 1 Num
-Add / Modify urls in GASearch id0 104 URLS
-All urls in GASearch id0 104 URLS
-All urls in feed id0 104 URLS
-Found parsed item urls for id0 104 URLS
+Add / Modify urls in GASearch id0 107 URLS
+All urls in GASearch id0 107 URLS
+All urls in feed id0 107 URLS
+Found parsed item urls for id0 107 URLS
 Not found parsed item urls for id0 0 URLS
 
 Campaigns in GASearch id1000 0 Num
-All urls in feed id1000 104 URLS
-Found parsed item urls for id1000 104 URLS
+All urls in feed id1000 107 URLS
+Found parsed item urls for id1000 107 URLS
 Not found parsed item urls for id1000 0 URLS
 
 Campaigns in GASearch id2000 0 Num
-All urls in feed id2000 354 URLS
-Found parsed item urls for id2000 354 URLS
-Not found parsed item urls for id2000 139 URLS (see in log details)
+All urls in feed id2000 355 URLS
+Found parsed item urls for id2000 355 URLS
+Not found parsed item urls for id2000 141 URLS (see in log details)
 
 Unknown errors: 0
 Empty Content-Type errors: 0
@@ -28,6 +28,6 @@ No html page errors: 0
 Responce errors (404): 252
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 22.22
+Last execute time: 15.43
 
 Current Scan Status: ended.
