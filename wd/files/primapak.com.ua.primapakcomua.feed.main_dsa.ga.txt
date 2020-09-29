@@ -1,7 +1,6 @@
 Page URL	Custom label
 https://primapak.com.ua/catalog/paketi_mayka/pakety_dlya_magazinov_razlivnogo_piva/2280/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_dlya_magazinov_razlivnogo_piva/2277/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/paketi_mayka/pakety_dlya_magazinov_razlivnogo_piva/2273/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_dlya_magazinov_razlivnogo_piva/2278/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_dlya_magazinov_razlivnogo_piva/2279/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/paketi_mayka/pakety_dlya_magazinov_razlivnogo_piva/2281/	SINGLE_PRODUCT
