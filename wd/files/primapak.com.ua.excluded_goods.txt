@@ -1,3 +1,3 @@
 id	excluded_destination	custom_label_4	comment
 766211292	Shopping Ads	210350353	Not AllConversions
-2205285733	Shopping Ads	210350353	 msales av 127.95
+2205285733	Shopping Ads	210350353	 msales av 131.52
