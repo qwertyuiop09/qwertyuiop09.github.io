@@ -43,6 +43,7 @@ https://www.ukrpak.com/pakety-polietilenovye/pakety-majki/paketi-mayka-priluki	P
 https://www.ukrpak.com/pakety-polietilenovye/pakety-majki/paketi-mayka-uman	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/pakety-majki/paketi-mayka-rivne	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/pakety-majki/paketi-mayka-aleksandriya	PRODUCT_RUBRIC
+https://www.ukrpak.com/pakety-polietilenovye/pakety-majki/paketi-mayka-borispol	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/pakety-majki/paketi-mayka-korosten	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/pakety-majki/paketi-mayka-lisichansk	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/pakety-majki/paketi-mayka-chernivci	PRODUCT_RUBRIC
@@ -318,6 +319,12 @@ https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-chuguev	PRODU
 https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-smela	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-shepetivka	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-sambir	PRODUCT_RUBRIC
+https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-chernomorsk	PRODUCT_RUBRIC
+https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-pokrovsk	PRODUCT_RUBRIC
+https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-pokrov	PRODUCT_RUBRIC
+https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-slavyansk	PRODUCT_RUBRIC
+https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-pervomaysk	PRODUCT_RUBRIC
+https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-varash	PRODUCT_RUBRIC
 https://www.ukrpak.com/firmennie-paketi-pod-zakaz	PRODUCT_RUBRIC
 https://www.ukrpak.com/firmennie-paketi-pod-zakaz/paketi-mayka-pod-zakaz	PRODUCT_RUBRIC
 https://www.ukrpak.com/firmennie-paketi-pod-zakaz/paketi-banan-pod-zakaz	PRODUCT_RUBRIC
