@@ -314,6 +314,7 @@ https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-tokmak	PRODUC
 https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-energodar	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-toretsk	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-dubno	PRODUCT_RUBRIC
+https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-novomoskovsk	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-chuguev	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-smela	PRODUCT_RUBRIC
 https://www.ukrpak.com/pakety-polietilenovye/polyetylenovie-paketi-shepetivka	PRODUCT_RUBRIC
