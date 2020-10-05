@@ -3,6 +3,5 @@ Found 1 error file(s):
 primapak.com.ua.SSSitesAlreadyChecked.json
 
 Found 2 error file(s): 
-primapak.com.ua.SSSitesAlreadyChecked.json
 
 account primapak.com.ua
