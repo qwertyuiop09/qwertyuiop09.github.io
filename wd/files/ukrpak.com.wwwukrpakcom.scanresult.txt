@@ -28,6 +28,6 @@ No html page errors: 0
 Responce errors (404): 252
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 22.08
+Last execute time: 20.03
 
 Current Scan Status: ended.
