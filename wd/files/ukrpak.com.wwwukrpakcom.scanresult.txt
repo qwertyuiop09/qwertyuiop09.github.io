@@ -1,6 +1,6 @@
 https://www.ukrpak.com/
 Scanned step: 3
-Request to scanned 1042 URLS
+Request to scanned 0 URLS
 Scanned 1042 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Собственное Производство. Заказ от 2000 шт. Качественный Полиэтилен. Скидки на Пакеты с Лого. Консультация Специалистов. Самая низкая цена. Различные Варианты Оплаты. Быстрая Доставка.
@@ -28,6 +28,6 @@ No html page errors: 0
 Responce errors (404): 252
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 18.48
+Last execute time: 0.53
 
 Current Scan Status: ended.
