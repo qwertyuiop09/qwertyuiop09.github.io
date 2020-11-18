@@ -1,16 +1,15 @@
 Page URL	Custom label
-https://market.kharkov.ua/novogodnie-sosny-eli/raspushka15.html	SINGLE_PRODUCT
-https://market.kharkov.ua/novogodnie-sosny-eli/sosna-iskusstvennaya-svetlo-zelenaya-120-sm.html	SINGLE_PRODUCT
-https://market.kharkov.ua/novogodnie-sosny-eli/sosna-zelenaya-s-belymi-konchikami-230-sm.html	SINGLE_PRODUCT
-https://market.kharkov.ua/novogodnie-sosny-eli/sosna-zelenaya-s-belymi-konchikami-180-sm.html	SINGLE_PRODUCT
-https://market.kharkov.ua/novogodnie-sosny-eli/sosna-zelenaya-s-belymi-konchikami-150-sm.html	SINGLE_PRODUCT
-https://market.kharkov.ua/novogodnie-sosny-eli/sosna-zelenaya-s-belymi-konchikami-120-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/elka-iskusstvennaya-pvx-55sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/el-iskusstvennaya-skazka-yashk-z-75-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/el-iskusstvennaya-skazka-yashk-z-100-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/el-iskusstvennaya-skazka-yashk-z-250-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/el-iskusstvennaya-skazka-yashk-z-180-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/sosna-iskusstvennaya-miks-70.html	SINGLE_PRODUCT
+https://market.kharkov.ua/novogodnie-sosny-eli/sosna-iskusstvennaya-svetlo-zelenaya-120-sm.html	SINGLE_PRODUCT
+https://market.kharkov.ua/novogodnie-sosny-eli/sosna-zelenaya-s-belymi-konchikami-230-sm.html	SINGLE_PRODUCT
+https://market.kharkov.ua/novogodnie-sosny-eli/sosna-zelenaya-s-belymi-konchikami-180-sm.html	SINGLE_PRODUCT
+https://market.kharkov.ua/novogodnie-sosny-eli/sosna-zelenaya-s-belymi-konchikami-150-sm.html	SINGLE_PRODUCT
+https://market.kharkov.ua/novogodnie-sosny-eli/sosna-zelenaya-s-belymi-konchikami-120-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/sosna-zelenaya-s-belymi-konchikami-0%2c70-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/sosna_anasta7.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/lidiya-iskusstvennaya-el-s-ineem-100-sm.html	SINGLE_PRODUCT
@@ -41,11 +40,10 @@ https://market.kharkov.ua/novogodnie-sosny-eli/el-iskusstvennaya-skazka-yashk-z-
 https://market.kharkov.ua/novogodnie-sosny-eli/el-iskusstvennaya-skazka-yashk-z-400-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/el-iskusstvennaya-skazka-yashk-z-300-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/sosna-iskusstvennaya-miks-150.html	SINGLE_PRODUCT
+https://market.kharkov.ua/novogodnie-sosny-eli/raspushka15.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/elka-iskusstvennaya-pvx-evropejskaya-150sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/el-iskusstvennaya-skazka-yashk-z-220-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/el-belaya-iskusstvennaya-180sm.html	SINGLE_PRODUCT
-https://market.kharkov.ua/novogodnie-sosny-eli/rapushka23.html	SINGLE_PRODUCT
-https://market.kharkov.ua/novogodnie-sosny-eli/sosna-belye-konchki-250.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/iskusstvennaya-sosna-pushistaya-180sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/elka--iskusstvennaya-pvx-evropejskaya-190sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/raspushka21.html	SINGLE_PRODUCT
@@ -53,8 +51,10 @@ https://market.kharkov.ua/novogodnie-sosny-eli/sosna-iskusstvennaya-miks-210.htm
 https://market.kharkov.ua/novogodnie-sosny-eli/sosna-belye-konchki-210.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/elka-iskusstvennaya-pvx-evropejskaya-230-sm.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/sosna-iskusstvennaya-miks-230.html	SINGLE_PRODUCT
+https://market.kharkov.ua/novogodnie-sosny-eli/rapushka23.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/raspushkin25.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/sosna-iskusstvennaya-miks-250.html	SINGLE_PRODUCT
+https://market.kharkov.ua/novogodnie-sosny-eli/sosna-belye-konchki-250.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/raspushkin300.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/sosna-iskusstvennaya-miks-300.html	SINGLE_PRODUCT
 https://market.kharkov.ua/novogodnie-sosny-eli/sosna-belye-konchki-300.html	SINGLE_PRODUCT
