@@ -99,7 +99,7 @@ function setSS_google_tag_params(arrayhash, paramtype) {
 
 }
 
-setSS_google_tag_params(window.dataLayer, 1);
+//setSS_google_tag_params(window.dataLayer, 1);
 
 
 
