@@ -150,9 +150,10 @@ if (pagecur.indexOf('wd=11') >= 0) {
 
 
 
-function setSS_google_tag_params(arrayhash) {
+function setSS_google_tag_params(arrayhash, paramtype) {
 //установить window.google_tag_params из arrayhash (массива хешей)
 
+//paramtype 0
 //поиск параметров в window.dataLayer
 //например
 //window.dataLayer = window.dataLayer || [];
@@ -163,13 +164,28 @@ function setSS_google_tag_params(arrayhash) {
 //        'ecomm_totalvalue': "130.00"
 //    });
 
+//paramtype 1
+//поиск параметров в window.dataLayer
+//например
+//window.dataLayer = window.dataLayer || [];
+//if (typeof gtag != "function") {function gtag(){dataLayer.push(arguments);}};
+//try{gtag('event', 'page_view', {ecomm_pagetype: 'category', ecomm_category: 'Печать на пакетах', });}catch(err){console.log("Remarketing tool: send to Google has error");}
+//try{gtag('event', 'page_view', {ecomm_pagetype: 'product', ecomm_prodid: '2296', ecomm_totalvalue: '1.08', ecomm_category: 'Пакеты банан для магазинов одежды', });}catch(err){console.log("Remarketing tool: send to Google has error");}
+
+
+
 
 	if ({}.toString.call(arrayhash) !== '[object Array]')
 		return;
 
-	var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
-	var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
 
+	if (paramtype) {
+		var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype') }).indexOf(true)
+		var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+	} else {
+		var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
+		var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+	}
 
 
 	if ((ecomm >= 0)||(dynx >= 0)) {
