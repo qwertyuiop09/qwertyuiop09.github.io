@@ -180,13 +180,13 @@ function setSS_google_tag_params(arrayhash, paramtype) {
 
 
 	if (paramtype) {
-//		var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype') }).indexOf(true)
-//		var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'); }).indexOf(true)
-		var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]&&(obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype'))) { obj = obj[2]; return true;} }).indexOf(true)
-		var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]&&(obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'))) { obj = obj[2]; return true;} }).indexOf(true)
+		var newarrayhash = [];
+		var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]&&(obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype'))) { newarrayhash.push(JSON.parse(JSON.stringify(obj[2]))); return true;} }).indexOf(true)
+		var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]&&(obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'))) { newarrayhash.push(JSON.parse(JSON.stringify(obj[2]))); return true;} }).indexOf(true)
 	} else {
 		var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
 		var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+		var newarrayhash = arrayhash;
 	}
 
 
@@ -196,41 +196,41 @@ function setSS_google_tag_params(arrayhash, paramtype) {
 			window.google_tag_params = {};
 
 		if (ecomm >= 0) {
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_prodid')) {
-				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm]['ecomm_prodid']
+			if (newarrayhash[ecomm].hasOwnProperty('ecomm_prodid')) {
+				window.google_tag_params['ecomm_prodid'] = newarrayhash[ecomm]['ecomm_prodid']
 			} else {
 				delete window.google_tag_params['ecomm_prodid'];
 			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_pagetype')) {
-				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm]['ecomm_pagetype']
+			if (newarrayhash[ecomm].hasOwnProperty('ecomm_pagetype')) {
+				window.google_tag_params['ecomm_pagetype'] = newarrayhash[ecomm]['ecomm_pagetype']
 			} else {
 				delete window.google_tag_params['ecomm_pagetype'];
 			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_totalvalue')) {
-				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm]['ecomm_totalvalue']
+			if (newarrayhash[ecomm].hasOwnProperty('ecomm_totalvalue')) {
+				window.google_tag_params['ecomm_totalvalue'] = newarrayhash[ecomm]['ecomm_totalvalue']
 			} else {
 				delete window.google_tag_params['ecomm_totalvalue'];
 			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_category')) {
-				window.google_tag_params['ecomm_category'] = arrayhash[ecomm]['ecomm_category']
+			if (newarrayhash[ecomm].hasOwnProperty('ecomm_category')) {
+				window.google_tag_params['ecomm_category'] = newarrayhash[ecomm]['ecomm_category']
 			} else {
 				delete window.google_tag_params['ecomm_category'];
 			}
 		}
 
 		if (dynx >= 0) {
-			if (arrayhash[dynx].hasOwnProperty('dynx_itemid')) {
-				window.google_tag_params['dynx_itemid'] = arrayhash[dynx]['dynx_itemid']
+			if (newarrayhash[dynx].hasOwnProperty('dynx_itemid')) {
+				window.google_tag_params['dynx_itemid'] = newarrayhash[dynx]['dynx_itemid']
 			} else {
 				delete window.google_tag_params['dynx_itemid'];
 			}
-			if (arrayhash[dynx].hasOwnProperty('dynx_pagetype')) {
-				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx]['dynx_pagetype']
+			if (newarrayhash[dynx].hasOwnProperty('dynx_pagetype')) {
+				window.google_tag_params['dynx_pagetype'] = newarrayhash[dynx]['dynx_pagetype']
 			} else {
 				delete window.google_tag_params['dynx_pagetype'];
 			}
-			if (arrayhash[dynx].hasOwnProperty('dynx_totalvalue')) {
-				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx]['dynx_totalvalue']
+			if (newarrayhash[dynx].hasOwnProperty('dynx_totalvalue')) {
+				window.google_tag_params['dynx_totalvalue'] = newarrayhash[dynx]['dynx_totalvalue']
 			} else {
 				delete window.google_tag_params['dynx_totalvalue'];
 			}
