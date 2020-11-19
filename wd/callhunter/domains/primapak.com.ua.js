@@ -36,9 +36,15 @@ function setSS_google_tag_params(arrayhash, paramtype) {
 
 
 	if (paramtype) {
+		var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype') }).indexOf(true)
+		var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype') }).indexOf(true)
 		var newarrayhash = [];
-		var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]&&(obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype'))) { newarrayhash.push(JSON.parse(JSON.stringify(obj[2]))); return true;} }).indexOf(true)
-		var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]&&(obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'))) { newarrayhash.push(JSON.parse(JSON.stringify(obj[2]))); return true;} }).indexOf(true)
+		if (ecomm >= 0) {
+			newarrayhash[ecomm] = JSON.parse(JSON.stringify(arrayhash[ecomm][2]))
+		}
+		if (dynx >= 0) {
+			newarrayhash[dynx] = JSON.parse(JSON.stringify(arrayhash[dynx][2]))
+		}
 	} else {
 		var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
 		var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
