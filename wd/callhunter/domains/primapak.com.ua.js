@@ -25,8 +25,8 @@ function setSS_google_tag_params(arrayhash, paramtype) {
 //например
 //window.dataLayer = window.dataLayer || [];
 //if (typeof gtag != "function") {function gtag(){dataLayer.push(arguments);}};
-//try{gtag('event', 'page_view', {ecomm_pagetype: 'category', ecomm_category: 'Печать на пакетах', });}catch(err){console.log("Remarketing tool: send to Google has error");}
-//try{gtag('event', 'page_view', {ecomm_pagetype: 'product', ecomm_prodid: '2296', ecomm_totalvalue: '1.08', ecomm_category: 'Пакеты банан для магазинов одежды', });}catch(err){console.log("Remarketing tool: send to Google has error");}
+//gtag('event', 'page_view', {ecomm_pagetype: 'category', ecomm_category: 'Печать на пакетах', });
+//gtag('event', 'page_view', {ecomm_pagetype: 'product', ecomm_prodid: '2296', ecomm_totalvalue: '1.08', ecomm_category: 'Пакеты банан для магазинов одежды', });
 
 
 
