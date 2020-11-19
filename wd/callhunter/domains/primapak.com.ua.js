@@ -5,6 +5,104 @@ var SSCHunterGa=function(b,c){try{var a=window[window.GoogleAnalyticsObject];a(f
 var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,undefined5,Conv_value){if(type==200){console.log("ConvTime exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Hot Activity","ss_hot_activity")}else if(type>=1&&type<200){console.log("ConvCHSnd exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Client Hunter","ss_send_message")}else if(type==201){console.log("ConvClick exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Click","ss_click_event")}else if(type==202){console.log("ConvSubmit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Submit","ss_form_submit")}else if(type==203){console.log("ConvHit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("View Page","ss_page_hit")}else if(type==204){console.log("ConvChat exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Chat Widget","ss_chat_call")}else if(type==205){console.log("CallWidget exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Call Widget","ss_widget_callback")}if(typeof Conv_value!="undefined")console.log("ConvValue exist: "+Conv_value)};
 
 
+
+function setSS_google_tag_params(arrayhash, paramtype) {
+//установить window.google_tag_params из arrayhash (массива хешей)
+
+//paramtype 0
+//поиск параметров в window.dataLayer
+//например
+//window.dataLayer = window.dataLayer || [];
+//    dataLayer.push({
+//        'event': 'rem',
+//        'ecomm_prodid': "10769",
+//        'ecomm_pagetype': "product",
+//        'ecomm_totalvalue': "130.00"
+//    });
+
+//paramtype 1
+//поиск параметров в window.dataLayer
+//например
+//window.dataLayer = window.dataLayer || [];
+//if (typeof gtag != "function") {function gtag(){dataLayer.push(arguments);}};
+//try{gtag('event', 'page_view', {ecomm_pagetype: 'category', ecomm_category: 'Печать на пакетах', });}catch(err){console.log("Remarketing tool: send to Google has error");}
+//try{gtag('event', 'page_view', {ecomm_pagetype: 'product', ecomm_prodid: '2296', ecomm_totalvalue: '1.08', ecomm_category: 'Пакеты банан для магазинов одежды', });}catch(err){console.log("Remarketing tool: send to Google has error");}
+
+
+
+
+	if ({}.toString.call(arrayhash) !== '[object Array]')
+		return;
+
+
+	if (paramtype) {
+		var ecomm = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('ecomm_prodid') || obj[2].hasOwnProperty('ecomm_pagetype') }).indexOf(true)
+		var dynx = arrayhash.map(function (obj) { if (obj&&obj[2]) return obj[2].hasOwnProperty('dynx_itemid') || obj[2].hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+	} else {
+		var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
+		var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
+	}
+
+
+	if ((ecomm >= 0)||(dynx >= 0)) {
+
+		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
+			window.google_tag_params = {};
+
+		if (ecomm >= 0) {
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_prodid')) {
+				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm]['ecomm_prodid']
+			} else {
+				delete window.google_tag_params['ecomm_prodid'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_pagetype')) {
+				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm]['ecomm_pagetype']
+			} else {
+				delete window.google_tag_params['ecomm_pagetype'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_totalvalue')) {
+				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm]['ecomm_totalvalue']
+			} else {
+				delete window.google_tag_params['ecomm_totalvalue'];
+			}
+			if (arrayhash[ecomm].hasOwnProperty('ecomm_category')) {
+				window.google_tag_params['ecomm_category'] = arrayhash[ecomm]['ecomm_category']
+			} else {
+				delete window.google_tag_params['ecomm_category'];
+			}
+		}
+
+		if (dynx >= 0) {
+			if (arrayhash[dynx].hasOwnProperty('dynx_itemid')) {
+				window.google_tag_params['dynx_itemid'] = arrayhash[dynx]['dynx_itemid']
+			} else {
+				delete window.google_tag_params['dynx_itemid'];
+			}
+			if (arrayhash[dynx].hasOwnProperty('dynx_pagetype')) {
+				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx]['dynx_pagetype']
+			} else {
+				delete window.google_tag_params['dynx_pagetype'];
+			}
+			if (arrayhash[dynx].hasOwnProperty('dynx_totalvalue')) {
+				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx]['dynx_totalvalue']
+			} else {
+				delete window.google_tag_params['dynx_totalvalue'];
+			}
+		}
+
+
+	
+	}
+
+
+}
+
+setSS_google_tag_params(window.dataLayer, 1);
+
+
+
+
+
 //без предоплаты, логин менеджера
 var intepriceIPL = 'primapak.inteprice.com';
 var intepriceCRT = '05.12.2019';
