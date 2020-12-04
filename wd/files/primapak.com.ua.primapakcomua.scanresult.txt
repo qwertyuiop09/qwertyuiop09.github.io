@@ -22,12 +22,27 @@ All urls in feed id1001 7 URLS
 Found parsed item urls for id1001 7 URLS
 Not found parsed item urls for id1001 0 URLS
 
+Campaigns in GASearch id1002 0 Num
+All urls in feed id1002 18 URLS
+Found parsed item urls for id1002 18 URLS
+Not found parsed item urls for id1002 0 URLS
+
+Campaigns in GASearch id1003 0 Num
+All urls in feed id1003 0 URLS
+Found parsed item urls for id1003 0 URLS
+Not found parsed item urls for id1003 0 URLS
+
+Campaigns in GASearch id1004 0 Num
+All urls in feed id1004 1 URLS
+Found parsed item urls for id1004 1 URLS
+Not found parsed item urls for id1004 0 URLS
+
 Unknown errors: 0
 Empty Content-Type errors: 0
 No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 6.02
+Last execute time: 7.82
 
 Current Scan Status: ended.
