@@ -1,14 +1,11 @@
 
-
 var SSCHunterGa=function(b,c){try{var a=window[window.GoogleAnalyticsObject];a(function(){a.getAll().forEach(function(a){a.send("event",b,c)})})}catch(d){}};
-var SSCHunterCallback = function(type,undefined,undefined,undefined,undefined,undefined,Conv_value) { if (type == 200) { console.log ( 'ConvTime exist' ); if (typeof SSCHunterGa == 'function') { SSCHunterGa('Hot Activity', 'ss_hot_activity'); } } else if ((type >= 1)&&(type < 200)) { console.log ( 'ConvCHSnd exist' ); if (typeof SSCHunterGa == 'function') { SSCHunterGa('Client Hunter', 'ss_send_message'); } } else if (type == 201) { console.log ( 'ConvСlick exist' ) } else if (type == 202) { console.log ( 'ConvSubmit exist' ) } else if (type == 203) { console.log ( 'ConvHit exist' ); if (typeof SSCHunterGa == 'function') { SSCHunterGa('View Page', 'ss_page_hit'); } } else if (type == 204) { console.log ( 'ConvJivo exist' ) } else if (type == 205) { console.log ( 'CallWidget exist' ) } ; if (typeof Conv_value != 'undefined') { console.log ( 'ConvValue exist: ' + Conv_value ) }   }
-
-
+var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,undefined5,Conv_value){if(type==200){console.log("ConvTime exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Hot Activity","ss_hot_activity")}else if(type>=1&&type<200){console.log("ConvCHSnd exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Client Hunter","ss_send_message")}else if(type==201){console.log("ConvClick exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Click","ss_click_event")}else if(type==202){console.log("ConvSubmit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Submit","ss_form_submit")}else if(type==203){console.log("ConvHit exist");if(typeof SSCHunterGa=="function")SSCHunterGa("View Page","ss_page_hit")}else if(type==204){console.log("ConvChat exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Chat Widget","ss_chat_call")}else if(type==205){console.log("CallWidget exist");if(typeof SSCHunterGa=="function")SSCHunterGa("Call Widget","ss_widget_callback")}if(typeof Conv_value!="undefined")console.log("ConvValue exist: "+Conv_value)};
 
 
 //без предоплаты, логин менеджера
 var intepriceIPL = 'market.inteprice.com';
-var intepriceCRT = '28.05.2018';
+var intepriceCRT = '07.12.2020';
 
 
 var IPchatConfig = {
@@ -48,64 +45,37 @@ var IPchatConfig = {
 
 
 
-
-if (window.jQuery) {
-
-	window.jQuery('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)').each(function (){
-		this.onclick = function(){return false};
-	});
-
-
-/*
-	window.CHitem = window.jQuery('div.product-info div.col-sm-6 h1')[0];
-	if (window.CHitem) {
-		window.CHitem = IPchrSChr(window.CHitem.innerHTML); 
-	} else {
-		window.CHitem = window.location.href.toString(); 
-	}
-
-	window.CHprice = window.jQuery('div.product-info div.col-sm-6.product-right div.price span.price-new')[0];
-	if (window.CHprice) {
-//убираем стартовые пробелы в цене
-		window.CHprice = IPchrSChr(window.CHprice.innerHTML.replace(/^\s*(.*?)\s*$/,'$1')); 
-	} else {
-		window.CHprice = 0; 
-	}
-
-	var tonclk = window.jQuery('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0];
-	if (tonclk) {
-		tonclk.onclick = function(){return false};
-	}
-
-
-//	window.CHitem = IPchrSChr(window.jQuery('div.product-info div.col-sm-6 h1')[0].innerHTML); 
-//	window.CHprice = window.jQuery('div.product-info div.col-sm-6.product-right div.price span.price-new')[0].innerHTML;
-//	window.CHprice = IPchrSChr(window.CHprice.replace(/^\s*(.*?)\s*$/,'$1'));
-//	window.jQuery('div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)')[0].onclick = function(){return false};
-} else {
-	window.CHitem = window.location.href.toString(); 
-	window.CHprice = 0; 
-
-*/
-
-}
-
-
-
 	var IPclhrDataUpdate = {
+
+		//убрать !!!
+		"hunterOn": "0",
+		"showButton": 	"0",
+		"consultantOn": "0",
+
+		//раскомментировать !!!
+		//"consultantOn": "4",
+
+
 
 
 	"workStart": "08",
-	"workEnd": "19",
-	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat",
+	"workEnd": "18",
+	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat:9:16",
+
+
 
 
 
 		"AdwConvRemark": {
-		google_conversion_id: 843980275,
+		google_conversion_id: 472104531,
 		google_custom_params: window.google_tag_params,
+		//google_custom_params: undefined,
+//		google_user_id = '<unique user id>',
 		google_remarketing_only: true
 			},
+
+
+
 
 
 
@@ -113,12 +83,14 @@ if (window.jQuery) {
 		"HitElement": "h2",
 		"HitElementHtml": {RegExp: 'Ваш заказ сформирован!', Flags: 'i'},
 
+
+
 		"AdwConvHit": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 472104531,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
+		google_conversion_label: "XU5HCMOJxewBENP8juEB",
 //for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
 		google_remarketing_only: false
 			},
@@ -128,94 +100,92 @@ if (window.jQuery) {
 
 
 
+
 		"AdwConvTime": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 472104531,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "95xdCNXYw3UQpbqOzgM",
+		google_conversion_label: "HN5HCJiC1uwBENP8juEB",
 		google_remarketing_only: false
 			},
+
+
 
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 472104531,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
+		google_conversion_label: "PqjyCKO05-wBENP8juEB",
 		google_remarketing_only: false
 			},
 
 
 
-/*
-
-		"AdwConvJivo": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
-		google_remarketing_only: false
-			},
 
 
-		"SetCallWidget": {button: "#fca_call_button", phoneField:'#fca_phone' },
+
+//для виджетов обратного звонка
+//пример для venyoo.ru 
+		"SetCallWidget": {button: '#leadia_widget_callform_sendrequest, #sendLeadBtn', phoneField:'input.leadia_widget_order_control[data-form-field=callform_phone], input.leadia_msg_form_input[data-form-field=phone], input.leadia_msg_form_input[data-form-field=email]', phoneRegExp:'^([0-9]+)|([^\s]+\@[^\s]+\.[^\s]+)$'},
+
+
 
 		"AdwConvCallWidget": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 472104531,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "VqrlCP27jXwQpbqOzgM",
+		google_conversion_label: "_EsECLya1uwBENP8juEB",
 		google_remarketing_only: false
 		},
 
 
 
-*/
-
-
-
-		"B1Class": "div.product-info", 
-		"B1Cbtnclass": "div.product-info div.col-sm-6.product-right div.cart a.button:nth-child(6)",
-//		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[' + window.CHprice + '], Товар[' + window.CHitem + '], -Комментарий(необязательно)'},
-//		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[' + window.CHprice + '], Товар[' + window.CHitem + '], -Комментарий(необязательно)'},
-		"B1CFormData": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--div.col-sm-6.product-right div.price span.price-new-->], Товар[<!--div.col-sm-6 h1-->], -Комментарий(необязательно)'},
-		"B1CFormDataPh": {title:'Купить в 1 клик', button:"Заказать", fields:'+Ваш телефон(+380)*, Ваш Email(необязательно), Количество(укажите количество)*, Цена[<!--div.col-sm-6.product-right div.price span.price-new-->], Товар[<!--div.col-sm-6 h1-->], -Комментарий(необязательно)'},
-		"B1CFunValue": function(SelectorName,value) { if (SelectorName == 'div.col-sm-6.product-right div.price span.price-new') {return value.replace(/^\s*(.*?)\s*$/,'$1')} else {return value}},
 
 
 
 
 		"title": "Получить консультацию",
-		"titleworktime": "Мы свяжемся с Вами через несколько минут",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
+		"titleworktime": "Мы свяжемся с Вами через несколько минут",
 		"button": "Жду ответ!",
+//		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email*, -Тема (Ваш вопрос)*",
+		"fields": "+Введите ваш телефон(+380)*, Введите ваш Email(необязательно), -Тема(Ваш вопрос)*",
+//		"titleworktime": "Мы перезвоним через несколько минут",
+//		"titlenight": "Мы перезвоним в рабочее время",
 		"callTime": "0",
-		"fields": "+Введите ваш телефон(+380)*, Ваш Email(необязательно), -Тема (Ваш вопрос)*",
 		"emptyPhone": "+380",
 
 
 
 
-
-
 		"MMFileType": "2",
-//		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
-//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
+		//"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+
+
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
-		"ButtonYMobile": 80,
+
+
+//		"ButtonYMobile": 80,
+//		"ButtonXMobile": 0,
+//		"ButtonMobilePlace": 'RightTop',
+//		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAACACAYAAAC1KBEFAAAEWUlEQVR4nO3ZX2hbVRwH8N+DgojgXkQQBR2CyGruOQ+CIKIP0vVBfBERFkGfCkqLbZrfASE6KQhjEhhM2IYgFDE+KD5simC7pLnn6GLIkDJSq6w0IsXVSlfHQsQ8/HzoTsm6JrlJc//k3POF72v5fbjn3nN6AlwJiksh7AEs1mIt1mIt1mINrsWaWos1tRZrai3W1FqsqbVYU2uxptZiTa3FmlqLNbUWa2ot1tRarKmNPDZZyVK92SAiourWGuVWFyhZOkncRfOwhY2faW/qzQZNlE8T6xEcaWymOncHtBU8upghLg3BVrdrbbFERPn1y+TkU8OP7fRUW3NMnfD8/kYWu/nvtifs+ZoiVpgZXmzu97wnKBFR7caf5CxMDyc2Wcl6huo4308NJ3Zy6Ux8sFwJurB+yTO03myQMz/EWK4EnVv91hO2vLFMzkVv209ksVztLGl9VGyX3NX54f4a7wV3ihH7rO5YaXYgS3gosJ323LO/nCe2mDYDO1aabfvO9vIVHgps+e+VgXyYIo/96Ncv20L7+fcusthOy7ffpxpJ7Fhplmo3r7WF9nLwjzx2v2uY1kz81Pt1jO/YZCVLmStzngcbK81S4VpnaK9bTSDY1r3Ry9VJt6Xr9e8Eis1U5/YdutOgmepc1/NvryclX7HJSrbr5djeJehl2RLtfJBGi+/1vM0MHOt14Fbw0R8+oFwt3/VpDhp6YGynE85BU95YplH3/YFBD4zttnT7zSA+RgPH9nJ94jX9no58x3Y6v/aazcZ1mih/3PeBwXcsV94vszsld3WejqrjA30/fcFOLp3peiDYL/Vmg/Lrl+nYpf5+fgwFy9XOFpSrebvFr26t0dmVnS3I7yfpC1Y3WclSrnaRqtfXbnuCB/0ROZLYqNdiTa3FmlqLNbUWa2ot1tRarKm1WFNrsabWYk2txZpaizW1FmtqIeHiK1yK5bAHCQQLAPBo4c17mEq/y6TYCnsg37E6iWL6Mabws7CHCgSrw1x8lit0wx4uEKyO46ZfZ1Kshj1kIFgAgMPz4/czhR8yiTfDHtZ37O77nBdPcIVfhT1wIFgdLtMvMoXlsAcPBKvDpBhnUvwRNiAQLAAAdycfYBJPcYX/hQ3xHbuLlimHKfFN2JhAsDqOxJe4xKWwUYFgAQCg8MJdjovTTIq/wsb5j72VRGHyYabwk7CBgWB12OLM01ziQtjQQLC7aImvMoUrscACADx0YfxeR2KGK7FtPFbnKTl9mEn8PBZYncQiPsckqlhgdZiaeYMpsRYLLAAAK0wd4jJ9gitRNx6rM1KcepJJ/DoWWB2niKNcikossDrcxbe4wvVYYAEARhbeeZC74jSXomk8VscppjiX+F0ssDqJoniZKbwSCywAAJwbv5spTHOJm+Zjb2WkmHqESfFpLLA6CZV6hinMxwKr4xTxNSbxt1hgAQCOFN6+j8n0ca7wH+OxOkcK049zKb6IBVaHu/g8V/jj/y/rYstz59Y5AAAAAElFTkSuQmCC) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
+
+
+		"ButtonYMobile": 0,
 		"ButtonXMobile": 0,
-		"ButtonMobilePlace": 'RightTop',
-		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAACACAYAAAC1KBEFAAAEWUlEQVR4nO3ZX2hbVRwH8N+DgojgXkQQBR2CyGruOQ+CIKIP0vVBfBERFkGfCkqLbZrfASE6KQhjEhhM2IYgFDE+KD5simC7pLnn6GLIkDJSq6w0IsXVSlfHQsQ8/HzoTsm6JrlJc//k3POF72v5fbjn3nN6AlwJiksh7AEs1mIt1mIt1mINrsWaWos1tRZrai3W1FqsqbVYU2uxptZiTa3FmlqLNbUWa2ot1tRarKmNPDZZyVK92SAiourWGuVWFyhZOkncRfOwhY2faW/qzQZNlE8T6xEcaWymOncHtBU8upghLg3BVrdrbbFERPn1y+TkU8OP7fRUW3NMnfD8/kYWu/nvtifs+ZoiVpgZXmzu97wnKBFR7caf5CxMDyc2Wcl6huo4308NJ3Zy6Ux8sFwJurB+yTO03myQMz/EWK4EnVv91hO2vLFMzkVv209ksVztLGl9VGyX3NX54f4a7wV3ihH7rO5YaXYgS3gosJ323LO/nCe2mDYDO1aabfvO9vIVHgps+e+VgXyYIo/96Ncv20L7+fcusthOy7ffpxpJ7Fhplmo3r7WF9nLwjzx2v2uY1kz81Pt1jO/YZCVLmStzngcbK81S4VpnaK9bTSDY1r3Ry9VJt6Xr9e8Eis1U5/YdutOgmepc1/NvryclX7HJSrbr5djeJehl2RLtfJBGi+/1vM0MHOt14Fbw0R8+oFwt3/VpDhp6YGynE85BU95YplH3/YFBD4zttnT7zSA+RgPH9nJ94jX9no58x3Y6v/aazcZ1mih/3PeBwXcsV94vszsld3WejqrjA30/fcFOLp3peiDYL/Vmg/Lrl+nYpf5+fgwFy9XOFpSrebvFr26t0dmVnS3I7yfpC1Y3WclSrnaRqtfXbnuCB/0ROZLYqNdiTa3FmlqLNbUWa2ot1tRarKm1WFNrsabWYk2txZpaizW1FmtqIeHiK1yK5bAHCQQLAPBo4c17mEq/y6TYCnsg37E6iWL6Mabws7CHCgSrw1x8lit0wx4uEKyO46ZfZ1Kshj1kIFgAgMPz4/czhR8yiTfDHtZ37O77nBdPcIVfhT1wIFgdLtMvMoXlsAcPBKvDpBhnUvwRNiAQLAAAdycfYBJPcYX/hQ3xHbuLlimHKfFN2JhAsDqOxJe4xKWwUYFgAQCg8MJdjovTTIq/wsb5j72VRGHyYabwk7CBgWB12OLM01ziQtjQQLC7aImvMoUrscACADx0YfxeR2KGK7FtPFbnKTl9mEn8PBZYncQiPsckqlhgdZiaeYMpsRYLLAAAK0wd4jJ9gitRNx6rM1KcepJJ/DoWWB2niKNcikossDrcxbe4wvVYYAEARhbeeZC74jSXomk8VscppjiX+F0ssDqJoniZKbwSCywAAJwbv5spTHOJm+Zjb2WkmHqESfFpLLA6CZV6hinMxwKr4xTxNSbxt1hgAQCOFN6+j8n0ca7wH+OxOkcK049zKb6IBVaHu/g8V/jj/y/rYstz59Y5AAAAAElFTkSuQmCC) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
+		"ButtonMobilePlace": 'LeftBottom',
+		"ButtonMobileCSS": "",
+//вертикально
+//		"ButtonMobileCSS": "background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAACACAYAAAC1KBEFAAAEVUlEQVR4nO3ZQWhcRRgH8B4URAS9iCAKWgSRxn3zHQRBRA+S5iBeRISuoKeAksVks9+AsFoJCEVZKLSQFEEI4npQPKSKYNJ92TejXZctEsqmURqyIqFNI2ksXVbcw9dDWa0hffve7pud2el88L/l8P123pv53uTAgTugIMAXQOJPuvtQWof8qSdA8C9BcgLJSXc/SuqQ/859TOSOgsS/OlArsV4ZX2cCf7sVaR02JbPPMoml/ZDWYEfK2UeZ4J+FIYcfe2r8biYxBwK3o0CHFpsq81eYxPNRkUOJ9cpZAIHfx0UOFXZk6d2HIOAnQPB2r9ChwEKAb4PEzX6QxmO9Mo6C4LUkkMZiR8qTTzGB3ySJNA7L/MkHQOSOgeRNFVBjsExOv8kk31CFNAKbWsbnmUCpGqkV+7SYOsgEfjEopBbsw6fH7/UE5kHy3UFDB4plAl9jEtd0IAeGZcvTz4DAJZ1I5diUn3mESfxUN1At1n/xLi/AKSb4Fd04pVhP4MsgcEU3SikWRNZjkn+rG6MUC0HmQSbwOEj8RzdEKZYJPs4E/0M3QCkWRO4lJrGqu3Gl2FSJPwkSv9bdsFLswcXx+5nEj5jA67qbVYr1gtwbTPB13U0qxbIAnwOJge7mlGJT5dzjTOLnuptSin3Mf+seJnPvMcF3dDekFJsK8FUQfFV3IwPB6m7AYR3WYR3WYR3W4jisrXFYW+OwtsZhbY3D2hqHtTUOa2sc1tY4bK9J1wpUbJyh+tUN6lSz3aL6zgYV15coXfmYIMDhxo5VZqjYKFGUqu9s0NzaAh3+8UMCMWTYzMosNa5fjgS9tZrtFpU2z9GRs4Nb7b6x23/vxobureLFRTosjypf6b6wn/z6Vd/QTm23rtJE9SQxhavcF/b05tnEsJ0qXlwk5k+bh63vNhLHEhGVNs+RV8qaha3+uaYES0RU3Vql0eCDRN/jvrBjlRnyL/8SGTB34eaRU2yUqNludf37xrVLNFp+PzFwIudsulbo+kjPXVggtpyL/UMlCU50gsrX5/c9c8PewXx9vusqV7dWyTvT/zusZDYu/v7fNBVlsxmrzHQdTJLYtJR9CKRrBcqfn498bkZ5rPe+CsZge42/FQ6e+PlEz4OHcdhuj3Tj2iXylqbswHbAYZtWr1OWkViQ4XN3s92i0eV87OPIWCzI8Amtl9U1Ghv2ODfbLfIWJ+3Bgvz/mb234h5FxmPHKjO3xcadrIzHZlZmb4slIjoij0W+1jEam1mZ7To3x9mojMWeWv8uFNnLo2wkNs51T5xd2Thst3d0v/J+GFJsula4c7Agw8/WvRXnw8BILMjol+8LDTn8u3G+Ph8Ja8052+0SL+5VjdHYsNXt5TPPaCzI/a9pmu0WTVTjX88Yj03XCv+OjP3+U9t4bJJxWFvjsLbGYW2Nw9oah7U1DmtrHNbWOKytcVhb47C2xmFtjcPaGoe1NQ5raxzW1jisrXFYW3MD/YFiyyOOIn0AAAAASUVORK5CYII=) center center no-repeat!important; position:fixed!important;bottom:0;right:0!important;height:128px!important;width:59px!important;cursor:pointer",
 
 
-		"consultantOn": "4",
 
 
 	"consultantSettings": {
@@ -273,18 +243,18 @@ if (window.jQuery) {
 	}
 
 
-
 //для настроенных бесплатных, которые оплачены
 	try {
 		if (window.intepriceCRT) {
 			var match = window.intepriceCRT.match(/^(\d\d?)[\.\/](\d\d?)[\.\/](\d\d\d\d)$/m);
 			if (match) {
 				var dateCRT = match[2] + '/' + match[1] + '/' + match[3];
-				var gmt = new Date(dateCRT);
-				gmt.setTime(gmt.getTime() + (gmt.getTimezoneOffset()*60*1000) + Number(window.IPcallhunterDiff));
+				var sttime = new Date(dateCRT);
 				var currd = new Date();
-				if ((currd.getTime() - gmt.getTime())/(24*60*60*1000) < 30) {
+				if ((currd.getTime() - sttime.getTime())/(24*60*60*1000) < 30) {
 					IPclhrDataUpdate.freefull=1;
+					currd.setTime(currd.getTime() + (currd.getTimezoneOffset()*60*1000) + (((IPclhrDataUpdate&&IPclhrDataUpdate.hasOwnProperty('timeZone')) ? IPclhrDataUpdate["timeZone"] : IPclhrData["timeZone"])*60*60*1000) + Number(window.IPcallhunterDiff));
+					window.intepriceCRT = ('0' + currd.getDate()).slice(-2) + '.' + ('0' + (currd.getMonth() + 1)).slice(-2)  + '.' + currd.getFullYear();
 				}
 			}
 		}
