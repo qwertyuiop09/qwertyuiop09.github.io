@@ -361,7 +361,12 @@ function findButtonByClass(className) {
 
 					} else {
 
+
+
+alert('IPchlEev.clhrsnd =' +IPchlEev.clhrsnd)
+
 						var notvalid=IPchlEev.ExtF(form,clickbutton);
+alert('IPchlEev.clhrsnd =' +IPchlEev.clhrsnd)
 
 alert(notvalid)
 
