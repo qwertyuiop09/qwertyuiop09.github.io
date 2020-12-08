@@ -295,6 +295,7 @@ alert('tttt222')
 
 						if ((!IPchlEev.fs)&&IPchlEev.DP) {
 //это решение может быть неверным - может появится с задержкой submit поэтому в обработчиках вставлено отслеживание
+alert('tttt1111')
 							IPchlEev.SBMFormFlg=1;
 							if (IPchlEev.aj) {
 //PRI!!!!
@@ -306,6 +307,7 @@ alert('tttt222')
 							return false;
 						} else {
 //PRI!!!!
+alert('tttt44444')
 							IPchlEev.SndF(PRIIDS,PRIMMFolder,jQuery,form,clickbutton,producttype);
 //							IPchlEev.SndF(PRIMMFolder,jQuery,form,clickbutton,producttype);
 //							IPchlEev.SndF(jQuery,form,clickbutton,producttype);
