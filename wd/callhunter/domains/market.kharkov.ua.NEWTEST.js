@@ -438,6 +438,8 @@ alert('tttt')
 	IPchlEev.SndF = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
 //	this.SndF = function(jQuery,form,e,producttype,ajaxflg) {
 
+//alert(12113143)
+
 /*
 					if((IPclhrData["resendStop"] != "0")&&(producttype != 11)) {
 //						if(jQuery(clhrForm).is(":visible")) {
