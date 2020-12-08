@@ -178,6 +178,7 @@ alert('=============')
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 							formclosest=findFormByClass(formclassName)
 
+//получаем скрытую кнопку псефдоформы (что бы все дальше работало верно, может и не нужно, но на всякий)
 							clickbutton = jQuery(findButtonByClass(buttonclassName));
 
 console.log(clickbutton)
@@ -195,6 +196,7 @@ console.log(clickbutton)
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 							formclosest=findFormByClass(formclassName)
 
+//получаем скрытую кнопку псефдоформы (что бы все дальше работало верно, может и не нужно, но на всякий)
 							clickbutton = jQuery(findButtonByClass(buttonclassName));
 
 							pseudoform=1;
