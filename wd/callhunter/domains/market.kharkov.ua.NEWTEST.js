@@ -180,7 +180,7 @@ alert('=============')
 
 							clickbutton = jQuery(findButtonByClass(buttonclassName));
 
-alert(clickbutton.tagName)
+console.log(clickbutton)
 
 
 
