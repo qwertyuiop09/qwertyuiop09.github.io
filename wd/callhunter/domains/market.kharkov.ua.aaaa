@@ -76,7 +76,7 @@
 
 			IPchlEev.clhrSend = function(jQuery,clickbutton,evnt,producttype) { // send data
 
-alert(112333)
+//alert(112333)
 
 
 					function closestform(elem) {
@@ -141,11 +141,14 @@ alert(1123332222222222222)
 							pseudoform=1;
 						}
 					}
+
+alert(112333222)
+
 					if (!formclosest) {
 						return 'no';
 					}
 
-alert(112333222)
+alert('-------------')
 
 					var form = jQuery(formclosest);
 
