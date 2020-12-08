@@ -269,9 +269,14 @@ function findButtonByClass(className) {
 						return 'no';
 					}
 
-//alert('-------------')
+alert('-------------')
 
 					var form = jQuery(formclosest);
+
+alert(formclosest.elements.length)
+alert(form[0].elements.length)
+
+
 
 					if(form.length == 0){
 						return 'no';
@@ -364,6 +369,8 @@ function findButtonByClass(className) {
 
 
 alert('IPchlEev.clhrsnd =' +IPchlEev.clhrsnd)
+
+
 
 						var notvalid=IPchlEev.ExtF(form,clickbutton);
 alert('IPchlEev.clhrsnd =' +IPchlEev.clhrsnd)
