@@ -176,6 +176,9 @@ alert('=============')
 							formclosest=findFormByClass(formclassName)
 							evnt = findButtonByClass(buttonclassName)
 alert(evnt.target)
+alert(evnt.target.tagName)
+
+
 
 							pseudoform=1;
 						} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnFormPseudo"])) {
