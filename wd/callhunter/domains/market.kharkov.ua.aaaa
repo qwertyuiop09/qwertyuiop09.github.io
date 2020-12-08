@@ -163,7 +163,7 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 
 					if (!formclosest) {
 //если не найдены форма или псевдоформа кнопки, то 
-//если разрешено ищем первую попавшуюся форму или псевдоформу без кнопки
+//если разрешено - ищем первую попавшуюся псевдоформу (без кнопки)
 
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCForm"])) {
 							testform = form.is(IPclhrData["ExtFormBtnFCForm"])
