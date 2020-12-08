@@ -1191,3 +1191,687 @@ alert('FSubmit2')
 
 
 	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	IPchlEev.ExtF = function(form,button) {
+
+
+//если такие как я умники удалят название кнопки по дороге, нам оно нужно будет потом
+		jQuery(button).attr('_ipname',jQuery(button).attr('name'));
+		jQuery(button).attr('_ipvalue',jQuery(button).val());
+
+
+
+		IPchlEev.clhrsnd=0;
+		IPchlEev.alredyformsnd=0;
+
+
+		IPchlEev.notvalid=0;
+
+
+//Field Validation for browsers not supporting html5 required attribute
+//не все браузеры поддерживают проверку заполнения обязательных полей
+//как сделать выдачу родного сообщения браузера - не знаю, поэтому выдаем ошибку в стандартное наше поле
+//делаем проверку, если есть параметр alertFillRequired
+//валидация срабатывает только после выполнения всех обработчиков onclick 
+//		if ((!IPchlEev.DP)&&(!IPchlEev.fs)&&IPclhrData["alertFillRequired"]) { //это вариант - валидация при отсутсвии submit и превентдефаулт в обработчиках onclick onsubmit
+//при наличии submit() в onclick Мозилла проверяет валидацию, хром и опера не проверяют, сразу делают отправку формы
+//при наличии submit() в onsubmit все проверяют валидацию
+//		if ((!IPchlEev.fs)&&IPclhrData["alertFillRequired"]) {  //это вариант - валидация при отсутсвии submit в обработчиках onclick onsubmit
+//оставил - "валидацию делать в любом случае" так как такое поведение у большинства проверенных браузеров в большинстве случаев
+//кстати вроде такое же поведение у GA в режиме callback
+
+		//флаг, что нужно применять свой алгоритм валидации полей формы
+		var checkvalidate=0;
+
+		if (IPclhrData["alertFillRequired"]) {
+			if (IPclhrData["ExtFormBtnFCvalidAttr"]&&(!IPclhrData["ExtFormBtnFCnovalidOnly"])) {
+//форсируем включение режима без проверки обязательных полей (будем сами проверять их и отправлять параллельно основной проверке на сайте)
+				IPchlEev.notvalid=-2;
+				checkvalidate=1;
+			} else if ((button.attr('formnovalidate') == undefined)&&(form.attr('novalidate') == undefined)) {
+				var fe = form[0].elements;
+				for(var i = 0; i < fe.length; i++){
+					if (fe[i].validity) {
+						IPchlEev.notvalid=-1;
+//проверка выполнена, новый браузер html5, все поля валидные, можно отсылать submit и форму коллхантера
+						if (fe[i].validity.valid !== true) {
+//проверка выполнена, новый браузер html5, есть невалидные поля, нельзя отсылать форму коллхантера и submit
+							IPchlEev.notvalid=1;
+							break;
+						}
+					}
+				}
+			} else {
+//проверка не нужна, можно отсылать submit и пустую форму коллхантера
+				//форма без валидации браузером
+				IPchlEev.notvalid=-2;
+				if (IPclhrData["ExtFormBtnFCvalidAttr"]) {
+					checkvalidate=1;
+				}
+			}
+		} else {
+//проверка не нужна, можно отсылать submit и пустую форму коллхантера
+			IPchlEev.notvalid=-2;
+		}
+
+
+//если  IPchlEev.notvalid==0; - проверка не проводилась, можно отсылать submit, старый браузер, нужно проверить поля вручную, что бы не отсылать пустую форму
+
+
+
+//наконец нашел как сделать валидацию браузерную
+//		if (IPchlEev.notvalid == 1)
+//			form.valid();
+
+
+//		if (IPchlEev.notvalid == 0) {
+		if (IPchlEev.notvalid < 1) {
+//Для старых браузеров небольшая проверка валидности (точнее заполненности некоторых полей или на предмет всех пустых полей)
+//а так же для новых, если ппытаются отправить пустую форму
+//это чтобы не отсылать нашу форму коллхантера на пустых требуемых полях или на пустых формах
+//здесь же мы учитываем, что при невалидном html поля формы не будут найдены, поэтому совмещаем js и jQuery(а на ie8 кстати работает полный jQuery на невалидном коде html)
+//то есть jQuery.find ничего не найдет на невалидном html <table><form>.....</form></table>
+			var formempty=1;
+			var fe = form[0].elements;
+			var radiob={};
+
+			
+			//флаг, как проверять обязательные для заполнения поля здесь, через callhunter
+			var checkrequired=0;
+			//флаг что есть незаполненные обязательные поля
+			var notfill=0;
+			if (checkvalidate) {
+				if (!IPclhrData.hasOwnProperty("ExtFormBtnFCvalidVal")) {
+					//тип проверки - просто наличие какого-то непустого значений
+					checkrequired=1;
+				} else if (typeof IPclhrData["ExtFormBtnFCvalidVal"] == 'function') {
+					//тип проверки - для текстовых полей - функция, которая возвращает непустое значение, для checkbox и radio - наличие непустого значения
+					checkrequired=2;
+				} else {
+					//тип проверки - нежесткое совпадение значений (== а не ===)
+					checkrequired=3;
+				}
+			}
+
+
+			for(var i = 0; i < fe.length; i++){
+				var that=window.jqIPAcode(fe[i]);
+				if(window.jqIPAcode(that).is('input:not([type=hidden], [type=submit], [type=button], [type=image], [type=reset]), textarea')) {
+
+					if(window.jqIPAcode(that).is("[type=checkbox], [type=radio]")) {
+						if(window.jqIPAcode(that).is(':checked')) {
+							formempty=0;
+						}
+					} else {
+//						if(window.jqIPAcode(that).val().length > 0) {
+						var value = window.jqIPAcode(that).val();
+						var d = new RegExp("^\\s*$");
+						if (!d.test(value)) {
+							formempty=0;
+						}
+					}
+
+					if (checkrequired) {
+						//флаг, что поле является обязательным для заполнения
+						var checkfill = 0;
+
+						if (window.jqIPAcode(that).attr(IPclhrData["ExtFormBtnFCvalidAttr"]) != undefined) {
+							if (checkrequired==1) {
+								checkfill = 1;
+							} else if (checkrequired==2) {
+								checkfill = 1;
+							} else if (IPclhrData["ExtFormBtnFCvalidVal"] == window.jqIPAcode(that).attr(IPclhrData["ExtFormBtnFCvalidAttr"])) {
+								checkfill = 1;
+							}
+						}
+
+
+						if (checkfill) {
+
+							if(window.jqIPAcode(that).is("[type=checkbox]")) {
+								if(!window.jqIPAcode(that).is(':checked')) {
+									notfill=1;
+								}
+							} else if(window.jqIPAcode(that).is("[type=radio]")) {
+								if (!radiob.hasOwnProperty(window.jqIPAcode(that).attr('name'))) {
+									radiob[window.jqIPAcode(that).attr('name')]=window.jqIPAcode(that).is(':checked');
+								} else if (window.jqIPAcode(that).is(':checked')) {
+									radiob[window.jqIPAcode(that).attr('name')]=window.jqIPAcode(that).is(':checked');
+								}
+							} else {
+//								if(window.jqIPAcode(that).val().length < 1) {
+								var value = window.jqIPAcode(that).val();
+
+								if (checkrequired==2) {
+								//функция должна вернуть непустое значение
+									try {
+										var d=IPclhrData["ExtFormBtnFCvalidVal"](IPclhrData["ExtFormBtnFCvalidAttr"],window.jqIPAcode(that).attr(IPclhrData["ExtFormBtnFCvalidAttr"]),value,i,window.jqIPAcode(that),button,form);
+										if (!d) notfill=1;
+									} catch (e) { if (window.console&&window.console.log) console.log('bad function ExtFormBtnFCvalidVal'); }
+
+
+								} else {
+									var d = new RegExp("^\\s*$");
+									if (d.test(value)) {
+										notfill=1;
+									}
+								}
+
+
+							}
+
+
+
+						}
+
+
+
+					} else if (IPchlEev.notvalid == 0) {
+//это только для старых браузеров - небольшая проверка валидности (точнее заполненности некоторых полей)
+						if ((window.jqIPAcode(that).attr("required") != undefined)||(window.jqIPAcode(that).attr("pattern") != undefined)) {
+							if(window.jqIPAcode(that).is("[type=checkbox]")) {
+								if(!window.jqIPAcode(that).is(':checked')) {
+//упрощенная проверка выполнена на старом браузере, нельзя отсылать каллхантер форму, но submit пропускаем дальше
+									IPchlEev.clhrsnd=1;
+//этот флаг тоже ставим, что бы не было задержки отправки submit
+									IPchlEev.alredyformsnd=1;
+								}
+							} else if(window.jqIPAcode(that).is("[type=radio]")) {
+								if (!radiob.hasOwnProperty(window.jqIPAcode(that).attr('name'))) {
+									radiob[window.jqIPAcode(that).attr('name')]=window.jqIPAcode(that).is(':checked');
+								} else if (window.jqIPAcode(that).is(':checked')) {
+									radiob[window.jqIPAcode(that).attr('name')]=window.jqIPAcode(that).is(':checked');
+								}
+							} else {
+//								if(window.jqIPAcode(that).val().length < 1) {
+								var value = window.jqIPAcode(that).val();
+								var d = new RegExp("^\\s*$");
+								if (d.test(value)) {
+//упрощенная проверка выполнена на старом браузере, нельзя отсылать каллхантер форму, но submit пропускаем дальше
+									IPchlEev.clhrsnd=1;
+//этот флаг тоже ставим, что бы не было задержки отправки submit
+									IPchlEev.alredyformsnd=1;
+								}
+							}
+						}
+					}
+				}
+			}
+			for (var key in radiob) {
+				if (!radiob[key]) {
+//упрощенная проверка выполнена на старом браузере, нельзя отсылать каллхантер форму, но submit пропускаем дальше
+					IPchlEev.clhrsnd=1;
+//этот флаг тоже ставим, что бы не было задержки отправки submit
+					IPchlEev.alredyformsnd=1;
+//notfill сюда добавлено просто для напоминания что здесь обрабатываются не только старые браузеры, но и режим внутренней проверки полей ExtFormBtnFCvalidAttr
+//					notfill=1;
+					break;
+				}
+			}
+			if (formempty||notfill) {
+//не отправляем для пустых форм аналогично проверке для старых браузеров
+//не отправляем для незаполненных обязательных полей в режиме самостоятельной валидации ExtFormBtnFCvalidAttr
+				IPchlEev.clhrsnd=1;
+				IPchlEev.alredyformsnd=1;
+			}
+		}
+
+
+
+		IPchlEev.form0 = form[0];
+
+		IPchlEev.SBMFormFlg=0;
+
+		var fonsubmitcode = form[0].onsubmit;
+		var fsubmitcode = form[0].submit;
+		var clickcode = button[0].click;
+		var onclickcode = button[0].onclick;
+
+
+		IPchlEev.DP = 0;
+		IPchlEev.fs = 0;
+		IPchlEev.aj = 0;
+
+
+//добавлен обработчик команд history.back history.forward history.go window.location
+//иначе запускается FSubmit, который не должен запускаться и не происходит переход а происходит submit
+		IPchlEev.nosubmit = 0;
+		if (!IPchlEev.sethistory) {
+			IPchlEev.sethistory=1;
+			if (window.history) {
+				var hgo = window.history.go;
+				if (typeof hgo == "function") {
+//					window.history.go = function go(param) {
+//заменяем на apply
+					window.history.go = function() {
+//						alert('history.go(..), native code');
+//блокируем отправку submit
+						IPchlEev.nosubmit = 1;
+//нельзя отсылать каллхантер форму (если успели вовремя этот флаг выставить и вообще форма должна быть отправлена)
+						IPchlEev.clhrsnd=1;
+//этот флаг тоже сбрасываем, если есть, что бы была задержка отправки submit
+						IPchlEev.alredyformsnd=0;
+//						return hgo.call(this,param);
+						return hgo.apply(this,arguments);
+					}
+				}
+				var hback = window.history.back;
+				if (typeof hback == "function") {
+					window.history.back = function back() {
+//						alert('history.back(), native code');
+//блокируем отправку submit
+						IPchlEev.nosubmit = 1;
+//нельзя отсылать каллхантер форму (если успели вовремя этот флаг выставить и вообще форма должна быть отправлена)
+						IPchlEev.clhrsnd=1;
+//этот флаг тоже сбрасываем, если есть, что бы была задержка отправки submit
+						IPchlEev.alredyformsnd=0;
+						return hback.call(this);
+					}
+				}
+				var hforward = window.history.forward;
+				if (typeof hforward == "function") {
+					window.history.forward = function forward() {
+//						alert('history.forward(), native code');
+//блокируем отправку submit
+						IPchlEev.nosubmit = 1;
+//нельзя отсылать каллхантер форму (если успели вовремя этот флаг выставить и вообще форма должна быть отправлена)
+						IPchlEev.clhrsnd=1;
+//этот флаг тоже сбрасываем, если есть, что бы была задержка отправки submit
+						IPchlEev.alredyformsnd=0;
+						return hforward.call(this);
+					}
+				}
+			}
+
+//при смене window.location к сожалению никак нельзя это детектировать!
+//перезаписать функции типа window.location.assign невозможно
+//поэтому наш скрипт не будет работать при смене window.location!
+//есть только window.location.watch для мозиллы (в других браузерах не сработает)
+//ниже описано как сделать, но только с постоянным контролем в цикле изменения, иначе кроссброузерно никак
+//http://stackoverflow.com/questions/1369241/jquery-tell-when-the-hash-changes
+
+		}
+
+
+
+
+		IPchlEev.ajtype=0;
+
+		if (!IPchlEev.setaj) {
+			IPchlEev.setaj=1;
+			if(window.jQuery) {
+//для обнаружения запросов ajax - jQuery используем тот который подключн на сайт
+//Метод .ajaxSend() не сработает если при вызове $.ajax() или $.ajaxSetup() в настройке global стояло значение false.
+				window.jQuery(document).ajaxSend(IPchlEev.ajh);
+			}
+			window.jqIPAcode(document).ajaxSend(IPchlEev.ajh);
+		}
+
+
+
+
+
+	if (!IPclhrData["SubmitFullBlocked"]) {
+//просто не выполняем все обработчики, если полная блокировка submit, только выполняем проверку валидности заполнения форм
+
+
+		if (!IPchlEev.ar) {
+//неправильное поведение браузера если IPchlEev.ar=1 (то есть обработчики кликов выполняются раньше чем onclick)
+//если еще не выполнялись обработчики кликов (именно так должно быть), то выполняем их
+//если же уже выполнились обработчики кликов, то могли пройти там запросы submit() но мы уже с этим ничего не сделаем, точнее мы сюда уже не дойдем даже (если был submit())
+
+
+
+//часть браузеров (опера хром, мозилла нет) будет выполнять обработчики submit по dispatchEvent(evtclick)
+//поэтому подготавливаем прерывание, что бы этого не произошло
+			form[0].submit = function submit() {
+//				alert('submit() in event click, native code')
+				if (IPchlEev.SBMFormFlg==1) {
+//еще одна отложенная проблема - может возникать здесь submit после прохождения точки где устанавливается IPchlEev.SBMFormFlg=1
+//то есть решение уже принято (не будет субмит) а оказывается что будет
+//типовой вариант возникновения этой проблемы - подключена GA и есть поля required, сначала не заполняем поля и кликаем, выдаст ошибку заполнения, потом заполняем и кликаем
+//submit возникнет на этапе перехвата 'submit() in event submit, native code', но добавлено так же для 'submit() in event click, native code'
+					var ipsubmitspar = this._ipsubmitspar;
+//PRI!!!!
+					IPchlEev.SndF(null,null,window.jqIPAcode,ipsubmitspar.form,ipsubmitspar.button,11);
+//					IPchlEev.SndF(null,window.jqIPAcode,ipsubmitspar.form,ipsubmitspar.button,11);
+//					IPchlEev.SndF(window.jqIPAcode,ipsubmitspar.form,ipsubmitspar.button,11);
+				} else {
+					IPchlEev.fs = 1;
+				}
+				if (evtsubmitonclick.preventDefault) {
+					IPchlEev.DPn = 1;
+					evtsubmitonclick.preventDefault();
+				} else {
+					evtsubmitonclick.returnValue = false;
+				}
+				return false;
+			}
+
+
+
+//этого вообще не должно быть (выполнение onsubmit и других обработчиков submit при генерации событий кликов по dispatchEvent(evtclick)), мочим
+			form[0].onsubmit = function onsubmit(event) {
+//				alert('onsubmit in event click, native code')
+				event = event || window.event //для ie8
+				if (event.preventDefault) {
+					IPchlEev.DPn = 1;
+					event.preventDefault();
+				} else {
+					event.returnValue = false;
+				}
+				if (event.stopImmediatePropagation) {
+					event.stopImmediatePropagation();
+				}
+				return false;
+			}
+
+
+//подготовили, но не запустили прерывание submit (часть браузеров его сами запустят при dispatchEvent(evtclick))
+			var evtsubmitonclick = prepareTriggerEvent('submit','click');
+
+
+/*
+//это не кросс-броузерное решение
+			var evtsubmitonclick = document.createEvent('Event');
+			evtsubmitonclick.initEvent('submit', true, true);
+        
+//патчим preventDefault, что бы можно было определять, был вызов preventDefault или нет
+			if (evtsubmitonclick.preventDefault) {
+				var preventDefIP = evtsubmitonclick.preventDefault;
+				evtsubmitonclick.preventDefault = function preventDefault() {
+					if (IPchlEev.DPn) {
+						IPchlEev.DPn = 0;
+					} else {
+//						alert('preventDefault submit in event click, native code')
+						IPchlEev.DP = 1;
+					}
+					preventDefIP.call(this);
+				}
+			}
+*/
+
+
+
+			button[0].click = function click() {
+//				alert('click() in event, native code')
+				if (evtclick.preventDefault) {
+					IPchlEev.DPn = 1;
+					evtclick.preventDefault();
+				} else {
+					evtclick.returnValue = false;
+				}
+				return false;
+			}
+
+			if (typeof onclickcode == "function") {
+				var onclickIP = onclickcode;
+				button[0].onclick = function onclick(event) {
+//					alert('onclick in event click, native code')
+					event = event || window.event //для ie8
+					var ret=onclickIP.call(this,event);
+					if(event.preventDefault){
+						if(ret === false){IPchlEev.DP = 1;}
+					} else {
+						if((ret === false)||(event.returnValue == false)){IPchlEev.DP = 1;}
+					}
+					return false;
+				}
+
+			} else {
+				button[0].onclick = function onclick(event) {
+//					alert('onclick in event click, native code')
+					event = event || window.event //для ie8
+					if(!event.preventDefault)
+						if(event.returnValue == false){IPchlEev.DP = 1;}
+					return false;
+				}
+			}
+
+
+			var evtclick = prepareTriggerEvent('click','click');
+			triggerEvent(button[0],evtclick);
+
+/*        
+//это не кросс-броузерное решение
+			var evtclick = document.createEvent('Event');
+			evtclick.initEvent('click', true, true);
+
+//патчим preventDefault, что бы можно было определять, был вызов preventDefault или нет
+			if (evtclick.preventDefault) {
+				var preventDefIP2 = evtclick.preventDefault;
+				evtclick.preventDefault = function preventDefault() {
+					if (IPchlEev.DPn) {
+						IPchlEev.DPn = 0;
+					} else {
+//						alert('preventDefault click in event click, native code')
+						IPchlEev.DP = 1;
+					}
+					preventDefIP2.call(this);
+				}
+			}
+
+
+			button[0].dispatchEvent(evtclick);
+*/
+
+
+                }
+
+
+		if((IPchlEev.notvalid < 1)&&(IPchlEev.fs || (!IPchlEev.DP))) {
+
+//если в обработчиках кликов был submit, то браузеры поступают следующим образом
+//обязательно выполняют поcле этого обработчики submit и даже если в них был preventDefault, то все равно делают submit (так как он раньше в кликах должен был быть выполнен)
+
+
+			form[0].submit = function submit() {
+//				alert('submit() in event submit, native code')
+
+				if (IPchlEev.SBMFormFlg==1) {
+//еще одна отложенная проблема - может возникать здесь submit после прохождения точки где устанавливается IPchlEev.SBMFormFlg=1
+//то есть решение уже принято (не будет субмит) а оказывается что будет
+//типовой вариант возникновения этой проблемы - подключена GA и есть поля required, сначала не заполняем поля и кликаем, выдаст ошибку заполнения, потом заполняем и кликаем
+//submit возникнет на этапе перехвата 'submit() in event submit, native code', но добавлено так же для 'submit() in event click, native code'
+					var ipsubmitspar = this._ipsubmitspar;
+//PRI!!!!
+					IPchlEev.SndF(null,null,window.jqIPAcode,ipsubmitspar.form,ipsubmitspar.button,11);
+//					IPchlEev.SndF(null,window.jqIPAcode,ipsubmitspar.form,ipsubmitspar.button,11);
+//					IPchlEev.SndF(window.jqIPAcode,ipsubmitspar.form,ipsubmitspar.button,11);
+				} else {
+					IPchlEev.fs = 1;
+				}
+				if (evtsubmit.preventDefault) {
+				IPchlEev.DPn = 1;
+					evtsubmit.preventDefault();
+				} else {
+					evtsubmit.returnValue = false;
+				}
+				return false;
+			}
+
+
+		
+			if (typeof fonsubmitcode == "function") {
+				var onsubmitIP = fonsubmitcode;
+				form[0].onsubmit = function onsubmit(event) {
+//					alert('onsubmit in event submit, native code')
+					event = event || window.event //для ie8
+					var ret=onsubmitIP.call(this,event);
+					if(event.preventDefault){
+						if(ret === false){IPchlEev.DP = 1;}
+					} else {
+						if((ret === false)||(event.returnValue == false)){IPchlEev.DP = 1;}
+					}
+					if (event.preventDefault) {
+						IPchlEev.DPn = 1;
+						event.preventDefault();
+					} else {        	
+						event.returnValue = false;
+					}
+					return false;
+				}
+
+			} else {
+				form[0].onsubmit = function onsubmit(event) {
+//					alert('onsubmit in event submit, native code')
+					event = event || window.event //для ie8
+					if(!event.preventDefault)
+						if(event.returnValue == false){IPchlEev.DP = 1;}
+					return false;
+				}
+			}
+
+
+			var evtsubmit = prepareTriggerEvent('submit','submit');
+			triggerEvent(form[0],evtsubmit);
+
+/*
+//это не кросс-броузерное решение
+			var evtsubmit = document.createEvent('Event');
+			evtsubmit.initEvent('submit', true, true);
+
+//патчим preventDefault, что бы можно было определять, был вызов preventDefault или нет
+			if (evtsubmit.preventDefault) {
+				var preventDefIP3 = evtsubmit.preventDefault;
+				evtsubmit.preventDefault = function preventDefault() {
+					if (IPchlEev.DPn) {
+						IPchlEev.DPn = 0;
+					} else {
+//						alert('preventDefault submit in event submit, native code')
+						IPchlEev.DP = 1;
+					}
+					preventDefIP3.call(this);
+				}
+			}
+
+
+//не сработает dispatchEvent (сразу выполнится действие по умолчанию) только если где-то ошибка в коде обработчиков
+			form[0].dispatchEvent(evtsubmit);
+*/
+
+
+		}
+
+	}
+
+
+//все замечательно, но есть одна проблема - submit() может выполнится с задержкой (при этом флаг preventDefault = 1)
+//такое поведение возможно например в ga да и вообще где угодно (ajax - тоже могут написать с задержкой выполнения)
+//в результате мы получаем неконтролируемый субмит или запрос ajax в любом месте (без отправки нашей формы)
+//исправляем проблему здесь
+
+		form[0]._ipsubmitspar={form:form, button:button};
+		if (!form[0]._ipsubmits) {
+			form[0]._ipsubmits = fsubmitcode;
+//эту функцию можно добавлять один раз
+//короче несколько дней думал и пришел к самому простому варианту, без лишних заморочек один раз перехватываем и все
+//для первого клика полностью хватает, а если будут повторные клики, то если в submit находится не наша функия, то скорее всего ее загнали дальше в стек вызова (по типу как здесь сделано)
+
+//можно еще сделать через prototype - form[0].constructor.prototype (тогда она точно попадет вглубь при подмене)
+//решение пишут не кроссбраузерное но у меня в трех ьраузерах работало, поэтому можно совместить с прямой заменой submit на случай когда constructor.prototype не существует
+//http://stackoverflow.com/questions/1999891/how-to-reliably-submit-an-html-form-with-javascript
+//http://briancrescimanno.com/form-submit-method-doesnt-fire-submit-event-workaround/
+//HTMLElement.prototype.click = function click() {
+//	alert('firstclick()')
+//}
+//HTMLFormElement.prototype.submit = function submit() {
+//	alert('firstsubmit()')
+//}
+//form[0].constructor.prototype.submit = function submit() {
+//	alert('firstsubmit form0()')
+//}
+
+			form[0].submit = IPchlEev.submitfun;
+		}
+
+
+
+//изменить поведение ajaxSend обработчика на случай срабатывания с задержкой
+		IPchlEev.ajtype=1;
+
+
+
+
+		form[0].onsubmit = fonsubmitcode;
+
+		button[0].click = clickcode;
+		button[0].onclick = onclickcode;
+
+
+
+
+//если есть вызов submit() где-либо в обработчиках - нужно его обязательно выполнить, несмотря ни на что (даже при наличии preventDefault)
+//(то есть флаг IPchlEev.fs=1 перебивает флаг IPchlEev.DP = 1)
+//исключение - только если не пройдена валидация (см выше)
+//дальше нужно анализировать оба флага
+						
+
+/*
+						
+		if (IPchlEev.fs) {
+			alert('submit() in event submit or click')
+		} else {
+			alert('no submit() in event submit or click')
+		}
+		if (IPchlEev.DP) {
+			alert('DefaultPrevent')
+		} else {
+			alert('no DefaultPrevent')
+		}
+		if (IPchlEev.aj) {
+			alert('ajaxSend')
+		} else {
+			alert('no ajaxSend')
+		}
+*/
+
+
+		return IPchlEev.notvalid;
+	}
