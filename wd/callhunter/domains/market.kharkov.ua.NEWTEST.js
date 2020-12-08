@@ -1287,6 +1287,7 @@ alert('FSubmit2')
 //проверка выполнена, новый браузер html5, все поля валидные, можно отсылать submit и форму коллхантера
 						if (fe[i].validity.valid !== true) {
 //проверка выполнена, новый браузер html5, есть невалидные поля, нельзя отсылать форму коллхантера и submit
+alert('set IPchlEev.notvalid')
 							IPchlEev.notvalid=1;
 							break;
 						}
