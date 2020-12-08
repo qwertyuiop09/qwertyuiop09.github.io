@@ -60,7 +60,17 @@ IPclhrData.SubmitFullBlocked=1;
 //нет формы связанной с кнопкой, ищем отдельную форму без этой кнопки (такое может быть для ajax-запросов)
 
 						var df = document.forms;
-						for(var i = 0; i < fe.length; i++){
+						for(var i = 0; i < df.length; i++){
+							var jQdf = jQuery(df[i]);
+							var testform = true;
+							if((producttype == 11)&&(IPclhrData["ExtFormBtnFCForm"])) {
+								testform = jQdf.is(IPclhrData["ExtFormBtnFCForm"])
+							} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnForm"])) {
+								testform = jQdf.is(IPclhrData["ExtFormBtnForm"])
+							}
+							if(!testform){
+								return 'no';
+							}
 						}
 
 
