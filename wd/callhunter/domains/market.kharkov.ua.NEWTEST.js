@@ -171,7 +171,7 @@ var formclassName = 'clhr-fcformpseudo' + randomInteger(1,99999999999);
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
 //обворачиваем заданный элемент псевдоформой
 alert('=============')
-							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
+							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"><button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button></form>');
 							formclosest=findFormByClass(formclassName)
 
 '<button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button>'
@@ -180,7 +180,7 @@ alert('=============')
 							pseudoform=1;
 						} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnFormPseudo"])) {
 //обворачиваем заданный элемент псевдоформой
-							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
+							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"><button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button></form>');
 							formclosest=findFormByClass(formclassName)
 							pseudoform=1;
 						}
