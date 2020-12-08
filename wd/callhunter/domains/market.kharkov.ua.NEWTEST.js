@@ -386,7 +386,7 @@ function findButtonByClass(className) {
 							return false;
 						}
 
-//alert('tttt222')
+alert('tttt222')
 
 
 //задача - запустить все обработчики onsubmit и проверить было ли прерывание действия по умолчанию (preventDefault или false)
@@ -396,10 +396,10 @@ function findButtonByClass(className) {
 
 						if ((!IPchlEev.fs)&&IPchlEev.DP) {
 //это решение может быть неверным - может появится с задержкой submit поэтому в обработчиках вставлено отслеживание
-//alert('tttt1111')
+alert('tttt1111')
 							IPchlEev.SBMFormFlg=1;
 							if (IPchlEev.aj) {
-//alert('tttt11113333')
+alert('tttt11113333')
 //PRI!!!!
 								IPchlEev.SndF(PRIIDS,PRIMMFolder,jQuery,form,clickbutton,producttype,IPchlEev.aj);
 //								IPchlEev.SndF(PRIMMFolder,jQuery,form,clickbutton,producttype,IPchlEev.aj);
