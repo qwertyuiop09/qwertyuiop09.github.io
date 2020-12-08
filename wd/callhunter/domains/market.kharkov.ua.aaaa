@@ -316,7 +316,7 @@ alert('-------------')
 
 						var notvalid=IPchlEev.ExtF(form,clickbutton);
 
-//alert(notvalid)
+alert(notvalid)
 
 						if (notvalid == 1) {
 							var vld = IPclhrData["ExtFormValid"];
