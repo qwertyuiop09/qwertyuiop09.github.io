@@ -1467,6 +1467,8 @@ alert('set3 IPchlEev.clhrsnd')
 //не отправляем для пустых форм аналогично проверке для старых браузеров
 //не отправляем для незаполненных обязательных полей в режиме самостоятельной валидации ExtFormBtnFCvalidAttr
 alert('set4 IPchlEev.clhrsnd')
+alert(formempty)
+alert(notfill)
 				IPchlEev.clhrsnd=1;
 				IPchlEev.alredyformsnd=1;
 			}
