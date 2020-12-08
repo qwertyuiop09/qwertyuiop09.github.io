@@ -125,6 +125,8 @@ alert(112333)
 						evnt.target = evnt.srcElement;
 					}
 					var formclosest=closestform(evnt.target);
+alert(1123332222222222222)
+
 					var pseudoform=0;
 					if (!formclosest) {
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
