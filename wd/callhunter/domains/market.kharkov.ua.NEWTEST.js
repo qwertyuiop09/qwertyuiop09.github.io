@@ -434,8 +434,8 @@ alert('tttt')
 
 
 
-//	IPchlEev.SndFssssss = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
-	IPchlEev.SndF = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
+	IPchlEev.SndFssssss = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
+//	IPchlEev.SndF = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
 //	this.SndF = function(jQuery,form,e,producttype,ajaxflg) {
 
 
