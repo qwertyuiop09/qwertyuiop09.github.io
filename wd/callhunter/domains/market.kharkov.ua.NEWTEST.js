@@ -507,7 +507,6 @@ alert('tttt')
 					}
 
 
-alert(1111111111111)
 					var clhrClr = IPchlIb['clhrClr'];
 
 					var clhrHide = IPchlHid['clhrHide'];
@@ -562,6 +561,9 @@ alert(1111111111111)
 						}
 
 					}
+
+
+alert(1111111111111)
 
 
 					clhrMsg(jQuery,form,"sending", IPclhrData["alertSending"], "");
