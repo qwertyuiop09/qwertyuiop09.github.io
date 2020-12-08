@@ -56,7 +56,7 @@ IPclhrData.SubmitFullBlocked=1;
 					var formclosest=closestform(evnt.target);
 
 
-					if (!formclosest) {
+					if ((!formclosest)&&(((producttype == 11)&&(IPclhrData["ExtFormBtnFCForm"]))||((producttype == 10)&&(IPclhrData["ExtFormBtnForm"])))) {
 //нет формы связанной с кнопкой, ищем отдельную форму без этой кнопки (такое может быть для ajax-запросов)
 
 						var df = document.forms;
