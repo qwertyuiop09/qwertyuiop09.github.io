@@ -200,7 +200,13 @@ function findFormByClass(className) {
   while (e=descendants[++i]) {
 //ищем первую форму с таким классом
 //    ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) && result.push(e);
-    ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) && result = e && break;
+
+	if ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) {
+		result = e;
+		break;
+	}
+
+//    ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) && result = e && break;
   }
   return result;
 
