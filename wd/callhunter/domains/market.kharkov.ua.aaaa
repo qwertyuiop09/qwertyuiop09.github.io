@@ -170,6 +170,7 @@ var formclassName = 'clhr-fcformpseudo' + randomInteger(1,99999999999);
 
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
 //обворачиваем заданный элемент псевдоформой
+alert('=============')
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 							formclosest=findFormByClass(formclassName)
 							pseudoform=1;
@@ -215,7 +216,7 @@ function findFormByClass(className) {
 						return 'no';
 					}
 
-//alert('-------------')
+alert('-------------')
 
 					var form = jQuery(formclosest);
 
@@ -384,7 +385,8 @@ alert('tttt')
 
 
 
-	IPchlEev.SndF = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
+	IPchlEev.SndFssssss = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
+//	IPchlEev.SndF = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
 //	this.SndF = function(jQuery,form,e,producttype,ajaxflg) {
 
 /*
