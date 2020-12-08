@@ -1,6 +1,8 @@
 //IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 IPclhrData["ExtFormBtnFCFormPseudo"] = '#purchase-form';
 
+IPclhrData["testing"] = 'oleg@inteprice.com'
+
 
 				function startfirstclick(e) {
 //forceFormFlg 0-не нажата кнопка 1-кликнута, обрабатывается 4 - ошибки валидации формы
