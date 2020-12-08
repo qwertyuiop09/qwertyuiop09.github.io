@@ -167,6 +167,7 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#purchase-form';
 //ищем первую попавшуюся псевдоформу (уже без привязки к кнопке) и отправляем только нашу форму, без отправки псевдоформы
 
 var formclassName = 'clhr-fcformpseudo' + randomInteger(1,99999999999);
+var buttonclassName = formclassName;
 
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
 //обворачиваем заданный элемент псевдоформой
@@ -174,6 +175,7 @@ alert('=============')
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"><button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button></form>');
 							formclosest=findFormByClass(formclassName)
 							evnt = findButtonByClass(buttonclassName)
+alert(evnt.target)
 
 							pseudoform=1;
 						} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnFormPseudo"])) {
