@@ -1,3 +1,6 @@
+IPclhrData["ExtFormBtnFCFormPseudo"] = '#purchase-form';
+
+
 				function startfirstclick(e) {
 //forceFormFlg 0-не нажата кнопка 1-кликнута, обрабатывается 4 - ошибки валидации формы
 //ошибка обязат полей при отправке должна обрабатываться стандартной процедурой проверки формы (4)
@@ -131,11 +134,11 @@ alert(3)
 
 
 					if (!evnt.target) {
-alert(66666666666)
+//alert(66666666666)
 						evnt.target = evnt.srcElement;
 					}
 					var formclosest=closestform(evnt.target);
-alert(1123332222222222222)
+//alert(1123332222222222222)
 
 					var pseudoform=0;
 					if (!formclosest) {
@@ -143,6 +146,8 @@ alert(1123332222222222222)
 //обворачиваем заданный элемент псевдоформой
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="clhr-fcformpseudo" onsubmit="return false;"></form>');
 							formclosest=closestform(evnt.target);
+alert(999999)
+
 							pseudoform=1;
 						} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnFormPseudo"])) {
 //обворачиваем заданный элемент псевдоформой
