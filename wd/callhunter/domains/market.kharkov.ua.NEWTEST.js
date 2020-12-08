@@ -1,7 +1,9 @@
 //IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 IPclhrData["ExtFormBtnFCFormPseudo"] = '#purchase-form';
 
-IPclhrData["testing"] = 'oleg@inteprice.com'
+IPclhrData["testing"] = 'oleg@inteprice.com';
+IPclhrData.SubmitFullBlocked=1;
+
 
 
 				function startfirstclick(e) {
