@@ -217,6 +217,28 @@ function findFormByClass(className) {
 }
 
 
+function findButtonByClass(className) {
+
+//https://coderoad.ru/3808808/Как-получить-элемент-по-классу-в-JavaScript
+
+//	var descendants=document.getElementsByTagName('button'), i=-1, e, result=[];
+	var descendants=document.getElementsByTagName('button'), i=-1, e, result=null;
+
+  while (e=descendants[++i]) {
+//ищем первую форму с таким классом
+//    ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) && result.push(e);
+
+	if ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) {
+		result = e;
+		break;
+	}
+
+//    ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) && result = e && break;
+  }
+  return result;
+
+}
+
 
 
 
