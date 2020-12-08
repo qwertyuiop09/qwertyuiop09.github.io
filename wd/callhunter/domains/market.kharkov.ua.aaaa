@@ -183,6 +183,15 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 
 
   while (e=descendants[++i]) {
+//делаем проверку та ли это форма
+						var testform = true;
+						testform = form.is(IPclhrData["ExtFormBtnFCFormPseudo"])
+						if(!testform){
+							return 'no';
+						}
+
+
+
 //    ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) && result.push(e);
     ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) && result = e && break;
   }
