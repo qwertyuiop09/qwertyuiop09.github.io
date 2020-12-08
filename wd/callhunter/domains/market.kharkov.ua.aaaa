@@ -179,6 +179,8 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 
 
 
+//https://coderoad.ru/3808808/Как-получить-элемент-по-классу-в-JavaScript
+
 	var descendants=document.getElementsByTagName('form'), i=-1, e, result=[];
 
 
