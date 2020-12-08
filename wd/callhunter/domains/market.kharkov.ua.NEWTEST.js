@@ -1098,3 +1098,95 @@ alert(1111111111111)
 					}
 	}
 
+
+
+
+
+	IPchlIb.FSubmit = function(jQuery,form,button) {
+
+alert(23452)
+		if (IPchlEev.nosubmit)
+			return;
+
+		if (IPclhrData["NativeSubmitBlocked"] || IPclhrData["SubmitFullBlocked"])
+			return;
+
+
+//известная проблема - не передается submit кнопка в запросе, который генерируется функцией submit() - добавляем скрытое поле для "нативных" отправок формы
+//в случае вызова submit из скрипат браузер не передает данные о кнопках формы (так как неизвестно на какую кнопку нажали)
+//http://stackoverflow.com/questions/5721724/jquery-how-to-get-which-button-was-clicked-upon-form-submission
+//http://stackoverflow.com/questions/4007942/jquery-serializearray-doesnt-include-the-submit-button-that-was-clicked
+//http://johnnycode.com/2010/04/08/jquery-form-serialize-doesnt-post-submit-and-button-values-duh/
+//https://groups.google.com/forum/#!topic/jquery-en/j5mZaj4Vyms
+//http://www.clicklinks.be/tutorials/javascript/prototype/forms-with-prototype/
+
+		var nativecheck=0;
+//при "нативном" субмите (не было превентдефаулт или вызова субмита где-то в скрипте) - добавляем скрытое поле, имитируем передачу нативного субмита
+		if ((!IPchlEev.fs)&&(!IPchlEev.DP))
+			nativecheck=1;
+
+
+		var foundname=0;
+		if(jQuery(button).attr('name')) {
+			var name = jQuery(button).attr('name');
+//			var value = jQuery(button).attr('value');
+			var value = jQuery(button).val();
+		} else {
+			var name = false;
+		}
+		if(nativecheck&&name) {
+//на всякий случай проверяем, может кликнули на поле не кнопку, тогда оно возможно будет в массиве serializeArray
+			var formData = jQuery(form).serializeArray();
+			for (var key in formData) {
+				for (var key2 in formData[key]) {
+					if (formData[key][key2] == name) {
+						foundname=1;
+						break;
+					}
+//					alert(key2 + '=' + formData[key][key2])
+				}
+			}
+
+			if (!foundname) {
+//удаляем имя на всякий случай (вроде были проблемы с одинаковыми именами, тормозить начинал браузер, но может не от этого)
+				jQuery(button).removeAttr('name');
+
+
+/*
+				var input = document.createElement('input');
+				input.type = 'hidden';
+				input.name = name;
+				input.value = value;
+				form.appendChild(input);
+*/
+
+	        	        jQuery(form).append(
+	                	    jQuery("<input type='hidden'>").attr( {
+		                        name: name, 
+		                        value: value })
+		                );
+			}
+		}
+
+
+//		jQuery(form).trigger('submit');
+//только отправка формы без триггера (срабатывания событий)
+//		form.submit();
+
+		var sbmt = form._ipsubmits;
+		if (sbmt) {
+			sbmt.call(form);
+		} else {
+			form.submit();
+		}
+
+
+
+		if(nativecheck&&name&&(!foundname)) {
+//удаляем добавленное поле
+			jQuery(form).find('[type="hidden"][name="' + name + '"]').remove();
+			jQuery(button).attr( "name", name );
+		}
+
+
+	}
