@@ -14,7 +14,6 @@
 								eval(IPclhrData["ExtFormFCEvent"]);
 								IPchlIb.dubl(IPclhrData["ExtFormFCFormData"]);
 							}
-alert(1123)
 							ret=IPchlEev.clhrSend(jQuery,jQuery(this),e,11);
 							if (IPchlEev.forceFormFlg == 4) {
 								IPchlEev.forceFormFlg=0;
@@ -144,6 +143,7 @@ alert(112333)
 						return 'no';
 					}
 
+alert(112333222)
 
 					var form = jQuery(formclosest);
 
