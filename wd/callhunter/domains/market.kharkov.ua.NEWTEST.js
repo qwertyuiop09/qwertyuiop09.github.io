@@ -68,24 +68,11 @@ IPclhrData.SubmitFullBlocked=1;
 							} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnForm"])) {
 								testform = jQdf.is(IPclhrData["ExtFormBtnForm"])
 							}
-							if(!testform){
-								return 'no';
+							if(testform){
+								formclosest=df[i];
+								break;
 							}
 						}
-
-
-
-
-						var testform = true;
-						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCForm"])) {
-							testform = form.is(IPclhrData["ExtFormBtnFCForm"])
-						} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnForm"])) {
-							testform = form.is(IPclhrData["ExtFormBtnForm"])
-						}
-						if(!testform){
-							return 'no';
-						}
-
 					}
 
 
