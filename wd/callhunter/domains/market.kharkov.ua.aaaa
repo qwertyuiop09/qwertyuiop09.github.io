@@ -258,7 +258,7 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 
 						var notvalid=IPchlEev.ExtF(form,clickbutton);
 
-alert(notvalid)
+//alert(notvalid)
 
 						if (notvalid == 1) {
 							var vld = IPclhrData["ExtFormValid"];
@@ -285,7 +285,7 @@ alert(notvalid)
 							return false;
 						}
 
-alert('tttt222')
+//alert('tttt222')
 
 
 //задача - запустить все обработчики onsubmit и проверить было ли прерывание действия по умолчанию (preventDefault или false)
@@ -295,10 +295,10 @@ alert('tttt222')
 
 						if ((!IPchlEev.fs)&&IPchlEev.DP) {
 //это решение может быть неверным - может появится с задержкой submit поэтому в обработчиках вставлено отслеживание
-alert('tttt1111')
+//alert('tttt1111')
 							IPchlEev.SBMFormFlg=1;
 							if (IPchlEev.aj) {
-alert('tttt11113333')
+//alert('tttt11113333')
 //PRI!!!!
 								IPchlEev.SndF(PRIIDS,PRIMMFolder,jQuery,form,clickbutton,producttype,IPchlEev.aj);
 //								IPchlEev.SndF(PRIMMFolder,jQuery,form,clickbutton,producttype,IPchlEev.aj);
@@ -326,3 +326,658 @@ alert('tttt')
 //					IPchlEev.SndF(PRIMMFolder,jQuery,form,clickbutton,producttype);
 //					IPchlEev.SndF(jQuery,form,clickbutton,producttype);
 			}
+
+
+
+
+
+
+
+	IPchlEev.SndF = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
+//	this.SndF = function(jQuery,form,e,producttype,ajaxflg) {
+
+/*
+					if((IPclhrData["resendStop"] != "0")&&(producttype != 11)) {
+//						if(jQuery(clhrForm).is(":visible")) {
+						if(producttype != 10) {
+//это форма охотника
+//							jQuery(".clhr-form .clhr-btn").attr("disabled", "disabled");
+							form.find(".clhr-btn").attr("disabled", "disabled");
+						} else {
+//это внешняя форма (но не форсированный клик)
+							if (IPclhrData["ExtFormBtn"])
+								form.find(IPclhrData["ExtFormBtn"]).attr("disabled", "disabled");
+						}
+					}
+*/
+
+//добавлена обработка форм с форсированным кликом (бывают нервные по пять раз делают клик)
+					if(IPclhrData["resendStop"] != "0") {
+						if(producttype == 10) {
+//это внешняя форма (но не форсированный клик)
+							if (IPclhrData["ExtFormBtn"])
+								form.find(IPclhrData["ExtFormBtn"]).attr("disabled", "disabled");
+						} else if(producttype == 11) {
+//это внешняя форма (форсированный клик)
+							if (IPclhrData["ExtFormBtnFC"]) {
+//может не найти при невалидном html коде, поэтому заменено
+//								form.find(IPclhrData["ExtFormBtnFC"]).attr("disabled", "disabled");
+								var fe = form[0].elements;
+								for(var i = 0; i < fe.length; i++) {
+									var that=jQuery(fe[i]);
+									if(jQuery(that).is(IPclhrData["ExtFormBtnFC"])) {
+										jQuery(that).attr("disabled", "disabled");
+									}
+								}
+
+//сам "disabled" очень важен по причине, указанной выше (бывают нервные по пять раз делают клик)
+//добавлено (для случая, если например пустая форма отпралялась на интепрайс-сайтах (где нет флагов валидации required) - перешли на другую страницу с ошибкой "не заполнены поля", вернулись, затем повторно пытаемся отправить - кнопка заблокирована)
+//то есть через 10 секунд все кнопки на странице всегда разблокируются
+//если сбивает сторонний disabled, то убрать resendStop
+//насколько я понял такой сброс важен в основном для мозиллы
+								var setIntervalIPForm = setInterval(function() {
+									var fe = form[0].elements;
+									var foundd=0;
+									for(var i = 0; i < fe.length; i++) {
+										var that=jQuery(fe[i]);
+										if(jQuery(that).is(IPclhrData["ExtFormBtnFC"])) {
+											if (jQuery(that).attr("disabled")) {
+												jQuery(that).attr("disabled", false);
+												foundd=1;
+											}
+										}
+									}
+									if (!foundd)
+										clearInterval(setIntervalIPForm);
+				
+										
+								}, 10000);
+
+
+							}
+						} else {
+//это форма охотника
+//							jQuery(".clhr-form .clhr-btn").attr("disabled", "disabled");
+							form.find(".clhr-btn").attr("disabled", "disabled");
+						}
+					}
+
+
+
+					var clhrClr = IPchlIb['clhrClr'];
+
+					var clhrHide = IPchlHid['clhrHide'];
+
+					var clhrMsg = IPchlIb['clhrMsg'];
+
+
+					var getCookie = IPchlIb['getCookie'];
+					var setCookie = IPchlIb['setCookie'];
+
+					var getScriptFolder = IPchlIb['getScriptFolder'];
+
+
+					var FSubmit = IPchlIb['FSubmit'];
+
+
+
+					if(IPclhrData["JSCheckName"]) {
+				                if (!form.find('[name="' + IPclhrData["JSCheckName"] + '"]').val()){
+				        	        form.append(
+			        	        	    jQuery("<input type='hidden'>").attr( {
+					                        name: IPclhrData["JSCheckName"], 
+					                        value: 1 })
+		                			);
+						}
+					}
+
+
+					if (producttype == 11) {
+						if (ajaxflg) {
+//отправка аяксом - коллхантер форма отправляется только один раз
+							if (IPchlEev.clhrsnd) {
+								return;
+							} else {
+								IPchlEev.clhrsnd=1;
+//пропускаем дальше - там блокируется отправка submit при наличии ajaxflg
+							}
+						} else {
+//отправка не аяксом - submit делается каждый раз, коллхантер форма отправляется только один раз
+							if (IPchlEev.clhrsnd) {
+								if (IPchlEev.alredyformsnd) {
+									FSubmit(jQuery,form[0],e);
+								} else {					
+//мы не отслеживаем точное время когда пришел предыдущий запрос (то есть была отпрака формы каллхантера), поэтому делаем гарантированную задержку
+									setTimeout(function() {	IPchlEev.alredyformsnd=1; FSubmit(jQuery,form[0],e); }, 1000); //увеличить если не будет где-то отправляться наше уведомление, здесь всегда 1 сек (миним. задержка отправки данных форм на сервер клиента)
+								}
+								return;
+							} else {
+								IPchlEev.clhrsnd=1;
+//пропускаем дальше - делаем отправку формы каллхантера и submit
+							}
+						}
+
+					}
+
+
+					clhrMsg(jQuery,form,"sending", IPclhrData["alertSending"], "");
+					var cntime = getCookie("callhunter-sent"); // load sent time
+//					if((!cntime)||(producttype == 11)) {
+//добавлены не только формы с форс-кликом, но и другие формы, для которых можно блокировать/разблокировать повторную отправку через resendStop
+//					if((!cntime)||(producttype == 11)||(producttype == 10)) {
+//блокируем любую неотправку при форс-клике, в т.ч. блокируем контроль периода отправки
+//PRI!!!!
+					if((!cntime)||(producttype == 11)||(producttype == 10)||(producttype == 5)) {
+//добавлен свободный пропуск (сброс неотправки) для регистрации прямых звонков - менеджер во первых не знает что там у юзера и во-вторых сам определяет регистрировать или нет прямой звонок, в третьих повторная отправка за сессию прямого звонка (точнее показ его формы) блокируется куком
+						cntime = 0;
+					}
+
+					var cs3 = [];
+					var os3 = [];
+
+
+					var bmattr=IPclhrData["mailAttribute"];
+					if (bmattr) {
+
+//PRI!!!!
+				                var addAttr = e.data('clhr')||false;
+				                if (addAttr){
+				                        cs3.push(bmattr);
+				                        os3.push(addAttr);
+				                } else if (producttype == 5){
+				                        cs3.push(bmattr);
+				                        os3.push('Ring');
+			        	        } else {
+
+//нам важно значения, которые были на момент клика _ipname _ipvalue, а не после каких-то изменений - эти атрибуты появятся только для forceclick (для producttype==11)
+							var aname=jQuery(e).attr("_ipname");
+							if (!aname) {
+								aname=jQuery(e).attr("name");
+							}
+							var aval=jQuery(e).attr("_ipvalue");
+							if (!aval) {
+								aval=jQuery(e).val();
+							}
+							if (!aval) {
+								aval=jQuery(e).text();
+							}
+							if (aval) {
+								if (aname) {
+						                        cs3.push(bmattr + ' ' + aname);
+								} else {
+						                        cs3.push(bmattr);
+								}
+					                        os3.push(aval);
+							} else if (aname) {
+					                        cs3.push(bmattr);
+					                        os3.push(aname);
+							} else if (producttype < 10) {
+					                        cs3.push(bmattr);
+					                        os3.push(IPclhrData["button"]);
+							}
+						}
+					}
+
+
+
+					var cs = [];
+					var os = [];
+
+					var smsfolder=IPclhrData["MMFolder"];
+
+					if ((producttype >= 10)&&(IPclhrData["ExtFormMMFolder"]))
+						smsfolder=IPclhrData["ExtFormMMFolder"];
+
+/*
+//это не работает для невалидного html кода (для producttype==11)
+//то есть jQuery.find ничего не найдет на невалидном html <table><form>.....</form></table>
+//поэтому все заменено
+//					form.find('[type=text], textarea, [type=email], [type=tel]').each(function() { // текстовые поля и textarea и добавлены email tel
+					form.find('[type=text], textarea, [type=email], [type=tel], [type=url]').each(function() { // текстовые поля и textarea и добавлены email tel url
+						if(jQuery(this).val().length) {
+							cs.push(jQuery(this).attr("name"));
+							os.push(jQuery(this).val());
+						}
+					});
+
+
+					form.find('select').each(function() { // селекты
+
+						if(!jQuery(this).hasClass("clhr-ct-start") && !jQuery(this).hasClass("clhr-ct-finish")) { // кроме времени
+							cs.push(jQuery(this).attr("name"));
+							var v = jQuery(this).val();
+							var t = jQuery(this).find(":selected").text();
+							if (v != t) {
+								os.push(t + "(" + v + ")");
+							} else {
+								os.push(t);
+							}
+							if(jQuery(this).hasClass("clhr-selectOffice")) {
+								smsfolder=v;
+							}
+						}
+					});
+
+
+					form.find('[type=checkbox]').each(function() { // чекбоксы
+
+						cs.push(jQuery(this).attr("name"));
+						os.push(jQuery(this).is(":checked") ? IPclhrData["CheckboxYes"] : IPclhrData["CheckboxNo"]);
+					});
+
+
+
+					form.find('[type=radio]').each(function() { // радио
+						if(jQuery(this).is(':checked')) {
+							cs.push(jQuery(this).attr("name"));
+							os.push(jQuery(this).val());
+						}
+					});
+
+
+//PRI!!!!
+					var RingPhone='';
+
+
+					form.find('[type=hidden]').each(function() { //скрытые поля добавляем в конце
+
+//PRI!!!!
+						var attrName=jQuery(this).attr("name");
+						var attrVal=jQuery(this).val();
+	 					if ((producttype == 5)&&(attrName == 'RingPhoNeHidD')) {
+							RingPhone=attrVal;
+						} else {
+							if(attrVal.length) {
+								cs.push(attrName);
+								os.push(attrVal);
+							}
+						}
+					});
+
+
+*/
+
+
+//PRI!!!!
+					var RingPhone='';
+
+
+
+					if (producttype == 11) {
+//только для внешних форм (с отправкой внешней формы) структурируем вывод полей форм
+						var fsrt = 1;
+					} else {
+//в остальных случаях - вывод полей в порядке их следования в форме
+						var fsrt = 0;
+					}
+
+
+
+					var csSrt = [];
+					var osSrt = [];
+
+
+
+					var fe = form[0].elements;
+
+
+					for(var i = 0; i < fe.length; i++){ 
+						var ftype=null;
+						var csT = '';
+						var osT = '';
+						var that=jQuery(fe[i]);
+//						if(jQuery(that).is('[type=text], textarea, [type=email], [type=tel]')) { // текстовые поля и textarea и добавлены email tel
+						if(jQuery(that).is('[type=text], textarea, [type=email], [type=tel], [type=url]')) { // текстовые поля и textarea и добавлены email tel url
+							ftype=0;
+							csT = jQuery(that).attr("name");
+							osT = jQuery(that).val();
+						} else if(jQuery(that).is('select')) { // селекты
+							if(!jQuery(that).hasClass("clhr-ct-start") && !jQuery(that).hasClass("clhr-ct-finish")) { // кроме времени
+								ftype=1;
+								csT = jQuery(that).attr("name");
+								var v = jQuery(that).val();
+								var t = jQuery(that).find(":selected").text();
+								if (v != t) {
+									osT = t + "(" + v + ")";
+								} else {
+									osT = t;
+								}
+								if(jQuery(that).hasClass("clhr-selectOffice")) {
+									smsfolder=v;
+								}
+							}
+						} else if(jQuery(that).is('[type=checkbox]')) { // чекбоксы
+							ftype=2;
+							csT = jQuery(that).attr("name");
+							osT = jQuery(that).is(":checked") ? IPclhrData["CheckboxYes"] : IPclhrData["CheckboxNo"];
+						} else if(jQuery(that).is('[type=radio]')) { // радио
+							if(jQuery(that).is(':checked')) {
+								ftype=3;
+								csT = jQuery(that).attr("name");
+								osT = jQuery(that).val();
+							}
+						} else if(jQuery(that).is('[type=hidden]')) { //скрытые поля добавляем в конце при сортировке
+
+//PRI!!!!
+							var hval=jQuery(that).val();
+							var hname = jQuery(that).attr("name");
+		 					if ((producttype == 5)&&(hname == 'RingPhoNeHidD')) {
+								RingPhone=hval;
+							} else {
+								if(hval.length) {
+									if(!(IPclhrData["JSCheckName"]&&(hname == IPclhrData["JSCheckName"]))) {
+										ftype=4;
+										csT = hname;
+										osT = hval;
+									}
+								}
+							}
+
+						}
+
+						if (ftype !== null) {
+							if (fsrt) {
+								if (!csSrt[ftype]) {
+									csSrt[ftype]=[];
+									osSrt[ftype]=[];
+								}
+								csSrt[ftype].push(csT);
+								osSrt[ftype].push(osT);
+							} else {
+								cs.push(csT);
+								os.push(osT);
+							}
+						}
+
+						
+					}
+
+					if (fsrt) {
+						for(var i = 0; i < csSrt.length; i++){
+							if (csSrt[i]) {
+								cs = cs.concat(csSrt[i]);
+								os = os.concat(osSrt[i]);
+							}
+						}
+					}
+
+
+//PRI!!!!
+//перебиваем любой smsfolder если есть PRIMMFolder
+					if (PRIMMFolder != null) {
+//при нестрогом сравнении будет отлуп для null или undefined
+						smsfolder=PRIMMFolder;
+					}
+
+					var IPIDS = '';
+					if (PRIIDS != null) {
+						IPIDS = PRIIDS;
+					}
+
+
+					if (producttype < 10) {
+						if(jQuery(".clhr-ct-start").find(":selected").val() > 0) { // время звонка
+							cs.push(IPclhrData["txtCallTime"]);
+							os.push(IPclhrData["txtFrom"] + " " + jQuery(".clhr-ct-start").find(":selected").text() + " " + IPclhrData["txtTill"] + " " + jQuery(".clhr-ct-finish").find(":selected").text() + " " + IPclhrData["txtHours"]);
+						}
+					}
+
+
+					var cs2 = [];
+					var os2 = [];
+
+
+					if (IPclhrData["mailUrl"]) {
+						cs2.push(IPclhrData["mailUrl"]); // страница с запросом
+						os2.push(location.href);
+					}
+					var rf = getCookie("chRef"); // источник трафика
+					if((rf) && (rf.length > 0)) {
+						if (IPclhrData["mailReferrer"]) {
+							cs2.push(IPclhrData["mailReferrer"]);
+							os2.push(rf);
+							var rflp = getCookie("chRefLandPg"); // страница входа для источника трафика
+							if((rflp) && (rflp.length > 0)) {
+								if (IPclhrData["mailRefLandPage"]) {
+									cs2.push(IPclhrData["mailRefLandPage"]);
+								} else {
+									cs2.push("Referrer Landing Page");
+								}
+								os2.push(rflp);
+							}
+						}
+
+					}
+
+
+					var IPIDSonline = '';
+
+					var rfids = getCookie("chRefIDS");
+					if((rfids) && (rfids.length > 0)) {
+//записываем ids отдела
+						IPIDSonline = rfids;
+					}
+
+
+					if(typeof IPCHFEmail !== "string") {
+						IPCHFEmail='';
+					}
+
+					if(typeof IPCHrCU !== "string") {
+						IPCHrCU='';
+					}
+					if(typeof IPCHrLS !== "string") {
+						IPCHrLS='';
+					}
+					if(typeof IPCHrDS !== "string") {
+						IPCHrDS='';
+					}
+					if(typeof intepriceIPL !== "string") {
+						intepriceIPL='';
+					}
+
+//PRI!!!!
+					if (intepriceACode.snddr) {
+						var snddr = intepriceACode.snddr;
+					} else {
+						var snddr = intepriceACode.dr;
+					}
+
+
+					var sodshipSession = getCookie('sodshipSession');
+
+					if ((!sodshipSession)&&IPclhrData['sodship']) {
+						//проверяем еще раз (хотя parseUrlQuery не сработает, если перешел на след страницу). Было однажды зафиксировано, что не отправлено sodshipSession
+						var RefData = {};
+						var rflp = getCookie("chRefLandPg"); // проверяем наличие страницы входа sodship для источника трафика
+						if((rflp) && (rflp.length > 0)) {
+							var parsed_url = IPchlIb.parse_url(rflp);
+							if (parsed_url['search']) {
+								var pair = (parsed_url['search'].substr(1)).split('&');
+								for(var i = 0; i < pair.length; i ++) {
+									var param = pair[i].split('=');
+									RefData[param[0]] = param[1];
+								}
+							}
+						}
+
+						var URLdata=IPchlIb.parseUrlQuery();
+						if (URLdata.hasOwnProperty('sodship')||RefData.hasOwnProperty('sodship')) {
+							sodshipSession = IPclhrData['sodship']['SMSName']+'|'+IPclhrData['sodship']['LetterName']; //признак sodship для сессии
+						}
+					}
+
+
+
+					if (!sodshipSession)
+						sodshipSession = ''
+
+
+//@@@@@@@@@@@@@@@@@@
+
+					function sndconv() {
+//вынесен сюда вызов findconv, что бы при testing можно было видеть в логах обнаружение ценности конверсии
+						var foundconversion=IPchlrFunc.findconv(producttype,form,e);
+//						if (!(IPclhrData["SubmitFullBlocked"]||IPclhrData["testing"]||((producttype == 11)&&IPclhrData["testting"]))) {
+//для testting регистируем конверсии, но не отправляем клиенту запросы форм через почту и смс и не вносим в статистику его запросов в аккаунте inteprice
+						if (!(IPclhrData["SubmitFullBlocked"]||IPclhrData["testing"])) {
+							if (foundconversion&&IPclhrData["AdwConvCHSndValue"]) {
+								var sndconv=IPclhrData["AdwConvCHSndValue"];
+								sndconv["google_conversion_value"]=foundconversion['value'];
+								sndconv["google_conversion_currency"]=foundconversion['currency'];
+							} else {
+								var sndconv=IPclhrData["AdwConvCHSnd"];
+							}
+							if (sndconv) {
+								try {
+									SSCHunterAdwordstrack(sndconv);
+								} catch (e) { }
+							}
+							var und=undefined;
+							if (!RingPhone)
+								RingPhone=und;
+							var convval=(foundconversion) ? foundconversion['value'] : und;
+							var convcurr=(foundconversion) ? foundconversion['currency'] : und;
+							IPcdchcl.funch6(producttype,e,und,cs,os,RingPhone,convval,convcurr,jQuery,jQuery);
+						}
+					}
+
+
+//					jQuery.getJSON(getScriptFolder() + "lib/send.php?callback=?", { // отправка данных
+//)))))))))))))))))))))))))))))
+//без https не будет работать на сайтах с протоколом https (также у сервера должен быть легальный сертификат ssl)
+					jQuery.getJSON(('https:' == document.location.protocol ? 'https' : 'http') + "://inteprice.com/callhunter/lib/?callback=?", { // отправка данных
+						scriptCharset: "utf-8",
+						contentType: "text/html",
+						tt: IPclhrData["testting"],
+						sh: window.location.hostname,
+						IpAid: IpAid,
+						pt: producttype,
+						ss: 1,
+						is: IPIDS,
+						io: IPIDSonline,
+						fe: IPCHFEmail,
+						cu: IPCHrCU,
+						ls: IPCHrLS,
+						ds: IPCHrDS,
+						im: IPchlIb.isMobile,
+						ip: IPchlIb.isMobilePh,
+						it: IPchlIb['isTouch'],
+						il: intepriceIPL,
+						wo: IPclhrData["timeZone"],
+//						wk: IPchlHid._worktime[0],
+						wk: IPchlHid._worktime[3],
+						wd: IPchlHid._worktime[1],
+						wl: IPchlHid._worktime[2],
+//						wf: IPclhrData["workStart"],
+//						wt: IPclhrData["workEnd"],
+						wf: IPchlHid._worktime[4],
+						wt: IPchlHid._worktime[5],
+						ti: IPclhrData["tmpid"],
+						st: IPclhrData["MMFileType"]?Number(IPclhrData["MMFileType"]):0,
+						tf: IPclhrData["testing"],
+						ods: sodshipSession,
+						sf: smsfolder,
+						ci: getScriptFolder(),
+						cd: window.intepriceCRTdays,
+						ctime: cntime,
+						cs: cs,
+						os: os,
+						cs2: cs2,
+						os2: os2,
+						cs3: cs3,
+						os3: os3,
+						cj: window.intepriceCallHunterIni,
+//PRI!!!!
+						dr: snddr,
+						rf: RingPhone
+					}, function(i) {
+						if(i.message == 'sendResendError') {
+							i.message = IPclhrData["sendResendError"];
+						} else if(i.message == 'sendOkMessage') {
+							i.message = IPclhrData["sendOkMessage"];
+						} else if(i.message == 'sendError') {
+							i.message = IPclhrData["sendError"];
+						}
+//!!!!!!!!
+						clhrMsg(jQuery,form,i.cls, i.message, i.num);
+						if(i.result == "success") {
+
+//PRI!!!!
+//не выключаем охотника и не блокируем на 10 мин отправку любых форм callhunter, если это был запрос прямого звонка
+//иначе человек позвонил (прямой звонок), что-то узнал у менеджера и не может 10 мин сделать заказ, например, покупки в 1 клик, или запросить теперь обратный звонок
+//точнее выключаем охотника, но не блокируем отправку сообщений
+
+							var itime=i.time;
+
+							if(producttype == 5) {
+//побольше минус делаем, что бы не перекрылось ручными установками
+								itime=itime - (365*24*60*60);
+							}
+
+							if((IPclhrData["hunterOn"] != "0") && (IPclhrData["hunterDays"] != "0")) {
+								setCookie("callhunter-sent", itime, IPclhrData["hunterDays"]);
+							} else {
+								setCookie("callhunter-sent", itime, 5);
+							}
+
+
+//							if ((!ajaxflg)&&((producttype == 10)||(producttype == 11))) {
+//							if ((!ajaxflg)&&(producttype == 11))
+//								IPchlEev.alredyformsnd=1;
+//								FSubmit(jQuery,form[0],e);
+//							}
+							if(IPclhrData["alertQuickclose"] == "0") {
+								setTimeout(function() {	clhrHide(jQuery); }, 3000); //это сработает только для popup callhunter
+								setTimeout(function() {	clhrClr(jQuery,form); }, 4000);
+
+//								setTimeout(function() {	clhrHide(jQuery); }, 4000);
+//								setTimeout(function() {	clhrClr(jQuery); }, 5000);
+//не работает в таг менеджере eval в settimeout
+//								dl("clhrHide", 4);
+//								dl("clhrClr", 5);
+							}
+
+//PRI!!!!
+//@@@@@@@@@@@@@@@@@@
+//здесь не успеет выполнится отправка для внешних форм при submit (форсированный клик)
+//однако остальные нужно отсылать только когда реальное сообщение было успешно отправлено, без повторов, поэтому отправляем конверсии здесь
+							if (producttype != 11)
+								sndconv();
+
+
+						}
+					//}).error(function(jqXHR, textStatus, errorThrown) {
+					//fail есть везде, error в старших удалена (эти функции взаимозаменяемы)
+					}).fail(function(jqXHR, textStatus, errorThrown) {
+						// Inspect the values of jqXHR, textStatus, errorThrown here.
+						//alert(jqXHR.responseText);
+						//alert(jQuery.parseJSON(jqXHR.responseText));
+						clhrMsg(jQuery,form,"c_error", "Error 0 : " + errorThrown, "");
+					});
+
+
+//@@@@@@@@@@@@@@@@@@
+//для внешних форм (форсированный клик) надо сразу отправлять, иначе не успеем передать конверсии
+					if (producttype == 11)
+						sndconv();
+
+
+
+//					if ((!ajaxflg)&&((producttype == 10)||(producttype == 11)))
+					if ((!ajaxflg)&&(producttype == 11))
+						setTimeout(function() {	IPchlEev.alredyformsnd=1; FSubmit(jQuery,form[0],e); }, 1000); //увеличить если не будет где-то отправляться наше уведомление, здесь всегда 1 сек (миним. задержка отправки данных форм на сервер клиента)
+					if(IPclhrData["alertQuickclose"] != "0") {
+//!!!!!!!!!
+						clhrMsg(jQuery,form,"c_success", IPclhrData["alertQuickmessage"], "");
+
+						setTimeout(function() {	clhrHide(jQuery); }, 3000); //это сработает только для popup callhunter
+						setTimeout(function() {	clhrClr(jQuery,form); }, 4000);
+//						setTimeout(function() {	clhrHide(jQuery); }, 4000);
+//						setTimeout(function() {	clhrClr(jQuery); }, 5000);
+//не работает в таг менеджере eval в settimeout
+//						dl("clhrHide", 4);
+//						dl("clhrClr", 5);
+					}
+	}
+
