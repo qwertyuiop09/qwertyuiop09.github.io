@@ -534,14 +534,14 @@ alert('tttt')
 						}
 					}
 
-alert(11111111111112)
+//alert(11111111111112)
 
 					if (producttype == 11) {
 						if (ajaxflg) {
-alert(111111111111122222233333333)
+//alert(111111111111122222233333333)
 //отправка аяксом - коллхантер форма отправляется только один раз
 							if (IPchlEev.clhrsnd) {
-alert(1111111111111222222)
+//alert(1122222234)
 								return;
 							} else {
 								IPchlEev.clhrsnd=1;
