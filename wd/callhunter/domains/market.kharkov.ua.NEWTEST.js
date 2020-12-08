@@ -172,14 +172,14 @@ var buttonclassName = formclassName;
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
 //alert('=============')
 //добавляем в заданный элемент дочерний в конец
-
+//
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).append('<button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button>');
 //обворачиваем заданный элемент псевдоформой
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 							formclosest=findFormByClass(formclassName)
 
 //получаем скрытую кнопку псефдоформы (что бы все дальше работало верно, может и не нужно, но на всякий)
-							clickbutton = jQuery(findButtonByClass(buttonclassName));
+//							clickbutton = jQuery(findButtonByClass(buttonclassName));
 
 //console.log(clickbutton)
 
@@ -190,14 +190,14 @@ var buttonclassName = formclassName;
 						} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnFormPseudo"])) {
 
 //добавляем в заданный элемент дочерний в конец
-							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).append('<button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button>');
+//							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).append('<button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button>');
 
 //обворачиваем заданный элемент псевдоформой
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 							formclosest=findFormByClass(formclassName)
 
 //получаем скрытую кнопку псефдоформы (что бы все дальше работало верно, может и не нужно, но на всякий)
-							clickbutton = jQuery(findButtonByClass(buttonclassName));
+//							clickbutton = jQuery(findButtonByClass(buttonclassName));
 
 							pseudoform=1;
 						}
@@ -359,7 +359,7 @@ function findButtonByClass(className) {
 
 						var notvalid=IPchlEev.ExtF(form,clickbutton);
 
-//alert(notvalid)
+alert(notvalid)
 
 						if (notvalid == 1) {
 							var vld = IPclhrData["ExtFormValid"];
