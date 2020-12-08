@@ -174,9 +174,13 @@ var buttonclassName = formclassName;
 alert('=============')
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"><button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button></form>');
 							formclosest=findFormByClass(formclassName)
+
 							evnt = findButtonByClass(buttonclassName)
-alert(evnt.target)
-alert(evnt.target.tagName)
+
+alert(evnt)
+
+//alert(evnt.target)
+//alert(evnt.target.tagName)
 
 
 
