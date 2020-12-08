@@ -194,6 +194,10 @@ alert(str);
 
 alert(formclosest.elements.length);
 
+formclosest=getElementById('purchase-form')
+alert(formclosest.elements.length);
+
+
 return;
 
 
