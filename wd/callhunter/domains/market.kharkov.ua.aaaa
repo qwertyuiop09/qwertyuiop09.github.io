@@ -99,7 +99,7 @@ alert(3)
 								}
 							}
 							if (target.parentNode) {
-alert(4)
+//alert(4)
 								target = target.parentNode;
 							} else {
 								break;
@@ -127,6 +127,7 @@ alert(4)
 
 
 					if (!evnt.target) {
+alert(66666666666)
 						evnt.target = evnt.srcElement;
 					}
 					var formclosest=closestform(evnt.target);
