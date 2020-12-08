@@ -1,4 +1,4 @@
-IPclhrData["ExtFormBtnFCFormPseudo"] = '#purchase-form';
+IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 
 
 				function startfirstclick(e) {
