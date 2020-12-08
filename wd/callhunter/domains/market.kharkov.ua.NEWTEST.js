@@ -4,6 +4,16 @@ IPclhrData["ExtFormBtnFCForm"] = '#purchase-form';
 IPclhrData["testing"] = 'oleg@inteprice.com';
 IPclhrData.SubmitFullBlocked=1;
 
+IPclhrData["ExtFormBtnFCForm"] = '#purchase-form';
+
+
+IPclhrData["ExtFormBtnFCvalidAttr"]='name'
+IPclhrData["ExtFormBtnFCvalidVal"]='telephone'
+
+
+
+
+
 
 			IPchlEev.clhrSend = function(jQuery,clickbutton,evnt,producttype) { // send data
 
