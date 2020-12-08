@@ -165,6 +165,8 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 //если не найдены форма или псевдоформа кнопки, то 
 //если разрешено - ищем первую попавшуюся псевдоформу (без кнопки) и отправляем только нашу форму, без отправки псевдоформы
 
+var formclassName = 
+
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
 //обворачиваем заданный элемент псевдоформой
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="clhr-fcformpseudo" onsubmit="return false;"></form>');
@@ -176,6 +178,7 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 							formclosest=closestform(evnt.target);
 							pseudoform=1;
 						}
+					}
 
 
 
