@@ -285,6 +285,7 @@ alert(notvalid)
 							return false;
 						}
 
+alert('tttt222')
 
 
 //задача - запустить все обработчики onsubmit и проверить было ли прерывание действия по умолчанию (preventDefault или false)
@@ -311,6 +312,8 @@ alert(notvalid)
 //							IPchlEev.forceFormFlg=0;
 							return;
 						}
+
+alert('tttt')
 
 
 					}
