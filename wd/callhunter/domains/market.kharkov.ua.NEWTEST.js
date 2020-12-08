@@ -170,7 +170,7 @@ var formclassName = 'clhr-fcformpseudo' + randomInteger(1,99999999999);
 var buttonclassName = formclassName;
 
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
-alert('=============')
+//alert('=============')
 //добавляем в заданный элемент дочерний в конец
 
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).append('<button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button>');
@@ -181,7 +181,7 @@ alert('=============')
 //получаем скрытую кнопку псефдоформы (что бы все дальше работало верно, может и не нужно, но на всякий)
 							clickbutton = jQuery(findButtonByClass(buttonclassName));
 
-console.log(clickbutton)
+//console.log(clickbutton)
 
 
 
@@ -434,8 +434,8 @@ alert('tttt')
 
 
 
-	IPchlEev.SndFssssss = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
-//	IPchlEev.SndF = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
+//	IPchlEev.SndFssssss = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
+	IPchlEev.SndF = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
 //	this.SndF = function(jQuery,form,e,producttype,ajaxflg) {
 
 /*
