@@ -179,53 +179,23 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 
 
 
+function findFormByClass(className) {
+
 //https://coderoad.ru/3808808/Как-получить-элемент-по-классу-в-JavaScript
 
 //	var descendants=document.getElementsByTagName('form'), i=-1, e, result=[];
 	var descendants=document.getElementsByTagName('form'), i=-1, e, result=null;
 
-
   while (e=descendants[++i]) {
-//делаем проверку та ли это форма
-						var testform = true;
-						testform = form.is(IPclhrData["ExtFormBtnFCFormPseudo"])
-						if(!testform){
-							return 'no';
-						}
-
-
-
+//ищем первую форму с таким классом
 //    ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) && result.push(e);
     ((' '+(e['class']||e.className)+' ').indexOf(' '+className+' ') > -1) && result = e && break;
   }
   return result;
 
+}
 
 
-
-					var fe = form[0].elements;
-
-
-					for(var i = 0; i < fe.length; i++){ 
-						var ftype=null;
-						var csT = '';
-						var osT = '';
-						var that=jQuery(fe[i]);
-//						if(jQuery(that).is('[type=text], textarea, [type=email], [type=tel]')) { // текстовые поля и textarea и добавлены email tel
-						if(jQuery(that).is('[type=text], textarea, [type=email], [type=tel], [type=url]')) { // текстовые поля и textarea и добавлены email tel url
-							ftype=0;
-							csT = jQuery(that).attr("name");
-							osT = jQuery(that).val();
-						} else if(jQuery(that).is('select')) { // селекты
-							if(!jQuery(that).hasClass("clhr-ct-start") && !jQuery(that).hasClass("clhr-ct-finish")) { // кроме времени
-
-
-
-
-
-
-
-					}
 
 
 
