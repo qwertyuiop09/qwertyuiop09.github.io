@@ -54,6 +54,26 @@ IPclhrData.SubmitFullBlocked=1;
 						evnt.target = evnt.srcElement;
 					}
 					var formclosest=closestform(evnt.target);
+
+
+					if (!formclosest) {
+//нет формы связанной с кнопкой, ищем отдельную форму без этой кнопки (такое может быть для ajax-запросов)
+
+
+						var testform = true;
+						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCForm"])) {
+							testform = form.is(IPclhrData["ExtFormBtnFCForm"])
+						} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnForm"])) {
+							testform = form.is(IPclhrData["ExtFormBtnForm"])
+						}
+						if(!testform){
+							return 'no';
+						}
+
+					}
+
+
+
 					var pseudoform=0;
 					if (!formclosest) {
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
