@@ -178,7 +178,7 @@ alert('=============')
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 							formclosest=findFormByClass(formclassName)
 
-							clickbutton = findButtonByClass(buttonclassName)
+							clickbutton = jQuery(findButtonByClass(buttonclassName));
 
 alert(clickbutton.tagName)
 
@@ -195,7 +195,7 @@ alert(clickbutton.tagName)
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 							formclosest=findFormByClass(formclassName)
 
-							clickbutton = findButtonByClass(buttonclassName)
+							clickbutton = jQuery(findButtonByClass(buttonclassName));
 
 							pseudoform=1;
 						}
