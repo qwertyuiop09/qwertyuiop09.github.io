@@ -1,11 +1,11 @@
 //IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
-IPclhrData["ExtFormBtnFCFormPseudo"] = '#purchase-form';
+IPclhrData["ExtFormBtnFCForm"] = '#purchase-form';
 
 IPclhrData["testing"] = 'oleg@inteprice.com';
 IPclhrData.SubmitFullBlocked=1;
 
 
-			this.clhrSend = function(jQuery,clickbutton,evnt,producttype) { // send data
+			IPchlEev.clhrSend = function(jQuery,clickbutton,evnt,producttype) { // send data
 
 
 					function closestform(elem) {
