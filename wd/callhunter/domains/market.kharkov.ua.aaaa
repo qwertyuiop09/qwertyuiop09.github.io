@@ -84,22 +84,27 @@
 						var target = elem;
 						var formclosest=undefined;
 						while(1) { 
+//alert(1)
 							if ((typeof (target.tagName) == 'string') && (target.tagName.toLowerCase() === 'form') ) {
+alert(2)
 								if (!formclosest) {
 									formclosest=target;
 									break;
 								}
 							} else if (target.form && (typeof (target.form.tagName) == 'string') && (target.form.tagName.toLowerCase() === 'form') ) {
+alert(3)
 								if (!formclosest) {
 									formclosest=target.form;
 									break;
 								}
 							}
 							if (target.parentNode) {
+alert(4)
 								target = target.parentNode;
 							} else {
 								break;
 							}
+//alert(2)
 							continue;
 						}
 						return formclosest;
