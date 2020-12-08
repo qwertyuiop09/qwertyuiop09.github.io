@@ -176,6 +176,35 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 							formclosest=closestform(evnt.target);
 							pseudoform=1;
 						}
+
+
+
+
+
+
+
+					var fe = form[0].elements;
+
+
+					for(var i = 0; i < fe.length; i++){ 
+						var ftype=null;
+						var csT = '';
+						var osT = '';
+						var that=jQuery(fe[i]);
+//						if(jQuery(that).is('[type=text], textarea, [type=email], [type=tel]')) { // текстовые поля и textarea и добавлены email tel
+						if(jQuery(that).is('[type=text], textarea, [type=email], [type=tel], [type=url]')) { // текстовые поля и textarea и добавлены email tel url
+							ftype=0;
+							csT = jQuery(that).attr("name");
+							osT = jQuery(that).val();
+						} else if(jQuery(that).is('select')) { // селекты
+							if(!jQuery(that).hasClass("clhr-ct-start") && !jQuery(that).hasClass("clhr-ct-finish")) { // кроме времени
+
+
+
+
+
+
+
 					}
 
 
