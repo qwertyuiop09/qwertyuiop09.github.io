@@ -182,10 +182,10 @@ alert('=============')
 
 							evnt = findButtonByClass(buttonclassName)
 
-alert(evnt)
+alert(evnt.tagName)
 
-alert(evnt.target)
-alert(evnt.target.tagName)
+//alert(evnt.target)
+//alert(evnt.target.tagName)
 
 
 
