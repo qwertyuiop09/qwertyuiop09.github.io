@@ -83,6 +83,10 @@
 //находим ближайшую форму, даже с учетом невалидного кода
 						var target = elem;
 						var formclosest=undefined;
+alert(target.tagName)
+
+alert(target.form)
+
 						while(1) { 
 //alert(1)
 							if ((typeof (target.tagName) == 'string') && (target.tagName.toLowerCase() === 'form') ) {
