@@ -83,9 +83,9 @@
 //находим ближайшую форму, даже с учетом невалидного кода
 						var target = elem;
 						var formclosest=undefined;
-alert(target.tagName)
+//alert(target.tagName)
 
-alert(target.form)
+//alert(target.form)
 
 						while(1) { 
 //alert(1)
