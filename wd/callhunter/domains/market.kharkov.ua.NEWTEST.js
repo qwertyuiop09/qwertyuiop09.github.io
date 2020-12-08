@@ -534,6 +534,7 @@ alert('tttt')
 						}
 					}
 
+alert(11111111111112)
 
 					if (producttype == 11) {
 						if (ajaxflg) {
