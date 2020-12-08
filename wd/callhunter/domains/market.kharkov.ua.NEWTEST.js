@@ -1287,7 +1287,7 @@ alert('FSubmit2')
 //проверка выполнена, новый браузер html5, все поля валидные, можно отсылать submit и форму коллхантера
 						if (fe[i].validity.valid !== true) {
 //проверка выполнена, новый браузер html5, есть невалидные поля, нельзя отсылать форму коллхантера и submit
-alert('set IPchlEev.notvalid')
+//alert('set IPchlEev.notvalid')
 							IPchlEev.notvalid=1;
 							break;
 						}
@@ -1424,6 +1424,7 @@ alert('set IPchlEev.notvalid')
 							if(window.jqIPAcode(that).is("[type=checkbox]")) {
 								if(!window.jqIPAcode(that).is(':checked')) {
 //упрощенная проверка выполнена на старом браузере, нельзя отсылать каллхантер форму, но submit пропускаем дальше
+alert('set1 IPchlEev.clhrsnd')
 									IPchlEev.clhrsnd=1;
 //этот флаг тоже ставим, что бы не было задержки отправки submit
 									IPchlEev.alredyformsnd=1;
@@ -1440,6 +1441,7 @@ alert('set IPchlEev.notvalid')
 								var d = new RegExp("^\\s*$");
 								if (d.test(value)) {
 //упрощенная проверка выполнена на старом браузере, нельзя отсылать каллхантер форму, но submit пропускаем дальше
+alert('set2 IPchlEev.clhrsnd')
 									IPchlEev.clhrsnd=1;
 //этот флаг тоже ставим, что бы не было задержки отправки submit
 									IPchlEev.alredyformsnd=1;
@@ -1452,6 +1454,7 @@ alert('set IPchlEev.notvalid')
 			for (var key in radiob) {
 				if (!radiob[key]) {
 //упрощенная проверка выполнена на старом браузере, нельзя отсылать каллхантер форму, но submit пропускаем дальше
+alert('set3 IPchlEev.clhrsnd')
 					IPchlEev.clhrsnd=1;
 //этот флаг тоже ставим, что бы не было задержки отправки submit
 					IPchlEev.alredyformsnd=1;
@@ -1463,6 +1466,7 @@ alert('set IPchlEev.notvalid')
 			if (formempty||notfill) {
 //не отправляем для пустых форм аналогично проверке для старых браузеров
 //не отправляем для незаполненных обязательных полей в режиме самостоятельной валидации ExtFormBtnFCvalidAttr
+alert('set4 IPchlEev.clhrsnd')
 				IPchlEev.clhrsnd=1;
 				IPchlEev.alredyformsnd=1;
 			}
@@ -1500,6 +1504,7 @@ alert('set IPchlEev.notvalid')
 //блокируем отправку submit
 						IPchlEev.nosubmit = 1;
 //нельзя отсылать каллхантер форму (если успели вовремя этот флаг выставить и вообще форма должна быть отправлена)
+alert('set5 IPchlEev.clhrsnd')
 						IPchlEev.clhrsnd=1;
 //этот флаг тоже сбрасываем, если есть, что бы была задержка отправки submit
 						IPchlEev.alredyformsnd=0;
@@ -1514,6 +1519,7 @@ alert('set IPchlEev.notvalid')
 //блокируем отправку submit
 						IPchlEev.nosubmit = 1;
 //нельзя отсылать каллхантер форму (если успели вовремя этот флаг выставить и вообще форма должна быть отправлена)
+alert('set6 IPchlEev.clhrsnd')
 						IPchlEev.clhrsnd=1;
 //этот флаг тоже сбрасываем, если есть, что бы была задержка отправки submit
 						IPchlEev.alredyformsnd=0;
@@ -1527,6 +1533,7 @@ alert('set IPchlEev.notvalid')
 //блокируем отправку submit
 						IPchlEev.nosubmit = 1;
 //нельзя отсылать каллхантер форму (если успели вовремя этот флаг выставить и вообще форма должна быть отправлена)
+alert('set7 IPchlEev.clhrsnd')
 						IPchlEev.clhrsnd=1;
 //этот флаг тоже сбрасываем, если есть, что бы была задержка отправки submit
 						IPchlEev.alredyformsnd=0;
