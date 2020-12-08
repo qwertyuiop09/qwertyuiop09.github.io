@@ -1327,6 +1327,7 @@ alert("t1")
 //то есть jQuery.find ничего не найдет на невалидном html <table><form>.....</form></table>
 			var formempty=1;
 			var fe = form[0].elements;
+alert(fe.length)
 			var radiob={};
 
 			
