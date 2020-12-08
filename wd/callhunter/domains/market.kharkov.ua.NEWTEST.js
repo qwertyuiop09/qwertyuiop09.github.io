@@ -1104,12 +1104,13 @@ alert(1111111111111)
 
 	IPchlIb.FSubmit = function(jQuery,form,button) {
 
-alert(23452)
+alert(234520000)
 		if (IPchlEev.nosubmit)
 			return;
 
 		if (IPclhrData["NativeSubmitBlocked"] || IPclhrData["SubmitFullBlocked"])
 			return;
+alert(2345200001)
 
 
 //известная проблема - не передается submit кнопка в запросе, который генерируется функцией submit() - добавляем скрытое поле для "нативных" отправок формы
