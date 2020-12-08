@@ -172,27 +172,34 @@ var buttonclassName = formclassName;
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
 //обворачиваем заданный элемент псевдоформой
 alert('=============')
+
+							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).append('<button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button>');
+
+
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 //							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"><button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button></form>');
 							formclosest=findFormByClass(formclassName)
 
-//							evnt = findButtonByClass(buttonclassName)
+							evnt = findButtonByClass(buttonclassName)
 
 alert(evnt)
 
-//alert(evnt.target)
-//alert(evnt.target.tagName)
+alert(evnt.target)
+alert(evnt.target.tagName)
 
 
 
 							pseudoform=1;
 						} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnFormPseudo"])) {
+
+							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).append('<button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button>');
+
 //обворачиваем заданный элемент псевдоформой
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 //							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"><button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button></form>');
 							formclosest=findFormByClass(formclassName)
 
-//							evnt = findButtonByClass(buttonclassName)
+							evnt = findButtonByClass(buttonclassName)
 
 							pseudoform=1;
 						}
