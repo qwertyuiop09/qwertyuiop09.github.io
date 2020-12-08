@@ -298,6 +298,7 @@ alert('tttt222')
 alert('tttt1111')
 							IPchlEev.SBMFormFlg=1;
 							if (IPchlEev.aj) {
+alert('tttt11113333')
 //PRI!!!!
 								IPchlEev.SndF(PRIIDS,PRIMMFolder,jQuery,form,clickbutton,producttype,IPchlEev.aj);
 //								IPchlEev.SndF(PRIMMFolder,jQuery,form,clickbutton,producttype,IPchlEev.aj);
