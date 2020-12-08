@@ -165,7 +165,7 @@ IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 //если не найдены форма или псевдоформа кнопки, то 
 //если разрешено - ищем первую попавшуюся псевдоформу (без кнопки) и отправляем только нашу форму, без отправки псевдоформы
 
-var formclassName = 
+var formclassName = randomInteger(1,99999999999);
 
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
 //обворачиваем заданный элемент псевдоформой
@@ -181,6 +181,12 @@ var formclassName =
 					}
 
 
+
+function randomInteger(min, max) {
+  // случайное число от min до (max+1)
+  let rand = min + Math.random() * (max + 1 - min);
+  return Math.floor(rand);
+}
 
 function findFormByClass(className) {
 
