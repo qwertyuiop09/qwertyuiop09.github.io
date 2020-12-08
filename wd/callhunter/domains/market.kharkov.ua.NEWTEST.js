@@ -438,6 +438,9 @@ alert('tttt')
 	IPchlEev.SndF = function(PRIIDS,PRIMMFolder,jQuery,form,e,producttype,ajaxflg) {
 //	this.SndF = function(jQuery,form,e,producttype,ajaxflg) {
 
+
+alert(IPchlEev.clhrsnd)
+
 //alert(12113143)
 
 /*
