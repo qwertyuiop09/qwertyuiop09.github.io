@@ -188,7 +188,9 @@ alert('=============')
 //console.log(clickbutton)
 
 var str=jQuery(formclosest).clone().wrap('<p>').parent().html();
+console.log(str);
 alert(str);
+
 
 alert(formclosest.elements.length);
 
