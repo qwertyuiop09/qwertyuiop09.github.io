@@ -59,6 +59,12 @@ IPclhrData.SubmitFullBlocked=1;
 					if (!formclosest) {
 //нет формы связанной с кнопкой, ищем отдельную форму без этой кнопки (такое может быть для ajax-запросов)
 
+						var df = document.forms;
+						for(var i = 0; i < fe.length; i++){
+						}
+
+
+
 
 						var testform = true;
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCForm"])) {
