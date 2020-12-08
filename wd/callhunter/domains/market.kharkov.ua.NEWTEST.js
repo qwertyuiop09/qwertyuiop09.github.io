@@ -174,7 +174,7 @@ var formclassName = 'clhr-fcformpseudo' + randomInteger(1,99999999999);
 var buttonclassName = formclassName;
 
 						if((producttype == 11)&&(IPclhrData["ExtFormBtnFCFormPseudo"])) {
-//alert('=============')
+alert('=============')
 //добавляем в заданный элемент дочерний в конец
 //
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).append('<button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button>');
@@ -186,6 +186,9 @@ var buttonclassName = formclassName;
 //							clickbutton = jQuery(findButtonByClass(buttonclassName));
 
 //console.log(clickbutton)
+
+
+alert(formclosest.elements.length)
 
 
 
@@ -273,8 +276,8 @@ alert('-------------')
 
 					var form = jQuery(formclosest);
 
-alert(formclosest.elements.length)
-alert(form[0].elements.length)
+//alert(formclosest.elements.length)
+//alert(form[0].elements.length)
 
 
 
