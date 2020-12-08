@@ -173,6 +173,10 @@ var formclassName = 'clhr-fcformpseudo' + randomInteger(1,99999999999);
 alert('=============')
 							jQuery(IPclhrData["ExtFormBtnFCFormPseudo"]).wrap('<form class="' + formclassName + '" onsubmit="return false;"></form>');
 							formclosest=findFormByClass(formclassName)
+
+'<button class="' + buttonclassName + '" type="submit" hidden="" value="' + buttonclassName + '">' + buttonclassName + '</button>'
+
+
 							pseudoform=1;
 						} else if ((producttype == 10)&&(IPclhrData["ExtFormBtnFormPseudo"])) {
 //обворачиваем заданный элемент псевдоформой
