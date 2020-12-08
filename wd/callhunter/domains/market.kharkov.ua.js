@@ -167,7 +167,8 @@ var IPchatConfig = {
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 		//"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ExtFormBtnFC": '#popup-checkout-button',
-		"ExtFormBtnFCForm": "#purchase-form",
+//		"ExtFormBtnFCForm": "#purchase-form",
+		"ExtFormBtnFCFormPseudo": "#popup-purchase-wrapper",
 
 
 
