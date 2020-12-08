@@ -1318,6 +1318,8 @@ alert('FSubmit2')
 
 //		if (IPchlEev.notvalid == 0) {
 		if (IPchlEev.notvalid < 1) {
+alert("t1")
+
 //Для старых браузеров небольшая проверка валидности (точнее заполненности некоторых полей или на предмет всех пустых полей)
 //а так же для новых, если ппытаются отправить пустую форму
 //это чтобы не отсылать нашу форму коллхантера на пустых требуемых полях или на пустых формах
@@ -1347,6 +1349,7 @@ alert('FSubmit2')
 
 
 			for(var i = 0; i < fe.length; i++){
+alert("t3")
 				var that=window.jqIPAcode(fe[i]);
 				if(window.jqIPAcode(that).is('input:not([type=hidden], [type=submit], [type=button], [type=image], [type=reset]), textarea')) {
 
