@@ -265,7 +265,7 @@ function findButtonByClass(className) {
 						return 'no';
 					}
 
-alert('-------------')
+//alert('-------------')
 
 					var form = jQuery(formclosest);
 
@@ -359,7 +359,7 @@ alert('-------------')
 
 						var notvalid=IPchlEev.ExtF(form,clickbutton);
 
-alert(notvalid)
+//alert(notvalid)
 
 						if (notvalid == 1) {
 							var vld = IPclhrData["ExtFormValid"];
@@ -505,7 +505,7 @@ alert('tttt')
 					}
 
 
-
+alert(1111111111111)
 					var clhrClr = IPchlIb['clhrClr'];
 
 					var clhrHide = IPchlHid['clhrHide'];
