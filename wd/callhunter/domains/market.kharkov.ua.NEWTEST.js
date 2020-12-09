@@ -1,13 +1,18 @@
 //IPclhrData["ExtFormBtnFCFormPseudo"] = '#popup-purchase-wrapper';
 IPclhrData["ExtFormBtnFCForm"] = '#purchase-form';
 
+
+//		"ExtFormBtnFC": '#popup-checkout-button',
+//		"ExtFormBtnFCForm": "#purchase-form",
+
+
 IPclhrData["testing"] = 'oleg@inteprice.com';
 //IPclhrData.SubmitFullBlocked=1;
 IPclhrData.NativeAjaxBlocked=1;
 
 
 
-IPclhrData["ExtFormBtnFCForm"] = '#purchase-form';
+//IPclhrData["ExtFormBtnFCForm"] = '#purchase-form';
 
 
 IPclhrData["ExtFormBtnFCvalidAttr"]='name'

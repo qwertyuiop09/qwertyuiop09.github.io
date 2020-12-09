@@ -162,7 +162,7 @@ var IPchatConfig = {
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
 		//"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 //не работает на этом сайте (так как кнопка не привязана к форме, ajax-запросы)
-//		"ExtFormBtnFC": '#popup-checkout-button',
+		"ExtFormBtnFC": '#popup-checkout-button',
 //		"ExtFormBtnFCForm": "#purchase-form",
 
 
