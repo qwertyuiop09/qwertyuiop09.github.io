@@ -2,7 +2,10 @@
 IPclhrData["ExtFormBtnFCForm"] = '#purchase-form';
 
 IPclhrData["testing"] = 'oleg@inteprice.com';
-IPclhrData.SubmitFullBlocked=1;
+//IPclhrData.SubmitFullBlocked=1;
+IPclhrData.NativeAjaxBlocked=1;
+
+
 
 IPclhrData["ExtFormBtnFCForm"] = '#purchase-form';
 
