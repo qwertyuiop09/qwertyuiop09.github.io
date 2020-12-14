@@ -87,8 +87,8 @@ https://primapak.com.ua/catalog/polietilenovye_vkladyshi/polietilenovye_vkladysh
 https://primapak.com.ua/catalog/polietilenovye_vkladyshi/polietilenovye_vkladyshi_v_meshki/2332/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_mayka_bez_risunka/626/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_mayka_bez_risunka/635/	SINGLE_PRODUCT
-https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2099/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2116/	SINGLE_PRODUCT
+https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2099/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2095/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2108/	SINGLE_PRODUCT
 https://primapak.com.ua/catalog/pakety_s_petlevoy_ruchkoy/2098/	SINGLE_PRODUCT
