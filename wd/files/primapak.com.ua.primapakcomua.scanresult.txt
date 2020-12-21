@@ -1,6 +1,6 @@
 https://primapak.com.ua/catalog/
 Scanned step: 1
-Request to scanned 0 URLS
+Request to scanned 161 URLS
 Scanned 161 URLS
 
 For GASearch id0 don't forget! add Campaigns Extensions: Пакеты Оптом под Заказ. Печать на Пакетах. Фирменные Пакеты. Пакеты с Логотипом. Бесплатная Консультация. Различные Варианты Оплаты.
@@ -43,6 +43,6 @@ No html page errors: 0
 Responce errors (404): 1
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 0.37
+Last execute time: 6.68
 
 Current Scan Status: ended.
