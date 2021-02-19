@@ -1,10 +1,10 @@
 https://kiaparts.com.ua/product/search_detal/page/1/pnum/200/sort/code/t_sort/asc
-Scanned step: 5
+Scanned step: 6
 EXECUTE WARNINGS: Exit Service invoked too many times for one day: urlfetch.
 
 
 Request to scanned 5665 URLS
-Scanned 5605 URLS
+Scanned 5606 URLS
 
 For GASearch id3 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
@@ -13,24 +13,24 @@ Add / Modify urls in GASearch id3 0 URLS
 All urls in GASearch id3 324 URLS
 All urls in feed id3 328 URLS
 Found parsed item urls for id3 328 URLS
-Not found parsed item urls for id3 5249 URLS (see in log details)
+Not found parsed item urls for id3 5250 URLS (see in log details)
 
 For GASearch id4 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id4 1 Num
 Add / Modify urls in GASearch id4 0 URLS
-All urls in GASearch id4 853 URLS
-All urls in feed id4 878 URLS
-Found parsed item urls for id4 878 URLS
+All urls in GASearch id4 854 URLS
+All urls in feed id4 879 URLS
+Found parsed item urls for id4 879 URLS
 Not found parsed item urls for id4 4699 URLS (see in log details)
 
 For GASearch id5 don't forget! add Campaigns Extensions: Самые Низкие Цены. Широкий Ассортимент. Всегда в Наличии. Запрос по VIN. Помощь в подборе. Доставка в День Заказа. 12 Лет на Рынке. Гарантия Качества.
 
 Campaigns in GASearch id5 1 Num
 Add / Modify urls in GASearch id5 0 URLS
-All urls in GASearch id5 1139 URLS
-All urls in feed id5 1183 URLS
-Found parsed item urls for id5 1183 URLS
+All urls in GASearch id5 1140 URLS
+All urls in feed id5 1184 URLS
+Found parsed item urls for id5 1184 URLS
 Not found parsed item urls for id5 4394 URLS (see in log details)
 
 Unknown errors: 0
@@ -39,7 +39,7 @@ No html page errors: 0
 Responce errors: 0
 Abnormal exits: no
 Add dublicates urls: 0
-Last execute time: 1
+Last execute time: 0.77
 
 Current Scan Status: continue.
 
