@@ -123,8 +123,7 @@ var IPchatConfig = {
 
 
 
-
-
+/*
 
 		"title": "Получить консультацию",
 		"titlenight": "Мы свяжемся с Вами в рабочее время",
@@ -137,7 +136,7 @@ var IPchatConfig = {
 		"callTime": "0",
 		"emptyPhone": "+380",
 
-
+*/
 
 
 
