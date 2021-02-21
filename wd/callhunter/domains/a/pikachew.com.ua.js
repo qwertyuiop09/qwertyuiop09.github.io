@@ -366,7 +366,7 @@ var IPchatConfig = {
 
 
 
-
+//загружаем стандартный конфиг и затем обновляем IPclhrDataUpdate
 	var IPclhrDataUpdate1 = JSON.parse(JSON.stringify(IPclhrDataUpdate));
 	var IPclhrDataUpdate = JSON.parse(JSON.stringify(IPclhrDataUpdatebase));
 
