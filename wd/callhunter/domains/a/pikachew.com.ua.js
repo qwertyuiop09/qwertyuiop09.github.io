@@ -364,7 +364,12 @@ var IPchatConfig = {
 
 
 
-	var IPclhrDataUpdate1 = IPclhrDataUpdate;
+
+
+
+	var IPclhrDataUpdate1 = JSON.parse(JSON.stringify(IPclhrDataUpdate));
+	var IPclhrDataUpdate = JSON.parse(JSON.stringify(IPclhrDataUpdatebase));
+
 
 
 
