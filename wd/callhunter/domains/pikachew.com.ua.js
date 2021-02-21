@@ -191,7 +191,7 @@ var IPchatConfig = {
 	        message: "Здравствуйте! Я с удовольствием приму ваш заказ.",
 	        invite_off_forced: 1,
 	        invite_on_forced: 1,
-	        submit: "Получить консультацию",
+	        submit: "Жду ответ",
 	        submit_forced: 1,
 	        name: 'Консультант',
 	        name_forced: 0,
