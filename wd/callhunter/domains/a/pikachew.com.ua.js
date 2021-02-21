@@ -4,7 +4,6 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 
 //без предоплаты, логин менеджера
-//раскомментировать !!!
 var intepriceIPL = 'pikachew.inteprice.com';
 var intepriceCRT = '21.02.2021';
 
