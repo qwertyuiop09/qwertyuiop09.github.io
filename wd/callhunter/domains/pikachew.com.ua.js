@@ -57,7 +57,9 @@ var IPchatConfig = {
 	"workEnd": "18",
 
 	//рабочие дни недели офиса - возможные значения через запятую: Mon, Tue, Wed, Thu, Fri, Sat, Sun
-	"workDays": "Mon, Tue, Wed, Thu, Fri",
+//	"workDays": "Mon, Tue, Wed, Thu, Fri",
+	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+
 
 	//праздничные дни офиса (DD.MM через запятую). строку holiDays можно удалить или закомментировать
 	"holiDays": "31.12, 01.01, 02.01",
