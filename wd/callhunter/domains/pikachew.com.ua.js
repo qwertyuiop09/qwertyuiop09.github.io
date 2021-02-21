@@ -51,13 +51,11 @@ var IPchatConfig = {
 
 
 
-
+/*
 	"workStart": "11",
 	"workEnd": "23",
 	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
-
-
-//	"fields": "+Введите ваш телефон(+380)*, -Тема звонка(необязательно)",
+*/
 
 
 
