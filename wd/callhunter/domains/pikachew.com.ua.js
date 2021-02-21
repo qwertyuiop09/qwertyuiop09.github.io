@@ -71,18 +71,31 @@ var IPchatConfig = {
 	"title": "Зателефонуйте мені",
 
 	// текст, цвет и размер подзаголовка формы в рабочее время
-	"titleworktime": "Мы перезвоним через 1 мин. 56 сек.",
-//	"titleworktime": "Мы перезвоним через несколько минут",
-	"titleworktimecolor": "#b00000",
+//	"titleworktime": "Мы перезвоним через 1 мин. 56 сек.",
+////	"titleworktime": "Мы перезвоним через несколько минут",
+//	"titleworktimecolor": "#b00000",
+//	"titleworktimesize": "14px",
+
+//	"titleworktime": "Ми зателефонуємо через 4 хв. 56 сек.",
+	"titleworktime": "Ми зателефонуємо через декілька хвилин",
+	"titleworktimecolor": "#e63312",
 	"titleworktimesize": "14px",
 
+
 	// текст, цвет и размер подзаголовка формы в нерабочее время 
-	"titlenight": "Мы перезвоним в рабочее время",
+//	"titlenight": "Мы перезвоним в рабочее время",
+//	"titlenightcolor": "black",
+//	"titlenightsize": "12px",
+
+	"titlenight": "Ми зателефонуємо у робочий час",
 	"titlenightcolor": "black",
 	"titlenightsize": "12px",
 
+
+
 	// надпись на кнопке
-	"button": "Жду звонка!",
+//	"button": "Жду звонка!",
+	"button": "Чекаю на дзвінок!",
 
 	//Поля формы обратной связи
 	"fields": "+Введите ваш телефон(+380)*, -Тема звонка(необязательно)",
