@@ -5,8 +5,8 @@ var SSCHunterCallback=function(type,undefined1,undefined2,undefined3,undefined4,
 
 //без предоплаты, логин менеджера
 //раскомментировать !!!
-//var intepriceIPL = '..............inteprice.com';
-//var intepriceCRT = '--.--.20--';
+var intepriceIPL = 'pikachew.inteprice.com';
+var intepriceCRT = '21.02.2021';
 
 
 var IPchatConfig = {
@@ -44,116 +44,11 @@ var IPchatConfig = {
 
 
 
-/*
-
-
-function setSS_google_tag_params(arrayhash) {
-//установить window.google_tag_params из arrayhash (массива хешей)
-
-//поиск параметров в window.dataLayer
-//например
-//window.dataLayer = window.dataLayer || [];
-//    dataLayer.push({
-//        'event': 'rem',
-//        'ecomm_prodid': "10769",
-//        'ecomm_pagetype': "product",
-//        'ecomm_totalvalue': "130.00"
-//    });
-
-
-	if ({}.toString.call(arrayhash) !== '[object Array]')
-		return;
-
-	var ecomm = arrayhash.map(function (obj) { return obj.hasOwnProperty('ecomm_prodid') || obj.hasOwnProperty('ecomm_pagetype'); }).indexOf(true)
-	var dynx = arrayhash.map(function (obj) { return obj.hasOwnProperty('dynx_itemid') || obj.hasOwnProperty('dynx_pagetype'); }).indexOf(true)
-
-
-
-	if ((ecomm >= 0)||(dynx >= 0)) {
-
-		if ({}.toString.call(window.google_tag_params) !== '[object Object]')
-			window.google_tag_params = {};
-
-		if (ecomm >= 0) {
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_prodid')) {
-				window.google_tag_params['ecomm_prodid'] = arrayhash[ecomm]['ecomm_prodid']
-			} else {
-				delete window.google_tag_params['ecomm_prodid'];
-			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_pagetype')) {
-				window.google_tag_params['ecomm_pagetype'] = arrayhash[ecomm]['ecomm_pagetype']
-			} else {
-				delete window.google_tag_params['ecomm_pagetype'];
-			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_totalvalue')) {
-				window.google_tag_params['ecomm_totalvalue'] = arrayhash[ecomm]['ecomm_totalvalue']
-			} else {
-				delete window.google_tag_params['ecomm_totalvalue'];
-			}
-			if (arrayhash[ecomm].hasOwnProperty('ecomm_category')) {
-				window.google_tag_params['ecomm_category'] = arrayhash[ecomm]['ecomm_category']
-			} else {
-				delete window.google_tag_params['ecomm_category'];
-			}
-		}
-
-		if (dynx >= 0) {
-			if (arrayhash[dynx].hasOwnProperty('dynx_itemid')) {
-				window.google_tag_params['dynx_itemid'] = arrayhash[dynx]['dynx_itemid']
-			} else {
-				delete window.google_tag_params['dynx_itemid'];
-			}
-			if (arrayhash[dynx].hasOwnProperty('dynx_pagetype')) {
-				window.google_tag_params['dynx_pagetype'] = arrayhash[dynx]['dynx_pagetype']
-			} else {
-				delete window.google_tag_params['dynx_pagetype'];
-			}
-			if (arrayhash[dynx].hasOwnProperty('dynx_totalvalue')) {
-				window.google_tag_params['dynx_totalvalue'] = arrayhash[dynx]['dynx_totalvalue']
-			} else {
-				delete window.google_tag_params['dynx_totalvalue'];
-			}
-		}
-
-
-	
-	}
-
-
-}
-
-setSS_google_tag_params(window.dataLayer)
-
-
-*/
-
-
-/*
-
-	if(typeof google_tag_params == 'undefined') {
-//		https://support.google.com/google-ads/answer/6335506?hl=ru
-//		https://developers.google.com/adwords-remarketing-tag/parameters?hl=ru
-//		https://www.ru.advertisercommunity.com/t5/Prodvinutye-funktsii-Google-Ads/Nastroyka-dinamicheskogo-remarketinga-AdWords-cherez-TagManager/td-p/143077#
-//		https://webpromoexperts.com.ua/blog/dinamicheskij-remarketing/
-//		https://sotnik.biz.ua/articles/dinamicheskiy_remarketing_nastroyka_raznymi_sposobami/
-		var google_tag_params = {
-			ecomm_prodid: 'REPLACE_WITH_VALUE',
-			ecomm_pagetype: 'REPLACE_WITH_VALUE',
-			ecomm_totalvalue: 'REPLACE_WITH_VALUE',
-		};
-	}
-*/
 
 
 	var IPclhrDataUpdate = {
 
-		//убрать !!!
-		"hunterOn": "0",
-		"showButton": 	"0",
-		"consultantOn": "0",
-
-		//раскомментировать !!!
-		//"consultantOn": "4",
+		"consultantOn": "4",
 
 
 
@@ -225,47 +120,6 @@ setSS_google_tag_params(window.dataLayer)
 
 
 
-/*
-
-//для чатов
-//пример для JivoChat (но можно не использовать конкретно для JivoChat, так как если отсутсвует SetChatWidget, то в скрипте по молчанию используются настройки для JivoChat)
-//"SetChatWidget": {button: "#jcont_content_wrapper .sendButton_1o, #jcont_content_wrapper jdiv.button_Jn, #jcont_content_wrapper .buttonIcon_1R, #jcont_content_wrapper jdiv.button_3r", phoneField:'#jcont_content_wrapper .inputField_2G, #jcont_content_wrapper input.phoneInput_3Q, #jcont_content_wrapper input.inputWrap_2D, #jcont_content_wrapper .inputField_G5', phoneRegExp:'([^\\s\\d]{2,})|(\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d\\s?\\d)' },
-
-
-		"AdwConvChatWidget": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "QGInCO-k9nsQpbqOzgM",
-		google_remarketing_only: false
-			},
-
-
-
-
-		"SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-
-//для виджетов обратного звонка
-//пример для binotel.ua "SetCallWidget": {button: "#bingc-passive-phone-form-button, #bingc-active-phone-form-button", phoneField:'#bingc-passive-get-phone-form-input, #bingc-active-get-phone-form-input', phoneRegExp:10, phoneFound:'#bingc-passive-content .bingc-we-will-call-you-later, #bingc-passive-content .bingc-we-already-call-you' },
-//в других, ниже, еще не настроено отслеживание соединения звонка phoneFound (если их использовать, то лучше настроить phoneFound, иначе могут быть пропуски конверсий)
-//пример для fastcallagent.com.ua "SetCallWidget": {button: "#fca_call_button", phoneField:'#fca_phone' },
-//пример для venyoo.ru "SetCallWidget": {button: '#leadia_widget_callform_sendrequest, #sendLeadBtn', phoneField:'input.leadia_widget_order_control[data-form-field=callform_phone], input.leadia_msg_form_input[data-form-field=phone], input.leadia_msg_form_input[data-form-field=email]', phoneRegExp:'^([0-9]+)|([^\s]+\@[^\s]+\.[^\s]+)$'},
-//пример для livetex.ru "SetCallWidget": {button: "div.lt-widget-wrap button.lt-bttn", phoneField:'div.lt-widget-wrap input.lt-i-label__input', phoneRegExp:'([0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9][\\s]*[0-9])|([^\\s]+\@[^\\s]+\\.[^\\s]+)'},
-
-
-		"AdwConvCallWidget": {
-		google_conversion_id: 969121061,
-		google_conversion_language: "en",
-		google_conversion_format: "3",
-		google_conversion_color: "ffffff",
-		google_conversion_label: "VqrlCP27jXwQpbqOzgM",
-		google_remarketing_only: false
-		},
-
-
-
-*/
 
 
 
@@ -292,7 +146,7 @@ setSS_google_tag_params(window.dataLayer)
 //надо отключать на интернет-магазинах (или делать индивидуальную настройку для них - может быть сложный поиск, который даст поток бесполезных смс),
 //также была проблема с азури - если подключаться к их форме магазина, то глючит страница "спасибо за покупку" - просто вылазит ошибка без перехода на эту страницу
 //а также в нестандартных случаях обработки форм сайтом вроде может конфликтовать с отправкой формы сайтом
-		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
+//		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
 
