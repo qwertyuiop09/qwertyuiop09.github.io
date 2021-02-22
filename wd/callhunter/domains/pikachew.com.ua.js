@@ -46,14 +46,15 @@ var IPchatConfig = {
 
 	var IPclhrDataUpdate = {
 
+		//раскомментировать !!!
+		"consultantOn": "4",
 
+/*
 		//убрать !!!
 		"hunterOn": "0",
 		"showButton": 	"0",
 		"consultantOn": "0",
-
-		//раскомментировать !!!
-		//"consultantOn": "4",
+*/
 
 
 
