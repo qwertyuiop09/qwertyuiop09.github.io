@@ -121,7 +121,7 @@ var IPchatConfig = {
 
 
 
-		"callTime": "0",
+//		"callTime": "0",
 		"emptyPhone": "+380",
 
 
