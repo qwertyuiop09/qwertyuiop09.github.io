@@ -46,15 +46,7 @@ var IPchatConfig = {
 
 	var IPclhrDataUpdate = {
 
-		//раскомментировать !!!
-//		"consultantOn": "4",
-
-
-		//убрать !!!
-		"hunterOn": "0",
-		"showButton": 	"0",
-		"consultantOn": "0",
-//		"ExtFormFCOnly": {RegExp: '<[^>]+Оформить123[ ]+заказ4567890', Flags: 'i'},
+		"consultantOn": "4",
 
 
 
@@ -138,7 +130,7 @@ var IPchatConfig = {
 
 		"MMFileType": "2",
 		"ExtFormFCStop": {RegExp: '<[^>]+(search|subscribe|password)', Flags: 'i'},
-//		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Оформить[ ]+заказ[ ]*"|\'[ ]*Оформить[ ]+заказ[ ]*\')', Flags: 'i'},
+		"ExtFormFCOnly": {RegExp: '<[^>]+("[ ]*Підтвердити[ ]+замовлення[ ]*"|\'[ ]*Підтвердити[ ]+замовлення[ ]*\')', Flags: 'i'},
 		"ExtFormBtnFC": '[type=submit], input[type=image], input[type=button], button:not([type=reset])',
 		"ButtonSensitivity":	"0",
 		"ButtonTransform": 3,
