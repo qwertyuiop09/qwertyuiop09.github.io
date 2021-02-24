@@ -59,10 +59,20 @@ var IPchatConfig = {
 
 
 
+<!-- Event snippet for Hot Activity conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-517403140/oq65CILw4fcBEITk2_YB',
+      'value': 1.0,
+      'currency': 'UAH'
+  });
+</script>
+
+
 /*
 
 		"AdwConvRemark": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 517403140,
 		google_custom_params: window.google_tag_params,
 		//google_custom_params: undefined,
 //		google_user_id = '<unique user id>',
@@ -80,7 +90,7 @@ var IPchatConfig = {
 
 /*
 		"AdwConvHit": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 517403140,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -95,7 +105,7 @@ var IPchatConfig = {
 
 
 		"AdwConvTime": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 517403140,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
@@ -106,7 +116,7 @@ var IPchatConfig = {
 
 
 		"AdwConvCHSnd": {
-		google_conversion_id: 969121061,
+		google_conversion_id: 517403140,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
