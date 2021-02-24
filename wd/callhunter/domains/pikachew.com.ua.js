@@ -72,9 +72,9 @@ var IPchatConfig = {
 
 
 
+//https://www.pikachew.com.ua/checkout/order-received/841/?key=wc_order_Um0YBhYzW2nKU
 		"HitElement": "h4",
 		"HitElementHtml": {RegExp: 'Дякуємо. Ваше замовлення прийнято.', Flags: 'i'},
-
 
 
 
