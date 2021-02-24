@@ -84,7 +84,6 @@ var IPchatConfig = {
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
 		google_conversion_label: "EXQsCOTu23UQpbqOzgM",
-//for one		google_conversion_label: "p561CJXw23UQpbqOzgM",
 		google_remarketing_only: false
 			},
 
@@ -104,12 +103,13 @@ var IPchatConfig = {
 
 
 
+
 		"AdwConvCHSnd": {
 		google_conversion_id: 517403140,
 		google_conversion_language: "en",
 		google_conversion_format: "3",
 		google_conversion_color: "ffffff",
-		google_conversion_label: "hFRGCI7s23UQpbqOzgM",
+		google_conversion_label: "cc3LCMGkzPcBEITk2_YB",
 		google_remarketing_only: false
 			},
 
