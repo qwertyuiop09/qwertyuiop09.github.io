@@ -71,14 +71,14 @@ var IPchatConfig = {
 
 
 
-/*
-		"HitElement": ".sub-title",
-		"HitElementHtml": {RegExp: 'Спасибо за покупку!', Flags: 'i'},
-*/
+
+		"HitElement": "h4",
+		"HitElementHtml": {RegExp: 'Дякуємо. Ваше замовлення прийнято.', Flags: 'i'},
 
 
 
-/*
+
+
 
 
 		"AdwConvHit": {
@@ -118,7 +118,7 @@ var IPchatConfig = {
 
 
 
-*/
+
 
 
 
