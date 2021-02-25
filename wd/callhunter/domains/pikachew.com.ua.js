@@ -57,6 +57,21 @@ var IPchatConfig = {
 	"workDays": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
 */
 
+	// оформление кнопки (green или gray)
+	"ButtonColor":	"green",
+	// размещение кнопки (справа внизу RightBottom, справа вверху RightTop, слева внизу LeftBottom, слева вверху LeftTop)
+	"ButtonPlace":	"RightBottom",
+	// отступ кнопки по горизонтали от края окна
+	"ButtonX":	"140",
+	// отступ кнопки по вертикали от края окна
+	"ButtonY":	"140",
+	// чувствительность кнопки (когда начинает показываться кнопка, скролл от верхнего края)
+	"ButtonSensitivity":	"0",
+	// отступ кнопки на мобильных телефонах по вертикали от нижнего края окна
+	"ButtonYMobile":	"0",
+
+
+
 
 
 
